@@ -1,0 +1,2369 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Banco ITA — Matemática</title>
+<style>
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    max-width: 900px;
+    margin: 2em auto;
+    padding: 0 1.5em;
+    color: #222;
+    line-height: 1.5;
+  }
+  header {
+    border-bottom: 2px solid #333;
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+  }
+  h1 { margin: 0 0 0.3em 0; font-size: 1.8em; }
+  .subtitulo { color: #666; font-size: 0.95em; }
+  h2 {
+    margin-top: 2em;
+    padding: 0.4em 0.6em;
+    background: #f0f0f0;
+    border-left: 5px solid #555;
+    font-size: 1.3em;
+  }
+  h3 {
+    margin-top: 1.5em;
+    color: #555;
+    font-size: 1.1em;
+  }
+  nav.indice {
+    background: #fafafa;
+    border: 1px solid #ddd;
+    padding: 1em 1.5em;
+    margin: 1em 0 2em 0;
+    border-radius: 4px;
+  }
+  nav.indice ul { padding-left: 1.2em; }
+  nav.indice li { margin: 0.2em 0; }
+  article.questao {
+    margin: 1.5em 0 2em 0;
+    padding: 1em;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    page-break-inside: avoid;
+  }
+  article.questao .meta {
+    font-size: 0.85em;
+    color: #888;
+    margin-bottom: 0.5em;
+  }
+  article.questao .meta .tag {
+    display: inline-block;
+    background: #eef;
+    color: #446;
+    padding: 1px 7px;
+    margin-right: 4px;
+    border-radius: 3px;
+    font-size: 0.88em;
+  }
+  img.questao-imagem {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0.5em 0;
+  }
+  .obs {
+    font-style: italic;
+    color: #777;
+    font-size: 0.88em;
+    margin-top: 0.4em;
+  }
+  table.gabarito, table.stats {
+    border-collapse: collapse;
+    margin: 1em 0;
+  }
+  table.gabarito td, table.gabarito th,
+  table.stats td, table.stats th {
+    border: 1px solid #bbb;
+    padding: 6px 12px;
+    text-align: center;
+  }
+  table.gabarito th, table.stats th {
+    background: #eee;
+  }
+  .barra {
+    display: inline-block;
+    height: 14px;
+    background: #6688cc;
+    vertical-align: middle;
+  }
+  @media print {
+    article.questao { border-color: #ccc; }
+    h2 { page-break-before: always; }
+    h2:first-of-type { page-break-before: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Banco ITA — Matemática</h1>
+  <div class="subtitulo">
+    Gerado em 18/04/2026 19:08 · 72 questões ·
+    ITA 2019, ITA 2020, ITA 2021, ITA 2023, ITA 2024, ITA 2025
+  </div>
+</header>
+
+<nav class="indice">
+  <strong>Índice</strong>
+  <ul>
+    
+      <li><a href="#bloco-conjuntos-l-gica-e-fundamentos">Conjuntos, Lógica e Fundamentos</a>
+          (1 questões)</li>
+    
+      <li><a href="#bloco-lgebra-e-fun-es">Álgebra e Funções</a>
+          (6 questões)</li>
+    
+      <li><a href="#bloco-lgebra-linear-e-matrizes">Álgebra Linear e Matrizes</a>
+          (4 questões)</li>
+    
+      <li><a href="#bloco-geometria-plana-e-espacial">Geometria Plana e Espacial</a>
+          (13 questões)</li>
+    
+      <li><a href="#bloco-trigonometria">Trigonometria</a>
+          (1 questões)</li>
+    
+      <li><a href="#bloco-combinat-ria-probabilidade-e-estat-stica">Combinatória, Probabilidade e Estatística</a>
+          (6 questões)</li>
+    
+      <li><a href="#bloco-c-lculo-diferencial-e-integral">Cálculo Diferencial e Integral</a>
+          (1 questões)</li>
+    
+      <li><a href="#bloco-n-meros-complexos">Números Complexos</a>
+          (4 questões)</li>
+    
+    <li><a href="#gabarito">Gabarito</a></li>
+    <li><a href="#estatisticas">Estatísticas de recorrência</a></li>
+  </ul>
+</nav>
+
+
+  <h2 id="bloco-conjuntos-l-gica-e-fundamentos">Conjuntos, Lógica e Fundamentos</h2>
+
+  
+    
+      <h3>1.1 Conjuntos e Lógica</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q37"
+               data-topicos="1.1"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 37
+          
+            <span class="tag">1.1</span>
+          
+        </div>
+        
+          <div>Sejam A, B, C ⊆R tais que C ⊆A. Considere as afirmações:
+I. (A ∩B) ∪C = A ∩(B ∪C).
+II. A ∩B = C ∪(B ∩(R −C)).
+III. A ∩(B −C) = (A ∩B) −C.
+É (São) VERDADEIRA(S):</div>
+          <ol type="A">
+            
+              <li>apenas I e II.</li>
+            
+              <li>apenas I e III.</li>
+            
+              <li>apenas II.</li>
+            
+              <li>apenas III.</li>
+            
+              <li>I, II e III.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">A, B, C ⊆ R com C ⊆ A, afirmações sobre operações de conjuntos (interseção, união) — conjuntos e lógica.</div>
+        
+      </article>
+    
+  
+
+  <h2 id="bloco-lgebra-e-fun-es">Álgebra e Funções</h2>
+
+  
+    
+      <h3>2.3 Funções Transcendentes</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q46"
+               data-topicos="2.3"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 46
+          
+            <span class="tag">2.3</span>
+          
+        </div>
+        
+          <div>Seja f : [−1, 1] →
+h
+−π
+2 , π
+2
+i
+a função definida por f(x) = arcsen(x).
+Então, a soma
+4
+X
+n=0
+f
+
+cos 2π
+3n
+
+é igual a</div>
+          <ol type="A">
+            
+              <li>253 162π.</li>
+            
+              <li>245 162π.</li>
+            
+              <li>−152 81 π.</li>
+            
+              <li>−82 81π.</li>
+            
+              <li>−79 162π. 16</li>
+            
+          </ol>
+        
+        
+          <div class="obs">f(x) = arcsen(x), soma finita de f(cos(2π/3ⁿ)) — funções transcendentes (arcosseno).</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q41"
+               data-topicos="2.3"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 41
+          
+            <span class="tag">2.3</span>
+          
+        </div>
+        
+          <div>Sejam f e g funções reais definidas da seguinte forma:
+f(x) = 32x e g(x) = 3x −2x. Considere as afirmações:
+I. g(x) ≥0, para todo x ∈R.
+II. f(x) ≥g(x), para todo x ∈R.
+III. f(x) + g(x) ≥0, para todo x ∈R.
+É (são) sempre verdadeira(s):</div>
+          <ol type="A">
+            
+              <li>apenas I.</li>
+            
+              <li>apenas II.</li>
+            
+              <li>apenas III.</li>
+            
+              <li>todas.</li>
+            
+              <li>nenhuma.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">f(x) = 3^(2x) e g(x) = 3^x − 2^x, análise de afirmações sobre essas funções exponenciais — funções transcendentes.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q47"
+               data-topicos="2.3,5.1"
+               data-gabarito="A">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 47
+          
+            <span class="tag">2.3</span>
+          
+            <span class="tag">5.1</span>
+          
+        </div>
+        
+          <div>Considere a função real
+f(x) = cos(x) ·
+h
+cos
+x
+3
+
++ 2 sen (x)
+i
+−sen (x) · sen
+x
+3
+
+−2,
+definida no intervalo I =] −4π, 4π[. Sobre a equação f(x) = 0, podemos afirmar que</div>
+          <ol type="A">
+            
+              <li>não admite soluções em I.</li>
+            
+              <li>admite uma única solução em I.</li>
+            
+              <li>admite exatamente duas soluções em I.</li>
+            
+              <li>admite exatamente três soluções em I.</li>
+            
+              <li>admite exatamente quatro soluções em I.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">f(x) = cos(x)[cos(x/3)+2sen(x)]−sen(x)sen(x/3)−2, simplificação trigonométrica — funções transcendentes/trigonometria.</div>
+        
+      </article>
+    
+  
+    
+      <h3>2.4 Equações e Sistemas</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q38"
+               data-topicos="2.4,7.1"
+               data-gabarito="A">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 38
+          
+            <span class="tag">2.4</span>
+          
+            <span class="tag">7.1</span>
+          
+        </div>
+        
+          <div>Seja p(x) = x3 + ax2 + bx um polinômio cujas raízes são não negativas e estão em progressão
+aritmética. Sabendo que a soma de seus coeficientes é igual a 10, podemos afirmar que a soma das raízes de
+p(x) é igual a</div>
+          <ol type="A">
+            
+              <li>9.</li>
+            
+              <li>8.</li>
+            
+              <li>3.</li>
+            
+              <li>9 2.</li>
+            
+              <li>10.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Polinômio cúbico com raízes em PA, soma e produto de raízes — equações algébricas e progressão aritmética.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q48"
+               data-topicos="2.4"
+               data-gabarito="E">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 48
+          
+            <span class="tag">2.4</span>
+          
+        </div>
+        
+          <div>Considere as seguites afirmações:
+I. se x1, x2 e x3 são as raízes da equação x3 −2x2 + x + 2 = 0, então y1 = x2x3, y2 = x1x3 e y3 = x1x2
+são as raízes da equação y3 −y2 −4y −4 = 0.
+II. a soma dos cubos de três números inteiros consecutivos é divisível por 9.
+III.
+r
+3 +
+√
+5
+2
+= 1 +
+√
+5
+2
+.
+É(são) VERDADEIRA(S)</div>
+          <ol type="A">
+            
+              <li>apenas I.</li>
+            
+              <li>apenas II.</li>
+            
+              <li>apenas III.</li>
+            
+              <li>apenas II e III.</li>
+            
+              <li>todas. 17 18 QUÍMICA Constantes Constante de Avogadro (NA) = 6,02 x 1023 mol−1 Constante de Faraday (F) = 9,65 x 104 C mol−1 = 9,65 x 104 A s mol−1 = 9,65 x 104 J V−1 mol−1 Volume molar de gás ideal = 22,4 L (CNTP) Carga elementar = 1,60 x 10−19 C Constante dos gases (R) = 8,21 x 10−2 atm L K−1 mol−1 = 8,31 J K−1 mol−1 = 1,98 cal K−1 mol−1 Constante gravitacional (g) = 9,81 m s−2 Constante de Planck (h) = 6,63 x 10−34 m2 kg s−1 Velocidade da luz no vácuo = 3,0 x 108 m s−1 Número de Euler (e) = 2,72 Definições Pressão: 1 atm = 760 mmHg = 1,01325 x 105 N m−2 = 760 Torr = 1,01325 bar Energia: 1 J = 1 N m = 1 kg m2 s−2 = 6,24 x 1018 eV Condições normais de temperatura e pressão (CNTP): 0° C e 760 mmHg Condições ambientes: 25° C e 1 atm Condições padrão: 1 bar; concentração das soluções = 1 mol L−1 (rigorosamente: atividade unitária das espécies); sólido com estrutura cristalina mais estável nas condições de pressão e temperatura em questão. (s) = sólido. (ℓ) = líquido. (g) = gás. (aq) = aquoso. (conc) = concentrado. (ua) = unidades arbitrárias. u.m.a. = unidade de massa atômica. [X] = concentração da espécie química X em mol L−1 ln X = 2,3 log X Massas Molares Elemento Químico Número Atômico Massa Molar (g mol−1) Elemento Químico Número Atômico Massa Molar (g mol−1) H 1 1,01 Fe 26 55,85 C 6 12,01 Co 27 58,93 N 7 14,01 Ni 28 58,69 O 8 16,00 Cu 29 63,55 F 9 19,00 Zn 30 65,38 S 16 32,06 Br 35 79,90 Questão 49. Sejam feitas estas afirmações a respeito do ponto de ebulição de substâncias à pressão atmosférica: I. O ponto de ebulição do 2-propanol é maior que o da propanona. II. O ponto de ebulição do cis-but-2-eno é maior que o do trans-but-2-eno. III. O ponto de ebulição do fluorometano é maior que o da metilamina. IV. O ponto de ebulição do 2-metilbutano é maior que o do 2,2-dimetilpropano. Das afirmações acima, está(ão) CORRETA(S) A ( ) apenas I, II e IV. C ( ) apenas II e IV. E ( ) todas. B ( ) apenas I e III. D ( ) apenas III. 19 Questão 50. Assinale a opção que apresenta o número total de isômeros estruturais de aminas com fórmula molecular C4H11N. A ( ) 3 C ( ) 7 E ( ) 9 B ( ) 4 D ( ) 8 Questão 51. Retardantes de chama são substâncias que atenuam e/ou inibem o processo de combustão de um material. Considere os seguintes fenômenos: I. Criação de um dissipador de calor usando um composto que se decompõe em um processo altamente exotérmico, gerando produtos voláteis não combustíveis. II. Aumento da transferência de calor na superfície em combustão por eliminação do material fundido. III. Envenenamento da chama pela evolução de espécies químicas que capturam os radicais H e OH que são ativos na propagação da termooxidação da chama. IV. Limitação da transferência de calor e massa pela criação de uma camada de carbonização isolante na superfície do material sólido em combustão. Assinale a opção que apresenta corretamente o(s) fenômeno(s) que pode(m) ser atribuído(s) a ações de retardantes de chama. A ( ) Apenas I e II C ( ) Apenas II, III e IV E ( ) Todos B ( ) Apenas I e IV D ( ) Apenas III Questão 52. Após atravessar um filtro de radiação ultravioleta, o qual não permite passar fótons de comprimento de onda menor que 300 nm, um feixe de luz solar é direcionado para uma amostra de hidrogênio atômico gasoso à baixa pressão, mantido em um recipiente transparente à luz visível e opaco ao infravermelho (com comprimento de onda superior a 663 nm). Após passarem pela amostra, a quantidade de fótons e suas energias são detectadas por sensores posicionados ortogonalmente ao feixe de luz. Assinale a opção que melhor apresenta as energias, em eV, dos fótons que podem ser detectados. A ( ) 0,7; 1,9; 3,3; 10,2 C ( ) 1,0; 1,5; 3,4; 13,6 E ( ) 2,1; 2,4; 3,4; 3,8 B ( ) 0,9; 1,4; 1,9; 3,3 D ( ) 1,9; 2,6; 2,9; 3,0 Questão 53. Considere uma pequena chapa de aço revestido com zinco (aço galvanizado) mergulhada em uma solução azul de sulfato de cobre nas condições padrão e a 25 °C. Após determinado intervalo de tempo, observa-se que a solução fica verde. Com base nessas observações e desconsiderando a presença de espécies interferentes, é ERRADO afirmar que A ( ) o aço foi corroído. B ( ) o íon cobre atuou como agente oxidante preferencialmente ao oxigênio atmosférico. C ( ) o zinco foi parcialmente oxidado. D ( ) o zinco foi oxidado preferencialmente ao ferro. E ( ) a função do zinco no aço galvanizado é oferecer proteção catódica. Questão 54. Um dado indicador ácido-base tem constante de dissociação ácida igual a 3,0 x 10−5. A forma ácida desse indicador tem cor vermelha e sua forma básica tem cor azul. Com base nessas informações, assinale a opção que apresenta o valor aproximado da variação de pH para que ocorra a mudança de cor do indicador de 75% da coloração vermelha para 75% da azul. A ( ) 0,33 C ( ) 1,5 E ( ) 3,0 B ( ) 1,0 D ( ) 2,0 20 Questão 55. Computadores químicos são sistemas desenvolvidos para resolver diversos problemas de ciência e engenharia, por meio de reações químicas. Considere dois exemplos de aplicação desses computadores: I. Desenvolvimento de circuitos de controle molecular e procedimentos terapêuticos inteligentes utilizando um conjunto de velocidades de reações químicas como linguagem de programação para controlar a síntese de DNA. II. Definição das melhores rotas de deslocamento entre dois pontos de um mapa, de forma mais rápida do que qualquer sistema de navegação convencional. O computador utiliza um mapa preenchido com um líquido alcalino. O ponto de partida contém partículas de corante e o ponto de destino contém um gel misturado com ácido. Assinale a opção que apresenta os conceitos/processos que melhor descrevem o princípio de funcionamento dos computadores químicos exemplificados em I e II, respectivamente. A ( ) Primeira lei da termodinâmica e solubilidade B ( ) Mecanismos reacionais e variação da tensão superficial C ( ) Entalpia de formação dos produtos e entalpia de neutralização D ( ) Princípio de Le Chatelier e Lei de Hess E ( ) Energia de ativação e reação de Cannizzaro Questão 56. Considere as configurações eletrônicas do estado fundamental dos átomos X, Y e Z pertencentes ao segundo período da tabela periódica: X: ns2np3 Y: ns2np4 Z: ns2np5 Com base nas estruturas de Lewis, sejam feitas as seguintes afirmações sobre íons e moléculas formados por esses átomos: I. A ordem das energias de ligação das moléculas diatômicas homonucleares é X2 > Y2 > Z2. II. O cátion XY+ tem maior distância interatômica de equilíbrio do que o ânion XY−. III. As moléculas triatômicas YZ2 e Y3 têm geometria angular. IV. As moléculas X2Y2 e Y2Z2 apresentam ligações duplas. Das afirmações acima, estão CORRETAS apenas A ( ) I e III. C ( ) II e III. E ( ) II e IV. B ( ) I e IV. D ( ) II, III e IV. Questão 57. Sabe-se que um determinado nuclídeo, estável ou instável, em seu estado fundamental é designado por X e, em seu estado excitado, por X*. Considere o bombardeamento do átomo estável de cobalto no estado fundamental por um nêutron. O nuclídeo gerado por essa reação sofre três decaimentos radioativos consecutivos, liberando, respectivamente, uma partícula beta e 0,31 MeV de energia, uma partícula gama e 1,17 MeV de energia, e uma partícula gama e 1,33 MeV de energia. Com base nessas informações, assinale a opção que apresenta os nuclídeos formados em cada um dos três decaimentos, respectivamente. A ( ) Co*, Co*, Co C ( ) Co*, Ni*, Ni E ( ) Ni*, Ni*, Ni B ( ) Co*, Co, Ni D ( ) Ni*, Co*, Co Questão 58. A reação de adição nucleofílica de dienos conjugados pode levar à formação de produtos 1,2-substitnídos ou 1,4-substituídos, dependendo das condições de temperatura E É ' e da estrutura do reagente. A figura mostra o diagrama de E N energia em função da coordenada de reação para a adição de Ê o a HBr a 1,3-butadieno. Com base nessa figura, sejam feitas as = “A o produto 12 seguintes afirmações: — produto 1,4 Loo IO produto 1,2 deve se formar mais rapidamente que o Coordenada da reação produto 1,4. H. O produto 1,4 é termodinamicamente mais estável que o produto 1,2. HI. — Independentemente da temperatura da reação, há a formação de um intermediário comum a partir do qual os produtos são formados. IV. Sea temperatura for suficiente para fornecer energia aos reagentes e intermediários para formar os produtos, mas não for suficiente para reverter produtos em intermediários, o produto 1.2 será formado majoritariamente. Das afirmações acima, está(ão) CORRETA(S) A( )apenas le II C( ) apenas IL Ile IV. E ( ) todas. B( )apenas le IV. D( ) apenas II. Questão 59. A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a fórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos e suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas atômicas iguais a 79 e 81 um.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de massas (abundância em função da relação carga /massa) do Bro tem seus três picos mais intensos atribuídos aos diferentes arranjos isotópicos do Br». Baseado nessas informações, a razão entre as intensidades relativas dos picos dos isótopos do Br», em ordem crescente de massa atômica, é aproximadamente A( III. C( 92. E( )123. B( ) ll D( ) 1:22. Questão 60. Uma amostra de gás contém 80% de metano, 10% de etano, 5% de propano e 5% de nitrogênio, em volume. Considerando que todos os átomos de carbono na amostra de gás são convertidos em butadieno com 100% de rendimento, assinale a opção que apresenta a massa de butadieno obtido a partir de 100 g do gás. A( )50g C( )7TOg E( )9g B( )60g D( )80g 21</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Raízes de x³-2x²+x+2=0, construção de novo polinômio a partir de produtos das raízes — equações e relações de Girard.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q42"
+               data-topicos="2.4,7.1"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 42
+          
+            <span class="tag">2.4</span>
+          
+            <span class="tag">7.1</span>
+          
+        </div>
+        
+          <div>O valor de k ∈R de modo que as raízes do polinômio p(x) = x3 +3x2 −6x +k
+estejam em progressão geométrica é:</div>
+          <ol type="A">
+            
+              <li>−18.</li>
+            
+              <li>−16.</li>
+            
+              <li>−8.</li>
+            
+              <li>−2.</li>
+            
+              <li>−1.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Raízes de x³+3x²−6x+k em progressão geométrica — equações e progressões.</div>
+        
+      </article>
+    
+  
+
+  <h2 id="bloco-lgebra-linear-e-matrizes">Álgebra Linear e Matrizes</h2>
+
+  
+    
+      <h3>3.1 Matrizes e Determinantes</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q45"
+               data-topicos="3.1"
+               data-gabarito="A">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 45
+          
+            <span class="tag">3.1</span>
+          
+        </div>
+        
+          <div>Considere as seguintes afirmações a respeito de matrizes A de ordem n × n inversíveis, tais
+que os seus elementos e os de sua inversa sejam todos números inteiros:
+I. | det(A)| = 1.
+II. AT = A−1.
+III. A + A−1 é uma matriz diagonal.
+É(são) sempre VERDADEIRA(S)</div>
+          <ol type="A">
+            
+              <li>apenas I.</li>
+            
+              <li>apenas III.</li>
+            
+              <li>apenas I e II.</li>
+            
+              <li>apenas I e III.</li>
+            
+              <li>todas.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Afirmações sobre matrizes inversíveis de ordem n×n — matrizes e determinantes.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q37"
+               data-topicos="3.1"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 37
+          
+            <span class="tag">3.1</span>
+          
+        </div>
+        
+          <div>Considere A ∈M3(R) tal que existe um único número real x que satisfaz a equação
+det(
+3√
+2x2A) + det(xA3) = det A2. Então, x + det A é</div>
+          <ol type="A">
+            
+              <li>−5.</li>
+            
+              <li>−4.</li>
+            
+              <li>−3.</li>
+            
+              <li>−2.</li>
+            
+              <li>−1.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Matriz A ∈ M₃(R), det(∛(2x²A)) + det(A³) = 0, único x real — matrizes e determinantes.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q38"
+               data-topicos="3.1,3.2"
+               data-gabarito="E">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 38
+          
+            <span class="tag">3.1</span>
+          
+            <span class="tag">3.2</span>
+          
+        </div>
+        
+          <div>Sejam A; B; C; D ∈Mn(R). Considere o sistema linear
+(
+AX = B
+DX + Y = C
+nas variáveis X; Y ∈Mn(R). Considere as afirmações:
+I. Se det A = 0 ou det D = 0, então o sistema é impossível.
+II. Se A = B, então o sistema possui uma única solução.
+III. O sistema possui uma única solução apenas se A e D são inversíveis.
+É (São) VERDADEIRA(S):</div>
+          <ol type="A">
+            
+              <li>apenas I.</li>
+            
+              <li>apenas II.</li>
+            
+              <li>apenas III.</li>
+            
+              <li>apenas II e III.</li>
+            
+              <li>nenhuma. 15</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Sistema linear em blocos de matrizes AX=B, DX+Y=C, solução em termos de inversas — matrizes e sistemas lineares.</div>
+        
+      </article>
+    
+  
+    
+      <h3>3.2 Sistemas Lineares</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q41"
+               data-topicos="3.2"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 41
+          
+            <span class="tag">3.2</span>
+          
+        </div>
+        
+          <div>Assinale a opção que identifica o lugar geométrico de todos os pares ordenados (a, b) ∈R2 que
+tornam impossível o sistema linear
+S :
+
+
+
+−x + 5y = 10
+a2
+5 + 5b2
+
+x + 10aby = 1 .</div>
+          <ol type="A">
+            
+              <li>Uma elipse</li>
+            
+              <li>Uma reta</li>
+            
+              <li>Uma parábola</li>
+            
+              <li>Uma hipérbole</li>
+            
+              <li>Um único ponto 15</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Lugar geométrico dos pares (a,b) que tornam o sistema impossível — sistemas lineares e condição de incompatibilidade.</div>
+        
+      </article>
+    
+  
+
+  <h2 id="bloco-geometria-plana-e-espacial">Geometria Plana e Espacial</h2>
+
+  
+    
+      <h3>4.1 Geometria Plana</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q37"
+               data-topicos="4.1"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 37
+          
+            <span class="tag">4.1</span>
+          
+        </div>
+        
+          <div>Considere um retângulo ABCD em que o comprimento do lado AB é o dobro do comprimento
+do lado BC. Sejam M o ponto médio de BC e N o ponto médio de CM. A tangente do ângulo M ÂN é
+igual a</div>
+          <ol type="A">
+            
+              <li>1 35.</li>
+            
+              <li>2 35.</li>
+            
+              <li>4 35.</li>
+            
+              <li>8 35.</li>
+            
+              <li>16 35.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Retângulo ABCD, ponto médio M de AB, triângulo e relações de segmentos — geometria plana.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q39"
+               data-topicos="4.1"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 39
+          
+            <span class="tag">4.1</span>
+          
+        </div>
+        
+          <div>Considere as afirmações:
+I. Se P é um polígono convexo de n lados iguais, então P é um polígono regular.
+II. Seja P um polígono convexo de 6 lados. Se seus ângulos internos, listados em ordem crescente, formam
+uma progressão aritmética, então a soma do menor e do maior ângulo interno de P é 240◦.
+III. Existe um polígono convexo de 100 lados cujos ângulos internos, listados em ordem crescente, formam
+uma progressão aritmética de razão r = 1◦.
+É (são) sempre verdadeira(s):</div>
+          <ol type="A">
+            
+              <li>apenas I.</li>
+            
+              <li>apenas II.</li>
+            
+              <li>apenas III.</li>
+            
+              <li>apenas II e III.</li>
+            
+              <li>nenhuma.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Polígono convexo de n lados iguais, ângulos internos e diagonais — geometria plana.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q42"
+               data-topicos="4.1,5.1"
+               data-gabarito="D">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 42
+          
+            <span class="tag">4.1</span>
+          
+            <span class="tag">5.1</span>
+          
+        </div>
+        
+          <div>Seja ABC um triângulo retângulo tal que B ÂC = 30◦. Considere D um ponto na hipotenusa
+AC e retas r e s passando por D, paralelas aos lados AB e BC, respectivamente. Se E = r∩BC, F = s∩AB
+e m(BC) = 1, o menor valor possível para m(EF) é</div>
+          <ol type="A">
+            
+              <li>√ 2 5 .</li>
+            
+              <li>√ 2 2 .</li>
+            
+              <li>√ 3 3 .</li>
+            
+              <li>√ 3 2 .</li>
+            
+              <li>√ 3.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Triângulo retângulo com BÂC = 30°, ponto D na hipotenusa, retas perpendiculares — geometria plana e trigonometria.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q45"
+               data-topicos="4.1"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 45
+          
+            <span class="tag">4.1</span>
+          
+        </div>
+        
+          <div>Considere um triângulo ABC e M o ponto médio do lado BC. Tome o ponto
+R ̸= A na reta AB tal que m(AB) = m(BR) e o ponto Q na reta AC tal que m(AC) = 2 m(CQ)
+e Q não esteja no segmento AC. A reta RM corta o lado AC no ponto S e a reta QM corta
+o lado AB no ponto P. Sendo 24 a área do triângulo ABC, o valor da área do quadrilátero
+APMS vale:</div>
+          <ol type="A">
+            
+              <li>15.</li>
+            
+              <li>16.</li>
+            
+              <li>17.</li>
+            
+              <li>18.</li>
+            
+              <li>19.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Triângulo ABC, M ponto médio de BC, ponto R na reta AB, relação de ângulos e medianas — geometria plana.</div>
+        
+      </article>
+    
+  
+    
+      <h3>4.2 Geometria Espacial</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q40"
+               data-topicos="4.2"
+               data-gabarito="D">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 40
+          
+            <span class="tag">4.2</span>
+          
+        </div>
+        
+          <div>A superfície lateral de um cone circular reto corresponde a um setor circular de 216◦, quando
+planificada. Se a geratriz do cone mede 10 cm, então a medida de sua altura, em cm, é igual a</div>
+          <ol type="A">
+            
+              <li>5.</li>
+            
+              <li>6.</li>
+            
+              <li>7.</li>
+            
+              <li>8.</li>
+            
+              <li>9.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Cone circular reto, planificação em setor de 216°, relação entre geratriz e raio da base — geometria espacial.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q47"
+               data-topicos="4.2,7.1"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 47
+          
+            <span class="tag">4.2</span>
+          
+            <span class="tag">7.1</span>
+          
+        </div>
+        
+          <div>Os volumes de um tronco de cone, de uma esfera de raio 5 cm e de um cilindro de altura
+11 cm formam nessa ordem uma progressão aritmética. O tronco de cone é obtido por rotação de um trapézio
+retângulo, de altura 4 cm e bases medindo 5 cm e 9 cm, em torno de uma reta passando pelo lado de menor
+medida. Então, o raio da base do cilindro é, em cm, igual a</div>
+          <ol type="A">
+            
+              <li>2 √ 2.</li>
+            
+              <li>2 √ 3.</li>
+            
+              <li>4.</li>
+            
+              <li>2 √ 5.</li>
+            
+              <li>2 √ 6.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Volumes de tronco de cone, esfera e cilindro em progressão — geometria espacial e progressões.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q46"
+               data-topicos="4.2"
+               data-gabarito="E">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 46
+          
+            <span class="tag">4.2</span>
+          
+        </div>
+        
+          <div>A medida da hipotenusa de um triângulo retângulo é igual a 10 cm. O volume do sólido
+gerado pela rotação deste triângulo em torno de um eixo que contém a hipotenusa é 30π cm3. O perímetro
+desse triângulo é, em cm, igual a</div>
+          <ol type="A">
+            
+              <li>10 + 4 √ 7.</li>
+            
+              <li>10 + 5 √ 7.</li>
+            
+              <li>10 + 2 √ 10.</li>
+            
+              <li>10 + 3 √ 10.</li>
+            
+              <li>10 + 4 √ 10. 16</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Triângulo retângulo com hipotenusa 10, volume do sólido gerado pela rotação — geometria espacial (sólidos de revolução).</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q43"
+               data-topicos="4.2"
+               data-gabarito="E">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 43
+          
+            <span class="tag">4.2</span>
+          
+        </div>
+        
+          <div>Considere um cilindro circular reto tal que a área da sua base A1, a área da
+sua superfície lateral A2 e o seu volume A3 formem, nesta ordem, uma progressão geomé-
+trica crescente. A medida do raio da base pode estar no intervalo:</div>
+          <ol type="A">
+            
+              <li>„ 1; 5 4 « .</li>
+            
+              <li>„5 4; 3 2 « .</li>
+            
+              <li>„3 2; 7 4 « .</li>
+            
+              <li>„7 4; 2 « .</li>
+            
+              <li>„ 2; 5 2 « .</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Cilindro circular reto, relação entre área da base, superfície lateral e total — geometria espacial.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q44"
+               data-topicos="4.2"
+               data-gabarito="D">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 44
+          
+            <span class="tag">4.2</span>
+          
+        </div>
+        
+          <div>Um poliedro convexo tem 24 vértices e 36 arestas. Sabemos que cada vértice
+une 3 faces e que o número de arestas em cada face só pode assumir um entre dois valores
+m ou n. É CORRETO afirmar que:</div>
+          <ol type="A">
+            
+              <li>é possível que m = 3 e n = 4.</li>
+            
+              <li>é possível que m = 3 e n = 5.</li>
+            
+              <li>é possível que m = 3 e n = 7.</li>
+            
+              <li>é possível que m = 3 e n = 8.</li>
+            
+              <li>é possível que m = 4 e n = 5. 16</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Poliedro convexo com 24 vértices e 36 arestas, fórmula de Euler, tipos de faces — geometria espacial.</div>
+        
+      </article>
+    
+  
+    
+      <h3>4.3 Geometria Analítica</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q39"
+               data-topicos="4.3"
+               data-gabarito="A">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 39
+          
+            <span class="tag">4.3</span>
+          
+        </div>
+        
+          <div>Seja γ a circunferência de equação x2 + y2 = 4. Se r e s são duas retas que se interceptam no
+ponto P = (1, 3) e são tangentes a γ, então o cosseno do ângulo entre r e s é igual a</div>
+          <ol type="A">
+            
+              <li>1 5.</li>
+            
+              <li>√ 7 7 .</li>
+            
+              <li>1 2.</li>
+            
+              <li>√ 2 2 .</li>
+            
+              <li>2 √ 6 5 .</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Circunferência x²+y²=4, retas tangentes passando por P=(1,3), condição de tangência — geometria analítica.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q44"
+               data-topicos="4.3"
+               data-gabarito="A">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 44
+          
+            <span class="tag">4.3</span>
+          
+        </div>
+        
+          <div>Considere a hipérbole H de equação x2 −y2
+4 = 1. Seja T um triângulo de vértices P, F1, F2,
+onde F1 e F2 são os focos de H e P um ponto em H. Sabendo que o perímetro de T é 5
+√
+5, o produto da
+medida dos lados de T é</div>
+          <ol type="A">
+            
+              <li>41 √ 5 2 .</li>
+            
+              <li>41 4 .</li>
+            
+              <li>41 √ 5 4 .</li>
+            
+              <li>41 8 .</li>
+            
+              <li>41 √ 5 8 .</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Hipérbole x²−y²/4=1, focos F₁ e F₂, triângulo PF₁F₂ — geometria analítica (cônicas).</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q47"
+               data-topicos="4.3"
+               data-gabarito="A">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 47
+          
+            <span class="tag">4.3</span>
+          
+        </div>
+        
+          <div>Considere o triângulo de vértices A = (0; 0), B = (
+√
+2;
+√
+3) e C =
+„5
+2
+√
+2; 0
+«
+.
+A equação da reta que passa por B e é perpendicular à bissetriz do ângulo A ˆBC é:</div>
+          <ol type="A">
+            
+              <li>y = (5 −2 √ 6)x + 5 √ 3 −5 √ 2.</li>
+            
+              <li>y = (5 + 2 √ 6)x −3 √ 3 −5 √ 2.</li>
+            
+              <li>y = (5 − √ 6)x + 3 √ 3 −5 √ 2.</li>
+            
+              <li>y = −(5 + 2 √ 6)x + 5 √ 3 + 5 √ 2.</li>
+            
+              <li>y = (−5 + 2 √ 6)x −3 √ 3 + 5 √ 2.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Triângulo A=(0,0), B=(√2,√3), C=(5√2/2,0), equação da reta ou circunferência inscrita — geometria analítica.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q48"
+               data-topicos="4.3"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 48
+          
+            <span class="tag">4.3</span>
+          
+        </div>
+        
+          <div>Considere a elipse dada pela equação
+–x2 + (– + 4)y 2 −4–x −(10– + 40)y + 25(– + 4) −–2 = 0;
+e o círculo de equação
+x2 + y 2 −4x −12y + 36 = 0:
+Estando o interior do círculo inteiramente contido no interior da elipse,
+o valor
+de – ∈R −{−4; 0} quando a excentricidade da elipse é máxima é igual a:</div>
+          <ol type="A">
+            
+              <li>3.</li>
+            
+              <li>5.</li>
+            
+              <li>9.</li>
+            
+              <li>13.</li>
+            
+              <li>15. 17 18 QUÍMICA Constantes Constante de Avogadro (NA) = 6,02 × 1023 mol−1 Constante de Faraday (F) = 9,65 × 104 C mol−1 = 9,65 × 104 A s mol−1 = 9,65 × 104 J V−1 mol−1 Carga elementar = 1,60 × 10−19 C Constante dos gases (R) = 8,21 × 10−2 atm L K−1 mol−1 = 8,31 J K−1 mol−1 = 1,98 cal K−1 mol−1 Constante de Planck (h) = 6,63 × 10−34 J s Velocidade da luz no vácuo = 3,0 × 108 m s−1 Número de Euler (e) = 2,72 Definições Pressão: 1 atm = 760 Torr = 1,01325 × 105 N m−2 = 1,01325 bar Energia: 1 J = 1 N m = 1 kg m2 s−2 = 6,24 × 1018 eV Condições normais de temperatura e pressão (CNTP): 0 °C e 1 atm, equivalente a um volume de um gás ideal de 22,4 L. Condições ambientes: 25 °C e 1 atm Condições padrão: 1 bar; concentração das soluções = 1 mol L−1 (rigorosamente: atividade unitária das espécies); sólido com estrutura cristalina mais estável nas condições de pressão e temperatura em questão. (s) = sólido. (ℓ) = líquido. (g) = gasoso. (aq) = aquoso. (conc) = concentrado. (ua) = unidades arbitrárias. u.m.a. = unidade de massa atômica. [X] = concentração da espécie X em mol L−1. ln X = 2,3 log X; √2 = 1,41; √3 = 1,73. EPH = eletrodo padrão de hidrogênio Massas Molares Elemento Químico Número Atômico Massa Molar (g mol1) Elemento Químico Número Atômico Massa Molar (g mol1) H 1 1,01 Ca 20 40,08 He 2 4,00 Mn 25 54,94 C 6 12,01 Fe 26 55,85 N 7 14,01 Cu 29 63,55 O 8 16,00 Br 35 79,90 F 9 19,00 Sn 50 118,71 Na 11 22,99 I 53 126,90 Cl 17 35,45 Au 79 196,97 K 19 39,10 Hg 80 200,59 19 Questão 49. Considere as afirmações a respeito da reação de combustão completa de misturas estequiométricas, nas condições ambientes. I. Em uma mistura de hidrogênio e oxigênio, o combustível representa aproximadamente 11% da massa total. II. Em uma mistura de octano e oxigênio, o combustível representa aproximadamente 78% da massa total. III. A variação de temperatura da reação de combustível e oxigênio (por mol de combustível) é igual à variação de temperatura da reação de combustível e ar atmosférico (por mol de combustível). IV. A entalpia molar de combustão de uma mistura de combustível e oxigênio é igual à entalpia molar de combustão de uma mistura de combustível e ar atmosférico. Assinale a opção que contém as afirmações CORRETAS. A ( ) Apenas I, II e III. C ( ) Apenas I e IV. E ( ) Apenas II e IV. B ( ) Apenas I e III. D ( ) Apenas II, III e IV. Questão 50. Considere as seguintes afirmações relacionadas ao ciclo do nitrogênio. I. As principais formas de obtenção de compostos nitrogenados incluem a biológica por bactérias, a industrial por meio do processo Haber-Bosch e a atmosférica por descargas elétricas. II. A nitrificação é um processo de duas etapas no qual a amônia é convertida em nitrato por bactérias no solo: primeiro a amônia é oxidada a nitrito e, em seguida, o nitrito é oxidado a nitrato. III. A desnitrificação é o processo pelo qual o nitrato é convertido novamente em nitrogênio atmosférico por bactérias desnitrificantes, processo que ocorre preferencialmente em condições de alto teor de oxigênio. IV. As plantas contribuem para o ciclo do nitrogênio fixando o nitrogênio atmosférico por meio de relações simbióticas com bactérias fixadoras de nitrogênio. V. O ciclo do nitrogênio consiste em várias etapas interconectadas, tais como: fixação, nitrificação, desnitrificação e amonificação. Das afirmações acima, estão CORRETAS A ( ) apenas I, II e IV. C ( ) apenas I, II, IV e V. E ( ) todas. B ( ) apenas I, III e V. D ( ) apenas II, III e IV. Questão 51. Dados os processos químicos abaixo, assinale aquele que representa uma reação endotérmica. A ( ) Cristalização de cloreto de sódio a partir do sal puro fundido. B ( ) Corrosão de uma placa de ferro. C ( ) Neutralização de uma solução aquosa de um ácido forte com uma solução aquosa de uma base fraca. D ( ) Decomposição de uma solução aquosa de peróxido de hidrogênio 40 volumes na presença de um catalisador. E ( ) Formação de cal virgem por decomposição de calcário. 20 Questão 52. As afirmações a seguir relacionam processos físico-químicos que podem ser interpretados utilizando diferentes modelos atômicos e representados por meio de uma equação química. I. O modelo de Bohr contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: 𝛾 + H(g) → H*(gሻ, em que H* representa o estado eletrônico excitado do H. II. O modelo de Dalton contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: 12 Feሺsሻ + C(s) → Fe12C(s). III. O modelo de Rutherford contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: He2+ 2 4 + Au → He2+ 2 4 + Au. IV. O modelo de Thomson contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: 2H+ + 2e ⇌ H2. Assinale a opção que contém a(s) afirmação(ões) CORRETA(S) sobre a relação entre os modelos atômicos e as equações químicas mostradas. A ( ) Apenas I. C ( ) Apenas II e IV. E ( ) Todas as afirmações. B ( ) Apenas I, II e III. D ( ) Apenas III e IV. Questão 53. Considere as seguintes afirmações sobre misturas e processos de separação. I. Misturas azeotrópicas são separadas por destilação simples. II. Os elementos constituintes de ligas metálicas, como o bronze, podem ser separados por fusão. III. A filtração a pressão reduzida, usando um funil de Büchner, é um processo utilizado para reduzir o tempo de separação de um sólido suspenso em um líquido. IV. A temperatura aumenta continuamente no aquecimento de uma mistura simples, mesmo durante a fusão e a ebulição. Assinale a opção que contém a(s) afirmação(ões) CORRETA(S). A ( ) Apenas I. C ( ) Apenas II e III. E ( ) Apenas IV. B ( ) Apenas I e II. D ( ) Apenas III e IV. Questão 54. São feitas comparações entre os valores do pKa de compostos orgânicos, em que Ka é a primeira constante de ionização. I. Ácido metanoico ൐ ácido etanodioico. II. Ácido propanodioico ൐ ácido etanodioico. III. Ácido 2-cloro etanoico ൐ ácido 4-cloro butanoico. IV. Ácido 2-trifluor etanoico ൐ ácido 2-tricloro etanoico. Assinale a opção que apresenta as comparações CORRETAS. A ( ) Apenas I e II. C ( ) Apenas II e III. E ( ) Apenas III e IV. B ( ) Apenas I e III. D ( ) Apenas II e IV. 21 Questão 55. Considere as seguintes afirmações relacionadas à ocorrência ou não de reações químicas em condições ambientes. I. Ao borbulhar gás cloro em uma solução aquosa de iodeto de sódio, haverá a formação de um sólido. II. Ao borbulhar gás cloro em uma solução aquosa e incolor de brometo de sódio, a solução se tornará ligeiramente marrom. III. Ao adicionar uma solução aquosa de iodeto de sódio a uma solução aquosa de cloreto de potássio, haverá a formação de um gás. IV. Ao adicionar bromo líquido a uma solução aquosa de fluoreto de sódio, haverá formação de um gás. V. Ao adicionar bromo líquido a uma solução aquosa de iodeto de sódio, haverá formação de um sólido. Das afirmações acima, estão CORRETAS A ( ) apenas I, II e V. C ( ) apenas II e III. E ( ) apenas III e IV. B ( ) apenas I e IV. D ( ) apenas II, III e V. Questão 56. Considere 1 L de solução aquosa preparada por meio da adição de 1 mol de um ácido monoprótico hipotético, 1 mol de sua base conjugada e 0,82 mol de uma base forte. Sabendo que a constante de ionização do ácido é igual a 104, assinale a alternativa que melhor representa o pH da solução resultante. A ( ) 4. B ( ) 5. C ( ) 6. D ( ) 7. E ( ) 8. Questão 57. Considere as seguintes afirmações a respeito de reações orgânicas. I. A reatividade do ácido acético com 2-propanol é maior do que com 2-metil-2-propanol. II. A reação do 2-butino com KMnO4 em meio ácido a quente leva à formação majoritária de aldeídos. III. A redução do fenol para a formação do ciclo-hexanol exige condições mais enérgicas do que aquelas necessárias à redução do fenol a benzeno. Das afirmações acima, está(ão) CORRETA(S) A ( ) apenas I e II. C ( ) apenas I e III. E ( ) apenas III. B ( ) apenas I, II e III. D ( ) apenas II. Questão 58. Uma solução foi preparada a partir da dissolução de 1,00 mol de uma substância A em 1,0 kg de um solvente. Essa substância se dissocia de acordo com a reação química: A ⇌ B + C. Assinale a opção que apresenta a diferença de temperatura de ebulição, em °C, dessa solução após atingir o equilíbrio químico, em relação à temperatura de ebulição de um sistema contendo apenas uma substância D, produzido nas mesmas condições (1,00 mol dissolvido em 1,0 kg do mesmo solvente). Considere que a substância D não se dissocia. Dados: constante ebuliométrica molal do solvente: Ke = 1,0 °C kg mol1; constante de equilíbrio (K) da dissociação de A: K = 2. A ( ) 0,12. C ( ) 1,09. E ( ) 2,21. B ( ) 0,73. D ( ) 1,27. 22 Questão 59. Considere as afirmações relacionadas a células eletroquímicas. I. O potencial padrão de uma célula eletroquímica é diretamente proporcional à variação de energia livre de Gibbs padrão da reação envolvida e inversamente proporcional à sua constante de equilíbrio. II. Dado que os valores de potencial padrão do eletrodo de cobre e do calomelano saturado em relação ao eletrodo padrão de hidrogênio são, respectivamente, 0,34 V e 0,24 V, o potencial do eletrodo de cobre em relação ao eletrodo de calomelano saturado será 0,10 V. III. Os potenciais padrão de eletrodo não são valores absolutos de semicélulas, mas sim diferenças de potencial entre semicélulas. IV. O catodo de uma célula galvânica torna-se o anodo quando essa célula passa a operar como célula eletrolítica, embora a redução sempre ocorra no catodo da célula e a oxidação sempre ocorra no anodo. Assinale a opção que contém as afirmações CORRETAS. A ( ) Apenas I e II. C ( ) Apenas I e III. E ( ) Apenas III e IV. B ( ) Apenas I, II e IV. D ( ) Apenas II, III e IV. Questão 60. As energias de ligação do H2, do Cl2 e do HCl nas condições padrão e a 25 °C, em kJ mol1, são 434, 243 e 431, respectivamente. Com base nessas informações, assinale a alternativa que apresenta a entalpia padrão de formação do HCl, em kJ mol1. A ( ) 185 C ( ) 92,5. E ( ) 769,5. B ( ) 92,5. D ( ) 185.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Elipse dada por equação paramétrica em λ, interseção com círculo — geometria analítica (cônicas).</div>
+        
+      </article>
+    
+  
+
+  <h2 id="bloco-trigonometria">Trigonometria</h2>
+
+  
+    
+
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q39"
+               data-topicos="5.1"
+               data-gabarito="A">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 39
+          
+            <span class="tag">5.1</span>
+          
+        </div>
+        
+          <div>Determine o valor de
+cos
+„
+2 arctg
+„4
+3
+««
++ sen
+„
+2 arctg
+„4
+3
+««
+:</div>
+          <ol type="A">
+            
+              <li>17 25</li>
+            
+              <li>4 5.</li>
+            
+              <li>24 25.</li>
+            
+              <li>28 25.</li>
+            
+              <li>31 25.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">cos(2·arctg(4/3)) + sen(2·arctg(4/3)), identidades de duplo arco — trigonometria.</div>
+        
+      </article>
+    
+  
+
+  <h2 id="bloco-combinat-ria-probabilidade-e-estat-stica">Combinatória, Probabilidade e Estatística</h2>
+
+  
+    
+      <h3>6.1 Análise Combinatória</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q48"
+               data-topicos="6.1"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 48
+          
+            <span class="tag">6.1</span>
+          
+        </div>
+        
+          <div>Na expansão de [1 + x2 −x3 + x4]10, a soma de todos os coeficientes das potências múltiplas
+de 3 é</div>
+          <ol type="A">
+            
+              <li>114.</li>
+            
+              <li>228.</li>
+            
+              <li>342.</li>
+            
+              <li>456.</li>
+            
+              <li>570. 17 18 QUÍMICA Constantes Constante de Avogadro (NA) = 6,02 × 1023 mol−1 Constante de Faraday (F) = 9,65 × 104 C mol−1 = 9,65 × 104 A s mol−1 = 9,65 × 104 J V−1 mol−1 Carga elementar = 1,60 × 10−19 C Constante dos gases (R) = 8,21 × 10−2 atm L K−1 mol−1 = 8,31 J K−1 mol−1 = 1,98 cal K−1 mol−1 Constante de Planck (h) = 6,63 × 10−34 J s Velocidade da luz no vácuo = 3,0 × 108 m s−1 Número de Euler (e) = 2,72 Definições Pressão: 1 atm = 760 mmHg = 1,01325 × 105 N m−2 = 1,01325 bar Energia: 1 J = 1 N m = 1 kg m2 s−2 = 6,24 × 1018 eV Condições normais de temperatura e pressão (CNTP): 0 °C e 1 atm Condições ambientes: 25 °C e 1 atm Condições padrão: 1 bar; concentração das soluções = 1 mol L−1 (rigorosamente: atividade unitária das espécies); sólido com estrutura cristalina mais estável nas condições de pressão e temperatura em questão. (s) = sólido. (ℓ) = líquido. (g) = gás. (aq) = aquoso. (conc) = concentrado. (ua) = unidades arbitrárias. u.m.a. = unidade de massa atômica. [X] = concentração da espécie química X em mol L−1 ln X = 2,3 log X Massas Molares Elemento Químico Número Atômico Massa Molar (g mol−1) Elemento Químico Número Atômico Massa Molar (g mol−1) H 1 1,01 P 15 30,97 Li 3 6,94 S 16 32,06 B 5 10,81 Cl 17 35,45 C 6 12,01 K 19 39,10 N 7 14,01 Ca 20 40,08 O 8 16,00 Ga 31 69,72 F 9 19,00 Se 34 78,96 Na 11 22,99 Sr 38 87,62 Al 13 26,98 Questão 49. Em uma titulação, 100 mL de uma solução de um ácido monoprótico fraco, cuja constante de ionização é igual a 10−9, são neutralizados com 25 mL de uma solução 0,5 mol L−1 de hidróxido de sódio. Assinale a opção que apresenta o pH no ponto de equivalência da titulação. A ( ) 9,0. B ( ) 9,5. C ( ) 10,0. D ( ) 10,5. E ( ) 11,0. 19 Questão 50. Sabe-se que a constante de velocidade (k) de uma reação é função da temperatura (T) conforme a Lei de Arrhenius: 𝑘= 𝐴𝑒ቀషಶೌ ೃ೅ቁ, em que A é o fator de frequência e Ea é a energia de ativação. Em um estudo cinético, observou-se que a velocidade de uma determinada reação aumenta 1000 vezes quando a temperatura do meio reacional aumenta de 400 K para 500 K, permanecendo constantes todos os demais parâmetros iniciais. Assinale a opção que apresenta a energia de ativação desta reação, em kcal mol−1, considerando que A e Ea não dependem da temperatura. A ( ) 7,3. B ( ) 17,3. C ( ) 27,3. D ( ) 37,3. E ( ) 47,3. Questão 51. Considere as seguintes afirmações relacionadas a átomos e íons atômicos no estado gasoso: I. A afinidade eletrônica do átomo de oxigênio é maior do que a do ânion O−. II. A energia de ionização do átomo de oxigênio é maior do que a do ânion O2−. III. O raio atômico do átomo de oxigênio é maior do que o do ânion O−. IV. O átomo de oxigênio tem maior afinidade eletrônica e menor energia de ionização do que o átomo de nitrogênio. Das afirmações I a IV, acima destacadas, são CORRETAS A ( ) apenas I e II. C ( ) apenas I e III. E ( ) apenas III e IV. B ( ) apenas I, II e IV. D ( ) apenas II, III e IV. Questão 52. Considere que as curvas (I) e (II) representam uma mesma reação química em fase gasosa, mas em diferentes condições. Sabendo que Ea é a energia de ativação, é CORRETO afirmar que A ( ) em (II) a reação ocorre na presença de um catalisador. B ( ) a reação é endotérmica. C ( ) a reação é de primeira ordem. D ( ) a temperatura em (I) é menor do que em (II). E ( ) a constante de velocidade da reação em (I) é maior do que em (II). Questão 53. Considere os seguintes compostos: I. II. III. IV. Qual(is) dos compostos acima forma(m) comumente polímeros de condensação? A ( ) Apenas I e II. C ( ) Apenas II e III. E ( ) Apenas IV. B ( ) Apenas I e III. D ( ) Apenas II e IV. 20 Questão 54. Um eletrólito genérico BAଶ ioniza em solução aquosa, de acordo com a equação química: BAଶ⇌Bଶା+ 2Aି. Considere duas soluções aquosas, preparadas com as mesmas quantidades desse eletrólito, nas seguintes condições de equilíbrio: Solução 1: Volume V1, temperatura T1 e grau de ionização do eletrólito α1. Solução 2: Volume V2 = 2V1, temperatura T2 e grau de ionização do eletrólito α2 = α1. Com base nessas informações, assinale a opção que relaciona corretamente a constante de equilíbrio da ionização do eletrólito na solução 2, K2, com a constante de equilíbrio na solução 1, K1. A ( ) K2 = 0,25 K1. C ( ) K2 = K1. E ( ) K2 = 4 K1. B ( ) K2 = 0,5 K1. D ( ) K2 = 2 K1. Questão 55. Um sistema contendo oxigênio atômico (na forma do isótopo estável mais abundante) e hidrogênio atômico (na forma dos dois isótopos mais estáveis) é colocado a reagir em duas condições diferentes, levando à formação de produtos únicos e distintos, X e Y, respectivamente. Considere que X e Y correspondem a moléculas neutras, estáveis e que obedecem à regra do octeto, e que a massa molar média de X é menor do que a de Y. Assinale a opção que relaciona corretamente as possíveis razões entre as massas de hidrogênio e de oxigênio nas moléculas que constituem X e Y. A ( ) X: 1/8, 3/16 e 1/4, D ( ) X: 1/16, 1/8 e 1/4, Y: 1/16, 3/32 e 1/8. Y: 1/32, 1/16 e 1/8. B ( ) X: 1/8, 3/16 e 1/4, E ( ) X: 1/24, 1/16 e 1/12, Y: 1/24, 1/16 e 1/12. Y: 1/8, 3/16 e 1/4. C ( ) X: 1/16, 3/32 e 1/8, Y: 1/8, 3/16 e 1/4. Questão 56. Em uma determinada temperatura, uma mistura gasosa contendo as substâncias X2, Y2 e XY é adicionada a um recipiente de 1 L, nas concentrações, em mol L−1, de 0,4, 0,4 e 0,8, respectivamente. A equação química que representa a reação, cuja constante de equilíbrio é igual a 16, é dada por X2 + Y2 ⇌ 2XY. Assinale a opção que contém a concentração aproximada, em mol L−1, do produto XY, após a reação atingir o equilíbrio. A ( ) 0,5. B ( ) 0,8. C ( ) 1,1. D ( ) 2,2. E ( ) 2,7. Questão 57. Considere que valores maiores de energia de hidratação são observados para íons com menor tamanho e maior carga. Com base nessa informação, são feitas as seguintes comparações entre a energia de hidratação dos pares de íons abaixo. I. Li+ > K+. II. B3+ > Al3+. III. Sr2+ < Ca2+. IV. Ga3+ > Ca2+. V. S2− > Se2−. Das comparações I a V, acima destacadas, são CORRETAS A ( ) apenas I e II. C ( ) apenas II, III e V. E ( ) todas. B ( ) apenas I, II e IV. D ( ) apenas III, IV e V. 21 Questão 58. Considere as seguintes afirmações sobre características de óleos e gorduras. I. Em temperatura ambiente, óleos são líquidos e gorduras são sólidas. II. Óleos são ricos em ésteres de ácidos graxos insaturados, ao passo que gorduras possuem predominância de ésteres de ácidos graxos saturados. III. A reação entre óleos ou gorduras com hidróxido de sódio (NaOH) ou hidróxido de potássio (KOH) produz sabão. IV. Quanto maior é o índice de saponificação, maior a massa molar média do triglicerídeo do óleo ou da gordura. Por índice de saponificação, entenda-se a massa de KOH, em mg, necessária para saponificar 1 g de óleo ou de gordura. Das afirmações I a IV, acima destacadas, são CORRETAS A ( ) apenas I e II. C ( ) apenas III e IV. E ( ) todas. B ( ) apenas I, II e III. D ( ) apenas I e IV. Questão 59. Considere as seguintes afirmações relativas a ácidos. I. O ácido fosfórico possui hidrogênios que podem ser substituídos por grupos orgânicos para a formação de ésteres. II. O ácido fosfórico pode produzir três cátions do tipo hidroxônio em água. III. A ionização do ácido clorídrico aumenta a condutividade elétrica de soluções aquosas. IV. O grau de ionização de ácidos é a relação entre o número de moléculas dissolvidas e o número total de moléculas. Das afirmações I a IV, acima destacadas, são CORRETAS A ( ) apenas I, II e III. C ( ) apenas II e IV. E ( ) todas. B ( ) apenas II e III. D ( ) apenas III e IV. Questão 60. Os seguintes diagramas representam diferentes estados de equilíbrio de uma reação exotérmica do tipo 𝐴ଶሺ𝑔ሻ+ 𝐵ଶሺ𝑔ሻ⇌2𝐴𝐵ሺ𝑔ሻ. (I) (II) (III) (IV) Assinale a opção que contém a afirmação CORRETA. A ( ) Se a constante de equilíbrio da reação, Kc, em um determinada temperatura, é igual a 3, apenas o diagrama (I) representa o sistema no equilíbrio. B ( ) Os diagramas (II) e (IV) podem representar a situação da reação em equilíbrio em duas temperaturas diferentes, com TII ˃ TIV. C ( ) Se todos os diagramas representam a reação em equilíbrio, o diagrama (III) representa a reação com a menor constante de equilíbrio. D ( ) Se a pressão for reduzida à metade pela duplicação do volume, em temperatura constante, os diagramas (II) e (III) representam a reação em equilíbrio para o estado inicial e final, respetivamente, desse processo, com VII = 2VIII. E ( ) Se cada símbolo que representa uma molécula nos diagramas equivale a 0,20 mol e se o volume do recipiente é 1,0 L, a constante de equilíbrio da reação representada pelo diagrama (I) é 0,5. RASCUNHO 22 RASCUNHO 23 RASCUNHO 24 RASCUNHO 25 RASCUNHO 26 RASCUNHO 27 RASCUNHO 28 RASCUNHO 29 RASCUNHO 30 RASCUNHO 31 RASCUNHO 32</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Expansão de [1+x²−x³+x⁴]^10, soma dos coeficientes de potências múltiplas de 3 — análise combinatória (binômio generalizado).</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q40"
+               data-topicos="6.1"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 40
+          
+            <span class="tag">6.1</span>
+          
+        </div>
+        
+          <div>Considere o conjunto:
+A = {1; 2; 4; 8; 16; 32; 64; 128; 256}:
+Qual o menor n ∈N tal que todo subconjunto de A com n elementos contenha pelo menos
+um par cujo produto seja 256?</div>
+          <ol type="A">
+            
+              <li>n = 5.</li>
+            
+              <li>n = 6.</li>
+            
+              <li>n = 7.</li>
+            
+              <li>n = 8.</li>
+            
+              <li>n = 9.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Conjunto A = {1,2,4,...,256}, menor n tal que todo subconjunto de tamanho n contenha dois elementos com razão ≤ 2 — análise combinatória (princípio da casa dos pombos).</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q41"
+               data-topicos="6.1"
+               data-gabarito="D">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 41
+          
+            <span class="tag">6.1</span>
+          
+        </div>
+        
+          <div>Considere o conjunto C = {1; 2; 3; 4; 5}. Para cada escolha possível de
+a0, a1, a2, a3, a4 ∈C, dois a dois distintos, formamos o polinômio
+a0 + a1x + a2x2 + a3x3 + a4x4:
+A soma das raízes, contadas com multiplicidade, de todos os polinômios formados nesse
+processo é igual a:</div>
+          <ol type="A">
+            
+              <li>−17125 4 .</li>
+            
+              <li>−1800.</li>
+            
+              <li>−360.</li>
+            
+              <li>−351 2 .</li>
+            
+              <li>−101 4 .</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Escolha de a0,...,a4 ∈ {1,...,5} e formação de polinômios, contagem — análise combinatória.</div>
+        
+      </article>
+    
+  
+    
+      <h3>6.2 Probabilidade</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q44"
+               data-topicos="6.2"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 44
+          
+            <span class="tag">6.2</span>
+          
+        </div>
+        
+          <div>As faces de dez moedas são numeradas de modo que: a primeira moeda tem faces 1 e 2; a
+segunda, 2 e 3; a terceira, 3 e 4, e assim sucessivamente até a décima moeda, com faces 10 e 11. As dez
+moedas são lançadas aleatoriamente e os números exibidos são somados. Então, a probabilidade de que essa
+soma seja igual a 60 é</div>
+          <ol type="A">
+            
+              <li>63 128.</li>
+            
+              <li>63 256.</li>
+            
+              <li>63 512.</li>
+            
+              <li>189 512.</li>
+            
+              <li>189 1024.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Moedas numeradas lançadas sucessivamente, análise de probabilidade de eventos — probabilidade.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q45"
+               data-topicos="6.2"
+               data-gabarito="B">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 45
+          
+            <span class="tag">6.2</span>
+          
+        </div>
+        
+          <div>Um conjunto de moedas é lançado sucessivas vezes. Em cada lançamento, todas as moedas que
+resultam em coroa, e apenas estas, são retiradas. As demais moedas permanecem para o próximo lançamento.
+O jogo termina quando todas as moedas tiverem sido retiradas. A probabilidade de o jogo durar mais do
+que três rodadas, se for iniciado com quatro moedas, é</div>
+          <ol type="A">
+            
+              <li>1341/4096.</li>
+            
+              <li>1695/4096.</li>
+            
+              <li>2049/4096.</li>
+            
+              <li>2401/4096.</li>
+            
+              <li>2755/4096.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Conjunto de moedas lançadas, remoção das que caem cara acima, análise probabilística — probabilidade.</div>
+        
+      </article>
+    
+  
+    
+      <h3>6.3 Estatística</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q40"
+               data-topicos="6.3"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 40
+          
+            <span class="tag">6.3</span>
+          
+        </div>
+        
+          <div>A média harmônica de n números reais positivos a1, a2, ..., an é
+H =
+n
+1
+a1 + 1
+a2 + ... + 1
+an
+.
+Sabendo que o polinômio p(x) = 30x3−113x2+108x−30 possui três raízes reais positivas, a média harmônica
+das raízes de p(x) é</div>
+          <ol type="A">
+            
+              <li>2 3.</li>
+            
+              <li>5 18.</li>
+            
+              <li>5 6.</li>
+            
+              <li>1.</li>
+            
+              <li>3. 15</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Média harmônica de n números positivos — estatística descritiva (médias).</div>
+        
+      </article>
+    
+  
+
+  <h2 id="bloco-c-lculo-diferencial-e-integral">Cálculo Diferencial e Integral</h2>
+
+  
+    
+      <h3>8.1 Limites e Continuidade</h3>
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q43"
+               data-topicos="8.1,2.1"
+               data-gabarito="C">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 43
+          
+            <span class="tag">8.1</span>
+          
+            <span class="tag">2.1</span>
+          
+        </div>
+        
+          <div>Considere as seguintes afirmações:
+I. se n é um número natural, então
+1
+n + 1 +
+1
+n + 2 + · · · + 1
+2n ⩾1
+2.
+II. se x é um número real e x3 + x + 1 = 0, então x2 + 1
+x + 1
+x6 = 0.
+III. se a, b e c são números reais positivos que formam, nessa ordem, uma progressão aritmética, então
+1
+√
+b + √c
+,
+1
+√c + √a,
+1
+√a +
+√
+b
+formam, nessa ordem, uma progressão aritmética.
+É(são) VERDADEIRA(S)</div>
+          <ol type="A">
+            
+              <li>apenas I.</li>
+            
+              <li>apenas I e II.</li>
+            
+              <li>apenas I e III.</li>
+            
+              <li>apenas II e III.</li>
+            
+              <li>todas.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">Desigualdade envolvendo soma 1/(n+1)+…+1/(2n) ≥ 1/2 (série harmônica) e análise de funções injetoras/sobrejetoras — limites e funções reais.</div>
+        
+      </article>
+    
+  
+
+  <h2 id="bloco-n-meros-complexos">Números Complexos</h2>
+
+  
+    
+
+    
+      <article class="questao"
+               data-id="ita_2019_fase1_mat_q42"
+               data-topicos="9.1"
+               data-gabarito="E">
+        <div class="meta">
+          <strong>ITA 2019</strong>
+          · Questão 42
+          
+            <span class="tag">9.1</span>
+          
+        </div>
+        
+          <div>Sabe-se que −2 + 2i é uma das raízes quartas de um número complexo z. Então, no plano de
+Argand-Gauss, a área do triângulo, cujos vértices são as raízes cúbicas de z, é igual a</div>
+          <ol type="A">
+            
+              <li>4( √ 3 + 1).</li>
+            
+              <li>6 √ 3.</li>
+            
+              <li>8( √ 3 −1).</li>
+            
+              <li>10 √ 3.</li>
+            
+              <li>12 √ 3.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">-2+2i é raiz quarta de z, área do triângulo formado pelas quatro raízes no plano de Argand-Gauss — números complexos.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q38"
+               data-topicos="9.1"
+               data-gabarito="E">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 38
+          
+            <span class="tag">9.1</span>
+          
+        </div>
+        
+          <div>Sejam z ∈C e f(z) = z2 + i.
+Para cada n ∈N, definimos f(1)(z) = f(z) e f(n)(z) =
+f(f(n−1)(z)). Então, f(2023)(0) é</div>
+          <ol type="A">
+            
+              <li>1 −i.</li>
+            
+              <li>i −1.</li>
+            
+              <li>−1 −i.</li>
+            
+              <li>i.</li>
+            
+              <li>−i.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">f(z) = z² + i, iterações f^(n)(z), análise de sequência de complexos — números complexos.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2023_fase1_mat_q43"
+               data-topicos="9.1"
+               data-gabarito="D">
+        <div class="meta">
+          <strong>ITA 2023</strong>
+          · Questão 43
+          
+            <span class="tag">9.1</span>
+          
+        </div>
+        
+          <div>Dado z = 5 −5i ∈C, definimos f(n) = |z(2n+1) + ¯z(2n+1)| para cada n ∈N. A soma de f(n)
+para n de 1 até 20 é</div>
+          <ol type="A">
+            
+              <li>250(5021 −1)/49.</li>
+            
+              <li>500 √ 2(5020 −1)/49.</li>
+            
+              <li>1000(5021 −1)/49.</li>
+            
+              <li>500(5020 −1)/49.</li>
+            
+              <li>nenhuma das alternativas anteriores.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">z = 5−5i, f(n) = |z^(2n+1) + z̄^(2n+1)|, soma de f(n) para n de 1 a N — números complexos e módulo.</div>
+        
+      </article>
+    
+      <article class="questao"
+               data-id="ita_2024_fase1_mat_q46"
+               data-topicos="9.1"
+               data-gabarito="D">
+        <div class="meta">
+          <strong>ITA 2024</strong>
+          · Questão 46
+          
+            <span class="tag">9.1</span>
+          
+        </div>
+        
+          <div>Sejam a = 1+3
+√
+3i e b = 2
+√
+3+4i números complexos. O menor valor m ∈N
+tal que am = bm é:</div>
+          <ol type="A">
+            
+              <li>6.</li>
+            
+              <li>8.</li>
+            
+              <li>10.</li>
+            
+              <li>12.</li>
+            
+              <li>não existe m ∈N satisfazendo esta igualdade.</li>
+            
+          </ol>
+        
+        
+          <div class="obs">a = 1+3√3i, b = 2√3+4i, menor m ∈ N tal que aᵐ = bᵐ, argumento e módulo — números complexos.</div>
+        
+      </article>
+    
+  
+
+
+<h2 id="gabarito">Gabarito</h2>
+<table class="gabarito">
+  <thead>
+    <tr><th>Questão</th><th>Prova</th><th>Resposta</th><th>Tópicos</th></tr>
+  </thead>
+  <tbody>
+    
+      <tr>
+        <td>37</td>
+        <td>ITA 2019</td>
+        <td><strong>C</strong></td>
+        <td>4.1</td>
+      </tr>
+    
+      <tr>
+        <td>38</td>
+        <td>ITA 2019</td>
+        <td><strong>A</strong></td>
+        <td>2.4, 7.1</td>
+      </tr>
+    
+      <tr>
+        <td>39</td>
+        <td>ITA 2019</td>
+        <td><strong>A</strong></td>
+        <td>4.3</td>
+      </tr>
+    
+      <tr>
+        <td>40</td>
+        <td>ITA 2019</td>
+        <td><strong>D</strong></td>
+        <td>4.2</td>
+      </tr>
+    
+      <tr>
+        <td>41</td>
+        <td>ITA 2019</td>
+        <td><strong>B</strong></td>
+        <td>3.2</td>
+      </tr>
+    
+      <tr>
+        <td>42</td>
+        <td>ITA 2019</td>
+        <td><strong>E</strong></td>
+        <td>9.1</td>
+      </tr>
+    
+      <tr>
+        <td>43</td>
+        <td>ITA 2019</td>
+        <td><strong>C</strong></td>
+        <td>8.1, 2.1</td>
+      </tr>
+    
+      <tr>
+        <td>44</td>
+        <td>ITA 2019</td>
+        <td><strong>B</strong></td>
+        <td>6.2</td>
+      </tr>
+    
+      <tr>
+        <td>45</td>
+        <td>ITA 2019</td>
+        <td><strong>A</strong></td>
+        <td>3.1</td>
+      </tr>
+    
+      <tr>
+        <td>46</td>
+        <td>ITA 2019</td>
+        <td><strong>B</strong></td>
+        <td>2.3</td>
+      </tr>
+    
+      <tr>
+        <td>47</td>
+        <td>ITA 2019</td>
+        <td><strong>B</strong></td>
+        <td>4.2, 7.1</td>
+      </tr>
+    
+      <tr>
+        <td>48</td>
+        <td>ITA 2019</td>
+        <td><strong>E</strong></td>
+        <td>2.4</td>
+      </tr>
+    
+      <tr>
+        <td>37</td>
+        <td>ITA 2020</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>38</td>
+        <td>ITA 2020</td>
+        <td><strong>E</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>39</td>
+        <td>ITA 2020</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>40</td>
+        <td>ITA 2020</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>41</td>
+        <td>ITA 2020</td>
+        <td><strong>A</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>42</td>
+        <td>ITA 2020</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>43</td>
+        <td>ITA 2020</td>
+        <td><strong>A</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>44</td>
+        <td>ITA 2020</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>45</td>
+        <td>ITA 2020</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>46</td>
+        <td>ITA 2020</td>
+        <td><strong>B</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>47</td>
+        <td>ITA 2020</td>
+        <td><strong>E</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>48</td>
+        <td>ITA 2020</td>
+        <td><strong>B</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>37</td>
+        <td>ITA 2021</td>
+        <td><strong>E</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>38</td>
+        <td>ITA 2021</td>
+        <td><strong>A</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>39</td>
+        <td>ITA 2021</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>40</td>
+        <td>ITA 2021</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>41</td>
+        <td>ITA 2021</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>42</td>
+        <td>ITA 2021</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>43</td>
+        <td>ITA 2021</td>
+        <td><strong>E</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>44</td>
+        <td>ITA 2021</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>45</td>
+        <td>ITA 2021</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>46</td>
+        <td>ITA 2021</td>
+        <td><strong>B</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>47</td>
+        <td>ITA 2021</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>48</td>
+        <td>ITA 2021</td>
+        <td><strong>A</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>37</td>
+        <td>ITA 2023</td>
+        <td><strong>C</strong></td>
+        <td>3.1</td>
+      </tr>
+    
+      <tr>
+        <td>38</td>
+        <td>ITA 2023</td>
+        <td><strong>E</strong></td>
+        <td>9.1</td>
+      </tr>
+    
+      <tr>
+        <td>39</td>
+        <td>ITA 2023</td>
+        <td><strong>B</strong></td>
+        <td>4.1</td>
+      </tr>
+    
+      <tr>
+        <td>40</td>
+        <td>ITA 2023</td>
+        <td><strong>C</strong></td>
+        <td>6.3</td>
+      </tr>
+    
+      <tr>
+        <td>41</td>
+        <td>ITA 2023</td>
+        <td><strong>B</strong></td>
+        <td>2.3</td>
+      </tr>
+    
+      <tr>
+        <td>42</td>
+        <td>ITA 2023</td>
+        <td><strong>D</strong></td>
+        <td>4.1, 5.1</td>
+      </tr>
+    
+      <tr>
+        <td>43</td>
+        <td>ITA 2023</td>
+        <td><strong>D</strong></td>
+        <td>9.1</td>
+      </tr>
+    
+      <tr>
+        <td>44</td>
+        <td>ITA 2023</td>
+        <td><strong>A</strong></td>
+        <td>4.3</td>
+      </tr>
+    
+      <tr>
+        <td>45</td>
+        <td>ITA 2023</td>
+        <td><strong>B</strong></td>
+        <td>6.2</td>
+      </tr>
+    
+      <tr>
+        <td>46</td>
+        <td>ITA 2023</td>
+        <td><strong>E</strong></td>
+        <td>4.2</td>
+      </tr>
+    
+      <tr>
+        <td>47</td>
+        <td>ITA 2023</td>
+        <td><strong>A</strong></td>
+        <td>2.3, 5.1</td>
+      </tr>
+    
+      <tr>
+        <td>48</td>
+        <td>ITA 2023</td>
+        <td><strong>C</strong></td>
+        <td>6.1</td>
+      </tr>
+    
+      <tr>
+        <td>37</td>
+        <td>ITA 2024</td>
+        <td><strong>B</strong></td>
+        <td>1.1</td>
+      </tr>
+    
+      <tr>
+        <td>38</td>
+        <td>ITA 2024</td>
+        <td><strong>E</strong></td>
+        <td>3.1, 3.2</td>
+      </tr>
+    
+      <tr>
+        <td>39</td>
+        <td>ITA 2024</td>
+        <td><strong>A</strong></td>
+        <td>5.1</td>
+      </tr>
+    
+      <tr>
+        <td>40</td>
+        <td>ITA 2024</td>
+        <td><strong>B</strong></td>
+        <td>6.1</td>
+      </tr>
+    
+      <tr>
+        <td>41</td>
+        <td>ITA 2024</td>
+        <td><strong>D</strong></td>
+        <td>6.1</td>
+      </tr>
+    
+      <tr>
+        <td>42</td>
+        <td>ITA 2024</td>
+        <td><strong>C</strong></td>
+        <td>2.4, 7.1</td>
+      </tr>
+    
+      <tr>
+        <td>43</td>
+        <td>ITA 2024</td>
+        <td><strong>E</strong></td>
+        <td>4.2</td>
+      </tr>
+    
+      <tr>
+        <td>44</td>
+        <td>ITA 2024</td>
+        <td><strong>D</strong></td>
+        <td>4.2</td>
+      </tr>
+    
+      <tr>
+        <td>45</td>
+        <td>ITA 2024</td>
+        <td><strong>C</strong></td>
+        <td>4.1</td>
+      </tr>
+    
+      <tr>
+        <td>46</td>
+        <td>ITA 2024</td>
+        <td><strong>D</strong></td>
+        <td>9.1</td>
+      </tr>
+    
+      <tr>
+        <td>47</td>
+        <td>ITA 2024</td>
+        <td><strong>A</strong></td>
+        <td>4.3</td>
+      </tr>
+    
+      <tr>
+        <td>48</td>
+        <td>ITA 2024</td>
+        <td><strong>C</strong></td>
+        <td>4.3</td>
+      </tr>
+    
+      <tr>
+        <td>37</td>
+        <td>ITA 2025</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>38</td>
+        <td>ITA 2025</td>
+        <td><strong>B</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>39</td>
+        <td>ITA 2025</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>40</td>
+        <td>ITA 2025</td>
+        <td><strong>B</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>41</td>
+        <td>ITA 2025</td>
+        <td><strong>D</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>42</td>
+        <td>ITA 2025</td>
+        <td><strong>A</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>43</td>
+        <td>ITA 2025</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>44</td>
+        <td>ITA 2025</td>
+        <td><strong>E</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>45</td>
+        <td>ITA 2025</td>
+        <td><strong>E</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>46</td>
+        <td>ITA 2025</td>
+        <td><strong>B</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>47</td>
+        <td>ITA 2025</td>
+        <td><strong>C</strong></td>
+        <td></td>
+      </tr>
+    
+      <tr>
+        <td>48</td>
+        <td>ITA 2025</td>
+        <td><strong>E</strong></td>
+        <td></td>
+      </tr>
+    
+  </tbody>
+</table>
+
+<h2 id="estatisticas">Estatísticas de Recorrência</h2>
+
+<h3>Por bloco temático</h3>
+<table class="stats">
+  <thead><tr><th>Bloco</th><th>Questões</th><th>%</th><th>Frequência</th></tr></thead>
+  <tbody>
+    
+      <tr>
+        <td style="text-align:left">Não classificada</td>
+        <td>36.0</td>
+        <td>50.0%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:150.0px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Geometria Plana e Espacial</td>
+        <td>12.0</td>
+        <td>16.7%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:50.0px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Combinatória, Probabilidade e Estatística</td>
+        <td>6.0</td>
+        <td>8.3%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:25.0px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Álgebra e Funções</td>
+        <td>5.0</td>
+        <td>6.9%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:20.833333333333336px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Álgebra Linear e Matrizes</td>
+        <td>4.0</td>
+        <td>5.6%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:16.666666666666664px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Números Complexos</td>
+        <td>4.0</td>
+        <td>5.6%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:16.666666666666664px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Trigonometria</td>
+        <td>2.0</td>
+        <td>2.8%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:8.333333333333332px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Sequências e Progressões</td>
+        <td>1.5</td>
+        <td>2.1%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:6.25px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Conjuntos, Lógica e Fundamentos</td>
+        <td>1.0</td>
+        <td>1.4%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:4.166666666666666px"></span>
+        </td>
+      </tr>
+    
+      <tr>
+        <td style="text-align:left">Cálculo Diferencial e Integral</td>
+        <td>0.5</td>
+        <td>0.7%</td>
+        <td style="text-align:left">
+          <span class="barra" style="width:2.083333333333333px"></span>
+        </td>
+      </tr>
+    
+  </tbody>
+</table>
+
+<h3>Por subárea (tópico específico)</h3>
+<table class="stats">
+  <thead><tr><th>ID</th><th>Subárea</th><th>Questões</th><th>%</th></tr></thead>
+  <tbody>
+    
+      <tr>
+        <td>0.0</td>
+        <td style="text-align:left">?</td>
+        <td>36.0</td>
+        <td>50.0%</td>
+      </tr>
+    
+      <tr>
+        <td>4.2</td>
+        <td style="text-align:left">Geometria Espacial</td>
+        <td>4.5</td>
+        <td>6.2%</td>
+      </tr>
+    
+      <tr>
+        <td>4.3</td>
+        <td style="text-align:left">Geometria Analítica</td>
+        <td>4.0</td>
+        <td>5.6%</td>
+      </tr>
+    
+      <tr>
+        <td>9.1</td>
+        <td style="text-align:left">Números Complexos</td>
+        <td>4.0</td>
+        <td>5.6%</td>
+      </tr>
+    
+      <tr>
+        <td>4.1</td>
+        <td style="text-align:left">Geometria Plana</td>
+        <td>3.5</td>
+        <td>4.9%</td>
+      </tr>
+    
+      <tr>
+        <td>6.1</td>
+        <td style="text-align:left">Análise Combinatória</td>
+        <td>3.0</td>
+        <td>4.2%</td>
+      </tr>
+    
+      <tr>
+        <td>3.1</td>
+        <td style="text-align:left">Matrizes e Determinantes</td>
+        <td>2.5</td>
+        <td>3.5%</td>
+      </tr>
+    
+      <tr>
+        <td>2.3</td>
+        <td style="text-align:left">Funções Transcendentes</td>
+        <td>2.5</td>
+        <td>3.5%</td>
+      </tr>
+    
+      <tr>
+        <td>2.4</td>
+        <td style="text-align:left">Equações e Sistemas</td>
+        <td>2.0</td>
+        <td>2.8%</td>
+      </tr>
+    
+      <tr>
+        <td>6.2</td>
+        <td style="text-align:left">Probabilidade</td>
+        <td>2.0</td>
+        <td>2.8%</td>
+      </tr>
+    
+      <tr>
+        <td>5.1</td>
+        <td style="text-align:left">Trigonometria</td>
+        <td>2.0</td>
+        <td>2.8%</td>
+      </tr>
+    
+      <tr>
+        <td>7.1</td>
+        <td style="text-align:left">Sequências e Progressões</td>
+        <td>1.5</td>
+        <td>2.1%</td>
+      </tr>
+    
+      <tr>
+        <td>3.2</td>
+        <td style="text-align:left">Sistemas Lineares</td>
+        <td>1.5</td>
+        <td>2.1%</td>
+      </tr>
+    
+      <tr>
+        <td>6.3</td>
+        <td style="text-align:left">Estatística</td>
+        <td>1.0</td>
+        <td>1.4%</td>
+      </tr>
+    
+      <tr>
+        <td>1.1</td>
+        <td style="text-align:left">Conjuntos e Lógica</td>
+        <td>1.0</td>
+        <td>1.4%</td>
+      </tr>
+    
+      <tr>
+        <td>8.1</td>
+        <td style="text-align:left">Limites e Continuidade</td>
+        <td>0.5</td>
+        <td>0.7%</td>
+      </tr>
+    
+      <tr>
+        <td>2.1</td>
+        <td style="text-align:left">Funções Reais</td>
+        <td>0.5</td>
+        <td>0.7%</td>
+      </tr>
+    
+  </tbody>
+</table>
+
+<p style="margin-top:3em; font-size:0.85em; color:#888; text-align:center">
+  Gerado pelo pipeline ITA. Fonte canônica: JSONs em questoes_json/.
+</p>
+
+</body>
+</html>

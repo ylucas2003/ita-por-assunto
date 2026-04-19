@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "enunciado_md": "Valor: 0,25 \n \nO menor número natural ímpar que possui o mesmo número de divisores que 1800 está no intervalo:",
+  "alternativas": {
+    "A": "[1,16000]",
+    "B": "[16001,17000]",
+    "C": "[17001,18000]",
+    "D": "[18001,19000]",
+    "E": "[19001, ∞)"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Números e Aritmética"
+    ],
+    "blocos": [
+      "Conjuntos, Lógica e Fundamentos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Menor natural ímpar com mesmo número de divisores que 1800 — aritmética."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q02.png",
+  "usa_imagem_no_render": true
+}

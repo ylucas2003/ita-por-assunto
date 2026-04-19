@@ -1,0 +1,43 @@
+{
+  "id": "ita_2019_fase1_qui_q59",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 59,
+  "enunciado_md": "A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a\nfórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos\ne suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas\natômicas iguais a 79 e 81 um.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de\nmassas (abundância em função da relação carga /massa) do Bro tem seus três picos mais intensos atribuídos\naos diferentes arranjos isotópicos do Br». Baseado nessas informações, a razão entre as intensidades\nrelativas dos picos dos isótopos do Br», em ordem crescente de massa atômica, é aproximadamente\nA( III. C( 92. E( )123.\nB( ) ll D( ) 1:22.",
+  "alternativas": {},
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Análise Qualitativa e Quantitativa"
+    ],
+    "blocos": [
+      "Química Analítica e Ambiental"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Espectrometria de massa para determinação de fórmula molecular — análise instrumental."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q59.png",
+  "usa_imagem_no_render": true
+}

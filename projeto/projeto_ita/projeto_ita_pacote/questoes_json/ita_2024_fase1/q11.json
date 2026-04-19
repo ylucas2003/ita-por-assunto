@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_q11",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 11,
+  "enunciado_md": "Uma sonda composta por um conjunto de m espiras de raio r é colocada no interior\nde um solenoide de n espiras circulares e comprimento L. O solenoide é conectado a um circuito C\ncomposto por uma fonte de tensão variável U e um resistor de resistência elétrica R. A tensão da\nfonte cresce linearmente com o tempo t, conforme a relac¸ ão:\nU =\n\u0012U0\nt0\n\u0013\nt,\n\u0012U0\nt0\n\u0013\n> 0.\nA sonda é conectada a um voltímetro e orientada de modo que o eixo axial de suas espiras seja\nparalelo ao campo magnético. Considere que R é muito maior do que a resistência/impedância\nproporcionada pelo solenoide e que a permeabilidade magnética do interior do solenoide é µ0.\nA magnitude da tensão medida pelo voltímetro é:",
+  "alternativas": {
+    "A": "mnµ0 2L πr2 R U0 t0 .",
+    "B": "3mnµ0 2L πr2 R U0 t0 .",
+    "C": "mnµ0 L πr2 R U0 t0 .",
+    "D": "2mnµ0 L πr2 R U0 t0 .",
+    "E": "2nµ0 L πr2 R U0 t0 ."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "topicos_nomes": [
+      "Indução Eletromagnética e Ondas EM"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sonda de m espiras dentro de solenoide com tensão crescendo linearmente; corrente variável no solenoide cria campo variável → FEM induzida pela Lei de Faraday."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1/ita_2024_fase1_q11.png"
+}

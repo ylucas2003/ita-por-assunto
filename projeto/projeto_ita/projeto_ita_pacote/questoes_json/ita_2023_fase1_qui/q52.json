@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_qui_q52",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 52,
+  "enunciado_md": "Considere que as curvas (I) e (II) \nrepresentam uma mesma reação química em fase \ngasosa, mas em diferentes condições. \nSabendo que Ea é a energia de ativação, é \nCORRETO afirmar que",
+  "alternativas": {
+    "A": "em (II) a reação ocorre na presença de um catalisador.",
+    "B": "a reação é endotérmica.",
+    "C": "a reação é de primeira ordem.",
+    "D": "a temperatura em (I) é menor do que em (II).",
+    "E": "a constante de velocidade da reação em (I) é maior do que em (II)."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Curvas de perfil de energia de uma mesma reação em condições diferentes, energia de ativação, catalisador — cinética química."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_qui/ita_2023_fase1_qui_q52.png",
+  "usa_imagem_no_render": true
+}

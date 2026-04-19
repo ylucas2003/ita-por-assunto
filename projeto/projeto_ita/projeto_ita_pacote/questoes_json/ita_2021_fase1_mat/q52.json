@@ -1,0 +1,52 @@
+{
+  "id": "ita_2021_fase1_mat_q52",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 52,
+  "enunciado_md": "Um dodecaedro regular tem 12 faces que são pentágonos regulares. Escolhendo-se 2 vértices\ndistintos desse dodecaedro, a probabilidade de eles pertencerem a uma mesma aresta é igual a:",
+  "alternativas": {
+    "A": "15 100.",
+    "B": "3 19.",
+    "C": "15 190.",
+    "D": "5 12.",
+    "E": "2 5."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2",
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade",
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística",
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dodecaedro regular (12 faces pentagonais), probabilidade de 2 vértices pertencerem à mesma face — probabilidade e geometria espacial"
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_mat/ita_2021_fase1_mat_q52.png",
+  "usa_imagem_no_render": true
+}

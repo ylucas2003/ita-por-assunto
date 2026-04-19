@@ -1,0 +1,52 @@
+{
+  "id": "ita_2021_fase1_qui_q66",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 66,
+  "enunciado_md": "Numa titulação de oxirredução, 50,00 mL de uma solução ácida de Fe(NO3)2 a 0,38 mol⋅L−1 \nfoi titulada com uma solução padronizada de permanganato de potássio a 4,2 × 10−2 mol⋅L−1, até que a \nsolução resultante adquirisse leve coloração rósea. Sobre esta titulação, são feitas as seguintes afirmações: \n(1) O volume da solução de permanganato de potássio gasto na titulação foi de 100 mL. \n(2) O menor coeficiente estequiométrico inteiro para Fe2+ na reação redox balanceada é 7. \n(3) No ponto final, o volume total da solução será de 120 mL. \n(4) Um precipitado sólido de cor esverdeada será observado como produto dessa reação. \n(5) O número total de elétrons envolvidos na reação redox é 22 milimols. \n(6) A razão entre os volumes do titulante e do titulado no ponto final é 2,1. \nA soma dos números associados às afirmações CORRETAS é igual a",
+  "alternativas": {
+    "A": "0.",
+    "C": "3.",
+    "E": "11.",
+    "B": "1.",
+    "D": "6."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica",
+      "Análise Qualitativa e Quantitativa"
+    ],
+    "blocos": [
+      "Química Analítica e Ambiental",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Titulação de oxirredução, Fe(NO3)2 com KMnO4 — eletroquímica, análise quantitativa volumétrica"
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_qui/ita_2021_fase1_qui_q66.png",
+  "usa_imagem_no_render": true
+}

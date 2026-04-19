@@ -1,0 +1,126 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2019_fase1_mat. Gerada por Claude a partir dos enunciados.",
+  "q01": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Conjunto dos 1000 primeiros naturais, representação decimal — conjuntos e lógica.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Menor natural ímpar com mesmo número de divisores que 1800 — aritmética.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Funções de domínio A={0,1,2,3,4} e codomínio B={1..10} — funções reais.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema com soluções inteiras envolvendo raiz, exponencial e log — equações e sistemas.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "9.1",
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Conjunto A de complexos com 2≤|z−3−4i|≤3 — números complexos + geometria analítica.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio P(x) dividido por x−2, x−3, x−5 com restos 2,3,5 — funções algébricas.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Inteiro positivo em cada face de cubo, produto nos vértices — análise combinatória.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "7.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "PG com naturais A,B,C e condição logarítmica — sequências e progressões.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Modelos de placas de identificação de veículos — análise combinatória.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "PG a1,a2,... e PA b1,b2,... com condições vinculadas — sequências e progressões.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Arcos entre 0 e 2π satisfazendo inequação trigonométrica — trigonometria.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Lugar geométrico x²+3y²+5=2x−xy−4y — geometria analítica (cônica).",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": [
+      "4.2",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo equilátero projetado ortogonalmente, ângulo desigual 30° — geometria espacial.",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cubo regular aresta a, pontos M,N,L nas arestas a distância t do vértice A — geometria espacial.",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Função f(x)=√(x−a), reta secante em dois pontos — funções reais.",
+    "classificado_por": "claude"
+  }
+}

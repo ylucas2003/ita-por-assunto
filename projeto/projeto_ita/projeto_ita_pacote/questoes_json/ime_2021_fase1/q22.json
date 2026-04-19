@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_q22",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 22,
+  "enunciado_md": "Valor: 0,25\nUm bloco cúbico homogêneo de aresta L parte do repouso em uma rampa de altura h. O bloco\ndesliza sem atrito até que seu vértice P alcance a coordenada x = 0 em uma superfície plana.\nSabendo que o coeficiente de atrito cinético é µ para x ≥0, a coordenada xP do vértice P em que\no bloco estaciona, considerando que xP ≥L, é :",
+  "alternativas": {
+    "A": "h µ + L 2",
+    "B": "h µ −L 2",
+    "C": "q hL µ + L 2",
+    "D": "q 2hL µ",
+    "E": "h µ 11"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Energia"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bloco cúbico desce rampa sem atrito até vértice P — energia mecânica."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1/ime_2021_fase1_q22.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_q21",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 21,
+  "enunciado_md": "Considere um tanque cúbico\nmetálico de lado L + a (L ≫a), aberto no topo,\npreenchido com água e óleo. O tanque contém,\nno seu interior, um cubo metálico de lado L, com\n5 de seus lados totalmente submersos e o ou-\ntro emerso na superfície, centralizado com a face\naberta do tanque.\nUma diferenc¸a de potencial\nde V é estabelecida entre o cubo e o tanque,\nde forma que o sistema atue como um capaci-\ntor.\nA vista frontal do sistema encontra-se ilus-\ntrada na figura ao lado. Sabe-se que o óleo possui\numa densidade de do = 0,90 g/cm3 e constante\ndielétrica κo, que a água tem uma densidade igual\na da = 1,0 g/cm3 e constante dielétrica κa e que a\ndensidade do cubo é dc = 0,92 g/cm3.\nDesconsiderando efeitos de borda, assinale a al-\nternativa que fornece a capacitância do sistema.",
+  "alternativas": {
+    "A": "ε0L2 a (6,4κo + 2,6κa)",
+    "B": "ε0L2 a (6,4κo + 1,6κa)",
+    "C": "ε0L2 a (3,2κo + 0,8κa)",
+    "D": "ε0L2 a (3,2κo + 1,8κa)",
+    "E": "ε0L2 a (1,6κo + 6,4κa) 8"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tanque cúbico metálico com água e óleo — hidrostática, pressão, princípio de Arquimedes"
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1/ita_2025_fase1_q21.png",
+  "usa_imagem_no_render": true
+}

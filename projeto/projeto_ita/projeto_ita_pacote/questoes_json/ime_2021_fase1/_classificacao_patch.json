@@ -1,0 +1,123 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2021_fase1. Gerada por Claude a partir dos enunciados.",
+  "q16": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Esfera carregada em cabo inextensível girando em movimento circular — dinâmica circular.",
+    "classificado_por": "claude"
+  },
+  "q17": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte sonora em anteparo reflexivo semi-circular — reflexão de ondas acústicas.",
+    "classificado_por": "claude"
+  },
+  "q18": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte sonora A e observador B com movimento relativo — efeito Doppler.",
+    "classificado_por": "claude"
+  },
+  "q19": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Prisma com índice de refração variável n(λ) — dispersão, óptica física.",
+    "classificado_por": "claude"
+  },
+  "q20": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tabela de velocidade do som em gases monoatômicos — teoria cinética/ondas.",
+    "classificado_por": "claude"
+  },
+  "q21": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Nave viajando a velocidade v relativa ao professor — relatividade restrita.",
+    "classificado_por": "claude"
+  },
+  "q22": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Bloco cúbico desce rampa sem atrito até vértice P — energia mecânica.",
+    "classificado_por": "claude"
+  },
+  "q23": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema com barras articuladas B1, B2 e roldana — estática e equilíbrio.",
+    "classificado_por": "claude"
+  },
+  "q24": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Carrinho elétrico autônomo para desinfecção — circuito elétrico.",
+    "classificado_por": "claude"
+  },
+  "q25": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Formas de onda de tensão Vcarga(t) e corrente icarga(t) sobre dispositivo — eletrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q26": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Objeto cúbico com µobj no fundo do mar sendo içado — hidrostática.",
+    "classificado_por": "claude"
+  },
+  "q27": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois objetos partem de posições 0 e 30 m no mesmo eixo — cinemática.",
+    "classificado_por": "claude"
+  },
+  "q28": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Usina termelétrica, parâmetros de desempenho — termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q29": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Planeta P1 arremessado de sua órbita original — gravitação.",
+    "classificado_por": "claude"
+  },
+  "q30": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Feixe de elétrons penetra em região com camadas e campo magnético — magnetismo.",
+    "classificado_por": "claude"
+  }
+}

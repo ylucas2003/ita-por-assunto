@@ -1,0 +1,75 @@
+{
+  "_comentario": "Classificado por Claude Code",
+  "q01": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Equipamentos com curvas de calibração não-lineares para tempo, comprimento e massa; análise dimensional/algarismos significativos para MRU com unidades não-SI.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": ["7.1", "2.1"],
+    "confianca": "alta",
+    "observacao": "Mista: lâmpada em queda livre (2.1 - cinemática) projetando sombra de objeto; traçado de raios luminosos em propagação retilínea (7.1) para encontrar posição e tamanho da sombra.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": ["2.3", "2.4"],
+    "confianca": "alta",
+    "observacao": "Esfera com cavidade esférica interna: localização do centro de massa (2.3) e queda livre com colisão de coeficiente de restituição 0,80; altura máxima via energia cinética pós-colisão (2.4).",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": ["3.1", "2.1"],
+    "confianca": "alta",
+    "observacao": "Foguetes lançados do equador e da latitude 60°: velocidade de escape (3.1) subtraída da velocidade tangencial da rotação terrestre (2.1 - cinemática circular) em cada latitude.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Diálogo de Galileu: tamanho aparente de Marte como evidência da órbita heliocêntrica; variação de distância Terra-Marte ao longo do ciclo orbital (Leis de Kepler).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": ["4.1", "6.1"],
+    "confianca": "alta",
+    "observacao": "Dois pêndulos simples perdem sincronia com mudança de temperatura por dilatação do fio (6.1); período T ∝ √L implica correção via binomial (4.1 - MHS/pêndulo).",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Microscópio óptico de duas lentes: distância focal objetiva 5 mm, ocular 70 mm, separação 190 mm; cálculo de ampliação total e posição da imagem via Gauss.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": ["7.2"],
+    "confianca": "alta",
+    "observacao": "Dupla fenda de Young com lente semicircular de índice n na saída de uma fenda; mudança de caminho óptico altera posição dos máximos de interferência.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": ["8.1"],
+    "confianca": "alta",
+    "observacao": "Carga Q dentro de casca metálica aterrada: método da imagem elétrica; campo externo nulo (aterramento), carga induzida na casca, campo interno não-nulo.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": ["8.3"],
+    "confianca": "alta",
+    "observacao": "Próton com velocidade inicial em y entra em região com campo magnético perpendicular ao plano xy; trajetória circular de raio R, encontrar ponto de impacto no detector.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": ["8.4"],
+    "confianca": "alta",
+    "observacao": "Sonda de m espiras dentro de solenoide com tensão crescendo linearmente; corrente variável no solenoide cria campo variável → FEM induzida pela Lei de Faraday.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": ["9.2"],
+    "confianca": "alta",
+    "observacao": "Foguete de 700 m a 3×10³ km/s: pulsos simultâneos no referencial do foguete; intervalo de tempo entre emissões no referencial da estação via relatividade da simultaneidade (transformações de Lorentz).",
+    "classificado_por": "claude"
+  }
+}

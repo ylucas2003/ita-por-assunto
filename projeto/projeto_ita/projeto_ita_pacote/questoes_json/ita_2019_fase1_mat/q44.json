@@ -1,0 +1,49 @@
+{
+  "id": "ita_2019_fase1_mat_q44",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 44,
+  "enunciado_md": "As faces de dez moedas são numeradas de modo que: a primeira moeda tem faces 1 e 2; a\nsegunda, 2 e 3; a terceira, 3 e 4, e assim sucessivamente até a décima moeda, com faces 10 e 11. As dez\nmoedas são lançadas aleatoriamente e os números exibidos são somados. Então, a probabilidade de que essa\nsoma seja igual a 60 é",
+  "alternativas": {
+    "A": "63 128.",
+    "B": "63 256.",
+    "C": "63 512.",
+    "D": "189 512.",
+    "E": "189 1024."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Moedas numeradas lançadas sucessivamente, análise de probabilidade de eventos — probabilidade."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q44.png",
+  "usa_imagem_no_render": true
+}

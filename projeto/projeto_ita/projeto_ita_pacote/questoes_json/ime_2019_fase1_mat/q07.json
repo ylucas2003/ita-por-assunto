@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "enunciado_md": "Valor: 0,25 \n \nUm inteiro positivo é escrito em cada uma das seis faces de um cubo. Para cada vértice, é calculado o \nproduto dos números escritos nas três faces adjacentes. Se a soma desses produtos é 1105, a soma dos \nseis números das faces é:",
+  "alternativas": {
+    "A": "22",
+    "B": "35",
+    "C": "40",
+    "D": "42",
+    "E": "50 3"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Análise Combinatória"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Inteiro positivo em cada face de cubo, produto nos vértices — análise combinatória."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q07.png",
+  "usa_imagem_no_render": true
+}

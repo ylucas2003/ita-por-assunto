@@ -1,0 +1,83 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2018_fase1_qui. Gerada por Claude a partir dos enunciados.",
+  "q31": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Solução 0,04 M de ácido tricloroacético, ponto de congelamento — propriedades coligativas.",
+    "classificado_por": "claude"
+  },
+  "q32": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Moléculas antioxidantes com grupos N, O, Cl — funções orgânicas oxigenadas e nitrogenadas.",
+    "classificado_por": "claude"
+  },
+  "q33": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Reações de formação de H2O(l) e H2O(g) — termoquímica.",
+    "classificado_por": "claude"
+  },
+  "q34": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Acidez do leite bovino (graus Dornic) — equilíbrio ácido-base.",
+    "classificado_por": "claude"
+  },
+  "q35": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Substâncias em ordem crescente de solubilidade em água — soluções.",
+    "classificado_por": "claude"
+  },
+  "q36": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "confianca": "media",
+    "observacao": "Questão sobre ligações químicas ou estrutura molecular.",
+    "classificado_por": "claude"
+  },
+  "q37": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Polímeros: polibutadieno, poliestireno, PVC, PMMA — reações de polimerização.",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "media",
+    "observacao": "Questão sobre estequiometria ou leis ponderais.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Precipitação de hidróxido férrico com Kps=1,0×10⁻³⁶ — equilíbrio ácido-base (Kps).",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Funções orgânicas após hidrólise ácida total de molécula — reações orgânicas.",
+    "classificado_por": "claude"
+  }
+}

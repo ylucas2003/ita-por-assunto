@@ -1,0 +1,53 @@
+{
+  "id": "ita_2019_fase1_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "enunciado_md": "Considere um corpo celeste esférico e homogêneo de massa M e raio R atravessado de polo\na polo por um túnel cilíndrico retilíneo de diâmetro desprezível. Em um desses polos um objeto pontual é\nsolto a partir do repouso no instante t = 0. Sendo G a constante universal de gravitação, esse objeto vai\nalcançar o outro polo após o intervalo de tempo dado por",
+  "alternativas": {
+    "A": "✓R3 GM ◆1/2 .",
+    "B": "⇡ ✓R3 GM ◆1/2 .",
+    "C": "✓4R3 3GM ◆1/2 .",
+    "D": "2⇡ ✓R3 GM ◆1/2 .",
+    "E": "2⇡ ✓4R3 3GM ◆1/2 ."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Movimento Harmônico Simples"
+    ],
+    "blocos": [
+      "Gravitação",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Clássica: queda dentro de túnel através do centro de um planeta — gravitação (3.1) que resulta em MHS (4.1). Pede tempo de travessia = meio período do MHS."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao": "imagens/ita_2019_fase1/ita_2019_fase1_q03.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1/ita_2019_fase1_q03.png"
+}

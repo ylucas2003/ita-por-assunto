@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "enunciado_md": "Valor: 0,25\nSeja B o conjunto de todos os valores de x ∈IR para os quais a soma dos termos da progressão\n−4\n3x, 16\n9x2, −64\n27x3, 256\n81x4, · · ·\nassume um valor finito. Define-se a função f : B →IR, para cada x ∈B, tal que\nf(x) = −4\n3x + 16\n9x2 −64\n27x3 + 256\n81x4 −· · ·\nA soma das raízes da equação f(x) = −x, x ∈B, é:",
+  "alternativas": {
+    "A": "0",
+    "B": "−2",
+    "C": "−4/3",
+    "D": "2/3",
+    "E": "4/3 2"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Progressão geométrica −4/3x, 16/9x², … com soma dada — sequências e PG."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q02.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,93 @@
+{
+  "_comentario": "IME 2020/2021 Fase 1 — Física (Q16-30)",
+  "q16": {
+    "topicos_ids": ["5.1"],
+    "confianca": "media",
+    "observacao": "Cubos de resina com arestas 4,5 cm — flotação/densidade, princípio de Arquimedes",
+    "classificado_por": "claude"
+  },
+  "q17": {
+    "topicos_ids": ["7.2"],
+    "confianca": "alta",
+    "observacao": "Experiência de Young (fenda dupla) — interferência da luz, óptica física",
+    "classificado_por": "claude"
+  },
+  "q18": {
+    "topicos_ids": ["2.1"],
+    "confianca": "alta",
+    "observacao": "Quatro partículas nos vértices de um quadrilátero partem simultaneamente — cinemática de perseguição",
+    "classificado_por": "claude"
+  },
+  "q19": {
+    "topicos_ids": ["8.2"],
+    "confianca": "alta",
+    "observacao": "Circuito com fio de 2 mm² de seção transversal e resistividade — eletrodinâmica, resistência elétrica",
+    "classificado_por": "claude"
+  },
+  "q20": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Duas máquinas de Carnot — termodinâmica, eficiência, ciclo de Carnot",
+    "classificado_por": "claude"
+  },
+  "q21": {
+    "topicos_ids": ["2.2"],
+    "confianca": "alta",
+    "observacao": "Corpo de gelo em gangorra com barra — equilíbrio de torques, estática",
+    "classificado_por": "claude"
+  },
+  "q22": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "Projétil de massa m disparado contra blocos A e B — colisão, impulso e quantidade de movimento",
+    "classificado_por": "claude"
+  },
+  "q23": {
+    "topicos_ids": ["2.1", "8.3"],
+    "confianca": "alta",
+    "observacao": "Partícula de carga q positiva lançada obliquamente em campo — cinemática com força de Lorentz",
+    "classificado_por": "claude"
+  },
+  "q24": {
+    "topicos_ids": ["8.1"],
+    "confianca": "alta",
+    "observacao": "Capacitor de placas paralelas com dielétrico — eletrostática, capacitância",
+    "classificado_por": "claude"
+  },
+  "q25": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "Vista superior antes e após impacto — colisão, conservação de momento linear",
+    "classificado_por": "claude"
+  },
+  "q26": {
+    "topicos_ids": ["6.1"],
+    "confianca": "media",
+    "observacao": "Três barras de aço AB, BC, CA formando triângulo pitagórico — dilatação térmica das barras",
+    "classificado_por": "claude"
+  },
+  "q27": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Fundir 50 kg de material — calorimetria, calor de fusão, transferência de calor",
+    "classificado_por": "claude"
+  },
+  "q28": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Afirmativas sobre água e gelo flutuante a 0°C — termodinâmica, transição de fase, expansão",
+    "classificado_por": "claude"
+  },
+  "q29": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Planeta hipotético X com massa 4MT — gravitação universal, leis de Kepler",
+    "classificado_por": "claude"
+  },
+  "q30": {
+    "topicos_ids": ["8.2", "8.4"],
+    "confianca": "alta",
+    "observacao": "Caixa preta com indutor, capacitor e resistor — circuito RLC, indução, oscilações eletromagnéticas",
+    "classificado_por": "claude"
+  }
+}

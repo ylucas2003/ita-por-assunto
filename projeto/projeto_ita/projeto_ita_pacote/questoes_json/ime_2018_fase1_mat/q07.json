@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "enunciado_md": "Valor: 0,25 \n \nDefinimos a função 𝑓: ℕ⟶ℕ da seguinte forma: \n{\n \n \n𝑓(0) = 0\n𝑓(1) = 1\n𝑓(2𝑛) = 𝑓(𝑛),\n𝑛≥1\n𝑓(2𝑛+ 1) = 𝑛2, 𝑛≥1\n \nDefinimos a função 𝑔: ℕ⟶ℕ da seguinte forma: 𝑔(𝑛) = 𝑓(𝑛)𝑓(𝑛+ 1). \nPodemos afirmar que:",
+  "alternativas": {
+    "A": "g é uma função sobrejetora.",
+    "B": "g é uma função injetora.",
+    "C": "f é uma função sobrejetora.",
+    "D": "f é uma função injetora.",
+    "E": "g(2018) tem mais do que 4 divisores positivos."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Funções Reais"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Funções f e g definidas recursivamente em ℕ — funções reais."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q07.png",
+  "usa_imagem_no_render": true
+}

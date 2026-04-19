@@ -1,0 +1,43 @@
+{
+  "id": "ime_2024_fase1_q28",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 28,
+  "enunciado_md": "Valor: 0,25\nUma lente convergente é construída usando um material de índice de refração n, podendo a sua\ndistância focal f ser calculada usando a equação dos fabricantes de lentes. Um objeto é posicio-\nnado no eixo da lente e muito distante da mesma.\nObservações:\n• f é proporcional a (n −1)−1;\n• n > 1;\n• seja x tal que |x| << 1, então (1 −x)−1 ≃1 + x.\nCaso haja uma ínfima variação na constituição do índice de refração do material (n →n + ∆n),\na variação ∆i na posição final da imagem do objeto (i →i + ∆i) é, aproximadamente:\na) f∆n/n\nb) f∆n/(n −1)\nc) −f∆n/(n −1)\nd) −f∆n/(n2 −1)\ne) f∆n/(n2 −1)",
+  "alternativas": {},
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Lente convergente de material índice n, equação do fabricante de lentes — óptica geométrica."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q28.png",
+  "usa_imagem_no_render": true
+}

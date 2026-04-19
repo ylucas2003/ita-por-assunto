@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_q17",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 17,
+  "enunciado_md": "Valor: 0,25\nNa figura mostra-se um tanque sendo alimentado por uma bomba d’água, um agitador e um sistema\nde aquecimento.\nDados:\n• massa específica da água: 1 g/cm³;\n• calor específico da água: 1 cal/(g.°C);\n• vazão de água da bomba: 10 L/min;\n• 1 cal = 4,2 J.\nObservações:\n• não há perdas de calor pelo tanque;\n• toda energia dissipada pela resistência aquece a água;\n• o agitador mistura toda a água do tanque, mantendo-a numa mesma temperatura.\nA água do tanque e a fornecida pela bomba encontram-se a 20 °C. Em determinado instante, o\ntanque contém 220 L de água e a chave S do sistema de aquecimento é fechada. O tempo, em\nminutos, para que a água do tanque atinja 60 °C será:",
+  "alternativas": {
+    "A": "8",
+    "B": "11",
+    "C": "14",
+    "D": "17",
+    "E": "20 7"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tanque com bomba d'água, agitador e aquecimento, massa específica — hidrodinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q17.png",
+  "usa_imagem_no_render": true
+}

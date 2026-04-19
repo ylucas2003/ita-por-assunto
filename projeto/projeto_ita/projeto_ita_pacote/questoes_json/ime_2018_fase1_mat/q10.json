@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "enunciado_md": "Valor: 0,25 \nO número de soluções reais da equação abaixo é: \n(cos 𝑥)2018 = 2 −2(𝑥𝜋\n⁄ )2",
+  "alternativas": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "3",
+    "E": "4 4"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Soluções reais de (cos x)²⁰¹⁸ = 2−2(x/π)² — funções transcendentes."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q10.png",
+  "usa_imagem_no_render": true
+}

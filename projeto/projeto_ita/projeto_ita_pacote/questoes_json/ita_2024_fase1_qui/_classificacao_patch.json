@@ -1,0 +1,76 @@
+{
+  "_comentario": "Classificação das 12 questões de Química do ITA 2024 1ª fase. Feita por Claude a partir da análise dos enunciados.",
+
+  "q49": {
+    "topicos_ids": ["2.1", "4.1"],
+    "confianca": "alta",
+    "observacao": "Combustão completa de misturas estequiométricas, cálculos de massa/mol de produtos — estequiometria e termoquímica.",
+    "classificado_por": "claude"
+  },
+  "q50": {
+    "topicos_ids": ["7.2"],
+    "confianca": "alta",
+    "observacao": "Ciclo do nitrogênio, formas inorgânicas de nitrogênio no solo, fixação biológica e industrial — química ambiental.",
+    "classificado_por": "claude"
+  },
+  "q51": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Identificação de reação endotérmica entre as opções — termoquímica (entalpia e direção de reações).",
+    "classificado_por": "claude"
+  },
+  "q52": {
+    "topicos_ids": ["1.3"],
+    "confianca": "media",
+    "observacao": "Processos físico-químicos interpretados utilizando modelos de ligação e interações intermoleculares — ligações químicas.",
+    "classificado_por": "claude"
+  },
+  "q53": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Misturas azeotrópicas, destilação fracionada, processos de separação — soluções e propriedades.",
+    "classificado_por": "claude"
+  },
+  "q54": {
+    "topicos_ids": ["3.3", "6.2"],
+    "confianca": "alta",
+    "observacao": "Comparações de pKa de compostos orgânicos, acidez relativa de grupos funcionais — equilíbrio ácido-base e funções orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q55": {
+    "topicos_ids": ["5.1", "3.2"],
+    "confianca": "media",
+    "observacao": "Ocorrência de reações em condições padrão, espontaneidade por potencial de redução ou ΔG — eletroquímica e equilíbrio.",
+    "classificado_por": "claude"
+  },
+  "q56": {
+    "topicos_ids": ["3.3"],
+    "confianca": "alta",
+    "observacao": "Solução de ácido monoprótico fraco, cálculo de pH e grau de ionização — equilíbrio ácido-base.",
+    "classificado_por": "claude"
+  },
+  "q57": {
+    "topicos_ids": ["6.3"],
+    "confianca": "alta",
+    "observacao": "Reatividade do ácido acético comparada a outros compostos orgânicos, mecanismos de reações orgânicas — reações orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q58": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Substância A dissolvida em solvente, propriedades coligativas (tonoscopia, ebullioscopia, crioscopia, osmoscopia) — soluções.",
+    "classificado_por": "claude"
+  },
+  "q59": {
+    "topicos_ids": ["5.1"],
+    "confianca": "alta",
+    "observacao": "Células eletroquímicas, potencial padrão de célula, eletrodos — eletroquímica.",
+    "classificado_por": "claude"
+  },
+  "q60": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Energias de ligação do H₂, Cl₂ e HCl, cálculo de entalpia de reação pela lei de Hess — termoquímica.",
+    "classificado_por": "claude"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_q20",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 20,
+  "enunciado_md": "O arco-íris é um fenômeno meteorológico de grande beleza e com profundo\nsimbolismo para diferentes culturas. Sua explicac¸ ão física foi debatida desde a antigui-\ndade até o início da idade moderna. A respeito desse fenômeno, são feitas as seguintes\nafirmac¸ ões:\nI. Cada componente de comprimento de onda da luz do Sol que incide sobre uma\ngotícula de água suspensa na atmosfera emerge com o mesmo ângulo de espalha-\nmento.\nII. Para a formac¸ ão do arco-íris, são necessárias tanto a ocorrência de refrac¸ ão quanto\na de reflexão da luz.\nIII. O efeito visual do arco-íris é resultado de a luz do Sol ser policromática e de a água\nser um meio dispersivo na faixa do espectro eletromagnético visível.\nEstá(ão) correta(s):",
+  "alternativas": {
+    "A": "apenas I.",
+    "B": "apenas I e II.",
+    "C": "apenas I e III.",
+    "D": "apenas II e III.",
+    "E": "I, II e III."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Arco-íris — óptica geométrica, refração, reflexão interna total, dispersão da luz"
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1/ita_2025_fase1_q20.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,83 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2022_fase1_qui. Gerada por Claude a partir dos enunciados.",
+  "q31": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Célula voltaica, ΔGr=−nFEcel — eletroquímica.",
+    "classificado_por": "claude"
+  },
+  "q32": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Mistura gasosa de O2 e acetileno em vaso fechado — gases.",
+    "classificado_por": "claude"
+  },
+  "q33": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Catalisadores para processos industriais e biotecnológicos — cinética química.",
+    "classificado_por": "claude"
+  },
+  "q34": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Arcabouço parcial da Tabela Periódica, sal com ânion monoatômico — tabela periódica.",
+    "classificado_por": "claude"
+  },
+  "q35": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "confianca": "media",
+    "observacao": "Questão sobre ligações químicas ou propriedades moleculares.",
+    "classificado_por": "claude"
+  },
+  "q36": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Mapa de contorno de superfície de energia potencial para A+BC→AB+C — cinética química.",
+    "classificado_por": "claude"
+  },
+  "q37": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Reação entre ciclohexa-1,4-dieno e ciclopentadieno por aquecimento (Diels-Alder) — reações orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Prednisona convertida em prednisolona pelo fígado, estrutura — funções orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Teoria dos gases ideais e equação de van der Waals — gases.",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois reatores A e B a 819°C, equilíbrio químico — equilíbrio químico.",
+    "classificado_por": "claude"
+  }
+}

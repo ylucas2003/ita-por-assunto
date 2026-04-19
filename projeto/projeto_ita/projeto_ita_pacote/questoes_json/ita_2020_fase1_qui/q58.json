@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_qui_q58",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 58,
+  "enunciado_md": "A amônia, uma das principais matérias-primas da indústria de fertilizantes, é produzida \nem escala industrial pelo processo conhecido como Haber-Bosch. Neste, uma reação entre H2(g) e N2(g) é \ncatalisada com ferro em um reator mantido a 200 atm e 450 ºC. Sobre essa reação exotérmica, sejam \nfeitas as seguintes proposições: \nI. \nO aumento da pressão no reator, mediante adição de um gás inerte, aumenta o rendimento do \nprocesso. \nII. \nO uso de um catalisador mais efetivo aumenta o rendimento do processo. \nIII. \nUma vez atingido o equilíbrio, não ocorrem mais colisões efetivas entre moléculas de H2(g) e \nN2(g). \nIV. \nConsiderando que ainda exista superação da energia de ativação, a redução da temperatura no \nreator diminui a velocidade da reação, mas favorece a formação de amônia. \nAssinale a opção que apresenta a(s) afirmação(ões) CORRETA(S) sobre a reação de formação da \namônia.",
+  "alternativas": {
+    "A": "apenas I",
+    "C": "apenas II e III",
+    "E": "apenas IV",
+    "B": "apenas I e II",
+    "D": "apenas III e IV 21"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Processo Haber-Bosch (N2 + H2 → NH3), equilíbrio químico, constante de equilíbrio, catalisador"
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q58.png",
+  "usa_imagem_no_render": true
+}

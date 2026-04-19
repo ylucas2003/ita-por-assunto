@@ -1,0 +1,43 @@
+{
+  "id": "ime_2024_fase1_q20",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 20,
+  "enunciado_md": "Valor: 0,25\nPara simular o protótipo de um navio, um engenheiro constrói um prisma reto, com seção reta no\nformato de um triângulo equilátero, a partir de quatro chapas metálicas (duas triangulares de lado\nL, duas retangulares 6L×L) e uma chapa retangular superior de massa desprezível e dimensões\n6L × L. A estrutura encontra-se bem vedada e contém ar em seu interior. Uma carga cúbica\nde aresta 0,5L é fixada simetricamente sobre o prisma e em conformidade com as figuras. Em\nseguida, a estrutura (prisma + carga) é colocada numa piscina, afundando h.\nDados:\n• massa específica superficial das chapas metálicas: 8 kg/m2;\n• massa específica volumétrica da carga cúbica: 240 kg/m3;\n• massa específica da água: 1000 kg/m3;\n• L = 20 cm;\n•\n√\n3 ≃1,7;\n•\n6\n5\n√\n3 = 2\n√\n3\n5\n≈0,68.\nSupondo que a estrutura flutue de forma equilibrada, o valor de h, em centímetros, pode ser arre-\ndondado para:\na) 8\nb) 10\nc) 12\nd) 14\ne) 16\n9",
+  "alternativas": {},
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Prisma reto como protótipo de navio — hidrostática (flutuação)."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q20.png",
+  "usa_imagem_no_render": true
+}

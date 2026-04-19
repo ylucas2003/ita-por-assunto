@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_mat_q11",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 11,
+  "enunciado_md": "Valor: 0,25 \nSeja um triângulo ABC com lados a, b e c opostos aos ângulos 𝐴̂, 𝐵̂ e 𝐶̂, respectivamente. Os lados \na, b e c formam uma progressão aritmética nesta ordem. Determine a relação correta entre as funções \ntrigonométricas dos ângulos dos vértices desse triângulo.",
+  "alternativas": {
+    "A": "2𝑠𝑒𝑛(𝐴̂ + 𝐶̂) = 𝑠𝑒𝑛(𝐴̂) + 𝑠𝑒𝑛(𝐶̂)",
+    "B": "2𝑐𝑜𝑠(𝐴̂ + 𝐶̂) = 𝑐𝑜𝑠(𝐴̂) + 𝑐𝑜𝑠(𝐶̂)",
+    "C": "2𝑠𝑒𝑛(𝐴̂ −𝐶̂) = 𝑠𝑒𝑛(𝐴̂) −𝑠𝑒𝑛(𝐶̂)",
+    "D": "2𝑐𝑜𝑠(𝐴̂ −𝐶̂) = 𝑐𝑜𝑠(𝐴̂) −𝑐𝑜𝑠(𝐶̂)",
+    "E": "2𝑐𝑜𝑠(𝐴̂ + 𝐶̂) = 𝑠𝑒𝑛(𝐴̂) + 𝑠𝑒𝑛(𝐶̂)"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triângulo ABC com lados em progressão aritmética — geometria plana."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q11.png",
+  "usa_imagem_no_render": true
+}

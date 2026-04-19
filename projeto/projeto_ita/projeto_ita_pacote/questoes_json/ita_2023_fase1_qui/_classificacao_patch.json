@@ -1,0 +1,76 @@
+{
+  "_comentario": "Classificação das 12 questões de Química do ITA 2023 1ª fase. Feita por Claude a partir da análise dos enunciados.",
+
+  "q49": {
+    "topicos_ids": ["3.3"],
+    "confianca": "alta",
+    "observacao": "Titulação de ácido monoprótico fraco, constante de ionização, curva de titulação — equilíbrio ácido-base.",
+    "classificado_por": "claude"
+  },
+  "q50": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Constante de velocidade k em função da temperatura T (Lei de Arrhenius) — cinética química.",
+    "classificado_por": "claude"
+  },
+  "q51": {
+    "topicos_ids": ["1.2"],
+    "confianca": "alta",
+    "observacao": "Afirmações sobre átomos e íons em estado gasoso, energia de ionização, raio iônico, afinidade eletrônica — tabela periódica e propriedades dos elementos.",
+    "classificado_por": "claude"
+  },
+  "q52": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Curvas de perfil de energia de uma mesma reação em condições diferentes, energia de ativação, catalisador — cinética química.",
+    "classificado_por": "claude"
+  },
+  "q53": {
+    "topicos_ids": ["1.3", "6.2"],
+    "confianca": "alta",
+    "observacao": "Compostos orgânicos (estruturas I-IV), identificação dos que formam ligações de hidrogênio intermoleculares — ligações químicas e funções orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q54": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Eletrólito BA₂ ⇌ B²⁺ + 2A⁻, grau de ionização, pressão osmótica ou propriedade coligativa — soluções.",
+    "classificado_por": "claude"
+  },
+  "q55": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Isótopo mais abundante do oxigênio e do hidrogênio, relações entre isótopos — estrutura atômica.",
+    "classificado_por": "claude"
+  },
+  "q56": {
+    "topicos_ids": ["3.2"],
+    "confianca": "alta",
+    "observacao": "Mistura gasosa X₂, Y₂ e XY adicionada a recipiente, Kc ou Kp — equilíbrio químico.",
+    "classificado_por": "claude"
+  },
+  "q57": {
+    "topicos_ids": ["3.1", "1.2"],
+    "confianca": "alta",
+    "observacao": "Energia de hidratação de íons relacionada a tamanho e carga, distância íon-solvente — soluções e propriedades periódicas.",
+    "classificado_por": "claude"
+  },
+  "q58": {
+    "topicos_ids": ["6.2", "6.3"],
+    "confianca": "alta",
+    "observacao": "Afirmações sobre óleos e gorduras: estado físico à temperatura ambiente, saponificação, insaturações — funções orgânicas e reações (hidrólise/saponificação).",
+    "classificado_por": "claude"
+  },
+  "q59": {
+    "topicos_ids": ["1.4"],
+    "confianca": "alta",
+    "observacao": "Afirmações sobre ácidos (fosfórico, clorídrico, etc.), número de hidrogênios ionizáveis, força — funções inorgânicas.",
+    "classificado_por": "claude"
+  },
+  "q60": {
+    "topicos_ids": ["3.2"],
+    "confianca": "alta",
+    "observacao": "Diagramas de estados de equilíbrio de reação exotérmica A⇌B, efeito de temperatura/pressão — equilíbrio químico.",
+    "classificado_por": "claude"
+  }
+}

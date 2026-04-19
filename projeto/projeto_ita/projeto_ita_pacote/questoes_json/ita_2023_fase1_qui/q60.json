@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_qui_q60",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 60,
+  "enunciado_md": "Os seguintes diagramas representam diferentes estados de equilíbrio de uma reação \nexotérmica do tipo 𝐴ଶሺ𝑔ሻ+ 𝐵ଶሺ𝑔ሻ⇌2𝐴𝐵ሺ𝑔ሻ. \n(I) \n \n(II) \n \n(III) \n \n(IV) \n \nAssinale a opção que contém a afirmação CORRETA.",
+  "alternativas": {
+    "A": "Se a constante de equilíbrio da reação, Kc, em um determinada temperatura, é igual a 3, apenas o diagrama (I) representa o sistema no equilíbrio.",
+    "B": "Os diagramas (II) e (IV) podem representar a situação da reação em equilíbrio em duas temperaturas diferentes, com TII ˃ TIV.",
+    "C": "Se todos os diagramas representam a reação em equilíbrio, o diagrama (III) representa a reação com a menor constante de equilíbrio.",
+    "D": "Se a pressão for reduzida à metade pela duplicação do volume, em temperatura constante, os diagramas (II) e (III) representam a reação em equilíbrio para o estado inicial e final, respetivamente, desse processo, com VII = 2VIII.",
+    "E": "Se cada símbolo que representa uma molécula nos diagramas equivale a 0,20 mol e se o volume do recipiente é 1,0 L, a constante de equilíbrio da reação representada pelo diagrama (I) é 0,5. RASCUNHO 22 RASCUNHO 23 RASCUNHO 24 RASCUNHO 25 RASCUNHO 26 RASCUNHO 27 RASCUNHO 28 RASCUNHO 29 RASCUNHO 30 RASCUNHO 31 RASCUNHO 32"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Diagramas de estados de equilíbrio de reação exotérmica A⇌B, efeito de temperatura/pressão — equilíbrio químico."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_qui/ita_2023_fase1_qui_q60.png",
+  "usa_imagem_no_render": true
+}

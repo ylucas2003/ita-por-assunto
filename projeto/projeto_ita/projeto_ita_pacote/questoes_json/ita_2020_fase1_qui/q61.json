@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_qui_q61",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 61,
+  "enunciado_md": "Em um experimento realizado a 298 K foram adicionados 20,0 mL de HCl 1,5.10−4 mol \nL−1 a 0,48 L de uma solução de limpeza contendo 3,01.10−6 mol de uma base forte hipotética XOH. O \nvalor da concentração de H3O+, em mol L1, na solução resultante é igual a",
+  "alternativas": {
+    "A": "1,0 . 10−8.",
+    "C": "1,0 . 10−7.",
+    "E": "8,2 . 10−7.",
+    "B": "8,3 . 10−8.",
+    "D": "1,2 . 10−7."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Ácido-Base"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "20 mL HCl 1,5×10⁻⁴ mol/L adicionado a 0,48 L de solução — titulação ácido-base, pH"
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q61.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_qui_q62",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 62,
+  "enunciado_md": "Um reator com 200 L de capacidade, possui uma mistura de dióxido de nitrogênio e \nmonóxido de carbono a 400 K, cujo comportamento pode ser considerado ideal. Os gases reagem entre si \npara formar dióxido de carbono e monóxido de nitrogênio. A pressão total no reator é igual a 32,8 atm e, \nno início da reação, a pressão parcial do monóxido de carbono é três vezes maior que a do dióxido de \nnitrogênio. As massas iniciais de dióxido de nitrogênio e de monóxido de carbono são, respectivamente,",
+  "alternativas": {
+    "A": "1,5 kg e 4,2 kg.",
+    "C": "1,5 kg e 6,6 kg.",
+    "E": "2,3 kg e 6,6 kg.",
+    "B": "1,5 kg e 4,5 kg.",
+    "D": "2,3 kg e 4,2 kg. 22"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Reator 200 L com NO2 e CO a 400 K — equilíbrio químico, Kc/Kp, cálculo de concentrações"
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q62.png",
+  "usa_imagem_no_render": true
+}

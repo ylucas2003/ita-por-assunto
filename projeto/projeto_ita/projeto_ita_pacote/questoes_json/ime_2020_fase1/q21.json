@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_q21",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 21,
+  "enunciado_md": "Valor: 0,25\nUm corpo de gelo está disposto na extremidade de uma gangorra que possui uma barra de com-\nprimento C, cuja massa é uniformemente distribuída. Inicialmente, o sistema está em repouso,\nconforme mostra a figura acima. Em t = 0, o gelo é aquecido por um resistor de resistência R,\npercorrido por uma corrente elétrica contínua i.\nDados:\n• calor latente de fusão do gelo = Lf;\n• massa da barra da gangorra: m; e\n• massa inicial do bloco de gelo: 4m.\nConsiderando que a água proveniente do gelo não se acumula na gangorra e que todo o calor\nproveniente do aquecimento da resistência é empregado para aquecer o gelo, o instante de tempo\nt em que a barra iniciará seu movimento será:",
+  "alternativas": {
+    "A": "mLf 2Ri2",
+    "B": "3mLf Ri2",
+    "C": "5mLf 2Ri2",
+    "D": "11mLf 2Ri2",
+    "E": "2mLf Ri2"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Corpo de gelo em gangorra com barra — equilíbrio de torques, estática"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

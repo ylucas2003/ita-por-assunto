@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_qui_q36",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 36,
+  "enunciado_md": "Valor: 0,25\nAnalise as afirmativas abaixo.\nI.\nA imersão de limalha de ferro em um béquer aberto contendo uma solução de ácido clorídrico\nprovoca a liberação de bolhas de gás. Nesse processo, não há realização nem recebimento\nde trabalho.\nII.\nUma solução de ácido iodídrico de concentração igual a 1,0 × 10−8 mol.L−1 tem pH igual a\n8.\nIII.\nSe dois béqueres, um contendo água pura e o outro contendo uma solução insaturada de sa-\ncarose, forem submetidos ao aquecimento, a solução de sacarose ebulirá a uma temperatura\nconstante e superior à temperatura de ebulição da água pura.\nIV.\nPara a reação de combustão completa do gás metano, gerando apenas produtos gasosos, as\nvariações de entalpia e de energia interna têm o mesmo valor.\nA única alternativa CORRETA é:",
+  "alternativas": {
+    "A": "Apenas a afirmativa I é verdadeira.",
+    "B": "Apenas a afirmativa II é verdadeira.",
+    "C": "Apenas a afirmativa III é verdadeira.",
+    "D": "Apenas a afirmativa IV é verdadeira.",
+    "E": "Todas as afirmativas são falsas. 20"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Limalha de ferro em HCl, liberação de H2 (reações de imersão) — estequiometria."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_qui/ime_2024_fase1_qui_q36.png",
+  "usa_imagem_no_render": true
+}

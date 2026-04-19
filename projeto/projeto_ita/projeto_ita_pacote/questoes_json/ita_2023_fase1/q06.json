@@ -1,0 +1,50 @@
+{
+  "id": "ita_2023_fase1_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "enunciado_md": "Considere uma máquina térmica que opera com um ciclo termodinâmico composto de quatro\netapas: (i) expansão isotérmica, à temperatura Tq, saindo do volume inicial V0 até o volume final Vf; (ii)\nresfriamento isocórico de Tq até Tf; (iii) compressão isotérmica, à temperatura Tf, de Vf até V0; e (iv)\naquecimento isocórico de Tf até Tq. A máquina é inicialmente preparada para operar com o ar atmosférico\ncomo fluido de trabalho. Sobre esse sistema, são feitas as seguintes afirmações:\nI. Aumentando-se a razão de expansão, r = Vf/Vi, é possível aumentar o rendimento da máquina mantendo\nos demais parâmetros fixos.\nII. Se o fluido de trabalho fosse substituído por um gás nobre, então o rendimento dessa máquina seria\naumentado.\nIII. Considerando os parâmetros r = 10, Tf = 300 K e Tq = 900 K, o valor do rendimento da máquina é\nsuperior a 50%.\nSobre as afirmações I, II e III pode-se afirmar que",
+  "alternativas": {
+    "A": "todas estão corretas.",
+    "B": "apenas I está incorreta.",
+    "C": "apenas II está incorreta.",
+    "D": "apenas III está incorreta.",
+    "E": "apenas I e III estão incor- retas."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Máquina térmica de quatro etapas (expansão isotérmica, resfriamento isocórico, compressão isotérmica, aquecimento isocórico): eficiência pela 2ª lei da termodinâmica."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao": "imagens/ita_2023_fase1/ita_2023_fase1_q06.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1/ita_2023_fase1_q06.png"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_mat_q45",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 45,
+  "enunciado_md": "Considere um triângulo ABC e M o ponto médio do lado BC. Tome o ponto\nR ̸= A na reta AB tal que m(AB) = m(BR) e o ponto Q na reta AC tal que m(AC) = 2 m(CQ)\ne Q não esteja no segmento AC. A reta RM corta o lado AC no ponto S e a reta QM corta\no lado AB no ponto P. Sendo 24 a área do triângulo ABC, o valor da área do quadrilátero\nAPMS vale:",
+  "alternativas": {
+    "A": "15.",
+    "B": "16.",
+    "C": "17.",
+    "D": "18.",
+    "E": "19."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triângulo ABC, M ponto médio de BC, ponto R na reta AB, relação de ângulos e medianas — geometria plana."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_mat/ita_2024_fase1_mat_q45.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_qui_q37",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 37,
+  "enunciado_md": "Valor: 0,25 \n \nConsidere as representações, não identificadas, dos seguintes polímeros: polibutadieno, poliestireno, \npoli(cloreto de vinila), poli(metacrilato de metila) e poli(cloreto de vinilideno). \n \nCom base nessas estruturas, avalie as sentenças a seguir: \nI – O poli(cloreto de vinilideno) apresenta isomeria óptica enquanto o poli(cloreto de vinila) não apresenta \nisomeria óptica. \nII – O polibutadieno pode apresentar estereoisômeros cis e trans. \nIII – A massa molar do mero do poliestireno é maior do que a do mero do polibutadieno. \nIV – A transesterificação do poli(metacrilato de metila) com etanol produz acetato de metila mais o poli(álcool \nvinílico). \nÉ correto apenas o que se afirma nas sentenças:",
+  "alternativas": {
+    "A": "II e III.",
+    "B": "I e II.",
+    "C": "II e IV.",
+    "D": "I, III e IV.",
+    "E": "I, II e III. 20"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polímeros: polibutadieno, poliestireno, PVC, PMMA — reações de polimerização."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_qui/ime_2018_fase1_qui_q37.png",
+  "usa_imagem_no_render": true
+}

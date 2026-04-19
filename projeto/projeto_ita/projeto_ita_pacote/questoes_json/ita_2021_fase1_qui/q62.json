@@ -1,0 +1,52 @@
+{
+  "id": "ita_2021_fase1_qui_q62",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 62,
+  "enunciado_md": "A Análise Termogravimétrica (TGA) é \numa técnica empregada para avaliar o comportamento \ntérmico de amostras mensurando a variação de massa. \nA figura mostra a curva de TGA típica para o oxalato \nde cálcio monohidratado, submetido a uma taxa \nconstante de aquecimento, sob fluxo de um gás inerte. \nCom base nessa figura e sabendo que a massa inicial \ncorresponde a 100%, é ERRADO afirmar que",
+  "alternativas": {
+    "A": "a decomposição térmica do oxalato de cálcio ocorre em três etapas.",
+    "B": "água de hidratação é eliminada da estrutura cristalina do oxalato de cálcio a temperatura maior que 100 °C.",
+    "C": "a decomposição do oxalato de cálcio ocorre com formação de monóxido e de dióxido de carbono.",
+    "D": "o evento térmico que ocorre a 800 °C leva à formação de cal virgem.",
+    "E": "na decomposição do oxalato de cálcio, praticamente 40% da amostra é perdida na forma de gases."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Análise Qualitativa e Quantitativa",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética",
+      "Química Analítica e Ambiental"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Análise Termogravimétrica (TGA), comportamento térmico de amostras — análise quantitativa e termoquímica"
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_qui/ita_2021_fase1_qui_q62.png",
+  "usa_imagem_no_render": true
+}

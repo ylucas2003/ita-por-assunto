@@ -1,0 +1,52 @@
+{
+  "id": "ita_2021_fase1_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "enunciado_md": "Um recipiente, de secção de área constante e igual a A, é preenchido por uma coluna de\nlíquido de densidade ρ e altura H. Sobre o líquido encontra-se um pistão de massa M, que pode se deslocar\nverticalmente livre de atrito. Um furo no recipiente é feito a uma altura h, de tal forma que um filete de\nágua é expelido conforme mostra a figura. Assinale a alternativa que contém o alcance horizontal D do jato\nde água.",
+  "alternativas": {
+    "A": "2 q (H −h)(h + m ρA)",
+    "B": "q 2h(H −h + m ρA)",
+    "C": "2 q h(H −h + m ρA)",
+    "D": "2 q h(H −h + m 2ρA)",
+    "E": "q h(H −h + m ρA) E ( ) mg + √ 8kmV 2. E ( ) mg + √ 8kmV 2. E ( ) mg + √ 8kmV 2. D H M g h"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mista: Bernoulli/Torricelli modificado com pressão extra do pistão (5.1) determina velocidade de saída; cinemática de projétil dá alcance horizontal D (2.1)."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1/ita_2021_fase1_q05.png",
+  "usa_imagem_no_render": true
+}

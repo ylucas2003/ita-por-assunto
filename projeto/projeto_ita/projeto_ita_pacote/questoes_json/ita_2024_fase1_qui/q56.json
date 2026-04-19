@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_qui_q56",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 56,
+  "enunciado_md": "Considere 1 L de solução aquosa preparada por meio da adição de 1 mol de \num ácido monoprótico hipotético, 1 mol de sua base conjugada e 0,82 mol de uma base \nforte. Sabendo que a constante de ionização do ácido é igual a 104, assinale a alternativa \nque melhor representa o pH da solução resultante.",
+  "alternativas": {
+    "A": "4.",
+    "B": "5.",
+    "C": "6.",
+    "D": "7.",
+    "E": "8."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Ácido-Base"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Solução de ácido monoprótico fraco, cálculo de pH e grau de ionização — equilíbrio ácido-base."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_qui/ita_2024_fase1_qui_q56.png",
+  "usa_imagem_no_render": true
+}

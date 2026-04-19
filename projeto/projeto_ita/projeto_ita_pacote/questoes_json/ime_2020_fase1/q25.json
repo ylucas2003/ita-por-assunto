@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_q25",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 25,
+  "enunciado_md": "Valor: 0,25\nFigura 1 - Vista superior imediatamente antes do impacto.\nFigura 2 - Vista superior após o impacto.\nUm projetil atinge um colete balístico sem perfurá-lo. A ac¸ ão da fibra do tecido balístico no projetil\nestá representada na figura acima. A deformac¸ ão da fibra é transmitida pela propagac¸ ão de pulsos\nlongitudinais e transversais que se afastam radialmente do ponto de impacto, em que o projetil\nproduz uma deformac¸ ão em forma de cone no tecido. O pulso longitudinal, que se propaga ao\nlongo da fibra, faz com que ela se deforme, afinando na direc¸ ão radial. O pulso transversal, que\nse propaga com velocidade menor que a velocidade longitudinal, está associado à depressão. À\nmedida que o projetil penetra no tecido, o raio r da depressão aumenta fazendo com que o material\ndo colete se mova na mesma direc¸ ão do projetil, mantendo o ângulo θ. Sabe-se que a velocidade\ndo projetil logo após atingir o colete é dada pela func¸ ão horária v(t) = 250 −5 × 106t [m/s].\nDados:\n• velocidade do projétil antes do impacto: 250 m/s;\n• velocidade do pulso longitudinal na fibra: 2000 m/s; e\n• ângulo θ = 60°.\nNo instante em que a velocidade do projétil for nula, os raios aproximados das regiões deformadas\npelo pulso transversal (r) e pelo longitudinal (R), são, respectivamente:",
+  "alternativas": {
+    "A": "0,1 e 0,01",
+    "B": "0,01 e 0,01",
+    "C": "0,01 e 0,1",
+    "D": "0,1 e 0,001",
+    "E": "0,001 e 0,1 12"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Vista superior antes e após impacto — colisão, conservação de momento linear"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_qui_q31",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 31,
+  "enunciado_md": "Valor: 0,25\nEm uma célula voltaica a energia de Gibbs padrão de reação é determinada pela expressão:\n∆Go\nr = −nFEo\ncel\nem que n é um número adimensional que representa a quantidade de mols de elétrons transferidos\nnas semirreações de oxidação e de redução combinadas, F é a constante de Faraday e Eo\ncel é o\npotencial-padrão da célula.\nConsidere F = 96500 C/mol e os potenciais-padrão de redução do ferro e do alumínio, a 298 K,\nindicados abaixo.\nFe\n2+(aq) + 2 e\n– −−→Fe(s)\nEo = −0,44 V\nAl\n3+(aq) + 3 e\n– −−→Al(s)\nEo = −1,66 V\nPara uma célula voltaica formada pelo contato de dois metais quando uma peça de ferro é fixada\ncom parafusos de alumínio, a 298 K, avalie as asserções a seguir.\nI.\nO valor numérico de n é 5.\nII.\nCom o passar do tempo, a peça fixada irá cair devido à corrosão do ferro.\nIII.\nCom o passar do tempo, a peça fixada irá cair devido à corrosão do alumínio.\nIV.\nA energia de Gibbs padrão de reação da célula é igual a −706 kJ/mol.\nV.\nNa célula voltaica formada, a oxidação do ferro é um processo espontâneo.\nAssinale a opção que apresenta APENAS as afirmativas verdadeiras.",
+  "alternativas": {
+    "A": "I, II e V.",
+    "B": "I e III.",
+    "C": "II e III.",
+    "D": "III e IV.",
+    "E": "II, IV e V."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Célula voltaica, ΔGr=−nFEcel — eletroquímica."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_qui/ime_2022_fase1_qui_q31.png",
+  "usa_imagem_no_render": true
+}

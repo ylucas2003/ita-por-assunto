@@ -1,0 +1,93 @@
+{
+  "_comentario": "ITA 2021 Fase 1 — Matemática (Q41-55, 15 questões — ano com 70 questões totais)",
+  "q41": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "A simétrica, B antissimétrica de ordem ímpar, afirmações sobre (A+B)², det, traço — matrizes",
+    "classificado_por": "claude"
+  },
+  "q42": {
+    "topicos_ids": ["2.4"],
+    "confianca": "alta",
+    "observacao": "Inequação (x²+x+1)/(2x²−x−1) ≤ 1, conjunto solução S — inequações racionais",
+    "classificado_por": "claude"
+  },
+  "q43": {
+    "topicos_ids": ["4.1", "4.3"],
+    "confianca": "alta",
+    "observacao": "Triângulo isósceles PQR inscrito em circunferência de centro O=(5,0), P=(4,2√2), Q=(8,0) — geometria analítica",
+    "classificado_por": "claude"
+  },
+  "q44": {
+    "topicos_ids": ["4.3"],
+    "confianca": "alta",
+    "observacao": "Elipse 9x²+4y²+36x+24y+36=0, P=(0,0) vértice de retângulo circunscrito — cônicas",
+    "classificado_por": "claude"
+  },
+  "q45": {
+    "topicos_ids": ["4.1", "5.1"],
+    "confianca": "alta",
+    "observacao": "Triângulo ABC com AB=14, cos(BAC)=3/5, cos(ABC)=5/13, raio da circunferência inscrita",
+    "classificado_por": "claude"
+  },
+  "q46": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "Gráficos de f(x)=2^x, g(x)=2^(−x), h(x)=log₂(x), afirmações — funções exponenciais e logarítmicas",
+    "classificado_por": "claude"
+  },
+  "q47": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "7^x = 59^(x−1), solução real no intervalo — equação exponencial",
+    "classificado_por": "claude"
+  },
+  "q48": {
+    "topicos_ids": ["3.1", "3.2"],
+    "confianca": "alta",
+    "observacao": "Matriz A de ordem 2, dois sistemas lineares dados, determinar traço de A — matrizes e sistemas",
+    "classificado_por": "claude"
+  },
+  "q49": {
+    "topicos_ids": ["6.1", "1.2"],
+    "confianca": "alta",
+    "observacao": "Triângulos não congruentes de perímetro 87 com lados inteiros em ordem crescente — combinatória e aritmética",
+    "classificado_por": "claude"
+  },
+  "q50": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Quadrilátero convexo ABCD com diagonais, afirmações sobre igualdade e perpendicularidade — geometria plana",
+    "classificado_por": "claude"
+  },
+  "q51": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Reta r e plano α com ângulo 45°, afirmações sobre retas paralelas/perpendiculares — geometria espacial",
+    "classificado_por": "claude"
+  },
+  "q52": {
+    "topicos_ids": ["6.2", "4.2"],
+    "confianca": "alta",
+    "observacao": "Dodecaedro regular (12 faces pentagonais), probabilidade de 2 vértices pertencerem à mesma face — probabilidade e geometria espacial",
+    "classificado_por": "claude"
+  },
+  "q53": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Distribuir 48 balas em 4 tigelas (A,B,C,D) com ao menos 3 em cada e D ≥ 2×A — combinatória com restrições",
+    "classificado_por": "claude"
+  },
+  "q54": {
+    "topicos_ids": ["9.1"],
+    "confianca": "alta",
+    "observacao": "z ∈ C, representações de 4, z+2 e z² como vértices de triângulo equilátero — números complexos, geometria no plano de Argand",
+    "classificado_por": "claude"
+  },
+  "q55": {
+    "topicos_ids": ["2.4"],
+    "confianca": "alta",
+    "observacao": "Polinômio p(x) com coeficientes inteiros, p(51)=391, 0 ≤ p(3) < 12 — equações polinomiais, aritmética modular",
+    "classificado_por": "claude"
+  }
+}

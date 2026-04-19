@@ -1,0 +1,52 @@
+{
+  "id": "ita_2020_fase1_mat_q45",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 45,
+  "enunciado_md": "A cada aniversário, seu bolo tem uma quantidade de velas igual à sua idade. As velas são\nvendidas em pacotes com 12 unidades e todo ano é comprado apenas um novo pacote. As velas remanescentes\nsão guardadas para os anos seguintes, desde o seu primeiro aniversário. Qual a sua idade, em anos, no primeiro\nano em que as velas serão insuficientes?",
+  "alternativas": {
+    "A": "12.",
+    "B": "23.",
+    "C": "24.",
+    "D": "36.",
+    "E": "38."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões",
+      "Números e Aritmética"
+    ],
+    "blocos": [
+      "Conjuntos, Lógica e Fundamentos",
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Velas = idade, compradas em pacotes de 12 — PA e aritmética modular"
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q45.png",
+  "usa_imagem_no_render": true
+}

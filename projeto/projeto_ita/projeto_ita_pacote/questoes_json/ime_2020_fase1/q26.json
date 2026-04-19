@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_q26",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 26,
+  "enunciado_md": "Valor: 0,25\nTrês barras rígidas de ac¸o AB, BC e CA são montadas de modo a formar um triângulo pitagórico,\nconforme apresentado na figura. O sistema está apoiado em um pino no ponto A e o lado BC\nencontra-se alinhado com a direc¸ ão horizontal. A densidade linear de massa das barras é µ e a\nacelerac¸ ão da gravidade é g. A forc¸a horizontal aplicada para manter o sistema em equilíbrio deverá\nter:\nMódulo\nPonto de Aplicac¸ ão\nSentido",
+  "alternativas": {
+    "A": "6 µg B →",
+    "B": "3 µg B ←",
+    "C": "3 µg B →",
+    "D": "3 µg C →",
+    "E": "6 µg C ←"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "media",
+    "observacao": "Três barras de aço AB, BC, CA formando triângulo pitagórico — dilatação térmica das barras"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 12,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

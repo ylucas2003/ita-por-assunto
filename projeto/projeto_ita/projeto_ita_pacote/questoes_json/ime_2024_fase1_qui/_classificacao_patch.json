@@ -1,0 +1,83 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2024_fase1_qui. Gerada por Claude a partir dos enunciados.",
+  "q31": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Dispositivo eletroquímico com meias-células X e Y, potenciais-padrão — eletroquímica.",
+    "classificado_por": "claude"
+  },
+  "q32": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Monoácido orgânico + monoálcool primário 1:2, esterificação catalisada — reações orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q33": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sacarose em m kg de água, diferença entre Tebulição e Tcongelamento — soluções (propriedades coligativas).",
+    "classificado_por": "claude"
+  },
+  "q34": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "1800g de H2SO4 em 2000L de água, eletrólise — eletroquímica.",
+    "classificado_por": "claude"
+  },
+  "q35": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Estrutura das proteínas, alternativas sobre cadeia polipeptídica — funções orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q36": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Limalha de ferro em HCl, liberação de H2 (reações de imersão) — estequiometria.",
+    "classificado_por": "claude"
+  },
+  "q37": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Mistura de Na2SO4·10H2O e Na2CO3·10H2O, aquecimento e remoção de água — estequiometria.",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "FeO reduzido por C e CO, comparação termodinâmica — termoquímica.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "media",
+    "observacao": "Três propostas de reação, alternativa correta — reações orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Série de decaimento radioativo ²³⁸U→²⁰⁶Pb — estrutura atômica.",
+    "classificado_por": "claude"
+  }
+}

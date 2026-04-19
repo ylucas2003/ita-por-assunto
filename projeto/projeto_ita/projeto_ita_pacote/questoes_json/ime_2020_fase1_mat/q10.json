@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "enunciado_md": "Valor: 0,25\nSeja a equac¸ ão\n74x −10 · 73x + 17 · 72x + 40 · 7x = 12 · 7\nPara cada uma das raízes reais não nulas dessa equac¸ ão, constrói-se um segmento de reta cujo\ncomprimento corresponde ao módulo do valor da raiz. A partir de todos os segmentos obtidos:",
+  "alternativas": {
+    "A": "pode-se construir um triângulo escaleno.",
+    "B": "pode-se construir um triângulo isósceles.",
+    "C": "pode-se construir um quadrilátero.",
+    "D": "pode-se construir um pentágono.",
+    "E": "não é possível construir qualquer polígono."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "7^(4x) - 10·7^(3x) + 17·7^(2x) + 40·7^x = 12·7, raízes — equação exponencial"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

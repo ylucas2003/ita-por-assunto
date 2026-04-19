@@ -1,0 +1,84 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2021_fase1_qui. Gerada por Claude a partir dos enunciados.",
+  "q31": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Equilíbrio 2SO2+O2⇌2SO3 com R=8,3 J/(K.mol) — equilíbrio químico.",
+    "classificado_por": "claude"
+  },
+  "q32": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Reação A+B→C+D com gases, termodinâmica de fase — termoquímica.",
+    "classificado_por": "claude"
+  },
+  "q33": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Desidratação de ácidos fórmico, acético e propiônico — reações orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q34": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Gráfico de energia livre de Gibbs molar Gm vs temperatura T — termoquímica.",
+    "classificado_por": "claude"
+  },
+  "q35": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Propriedades e características dos polímeros — reações orgânicas (polimerização).",
+    "classificado_por": "claude"
+  },
+  "q36": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "media",
+    "observacao": "Questão sobre propriedades dos gases.",
+    "classificado_por": "claude"
+  },
+  "q37": {
+    "topicos_ids": [
+      "3.3",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Bicarbonato de sódio com ácido monoprótico, processo isotérmico — equilíbrio ácido-base + estequiometria.",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Célula eletroquímica Pt|H2|HCl||Hg2Cl2|Hg — eletroquímica.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sulfito de cálcio 390g com 25% impurezas atacado por HCl — estequiometria.",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Decaimentos radioativos ²³⁸U→²³⁴Th→²³⁴Pa... — estrutura atômica e radioatividade.",
+    "classificado_por": "claude"
+  }
+}

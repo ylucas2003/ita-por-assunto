@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_mat_q14",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 14,
+  "enunciado_md": "Valor: 0,25\nSão dados n círculos de mesmo raio r, cujos centros são os vértices de um polígono regular P de\nn lados, de forma que cada círculo tangencia externamente dois outros círculos. Seja R o raio do\ncírculo circunscrito a P .\nO valor de n quando R = 2r é",
+  "alternativas": {
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "E": "8"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "n círculos raio r com centros nos vértices de polígono regular P — geometria plana."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_mat/ime_2024_fase1_mat_q14.png",
+  "usa_imagem_no_render": true
+}

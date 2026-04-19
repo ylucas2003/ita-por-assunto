@@ -1,0 +1,76 @@
+{
+  "_comentario": "Classificação das 12 questões de Química do ITA 2019 1ª fase. Feita por Claude a partir da análise dos enunciados.",
+
+  "q49": {
+    "topicos_ids": ["1.3"],
+    "confianca": "alta",
+    "observacao": "Comparação de pontos de ebulição baseada em forças intermoleculares: ligação de hidrogênio, dipolo-dipolo, dispersão de London.",
+    "classificado_por": "claude"
+  },
+  "q50": {
+    "topicos_ids": ["6.2"],
+    "confianca": "alta",
+    "observacao": "Isômeros estruturais de aminas com fórmula C4H11N — funções orgânicas nitrogenadas.",
+    "classificado_por": "claude"
+  },
+  "q51": {
+    "topicos_ids": ["6.3"],
+    "confianca": "alta",
+    "observacao": "Retardantes de chama, inibição de combustão por espécies halogenadas — reações orgânicas e mecanismos de combustão.",
+    "classificado_por": "claude"
+  },
+  "q52": {
+    "topicos_ids": ["7.2", "1.1"],
+    "confianca": "alta",
+    "observacao": "Filtro UV, absorção de fótons por moléculas de ozônio, espectroscopia — química ambiental (ozônio) e estrutura atômica (quantização de energia).",
+    "classificado_por": "claude"
+  },
+  "q53": {
+    "topicos_ids": ["5.1"],
+    "confianca": "alta",
+    "observacao": "Aço galvanizado em solução de sulfato de cobre — par galvânico, corrosão eletroquímica.",
+    "classificado_por": "claude"
+  },
+  "q54": {
+    "topicos_ids": ["3.3"],
+    "confianca": "alta",
+    "observacao": "Indicador ácido-base com Ka = 3×10⁻⁵, intervalo de viragem de pH — equilíbrio ácido-base.",
+    "classificado_por": "claude"
+  },
+  "q55": {
+    "topicos_ids": ["4.2"],
+    "confianca": "media",
+    "observacao": "Computadores químicos baseados em reações oscilatórias (tipo Belousov-Zhabotinsky) — cinética química e oscilações.",
+    "classificado_por": "claude"
+  },
+  "q56": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Configurações eletrônicas de átomos X, Y, Z do 2º período, afirmações sobre orbitais — estrutura atômica.",
+    "classificado_por": "claude"
+  },
+  "q57": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Nuclídeos estáveis/instáveis em estados fundamental e excitado, emissão gama, radioatividade — estrutura atômica e nuclear.",
+    "classificado_por": "claude"
+  },
+  "q58": {
+    "topicos_ids": ["6.3"],
+    "confianca": "alta",
+    "observacao": "Adição nucleofílica de dienos conjugados, produtos 1,2 e 1,4-substituídos — reações orgânicas (adição).",
+    "classificado_por": "claude"
+  },
+  "q59": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Espectrometria de massa para determinação de fórmula molecular — análise instrumental.",
+    "classificado_por": "claude"
+  },
+  "q60": {
+    "topicos_ids": ["2.2", "2.1"],
+    "confianca": "alta",
+    "observacao": "Mistura de gases (metano, etano, propano, N₂), combustão completa — gases (pressões parciais) e estequiometria.",
+    "classificado_por": "claude"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "enunciado_md": "Valor: 0,25\nA, B e C são conjuntos não vazios de inteiros positivos e |X| representa a cardinalidade de um\nconjunto X. Sabe-se que:\n• |A| = |B| = |C|\n• |A ∩(B ∪C)| = |A ∩B ∩C|\n• |A ∩B| < |A ∩C| < |B ∩C|\nO menor valor possível para a soma dos elementos de A ∪B ∪C é:",
+  "alternativas": {
+    "A": "21",
+    "B": "36",
+    "C": "45",
+    "D": "55",
+    "E": "78"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Conjuntos e Lógica"
+    ],
+    "blocos": [
+      "Conjuntos, Lógica e Fundamentos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Conjuntos A,B,C de inteiros positivos com cardinalidades dadas — conjuntos e lógica."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_mat/ime_2023_fase1_mat_q01.png",
+  "usa_imagem_no_render": true
+}

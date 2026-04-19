@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_q22",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 22,
+  "enunciado_md": "Com o intuito de medir a resistência elétrica de um resistor Rx, foi montado\no circuito mostrado na figura. Nesse circuito, sabe-se que os resistores R1 e R3 possuem\nresistências de 20 Ωe 30 Ω, respectivamente, e que R2 é um reostato cuja resistência pode\nvariar de 0 a 100 Ω. Foi feito um experimento em que, à medida que a resistência R2 era\nvariada, a voltagem entre os pontos C e B era medida por um voltímetro V. Os resultados\ndas medic¸ ões estão apresentados no gráfico.\nSabendo que a tensão da fonte é contínua e possui um valor de 12,0 V, assinale a alternativa\nque corresponde ao valor aproximado da resistência elétrica Rx.",
+  "alternativas": {
+    "A": "4 Ω",
+    "B": "10 Ω",
+    "C": "12 Ω",
+    "D": "20 Ω",
+    "E": "50 Ω"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Circuito para medir resistência elétrica Rx — eletrodinâmica, lei de Ohm, ponte de Wheatstone"
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1/ita_2025_fase1_q22.png",
+  "usa_imagem_no_render": true
+}

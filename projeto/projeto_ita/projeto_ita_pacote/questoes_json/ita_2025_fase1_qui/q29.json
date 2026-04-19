@@ -1,0 +1,52 @@
+{
+  "id": "ita_2025_fase1_qui_q29",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 29,
+  "enunciado_md": "Para quantificar o ácido ascórbico (C6H8O6) em uma amostra de alimento, \nforam adicionados 100 mL de uma solução aquosa 0,005 mol·L-1 em I2. Após a reação \ncompleta do ácido ascórbico, o I2 remanescente foi titulado com uma solução aquosa \n0,005 mol·L-1 em Na2S2O3, sendo utilizados 20 mL dessa solução até o ponto de \nequivalência. \n \nC6H8O6(aq) + I2(aq) → 2H+(aq) + 2I−(aq) + C6H6O6(aq) \n \nI2(aq) + 2S2O3 \n2−(aq) → 2I−(aq) + S4O6 \n2−(aq) \n \nConsidere as seguintes afirmações sobre a reação: \n \nI. \nEntre I2 e o ácido ascórbico, há uma reação de oxirredução, em que o ácido ascórbico \nage como agente redutor, e o I2, como agente oxidante. \nII. \nA quantidade de ácido ascórbico presente na amostra é de aproximadamente 0,08 g. \nIII. \nApós a titulação de neutralização do ácido ascórbico (pKa1 = 4,17) com I2, no ponto \nde equivalência, o pH da solução resultante é maior que 7,0. \nIV. \nO I2 pode ser substituído por Br2 como titulante no processo de quantificação do ácido \nascórbico por titulação. \n \nCom base nas afirmações acima, estão CORRETAS",
+  "alternativas": {
+    "A": "apenas I e II.",
+    "C": "apenas I e III.",
+    "E": "todas.",
+    "B": "apenas I, II e IV.",
+    "D": "apenas III e IV."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Análise Qualitativa e Quantitativa",
+      "Equilíbrio Ácido-Base"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio",
+      "Química Analítica e Ambiental"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Quantificação de ácido ascórbico (C6H8O6) em alimento com solução aquosa — análise quantitativa, titulação"
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 12,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_qui/ita_2025_fase1_qui_q29.png",
+  "usa_imagem_no_render": true
+}

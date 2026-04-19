@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_qui_q40",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 40,
+  "enunciado_md": "Valor: 0,25 \nConsidere a sequência de reações orgânicas abaixo: \n \nA opção que corresponde aos compostos de (I) a (V), respectivamente, é:",
+  "alternativas": {
+    "A": "alquino, alqueno, ácido carboxílico, cloreto de ácido, cetona.",
+    "B": "alquino, alqueno, ácido carboxílico, haleto de alquila, cetona.",
+    "C": "alqueno, alquino, ácido carboxílico, cloreto de ácido, cetona.",
+    "D": "alquino, alqueno, ácido carboxílico, cloreto de ácido, fenol.",
+    "E": "alquino, alqueno, éster, cloreto de ácido, cetona. RASCUNHO 23"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sequência de reações orgânicas, compostos I a V — reações orgânicas."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 22,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_qui/ime_2019_fase1_qui_q40.png",
+  "usa_imagem_no_render": true
+}

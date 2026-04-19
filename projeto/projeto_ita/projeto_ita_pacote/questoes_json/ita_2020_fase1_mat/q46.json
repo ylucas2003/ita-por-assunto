@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_mat_q46",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 46,
+  "enunciado_md": "Seja A um ponto externo a uma circunferência λ de centro O e raio r. Considere uma reta\npassando por A e secante a λ nos pontos C e D tal que o segmento AC é externo a λ e tem comprimento\nigual a r. Seja B o ponto de λ tal que O pertence ao segmento AB. Se o ângulo B ÂD mede 10◦, então a\nmedida do ângulo B ÔD é igual a",
+  "alternativas": {
+    "A": "25◦.",
+    "B": "30◦.",
+    "C": "35◦.",
+    "D": "40◦.",
+    "E": "45◦."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ponto externo A à circunferência, reta secante CD com CD=CO — geometria plana, potência do ponto"
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q46.png",
+  "usa_imagem_no_render": true
+}

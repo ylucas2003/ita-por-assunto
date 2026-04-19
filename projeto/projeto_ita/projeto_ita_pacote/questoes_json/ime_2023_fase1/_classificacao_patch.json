@@ -1,0 +1,123 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2023_fase1. Gerada por Claude a partir dos enunciados.",
+  "q16": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Projétil de chumbo a 175°C, 25% da energia cinética convertida em calor — termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q17": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Recipiente cônico parcialmente imerso em água, equilíbrio — hidrostática.",
+    "classificado_por": "claude"
+  },
+  "q18": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois raios de luz em fase passando por película — interferência em película delgada.",
+    "classificado_por": "claude"
+  },
+  "q19": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito para medir resistência de espira condutora de área A — indução eletromagnética.",
+    "classificado_por": "claude"
+  },
+  "q20": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois gases perfeitos G1 e G2 separados por êmbolo sem atrito — termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q21": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Poste com coeficiente de dilatação volumétrica γ — dilatação térmica.",
+    "classificado_por": "claude"
+  },
+  "q22": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com 2 cabos condutores em paralelo — eletrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q23": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Estrutura de barras AB, BC, CA apoiada na parede — estática e equilíbrio.",
+    "classificado_por": "claude"
+  },
+  "q24": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com resistências, potência fornecida pela fonte — eletrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q25": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Satélite em órbita circular estável que acelera — gravitação.",
+    "classificado_por": "claude"
+  },
+  "q26": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Objeto sobre eixo central de lente convergente, imagem — óptica geométrica.",
+    "classificado_por": "claude"
+  },
+  "q27": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Navio de guerra com marinheiro 9m acima do mar, projétil — cinemática de projéteis.",
+    "classificado_por": "claude"
+  },
+  "q28": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula S e espelho plano movendo-se no plano xy — óptica geométrica (reflexão dinâmica).",
+    "classificado_por": "claude"
+  },
+  "q29": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Casca esférica condutora oca com partícula de carga negativa fixada — eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q30": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Espaçonave CEOS com velocidade 0,6c — relatividade restrita.",
+    "classificado_por": "claude"
+  }
+}

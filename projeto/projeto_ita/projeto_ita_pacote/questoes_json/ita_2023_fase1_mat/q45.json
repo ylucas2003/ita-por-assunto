@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_mat_q45",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 45,
+  "enunciado_md": "Um conjunto de moedas é lançado sucessivas vezes. Em cada lançamento, todas as moedas que\nresultam em coroa, e apenas estas, são retiradas. As demais moedas permanecem para o próximo lançamento.\nO jogo termina quando todas as moedas tiverem sido retiradas. A probabilidade de o jogo durar mais do\nque três rodadas, se for iniciado com quatro moedas, é",
+  "alternativas": {
+    "A": "1341/4096.",
+    "B": "1695/4096.",
+    "C": "2049/4096.",
+    "D": "2401/4096.",
+    "E": "2755/4096."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Conjunto de moedas lançadas, remoção das que caem cara acima, análise probabilística — probabilidade."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_mat/ita_2023_fase1_mat_q45.png",
+  "usa_imagem_no_render": true
+}

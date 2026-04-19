@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_qui_q50",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 50,
+  "enunciado_md": "Sabe-se que a constante de velocidade (k) de uma reação é função da temperatura (T) \nconforme a Lei de Arrhenius: \n𝑘= 𝐴𝑒ቀషಶೌ\nೃ೅ቁ, \nem que A é o fator de frequência e Ea é a energia de ativação. Em um estudo cinético, observou-se que a \nvelocidade de uma determinada reação aumenta 1000 vezes quando a temperatura do meio reacional \naumenta de 400 K para 500 K, permanecendo constantes todos os demais parâmetros iniciais. \nAssinale a opção que apresenta a energia de ativação desta reação, em kcal mol−1, considerando que A e \nEa não dependem da temperatura.",
+  "alternativas": {
+    "A": "7,3.",
+    "B": "17,3.",
+    "C": "27,3.",
+    "D": "37,3.",
+    "E": "47,3."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Constante de velocidade k em função da temperatura T (Lei de Arrhenius) — cinética química."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_qui/ita_2023_fase1_qui_q50.png",
+  "usa_imagem_no_render": true
+}

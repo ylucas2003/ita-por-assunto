@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_q19",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 19,
+  "enunciado_md": "Valor: 0,25\nO sistema da figura é montado com o objetivo de determinar a resistência elétrica de uma espira\ncondutora de área A. O centro dessa espira descreve uma trajetória circular de raio R e período\nt, à velocidade angular constante, ao redor de um fio também condutor com uma corrente elétrica\ncontínua I. A corrente elétrica na espira é medida e seu valor oscila harmonicamente entre +i e\n−i.\nDados:\n• área da espira: A = 1 cm2;\n• raio da trajetória do centro da espira: R = 10 cm;\n• período da trajetória circular do centro da espira: t = 2 s;\n• corrente elétrica contínua do fio condutor: I = 50 A;\n• amplitude da corrente elétrica induzida medida na espira: i = 1 mA;\n• permeabilidade magnética no vácuo: µ= 4π.10−7 T.m/A.\nObservações:\n• o sistema segue a orientação dos eixos xyz desenhados na figura;\n• o fio condutor é paralelo ao eixo z;\n• o eixo da espira está sempre paralelo ao eixo y;\n• o plano da espira é sempre paralelo ao plano xz;\n• o plano da trajetória do centro da espira é paralelo ao plano xy;\n• considere que as linhas de campo magnético que atravessam a espira estejam paralelas;\n• para toda frequência f, considere ∆sen(2πft)\n∆t\n= 2πfcos(2πft).\nA resistência da espira, em µΩ, é:",
+  "alternativas": {
+    "A": "20π",
+    "B": "2,5π",
+    "C": "4π",
+    "D": "5π",
+    "E": "10π 8"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "topicos_nomes": [
+      "Indução Eletromagnética e Ondas EM"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Circuito para medir resistência de espira condutora de área A — indução eletromagnética."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q19.png",
+  "usa_imagem_no_render": true
+}

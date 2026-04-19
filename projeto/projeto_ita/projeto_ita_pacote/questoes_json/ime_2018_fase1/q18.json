@@ -1,0 +1,52 @@
+{
+  "id": "ime_2018_fase1_q18",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 18,
+  "enunciado_md": "Valor: 0,25 \nlíquido\n+ + + + + + +\n_ _ _ _ _ _ _\ncorpo\ncarga\nE\n \n \n \nUm corpo encontra-se com 2 3\n⁄ de seu volume submerso. Uma de suas extremidades está presa por uma \ncorda a um conjunto de roldanas que suspende uma carga puntiforme submetida a um campo elétrico \nuniforme. A outra extremidade está presa a uma mola distendida que está fixa no fundo do recipiente. Este \nsistema se encontra em equilíbrio e sua configuração é mostrada na figura acima. Desprezando os efeitos \nde borda no campo elétrico, a deformação da mola na condição de equilíbrio é: \nDados: \n• \na corda e as roldanas são ideais; \n• \naceleração da gravidade: 𝑔; \n• \nmassa específica do fluido: 𝜌; \n• \nmassa específica do corpo: 2𝜌; \n• \nconstante elástica da mola: 𝑘; \n• \nvolume do corpo: 𝑉; \n• \nintensidade do campo elétrico uniforme: 𝐸; \n• \nmassa da carga elétrica: 𝑚; e \n• \ncarga elétrica: + 𝑞.",
+  "alternativas": {
+    "A": "𝑔 𝑘( 𝑚 2 − 4𝜌𝑉 3 ) + 𝑞𝐸 2𝑘",
+    "B": "𝑔 𝑘( 3𝑚 2 − 4𝜌𝑉 3 ) + 3𝑞𝐸 2𝑘",
+    "C": "𝑔 3𝑘(𝑚−4𝜌𝑣+ 𝑞𝐸) + 𝑞𝐸 𝑘",
+    "D": "𝑔 𝑘( 𝑚𝑔 2 − 4𝜌𝑉 3 ) + 𝑞𝐸 2𝑘",
+    "E": "𝑚𝑔 𝑘( 𝑞𝐸 𝑑− 2𝜌𝑉 3 ) 9"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Corpo com 2/3 submerso em campo elétrico — hidrostática + eletrostática."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1/ime_2018_fase1_q18.png",
+  "usa_imagem_no_render": true
+}

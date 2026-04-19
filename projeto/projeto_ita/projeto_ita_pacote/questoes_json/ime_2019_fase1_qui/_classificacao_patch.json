@@ -1,0 +1,83 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2019_fase1_qui. Gerada por Claude a partir dos enunciados.",
+  "q31": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Bombardeamento de átomos de hidrogênio na Lua por cm² — estequiometria.",
+    "classificado_por": "claude"
+  },
+  "q32": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Reações nucleares Al+α→P; n+U→Ba+Kr; fusão de H — estrutura atômica e radioatividade.",
+    "classificado_por": "claude"
+  },
+  "q33": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Liga Cu-Ag em H2SO4 + água bromada — eletroquímica (corrosão/reações de óxido-redução).",
+    "classificado_por": "claude"
+  },
+  "q34": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Azitromicina, funções orgânicas na estrutura molecular — funções orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q35": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "confianca": "media",
+    "observacao": "Questão sobre ligações químicas ou propriedades dos compostos.",
+    "classificado_por": "claude"
+  },
+  "q36": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Seta do tempo de Eddington, irreversibilidade — termoquímica/entropia.",
+    "classificado_por": "claude"
+  },
+  "q37": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Energia de rede de composto iônico sólido — ligações químicas (iônicas).",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Representação da Tabela Periódica, asserções — tabela periódica.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Aparelho de ionização para medir baixas pressões — gases.",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Sequência de reações orgânicas, compostos I a V — reações orgânicas.",
+    "classificado_por": "claude"
+  }
+}

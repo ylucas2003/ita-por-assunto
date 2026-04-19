@@ -1,0 +1,52 @@
+{
+  "id": "ita_2021_fase1_mat_q49",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 49,
+  "enunciado_md": "O número de triângulos, dois a dois não congruentes, de perímetro 87, cujos lados, dispostos\nem ordem crescente de comprimento, são números inteiros em progressão aritmética de razão não nula, é\nigual a:",
+  "alternativas": {
+    "A": "12.",
+    "B": "14.",
+    "C": "16.",
+    "D": "18.",
+    "E": "20."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Análise Combinatória",
+      "Números e Aritmética"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística",
+      "Conjuntos, Lógica e Fundamentos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triângulos não congruentes de perímetro 87 com lados inteiros em ordem crescente — combinatória e aritmética"
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_mat/ita_2021_fase1_mat_q49.png",
+  "usa_imagem_no_render": true
+}

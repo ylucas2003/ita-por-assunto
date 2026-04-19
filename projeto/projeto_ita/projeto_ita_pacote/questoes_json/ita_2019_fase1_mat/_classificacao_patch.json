@@ -1,0 +1,76 @@
+{
+  "_comentario": "Classificação das 12 questões de Matemática do ITA 2019 1ª fase. Feita por Claude a partir da análise dos enunciados.",
+
+  "q37": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Retângulo ABCD, ponto médio M de AB, triângulo e relações de segmentos — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": ["2.4", "7.1"],
+    "confianca": "alta",
+    "observacao": "Polinômio cúbico com raízes em PA, soma e produto de raízes — equações algébricas e progressão aritmética.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": ["4.3"],
+    "confianca": "alta",
+    "observacao": "Circunferência x²+y²=4, retas tangentes passando por P=(1,3), condição de tangência — geometria analítica.",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Cone circular reto, planificação em setor de 216°, relação entre geratriz e raio da base — geometria espacial.",
+    "classificado_por": "claude"
+  },
+  "q41": {
+    "topicos_ids": ["3.2"],
+    "confianca": "alta",
+    "observacao": "Lugar geométrico dos pares (a,b) que tornam o sistema impossível — sistemas lineares e condição de incompatibilidade.",
+    "classificado_por": "claude"
+  },
+  "q42": {
+    "topicos_ids": ["9.1"],
+    "confianca": "alta",
+    "observacao": "-2+2i é raiz quarta de z, área do triângulo formado pelas quatro raízes no plano de Argand-Gauss — números complexos.",
+    "classificado_por": "claude"
+  },
+  "q43": {
+    "topicos_ids": ["8.1", "2.1"],
+    "confianca": "media",
+    "observacao": "Desigualdade envolvendo soma 1/(n+1)+…+1/(2n) ≥ 1/2 (série harmônica) e análise de funções injetoras/sobrejetoras — limites e funções reais.",
+    "classificado_por": "claude"
+  },
+  "q44": {
+    "topicos_ids": ["6.2"],
+    "confianca": "alta",
+    "observacao": "Moedas numeradas lançadas sucessivamente, análise de probabilidade de eventos — probabilidade.",
+    "classificado_por": "claude"
+  },
+  "q45": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Afirmações sobre matrizes inversíveis de ordem n×n — matrizes e determinantes.",
+    "classificado_por": "claude"
+  },
+  "q46": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "f(x) = arcsen(x), soma finita de f(cos(2π/3ⁿ)) — funções transcendentes (arcosseno).",
+    "classificado_por": "claude"
+  },
+  "q47": {
+    "topicos_ids": ["4.2", "7.1"],
+    "confianca": "alta",
+    "observacao": "Volumes de tronco de cone, esfera e cilindro em progressão — geometria espacial e progressões.",
+    "classificado_por": "claude"
+  },
+  "q48": {
+    "topicos_ids": ["2.4"],
+    "confianca": "alta",
+    "observacao": "Raízes de x³-2x²+x+2=0, construção de novo polinômio a partir de produtos das raízes — equações e relações de Girard.",
+    "classificado_por": "claude"
+  }
+}

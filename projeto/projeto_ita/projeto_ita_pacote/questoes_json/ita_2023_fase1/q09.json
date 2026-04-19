@@ -1,0 +1,52 @@
+{
+  "id": "ita_2023_fase1_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "enunciado_md": "Em vários ramos da ciência e da engenharia, sistemas de interesse são modelados por circuitos\nelétricos a eles equivalentes.\nNa biologia, por exemplo, a membrana de um neurônio é modelada por\nelementos de circuitos elétricos. Considere apenas as seguintes características:\nI. A membrana neuronal é constituída de duas camadas de lipídeos que separam os meios condutores intra\ne extracelular por uma fina camada isolante.\nII. As proteínas que cruzam a membrana de um neurônio atuam como poros, canais iônicos não seletivos.\nCom base nessas considerações, o sistema entre o interior e o exterior da membrana pode ser representado\npelos seguintes elementos de circuitos elétricos:",
+  "alternativas": {
+    "A": "resistores e fontes de corrente conectados em série.",
+    "B": "fontes de corrente e capacitores conectados em paralelo.",
+    "C": "fontes de corrente e capacitores conectados em série.",
+    "D": "resistores e capacitores conectados em série.",
+    "E": "resistores e capacitores conectados em paralelo."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Eletrostática",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Membrana neuronal modelada como circuito RC: membrana lipídica = capacitor (8.1), canais iônicos = resistores (8.2); identifica modelo correto de circuito."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao": "imagens/ita_2023_fase1/ita_2023_fase1_q09.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1/ita_2023_fase1_q09.png"
+}

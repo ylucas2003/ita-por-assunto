@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_qui_q40",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 40,
+  "enunciado_md": "Valor: 0,25\nConsidere a representação simplificada dos seguintes decaimentos radioativos conhecidos:\n238\n92 U\nx1\n−→\n234\n90 Th\n234\n90 Th\nx2\n−→\n234\n91 Pa\n222\n86 Rn\nx3\n−→\n218\n84 Po\n218\n84 Po\nx4\n−→\n214\n82 Pb\n214\n82 Pb\nx5\n−→\n214\n83 Bi\nCom relação aos decaimentos acima, é possível afirmar que:",
+  "alternativas": {
+    "A": "o tório emite radiação alfa.",
+    "B": "o radônio emite radiação alfa.",
+    "C": "o urânio emite somente radiação gama.",
+    "D": "o chumbo emite somente radiação gama.",
+    "E": "somente o polônio emite radiação beta. 24"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Decaimentos radioativos ²³⁸U→²³⁴Th→²³⁴Pa... — estrutura atômica e radioatividade."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 24,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_qui/ime_2021_fase1_qui_q40.png",
+  "usa_imagem_no_render": true
+}

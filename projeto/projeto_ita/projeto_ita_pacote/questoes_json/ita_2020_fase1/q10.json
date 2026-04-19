@@ -1,0 +1,46 @@
+{
+  "id": "ita_2020_fase1_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "enunciado_md": "Ao redor de um cilindro de massa m, raio a e comprimento b, são enroladas simétrica e\nlongitudinalmente N espiras. Estas são dispostas paralelamente a um plano inclinado onde se encontra um\ncilindro, que não desliza devido ao atrito com a superfície do plano. Considerando a existência de um campo\nmagnético uniforme e vertical B na região, assinale a intensidade da corrente i que deve circular nas espiras\npara que o conjunto permaneça em repouso na posição indicada pela figura.\nmg mg i\nA ——. D ——. m >\nO) 2b5B O 2aBN 7 “ 9,\nNmg mg q .\nB()>—. E()-—. N espiras\n2aB 2bBN\nNmg\nC()—.\nbB —\nB",
+  "alternativas": {},
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.3",
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Magnetismo",
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mista: força magnética sobre N espiras percorridas por corrente i em campo B uniforme (8.3) equilibra a componente gravitacional no plano inclinado (2.2 - equilíbrio)."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q10.png",
+  "usa_imagem_no_render": true
+}

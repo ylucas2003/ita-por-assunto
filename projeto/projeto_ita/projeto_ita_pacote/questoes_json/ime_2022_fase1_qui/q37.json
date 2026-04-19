@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_qui_q37",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 37,
+  "enunciado_md": "Valor: 0,25\nIdentifique a fórmula estrutural do principal produto da reação entre o cicloexa-1,4-dieno e o ciclo-\npentadieno, ocorrida mediante aquecimento.",
+  "alternativas": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "A reação não ocorre."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Reação entre ciclohexa-1,4-dieno e ciclopentadieno por aquecimento (Diels-Alder) — reações orgânicas."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_qui/ime_2022_fase1_qui_q37.png",
+  "usa_imagem_no_render": true
+}

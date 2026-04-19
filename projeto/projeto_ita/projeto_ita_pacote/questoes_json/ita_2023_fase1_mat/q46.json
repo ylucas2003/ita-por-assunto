@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_mat_q46",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 46,
+  "enunciado_md": "A medida da hipotenusa de um triângulo retângulo é igual a 10 cm. O volume do sólido\ngerado pela rotação deste triângulo em torno de um eixo que contém a hipotenusa é 30π cm3. O perímetro\ndesse triângulo é, em cm, igual a",
+  "alternativas": {
+    "A": "10 + 4 √ 7.",
+    "B": "10 + 5 √ 7.",
+    "C": "10 + 2 √ 10.",
+    "D": "10 + 3 √ 10.",
+    "E": "10 + 4 √ 10. 16"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triângulo retângulo com hipotenusa 10, volume do sólido gerado pela rotação — geometria espacial (sólidos de revolução)."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_mat/ita_2023_fase1_mat_q46.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "enunciado_md": "Valor: 0,25\nConsidere que a ̸= 0, b ̸= 0 e (a + b) ̸= 0. Sabendo-se que a\nb + b\na = 3, determine o valor de\na2+b2\n2(a+b)2.",
+  "alternativas": {
+    "A": "0,1",
+    "B": "0,3",
+    "C": "0,6",
+    "D": "0,8",
+    "E": "1,0"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Funções Algébricas"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "a/b + b/a = 3, calcular expressão relacionada — funções algébricas, identidades"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2019_fase1. Gerada por Claude a partir dos enunciados.",
+  "q16": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte sonora arremessada verticalmente, efeito Doppler — ondas e acústica.",
+    "classificado_por": "claude"
+  },
+  "q17": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema massa M + mola em equilíbrio perturbado — MHS.",
+    "classificado_por": "claude"
+  },
+  "q18": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Luz monocromática linearmente polarizada na roda de carro — óptica física.",
+    "classificado_por": "claude"
+  },
+  "q19": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Pulso laser refletido por espelho plano girando — óptica geométrica.",
+    "classificado_por": "claude"
+  },
+  "q20": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Barra metálica totalmente submersa e sustentada — hidrostática.",
+    "classificado_por": "claude"
+  },
+  "q21": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Energia cinética de atleta de 60 kg em corrida — energia mecânica.",
+    "classificado_por": "claude"
+  },
+  "q22": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula com carga positiva próxima a esfera oca negativa — eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q23": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte λ=500 nm e anteparo — interferência luminosa, óptica física.",
+    "classificado_por": "claude"
+  },
+  "q24": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "media",
+    "observacao": "Partículas com cargas q1 e q2 se movem no plano xy — eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q25": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Inventor analisa três máquinas térmicas reais — termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q26": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Foguete com aceleração constante formando ângulo com a vertical — dinâmica.",
+    "classificado_por": "claude"
+  },
+  "q27": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Feixe de luz em meio não homogêneo com índice variável — óptica geométrica.",
+    "classificado_por": "claude"
+  },
+  "q28": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Capacitor carregado (4,5 J) inserido em circuito com 5V — eletrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q29": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula com carga +q percorre trajetória em velocidade constante — magnetismo.",
+    "classificado_por": "claude"
+  },
+  "q30": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Feixe laser direcionado a lente convergente focal f — óptica geométrica.",
+    "classificado_por": "claude"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2023_fase1_mat. Gerada por Claude a partir dos enunciados.",
+  "q01": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Conjuntos A,B,C de inteiros positivos com cardinalidades dadas — conjuntos e lógica.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Soluções inteiras de inequação racional com fatores polinomiais — equações e sistemas.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "9.1",
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Valor de α real em equação com matrizes e cis — números complexos + matrizes.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio g(x)=x⁵+x⁴−2x³+bx²+bx−2b divisível por (x+2)k — funções algébricas.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Função f(x) definida por partes, maior α para o qual limites existem — funções reais.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matriz ortogonal M com M×Mᵀ=I, conjunto solução de a,b,c — matrizes e determinantes.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "3.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matriz 100×100 com elementos formando PA — matrizes + progressões.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação com potências 0,09^(4+x)⋅(1/√0,3)^(x²) — funções transcendentes (exponencial).",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "9.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Somatório com complexos e logaritmos, valor de e^(−A) — complexos + funções transcendentes.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois dados cúbicos e um dado dodecaedro, probabilidade — probabilidade.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "arctg(1/3)+arctg(1/4)+arctg(1/5)+arctg(1/n)=π/4 — trigonometria.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Duas circunferências no plano cartesiano, reta tangente comum — geometria analítica.",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Barra AB vertical fixada sobre muro de altura L/2 — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois planos α e β com ângulo diedro π/6, pontos A,B,C,D de α — geometria espacial.",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Bola lançada do i-ésimo degrau de escada com probabilidade 1/i — probabilidade.",
+    "classificado_por": "claude"
+  }
+}

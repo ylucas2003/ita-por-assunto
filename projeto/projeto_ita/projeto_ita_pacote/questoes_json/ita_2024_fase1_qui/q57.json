@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_qui_q57",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 57,
+  "enunciado_md": "Considere as seguintes afirmações a respeito de reações orgânicas. \nI. \nA reatividade do ácido acético com 2-propanol é maior do que com 2-metil-2-propanol. \nII.\nA reação do 2-butino com KMnO4 em meio ácido a quente leva à formação majoritária\nde aldeídos.\nIII. A redução do fenol para a formação do ciclo-hexanol exige condições mais enérgicas\ndo que aquelas necessárias à redução do fenol a benzeno.\nDas afirmações acima, está(ão) CORRETA(S)",
+  "alternativas": {
+    "A": "apenas I e II.",
+    "C": "apenas I e III.",
+    "E": "apenas III.",
+    "B": "apenas I, II e III.",
+    "D": "apenas II."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Reatividade do ácido acético comparada a outros compostos orgânicos, mecanismos de reações orgânicas — reações orgânicas."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_qui/ita_2024_fase1_qui_q57.png",
+  "usa_imagem_no_render": true
+}

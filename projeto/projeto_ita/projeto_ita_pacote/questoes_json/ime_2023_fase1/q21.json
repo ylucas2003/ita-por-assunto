@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_q21",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 21,
+  "enunciado_md": "Valor: 0,25\nInicialmente, um poste, fabricado com material de coeficiente de dilatação volumétrica γ, tem as\ndimensões indicadas na figura, estando o ponto A fixo. Ao ser submetido a um aumento de tempe-\nratura T , o ponto B é deslocado de:",
+  "alternativas": {
+    "A": "√ 17γTL 4",
+    "B": "5γTL 12",
+    "C": "√ 17γTL 21",
+    "D": "√ 17γTL 12",
+    "E": "γTL 4 9"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Poste com coeficiente de dilatação volumétrica γ — dilatação térmica."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q21.png",
+  "usa_imagem_no_render": true
+}

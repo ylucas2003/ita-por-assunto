@@ -1,0 +1,93 @@
+{
+  "_comentario": "IME 2020/2021 Fase 1 — Matemática (Q01-15)",
+  "q01": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Soma dos coeficientes de x³ em (1+x)⁴(2-x²)⁵ — Binômio de Newton, combinatória",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": ["2.2"],
+    "confianca": "alta",
+    "observacao": "a/b + b/a = 3, calcular expressão relacionada — funções algébricas, identidades",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": ["8.2"],
+    "confianca": "alta",
+    "observacao": "f(x) = 2x⁴-8x³+4x-7, reta que corta o gráfico em exatamente 3 pontos — derivadas, pontos de inflexão",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": ["9.1"],
+    "confianca": "alta",
+    "observacao": "|z1|=4, |z2|=3, |z1+z2|=6, encontrar |z1-z2| — números complexos, módulo",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Sequência gerada pelo produto dos termos correspondentes de duas PAs — progressões aritméticas",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": ["3.1", "9.1"],
+    "confianca": "alta",
+    "observacao": "Matriz M com z = cos(4π/3)+i·sen(4π/3), det ou propriedades — matrizes e números complexos",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": ["8.3"],
+    "confianca": "alta",
+    "observacao": "Área da região R = {(x,y) | 2≤x≤10, 0≤y≤...} — integral definida, cálculo de área",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": ["2.1"],
+    "confianca": "alta",
+    "observacao": "f: D→R satisfazendo equação funcional — funções reais, composição e propriedades",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Torneio de xadrez com 6 participantes, cada um joga contra todos — combinatória, contagem",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "7^(4x) - 10·7^(3x) + 17·7^(2x) + 40·7^x = 12·7, raízes — equação exponencial",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": ["2.3", "3.2"],
+    "confianca": "alta",
+    "observacao": "Sistema com equações logarítmicas log(-2x+3y+k) = log(3)+log(z) — funções logarítmicas e sistemas",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": ["4.3"],
+    "confianca": "alta",
+    "observacao": "Posição relativa de circunferências representadas por equações — geometria analítica",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "2·sen²(e^θ) - 4√3·sen(e^θ)·cos(e^θ) - cos(2e^θ) = 1, θ ∈ R⁺ — equação trigonométrica-exponencial",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Trapézio com interseção das diagonais no ponto I — geometria plana, semelhança de triângulos",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Pirâmide invertida de base pentagonal regular — geometria espacial, volume",
+    "classificado_por": "claude"
+  }
+}

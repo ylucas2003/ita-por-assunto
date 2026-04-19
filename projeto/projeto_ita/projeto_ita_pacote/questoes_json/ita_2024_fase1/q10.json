@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "enunciado_md": "Um próton com posic¸ ão inicial x = R e velo-\ncidade inicial ⃗v0 na direc¸ ão y (v0 ≪c) adentra uma região\n(x > 0 e y > 0) onde atua um campo magnético perpendi-\ncular ao plano xy, conforme mostra a figura. Considere que\nlogo após acessar esta região a trajetória do próton apre-\nsenta um raio de curvatura R (L/2 < R < L) e que um detetor\nsuficientemente estreito é posicionado para sua contagem\nem y = L/2.\nDetermine a posic¸ ão em x que o detetor deve estar para a\ncontagem deste próton.",
+  "alternativas": {
+    "A": "R cos(arcsen(L/R))",
+    "B": "0",
+    "C": "R sen(arccos(L/(2R)))",
+    "D": "R cos(arcsen(L/(2R)))",
+    "E": "R sen(arccos(L/R)) 4"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "topicos_nomes": [
+      "Magnetismo"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Próton com velocidade inicial em y entra em região com campo magnético perpendicular ao plano xy; trajetória circular de raio R, encontrar ponto de impacto no detector."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1/ita_2024_fase1_q10.png"
+}

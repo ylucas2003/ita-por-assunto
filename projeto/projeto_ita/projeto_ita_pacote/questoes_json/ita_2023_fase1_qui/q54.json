@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_qui_q54",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 54,
+  "enunciado_md": "Um eletrólito genérico BAଶ ioniza em solução aquosa, de acordo com a equação química: \nBAଶ⇌Bଶା+ 2Aି. \nConsidere duas soluções aquosas, preparadas com as mesmas quantidades desse eletrólito, nas seguintes \ncondições de equilíbrio: \nSolução 1: Volume V1, temperatura T1 e grau de ionização do eletrólito α1. \nSolução 2: Volume V2 = 2V1, temperatura T2 e grau de ionização do eletrólito α2 = α1. \nCom base nessas informações, assinale a opção que relaciona corretamente a constante de equilíbrio da \nionização do eletrólito na solução 2, K2, com a constante de equilíbrio na solução 1, K1.",
+  "alternativas": {
+    "A": "K2 = 0,25 K1.",
+    "C": "K2 = K1.",
+    "E": "K2 = 4 K1.",
+    "B": "K2 = 0,5 K1.",
+    "D": "K2 = 2 K1."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Soluções"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Eletrólito BA₂ ⇌ B²⁺ + 2A⁻, grau de ionização, pressão osmótica ou propriedade coligativa — soluções."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_qui/ita_2023_fase1_qui_q54.png",
+  "usa_imagem_no_render": true
+}

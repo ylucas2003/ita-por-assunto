@@ -1,0 +1,46 @@
+{
+  "id": "ime_2020_fase1_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "enunciado_md": "Valor: 0,25\nSe A é a área da região R do plano cartesiano dada por\nR = {(x, y) ∈R2 | 2 ≤x ≤10 e 0 ≤y ≤ln(x)},\nentão é correto afirmar que:",
+  "alternativas": {
+    "A": "≤(2 + ln(9!))",
+    "B": "ln(ln(9!)) ≤ln",
+    "C": "A ≥ln(10!) −ln(2)",
+    "D": "1 9! ≤e−A < 20−4 (E) ln(10) −ln(2) ≤A ≤10 ln(10) −2 ln(2) −10"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "topicos_nomes": [
+      "Integrais"
+    ],
+    "blocos": [
+      "Cálculo Diferencial e Integral"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Área da região R = {(x,y) | 2≤x≤10, 0≤y≤...} — integral definida, cálculo de área"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

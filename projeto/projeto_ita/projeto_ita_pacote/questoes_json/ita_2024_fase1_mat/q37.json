@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_mat_q37",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 37,
+  "enunciado_md": "Sejam A, B, C ⊆R tais que C ⊆A. Considere as afirmações:\nI. (A ∩B) ∪C = A ∩(B ∪C).\nII. A ∩B = C ∪(B ∩(R −C)).\nIII. A ∩(B −C) = (A ∩B) −C.\nÉ (São) VERDADEIRA(S):",
+  "alternativas": {
+    "A": "apenas I e II.",
+    "B": "apenas I e III.",
+    "C": "apenas II.",
+    "D": "apenas III.",
+    "E": "I, II e III."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Conjuntos e Lógica"
+    ],
+    "blocos": [
+      "Conjuntos, Lógica e Fundamentos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A, B, C ⊆ R com C ⊆ A, afirmações sobre operações de conjuntos (interseção, união) — conjuntos e lógica."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_mat/ita_2024_fase1_mat_q37.png",
+  "usa_imagem_no_render": true
+}

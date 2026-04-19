@@ -1,0 +1,125 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2024_fase1_mat. Gerada por Claude a partir dos enunciados.",
+  "q01": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Números palíndromos na base b — aritmética (representação em bases).",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "f:[3,∞)→B definida por série infinita, soma das coordenadas do ponto — limites e continuidade.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "9.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sequência zk=(1+i)^k, maior área de triângulo — complexos + geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação x²−px+q=0, raízes a e b, valor de a⁴+b⁴ — equações e sistemas (Girard).",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes α,β,γ de x³+6x²−6x−3=0, valor de (α+β)(β+γ)(γ+α) — equações e sistemas.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matriz quadrada A de ordem 2022 com padrão em bloco — matrizes e determinantes.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "y=ab^(x-10) com gráfico log(y) vs x — funções transcendentes (exponencial/logarítmica).",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Pontos A e B numa circunferência raio r com corda AB=r, C ao acaso — probabilidade.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação (x²−100)(x²−150)(x²−200)<0, quantidade de inteiros — equações e sistemas.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Radicais aninhados r=√(3−√(3+√(2+…))), inequação — limites e continuidade.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Soluções de cos³(x)+sen³(x)+½sen(2x)=1 em [0,2π) — trigonometria.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": [
+      "4.3",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo A(1,2),B(2,2),C(4,0), equação da bissetriz interna — geometria analítica.",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Incentro I do triângulo ABC, interseção de AI com circunscrita — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "n círculos raio r com centros nos vértices de polígono regular P — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cubo ABCDEFGH aresta l, pontos B1 e D1 sobre arestas — geometria espacial.",
+    "classificado_por": "claude"
+  }
+}

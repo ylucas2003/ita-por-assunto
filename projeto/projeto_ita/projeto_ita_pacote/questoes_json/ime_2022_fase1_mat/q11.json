@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_mat_q11",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 11,
+  "enunciado_md": "Valor: 0,25\nUm aluno distraído desmontou um relógio. Ao remontá-lo, trocou a posição dos ponteiros das horas\ne dos minutos, de modo que o ponteiro das horas passou a girar com a velocidade do ponteiro dos\nminutos, e vice-versa. Sabendo que o relógio foi acertado para as 4 horas, o intervalo que contém\no horário t que marcará a hora certa novamente pela primeira vez é",
+  "alternativas": {
+    "A": "4h30min ⩽t < 5h",
+    "B": "5h ⩽t < 5h30min",
+    "C": "5h30min ⩽t < 6h",
+    "D": "6h ⩽t < 6h30min",
+    "E": "6h30min ⩽t < 7h10min"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Números e Aritmética"
+    ],
+    "blocos": [
+      "Conjuntos, Lógica e Fundamentos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Relógio com ponteiros das horas e minutos trocados — aritmética."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q11.png",
+  "usa_imagem_no_render": true
+}

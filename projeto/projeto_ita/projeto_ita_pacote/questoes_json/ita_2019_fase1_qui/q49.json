@@ -1,0 +1,49 @@
+{
+  "id": "ita_2019_fase1_qui_q49",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 49,
+  "enunciado_md": "Sejam feitas estas afirmações a respeito do ponto de ebulição de substâncias à pressão \natmosférica: \nI. \nO ponto de ebulição do 2-propanol é maior que o da propanona. \nII. \nO ponto de ebulição do cis-but-2-eno é maior que o do trans-but-2-eno. \nIII. \nO ponto de ebulição do fluorometano é maior que o da metilamina. \nIV. \nO ponto de ebulição do 2-metilbutano é maior que o do 2,2-dimetilpropano. \nDas afirmações acima, está(ão) CORRETA(S)",
+  "alternativas": {
+    "A": "apenas I, II e IV.",
+    "C": "apenas II e IV.",
+    "E": "todas.",
+    "B": "apenas I e III.",
+    "D": "apenas III. 19"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "topicos_nomes": [
+      "Ligações Químicas"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Comparação de pontos de ebulição baseada em forças intermoleculares: ligação de hidrogênio, dipolo-dipolo, dispersão de London."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q49.png",
+  "usa_imagem_no_render": true
+}

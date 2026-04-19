@@ -1,0 +1,52 @@
+{
+  "id": "ime_2022_fase1_q25",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 25,
+  "enunciado_md": "Valor: 0,25\nA figura mostra um esquema com dois espelhos planos verticais presos a blocos que oscilam na\nmesma direção sobre uma superfície horizontal sem atrito. Observa-se também a presença de uma\npartícula em repouso.\nDados:\n• amplitude da oscilação de cada bloco: A;\n• massa de cada conjunto (bloco e espelho): m;\n• constante elástica de cada mola: k.\nObservações:\n• cada espelho chega a encostar com velocidade nula na partícula em repouso, porém em\ninstantes diferentes;\n• quando o espelho da esquerda encosta na partícula em repouso, o espelho da direita está\nvoltando, com a mola se comprimindo, e à sua maior velocidade escalar.\nA maior distância relativa entre as imagens da partícula nos espelhos e a maior velocidade escalar\nrelativa entre elas são, respectivamente:",
+  "alternativas": {
+    "A": "6A e √ 2A p k/m",
+    "B": "6A e 4 √ 2A p k/m",
+    "C": "6A e 2 √ 2A p k/m",
+    "D": "2(2 + √ 2)A e √ 2A p k/m",
+    "E": "2(2 + √ 2)A e 2 √ 2A p k/m 12"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Movimento Harmônico Simples",
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dois espelhos planos em blocos oscilantes — MHS + óptica geométrica."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 12,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q25.png",
+  "usa_imagem_no_render": true
+}

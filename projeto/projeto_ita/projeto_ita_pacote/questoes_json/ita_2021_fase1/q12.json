@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_q12",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 12,
+  "enunciado_md": "Considere os resistores A, B, C e D, cujas resistências\nelétricas são dadas respectivamente por RA, RB, RC e RD e cujas cur-\nvas características são apresentadas na figura ao lado. Denotando a\nresistência equivalente de associações em série e em paralelo, respecti-\nvamente, por AS e A∥, assinale a alternativa que contém uma relação\ncorreta entre RA, RB, RC e RD.",
+  "alternativas": {
+    "A": "RB = A∥de (RC e RD)",
+    "B": "RD = AS de (RA e RB)",
+    "C": "RA = A∥de (RC e RD)",
+    "D": "RA = AS de (RB e RC)",
+    "E": "RD = AS de (RA e RC)"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Curvas características V×I de quatro resistores; identificar resistência equivalente de associações série e paralelo a partir dos gráficos."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1/ita_2021_fase1_q12.png",
+  "usa_imagem_no_render": true
+}

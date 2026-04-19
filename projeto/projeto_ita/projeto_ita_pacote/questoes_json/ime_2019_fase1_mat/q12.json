@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_mat_q12",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 12,
+  "enunciado_md": "Valor: 0,25 \n \nO lugar geométrico definido pela equação x2 + 3y2 + 5 = 2x – xy – 4y representa",
+  "alternativas": {
+    "A": "uma elipse.",
+    "B": "uma hipérbole.",
+    "C": "uma circunferência.",
+    "D": "um conjunto vazio.",
+    "E": "duas retas paralelas."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Lugar geométrico x²+3y²+5=2x−xy−4y — geometria analítica (cônica)."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q12.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,93 @@
+{
+  "_comentario": "ITA 2021 Fase 1 — Química (Q56-70, 15 questões — ano com 70 questões totais)",
+  "q56": {
+    "topicos_ids": ["1.3"],
+    "confianca": "alta",
+    "observacao": "Afirmação ERRADA sobre interações intermoleculares na fase líquida — forças intermoleculares, estrutura molecular",
+    "classificado_por": "claude"
+  },
+  "q57": {
+    "topicos_ids": ["5.1"],
+    "confianca": "alta",
+    "observacao": "Bateria chumbo-ácido (Pb/PbO2/H2SO4), reações de carga e descarga, potenciais padrão — eletroquímica",
+    "classificado_por": "claude"
+  },
+  "q58": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Isomeria estrutural (penteno vs ciclopentano, butano vs ciclobutano), reatividade do cloroeteno — hidrocarbonetos e fundamentos orgânicos",
+    "classificado_por": "claude"
+  },
+  "q59": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Reação A + 2B → C, lei de velocidade ν = k[A]^α[B]^β, determinação de α e β — cinética química",
+    "classificado_por": "claude"
+  },
+  "q60": {
+    "topicos_ids": ["1.3"],
+    "confianca": "alta",
+    "observacao": "Ligações químicas: comprimento, energia, multiplicidade, ressonância, raio atômico — estrutura molecular",
+    "classificado_por": "claude"
+  },
+  "q61": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Condutividade molar (Λ) de solução iônica, lei de Kohlrausch — soluções eletrolíticas",
+    "classificado_por": "claude"
+  },
+  "q62": {
+    "topicos_ids": ["7.1", "4.1"],
+    "confianca": "alta",
+    "observacao": "Análise Termogravimétrica (TGA), comportamento térmico de amostras — análise quantitativa e termoquímica",
+    "classificado_por": "claude"
+  },
+  "q63": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Proposições sobre processos termodinâmicos: entropia, temperatura constante, 2ª lei — termoquímica",
+    "classificado_por": "claude"
+  },
+  "q64": {
+    "topicos_ids": ["1.3"],
+    "confianca": "alta",
+    "observacao": "Fases condensadas da matéria, forças entre átomos, íons e moléculas — ligações e forças intermoleculares",
+    "classificado_por": "claude"
+  },
+  "q65": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Intensidade da luz vs frequência, efeito fotoelétrico e modelos quânticos — estrutura atômica, quântica",
+    "classificado_por": "claude"
+  },
+  "q66": {
+    "topicos_ids": ["5.1", "7.1"],
+    "confianca": "alta",
+    "observacao": "Titulação de oxirredução, Fe(NO3)2 com KMnO4 — eletroquímica, análise quantitativa volumétrica",
+    "classificado_por": "claude"
+  },
+  "q67": {
+    "topicos_ids": ["5.1"],
+    "confianca": "alta",
+    "observacao": "Afirmação ERRADA sobre processos de oxidação e redução — eletroquímica, número de oxidação",
+    "classificado_por": "claude"
+  },
+  "q68": {
+    "topicos_ids": ["3.3"],
+    "confianca": "alta",
+    "observacao": "Afirmação ERRADA sobre basicidade — equilíbrio ácido-base, pKb, basicidade relativa",
+    "classificado_por": "claude"
+  },
+  "q69": {
+    "topicos_ids": ["1.3"],
+    "confianca": "alta",
+    "observacao": "Átomos de F mais afastados em diferentes moléculas, geometria molecular — ligações químicas, VSEPR",
+    "classificado_por": "claude"
+  },
+  "q70": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Curvas de solubilidade de sais inorgânicos — soluções, solubilidade, temperatura",
+    "classificado_por": "claude"
+  }
+}

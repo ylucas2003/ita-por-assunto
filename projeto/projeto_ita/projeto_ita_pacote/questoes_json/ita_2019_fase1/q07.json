@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "enunciado_md": "Uma bola é deixada cair conforme mostra a figura. Inicialmente, ela gira com velocidade\nangular ! no sentido anti-horário para quem a observa do leste, sendo nula a velocidade do seu centro\nde massa. Durante a queda, o eixo de rotação da bola permanece sempre paralelo à direção oeste-leste.\nConsiderando o efeito do ar sobre o movimento de queda da bola, são feitas as seguintes afirmações:\nI.\nA bola está sujeita apenas a forças verticais e, portanto, cairá verticalmente.\nII.\nA bola adquire quantidade de movimento para o norte (N) ou para o oeste (O).\nIII.\nA bola adquire quantidade de movimento para o leste (L) ou para o sul (S).\nIV.\nQuanto maior for a velocidade angular ! da bola, mais ela se afastará do ponto C.\nEstá(ão) correta(s) apenas",
+  "alternativas": {
+    "A": "I.",
+    "B": "II e IV.",
+    "C": "III e IV.",
+    "D": "III.",
+    "E": "II. L O S N C ω"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "media",
+    "observacao": "Bola em queda com rotação e efeito do ar (efeito Magnus) — dinâmica (força de Magnus não está no edital explicitamente, mas a análise de momento linear se aplica). Também envolve cinemática vetorial."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao": "imagens/ita_2019_fase1/ita_2019_fase1_q07.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1/ita_2019_fase1_q07.png"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ime_2024_fase1_mat_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "enunciado_md": "Valor: 0,25\nConsidere a matriz quadrada A =\n\n\n2\n0\n1\n2\n3\n· · · 2022\n2\nx\n1\n2\n3\n· · · 2022\n2\n0\nx\n2\n3\n· · · 2022\n· · · · · · · · · · · · · · · · · ·\n· · ·\n2\n0\n1\n2\n3\n· · ·\nx\n\n\nde ordem 2024.\nA soma das raízes do polinômio dado por p(x) = det",
+  "alternativas": {
+    "A": "2024 × 2023",
+    "B": "20252",
+    "C": "2024 × 2025",
+    "D": "1012 × 2025 (E) 1011 × 2023"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matriz quadrada A de ordem 2022 com padrão em bloco — matrizes e determinantes."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_mat/ime_2024_fase1_mat_q06.png",
+  "usa_imagem_no_render": true
+}

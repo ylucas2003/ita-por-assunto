@@ -1,0 +1,52 @@
+{
+  "id": "ita_2023_fase1_qui_q57",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 57,
+  "enunciado_md": "Considere que valores maiores de energia de hidratação são observados para íons com menor \ntamanho e maior carga. Com base nessa informação, são feitas as seguintes comparações entre a energia \nde hidratação dos pares de íons abaixo. \nI. \nLi+ > K+. \nII. \nB3+ > Al3+. \nIII. \nSr2+ < Ca2+. \nIV. \nGa3+ > Ca2+. \nV. \nS2− > Se2−. \nDas comparações I a V, acima destacadas, são CORRETAS",
+  "alternativas": {
+    "A": "apenas I e II.",
+    "C": "apenas II, III e V.",
+    "E": "todas.",
+    "B": "apenas I, II e IV.",
+    "D": "apenas III, IV e V. 21"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Soluções",
+      "Tabela Periódica e Propriedades dos Elementos"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria",
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Energia de hidratação de íons relacionada a tamanho e carga, distância íon-solvente — soluções e propriedades periódicas."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_qui/ita_2023_fase1_qui_q57.png",
+  "usa_imagem_no_render": true
+}

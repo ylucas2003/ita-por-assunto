@@ -1,0 +1,63 @@
+{
+  "_comentario": "IME 2020/2021 Fase 1 — Química (Q31-40)",
+  "q31": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Energia livre de Gibbs padrão de formação (ΔG°f) para compostos orgânicos — termoquímica",
+    "classificado_por": "claude"
+  },
+  "q32": {
+    "topicos_ids": ["3.2"],
+    "confianca": "alta",
+    "observacao": "Reação A(g) ⇌ 2B(g), ΔG°r = 0, cálculo de Kp — equilíbrio químico e termodinâmica",
+    "classificado_por": "claude"
+  },
+  "q33": {
+    "topicos_ids": ["3.3", "2.1"],
+    "confianca": "alta",
+    "observacao": "Ba(OH)2 adicionado a 300 cm³ de HNO3 0,5 M — neutralização, equilíbrio ácido-base e estequiometria",
+    "classificado_por": "claude"
+  },
+  "q34": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Nuclídeos A/Z D, A1/Z1 E, Z2/Z G, A2/Z J — estrutura atômica, isótopos e isóbaros",
+    "classificado_por": "claude"
+  },
+  "q35": {
+    "topicos_ids": ["6.3"],
+    "confianca": "alta",
+    "observacao": "Mecanismo de esterificação — reações orgânicas, mecanismo de Fischer",
+    "classificado_por": "claude"
+  },
+  "q36": {
+    "topicos_ids": ["4.2"],
+    "confianca": "media",
+    "observacao": "Dois compostos A e B reagem em solução (A + 2B → ...) — cinética química, lei de velocidade",
+    "classificado_por": "claude"
+  },
+  "q37": {
+    "topicos_ids": ["3.3"],
+    "confianca": "alta",
+    "observacao": "Ácido carbônico com bicarbonato de sódio adicionado — equilíbrio ácido-base, tampão carbonato",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": ["1.3"],
+    "confianca": "baixa",
+    "observacao": "Assinale a alternativa correta — enunciado incompleto (provável figura); classificado como ligações/estrutura molecular por contexto",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Número quântico n, transições eletrônicas no hidrogênio — estrutura atômica, espectro do hidrogênio",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": ["1.2"],
+    "confianca": "alta",
+    "observacao": "Elementos do Grupo 13 (B, Al, Ga, In, Tl), propriedades — tabela periódica, tendências dos grupos",
+    "classificado_por": "claude"
+  }
+}

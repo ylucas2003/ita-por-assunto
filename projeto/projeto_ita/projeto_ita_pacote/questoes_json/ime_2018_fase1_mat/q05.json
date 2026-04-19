@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "enunciado_md": "Valor: 0,25 \nSejam 𝑥1, 𝑥2\n e 𝑥3 raízes da equação 𝑥3 −𝑎𝑥−16 = 0. Sendo 𝑎 um número real, o valor de \n𝑥1\n3 + 𝑥2\n3 + 𝑥3\n3 é igual a:",
+  "alternativas": {
+    "A": "32 −𝑎",
+    "B": "48 −2𝑎",
+    "C": "48",
+    "D": "48 + 2𝑎",
+    "E": "32 + 𝑎"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Equações e Sistemas"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Raízes x1,x2,x3 de x³−ax−16=0, valor de x1³+x2³+x3³ — equações (relações de Girard)."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q05.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ita_2019_fase1_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "enunciado_md": "A imagem de um objeto formada por um espelho côncavo mede metade do tamanho do objeto.\nSe este é deslocado de uma distância de 15 cm em direção ao espelho, o tamanho da imagem terá o dobro\ndo tamanho do objeto. Estime a distância focal do espelho e assinale a alternativa correspondente.",
+  "alternativas": {
+    "A": "40 cm",
+    "B": "30 cm",
+    "C": "20 cm",
+    "D": "10 cm",
+    "E": "5,0 cm"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Espelho côncavo — óptica geométrica."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao": "imagens/ita_2019_fase1/ita_2019_fase1_q04.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1/ita_2019_fase1_q04.png"
+}

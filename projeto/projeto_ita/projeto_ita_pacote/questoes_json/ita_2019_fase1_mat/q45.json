@@ -1,0 +1,49 @@
+{
+  "id": "ita_2019_fase1_mat_q45",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 45,
+  "enunciado_md": "Considere as seguintes afirmações a respeito de matrizes A de ordem n × n inversíveis, tais\nque os seus elementos e os de sua inversa sejam todos números inteiros:\nI. | det(A)| = 1.\nII. AT = A−1.\nIII. A + A−1 é uma matriz diagonal.\nÉ(são) sempre VERDADEIRA(S)",
+  "alternativas": {
+    "A": "apenas I.",
+    "B": "apenas III.",
+    "C": "apenas I e II.",
+    "D": "apenas I e III.",
+    "E": "todas."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Afirmações sobre matrizes inversíveis de ordem n×n — matrizes e determinantes."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q45.png",
+  "usa_imagem_no_render": true
+}

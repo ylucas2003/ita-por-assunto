@@ -1,0 +1,83 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2023_fase1_qui. Gerada por Claude a partir dos enunciados.",
+  "q31": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Sequência de reações orgânicas, compostos A,B,C,D majoritários — reações orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q32": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Cátion trivalente com diagrama de preenchimento orbital — estrutura atômica.",
+    "classificado_por": "claude"
+  },
+  "q33": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Amianto (crisótilo), silicato de magnésio — química ambiental e industrial.",
+    "classificado_por": "claude"
+  },
+  "q34": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Drone submarino a 10 atm trazido à superfície — gases (lei de Boyle).",
+    "classificado_por": "claude"
+  },
+  "q35": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Compostos de interesse bioquímico (proteínas, lipídios) — funções orgânicas.",
+    "classificado_por": "claude"
+  },
+  "q36": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinco recipientes rígidos com gases em condições — gases.",
+    "classificado_por": "claude"
+  },
+  "q37": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Alíquota com íons Cr²⁺ e Cr³⁺ titulada com KMnO4 — análise qualitativa e quantitativa.",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cálcio metálico + H2 → hidreto, pressão de equilíbrio — equilíbrio químico.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Gás hélio originado de decaimento α e β do U-238 e Th-234 — estrutura atômica.",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "BaCO3, BaO e CO2 em equilíbrio, sistema fechado — equilíbrio químico.",
+    "classificado_por": "claude"
+  }
+}

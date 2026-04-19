@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_mat_q54",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 54,
+  "enunciado_md": "Seja z ∈C. Se a representação dos números 4, z + 2 e z2 no plano complexo são vértices de\num triângulo equilátero, então o comprimento do seu lado é igual a:",
+  "alternativas": {
+    "A": "3.",
+    "B": "√ 10.",
+    "C": "√ 11.",
+    "D": "2 √ 3.",
+    "E": "√ 13."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "z ∈ C, representações de 4, z+2 e z² como vértices de triângulo equilátero — números complexos, geometria no plano de Argand"
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_mat/ita_2021_fase1_mat_q54.png",
+  "usa_imagem_no_render": true
+}

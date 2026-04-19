@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_qui_q32",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 32,
+  "enunciado_md": "Valor: 0,25\nUma mistura de um monoácido orgânico e um monoálcool primário, em uma proporção molar 1: 2,\nfoi tratada com uma quantidade catalítica de ácido sulfúrico concentrado sob condições de volume\ne temperatura constantes. Após um período de reação suficientemente longo, em um sistema fe-\nchado, foi observado que a reação apresentou uma conversão de 87,5% do monoácido.\nSe o mesmo tratamento for aplicado a uma mistura equimolar desses mesmos compostos, a con-\nversão esperada do monoácido e o grupo funcional do produto principal serão:",
+  "alternativas": {
+    "A": "67,2%; éster.",
+    "B": "67,2%; éter.",
+    "C": "70,0%; éster.",
+    "D": "70,0%; éter.",
+    "E": "87,5%; éster."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Monoácido orgânico + monoálcool primário 1:2, esterificação catalisada — reações orgânicas."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_qui/ime_2024_fase1_qui_q32.png",
+  "usa_imagem_no_render": true
+}

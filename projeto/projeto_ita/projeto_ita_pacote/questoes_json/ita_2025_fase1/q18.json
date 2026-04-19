@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_q18",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 18,
+  "enunciado_md": "Um recipiente de paredes diatérmicas é dividido ao meio por um êmbolo\nde área A. O lado esquerdo do êmbolo é conectado ao recipiente por uma mola ideal de\nconstante elástica k, em uma região onde há vácuo. No lado direito do êmbolo, há um gás\nideal a uma pressão inicial P0. Então, uma quantidade Q de calor é transferida a esse gás\npor um processo reversível e isotérmico.\nk\nAssinale a alternativa que fornece a diferenc¸a entre o comprimento natural da mola e o seu\ncomprimento ao final do processo descrito.",
+  "alternativas": {
+    "A": "r 2Q k",
+    "B": "r 2Q k + P0A k",
+    "C": "r Q 2k + P0A k",
+    "D": "s Q k + \u0012P0A k \u00132",
+    "E": "s 2Q k + \u0012P0A k \u00132"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Recipiente de paredes diatérmicas dividido por êmbolo de área A — termodinâmica, lei dos gases"
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1/ita_2025_fase1_q18.png",
+  "usa_imagem_no_render": true
+}

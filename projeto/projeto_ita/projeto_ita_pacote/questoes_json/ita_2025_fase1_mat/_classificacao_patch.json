@@ -1,0 +1,75 @@
+{
+  "_comentario": "ITA 2025 Fase 1 — Matemática (Q1-12; em 2025 Matemática é a primeira matéria)",
+  "q01": {
+    "topicos_ids": ["9.1"],
+    "confianca": "alta",
+    "observacao": "z=a+2i com a>0, representações de 1, z, z² formam triângulo equilátero no plano complexo",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Afirmações sobre existência de poliedros com faces triangulares e quadrangulares — geometria espacial, relação de Euler",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Termo independente de (x+1/x)⁶(x−2/x)⁵ — Binômio de Newton, análise combinatória",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": ["2.1"],
+    "confianca": "alta",
+    "observacao": "g(x²)=f(2x²−x+1) para todo x>0, afirmações sobre propriedades de f e g — funções reais, composição e injetividade",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Sequências (an) e (bn), Sn = sum(ak) = bn+1−b1 para todo n — sequências, recorrência e somas",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "9^x−(3a+4)·3^x+2a²+9a−5=0 tem duas soluções reais distintas — equação exponencial, parâmetro a",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": ["3.2"],
+    "confianca": "alta",
+    "observacao": "Dois sistemas lineares com parâmetros m, n, k — discussão de sistemas, escalonamento",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "f(x)=√((2sin2x+2sinx−2cosx−1)/(8(cos2x+1))), intervalo de maior comprimento — funções trigonométricas, domínio",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": ["4.3"],
+    "confianca": "alta",
+    "observacao": "Duas circunferências C1 e C2 de centros O1 e O2 com raio 5 que se intersectam — geometria analítica, posição relativa",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": ["2.4"],
+    "confianca": "alta",
+    "observacao": "Raiz comum de p(x)=x⁵−x³+12x−18 e q(x)=x⁴−x³+5x−3 — equações polinomiais",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": ["4.3"],
+    "confianca": "alta",
+    "observacao": "Hipérbole H com focos comuns à elipse x²/4+y²=1, ponto P na hipérbole — cônicas",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": ["1.2"],
+    "confianca": "alta",
+    "observacao": "m×16 resulta em número com 231 divisores inteiros positivos — teoria dos números, fatoração, contagem de divisores",
+    "classificado_por": "claude"
+  }
+}

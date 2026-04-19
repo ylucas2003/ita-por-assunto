@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_q28",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 28,
+  "enunciado_md": "Valor: 0,25\nUma feixe de luz propaga-se na horizontal e atravessa uma rede de difração disposta na vertical.\nObservações:\n• comprimento de onda da luz: λ = 5,5 x 10−7 m;\n• número de fendas por centímetro da rede de difração: 4000.\nOs valores mais próximos para os senos dos ângulos θ, indicados na figura, para θ > 0, corres-\npondentes aos dois primeiros pontos brilhantes projetados numa parede vertical são:",
+  "alternativas": {
+    "A": "0,26 e 0,72",
+    "B": "0,09 e 0,44",
+    "C": "0,22 e 0,44",
+    "D": "0,26 e 0,59",
+    "E": "0,22 e 0,59 14"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Óptica Física"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Feixe de luz atravessando rede de difração — óptica física."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 14,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q28.png",
+  "usa_imagem_no_render": true
+}

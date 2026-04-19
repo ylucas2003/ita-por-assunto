@@ -1,0 +1,93 @@
+{
+  "_comentario": "ITA 2020 Fase 1 — Química (Q56-70, 15 questões — ano com 70 questões totais)",
+  "q56": {
+    "topicos_ids": ["3.3", "6.2"],
+    "confianca": "alta",
+    "observacao": "Acidez relativa: ácido tricloroacético vs propanóico; 2,4,6-triclorofenol vs 2,4,6-trinitrofenol — efeitos de substituintes em pKa",
+    "classificado_por": "claude"
+  },
+  "q57": {
+    "topicos_ids": ["5.1"],
+    "confianca": "alta",
+    "observacao": "Bateria de fluxo H2(g)/Br2(l) → HBr, reações de eletrodo na descarga/carga, potencial padrão — eletroquímica",
+    "classificado_por": "claude"
+  },
+  "q58": {
+    "topicos_ids": ["3.2"],
+    "confianca": "alta",
+    "observacao": "Processo Haber-Bosch (N2 + H2 → NH3), equilíbrio químico, constante de equilíbrio, catalisador",
+    "classificado_por": "claude"
+  },
+  "q59": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Chama difusiva de vela (parafina), diferentes tamanhos de cadeia carbônica — hidrocarbonetos, combustão",
+    "classificado_por": "claude"
+  },
+  "q60": {
+    "topicos_ids": ["5.1", "2.1"],
+    "confianca": "alta",
+    "observacao": "CuSCN (condutor tipo p) reage com KIO3 em HCl — reação redox, estequiometria eletroquímica",
+    "classificado_por": "claude"
+  },
+  "q61": {
+    "topicos_ids": ["3.3"],
+    "confianca": "alta",
+    "observacao": "20 mL HCl 1,5×10⁻⁴ mol/L adicionado a 0,48 L de solução — titulação ácido-base, pH",
+    "classificado_por": "claude"
+  },
+  "q62": {
+    "topicos_ids": ["3.2"],
+    "confianca": "alta",
+    "observacao": "Reator 200 L com NO2 e CO a 400 K — equilíbrio químico, Kc/Kp, cálculo de concentrações",
+    "classificado_por": "claude"
+  },
+  "q63": {
+    "topicos_ids": ["6.3"],
+    "confianca": "alta",
+    "observacao": "Polímeros, classificação de macromoléculas — reações de polimerização, química orgânica",
+    "classificado_por": "claude"
+  },
+  "q64": {
+    "topicos_ids": ["3.1", "3.3"],
+    "confianca": "alta",
+    "observacao": "Soluções de Na2S, NaCH3CO2, NaHSO4 a 0,1 mol/L — soluções, hidrólise salina, pH",
+    "classificado_por": "claude"
+  },
+  "q65": {
+    "topicos_ids": ["2.1", "4.1"],
+    "confianca": "alta",
+    "observacao": "Turbinas a gás com metano, etanol e querosene — estequiometria de combustão, energia (termoquímica)",
+    "classificado_por": "claude"
+  },
+  "q66": {
+    "topicos_ids": ["1.3"],
+    "confianca": "alta",
+    "observacao": "Líquidos iônicos (sais que fundem à temperatura ambiente) — ligações iônicas, forças intermoleculares, temperatura de fusão",
+    "classificado_por": "claude"
+  },
+  "q67": {
+    "topicos_ids": ["6.3"],
+    "confianca": "alta",
+    "observacao": "Conversão de propanol em propanal; bromometano em metanol — reações orgânicas de oxidação e substituição",
+    "classificado_por": "claude"
+  },
+  "q68": {
+    "topicos_ids": ["2.2"],
+    "confianca": "alta",
+    "observacao": "Ar: 21% O2 e 79% N2 em volume, razão molar — gases, proporções volumétricas e molares",
+    "classificado_por": "claude"
+  },
+  "q69": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "CO2 no ar seco (4×10⁻²% em volume), lei de Henry — soluções, solubilidade de gases",
+    "classificado_por": "claude"
+  },
+  "q70": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Experimentos com AgNO3 e outros reagentes, observação de precipitados — análise qualitativa, reações de identificação",
+    "classificado_por": "claude"
+  }
+}

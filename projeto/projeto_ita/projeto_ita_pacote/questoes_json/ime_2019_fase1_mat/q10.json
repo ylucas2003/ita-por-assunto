@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "enunciado_md": "Valor: 0,25 \nConsidere a progressão geométrica 𝑎1, 𝑎2, ⋯, 𝑎𝑛, ⋯ e a progressão aritmética 𝑏1, 𝑏2, ⋯, 𝑏𝑛, ⋯ com as \ncondições: \n𝑎1 > 0; \n𝑎2 𝑎1\n⁄\n> 1; e \n𝑏2 −𝑏1 > 0 \n \nPara que [log𝛼( 𝑎𝑛) − 𝑏𝑛] não dependa de n, o valor de α deverá ser:",
+  "alternativas": {
+    "A": "(𝑎2 𝑎1 ⁄ ) 1 𝑏2 ⁄",
+    "B": "(𝑎2 𝑎1 ⁄ ) 1 𝑏1 ⁄",
+    "C": "(𝑎2 𝑎1 ⁄ ) 1 (𝑏2−𝑏1) ⁄",
+    "D": "(𝑎2 𝑎1 ⁄ ) 1 (𝑏1−𝑏2) ⁄",
+    "E": "(𝑎2 𝑎1 ⁄ ) 1 (𝑏1𝑏2) ⁄ 4"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "PG a1,a2,... e PA b1,b2,... com condições vinculadas — sequências e progressões."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q10.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "enunciado_md": "Considere uma lente biconvexa feita de um material com índice de refração 1,2 e raios de\ncurvatura de 5,0 cm e 2,0 cm. Ela é imersa dentro de uma piscina e utilizada para observar um objeto\nde 80 cm de altura, também submerso, que se encontra afastado a 1,0 m de distância. Sendo o índice de\nrefração da água igual a 1,3, considere as seguintes afirmativas:\nI. A lente é convergente e a imagem é real.\nII. A lente é divergente e a imagem é virtual.\nIII. A imagem está a 31 cm da lente e tem 25 cm de altura.\nConsiderando V como verdadeira e F como falsa, as afirmações I, II e III são, respectivamente,",
+  "alternativas": {
+    "A": "V F F.",
+    "B": "F V F.",
+    "C": "F F V.",
+    "D": "V V F.",
+    "E": "F V V."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Lente biconvexa imersa em água: equação dos fabricantes de lentes com índices de refração do material e do meio; imagem real/virtual com afirmativas I-III."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1/ita_2021_fase1_q09.png",
+  "usa_imagem_no_render": true
+}

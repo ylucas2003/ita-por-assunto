@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "enunciado_md": "Valor: 0,25\nA equação arctg(z) + arctg(z + 1) = arctg\n\u00124\n3\n\u0013\n, em que arctg(x) é o arco tangente de x,\napresenta:",
+  "alternativas": {
+    "A": "duas soluções reais sendo uma positiva e outra negativa.",
+    "B": "duas soluções reais positivas.",
+    "C": "duas soluções reais negativas.",
+    "D": "uma única solução real, sendo esta positiva.",
+    "E": "uma única solução real, sendo esta negativa."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Equação arctg(z)+arctg(z+1)=arctg(4/3) — trigonometria (arco-tangente)."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q04.png",
+  "usa_imagem_no_render": true
+}

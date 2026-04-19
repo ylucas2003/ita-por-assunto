@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_qui_q40",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 40,
+  "enunciado_md": "Valor: 0,25\nNa figura abaixo encontra-se ilustrada uma mistura em equilíbrio composta por BaCO3(s), BaO(s)\ne CO2(g), em sistema fechado, resultante da decomposição endotérmica do carbonato de bário.\nConsidere as seguintes situações, tendo por base as moléculas de CO2(g):\ni)\no equilíbrio após uma adição de moléculas de CO2(g), de forma a triplicar a quantidade desse\ngás; e\nii)\na mistura em equilíbrio a uma temperatura mais elevada.\nA alternativa que melhor ilustra as situações i e ii, respectivamente, é:",
+  "alternativas": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "22 RASCUNHO 23 RASCUNHO 24"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "BaCO3, BaO e CO2 em equilíbrio, sistema fechado — equilíbrio químico."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 22,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_qui/ime_2023_fase1_qui_q40.png",
+  "usa_imagem_no_render": true
+}

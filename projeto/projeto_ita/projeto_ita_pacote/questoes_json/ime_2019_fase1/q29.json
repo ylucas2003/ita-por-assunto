@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_q29",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 29,
+  "enunciado_md": "Valor: 0,25 \n \nUma partícula de massa m e carga elétrica +q percorre a trajetória tracejada na figura em velocidade \nconstante v. No instante em que a partícula alcança o ponto A, surge um campo magnético uniforme com \nintensidade constante B, emergindo do plano do papel. A intensidade do campo magnético B para que a \npartícula alcance o ponto D na continuação de sua trajetória é:",
+  "alternativas": {
+    "A": "(𝑥2+𝑦2)𝑚𝑣 2𝑥𝑞",
+    "B": "2𝑦𝑚𝑣 (𝑥2+𝑦2)𝑞",
+    "C": "2𝑥𝑚𝑣 (𝑥2+𝑦2)𝑞",
+    "D": "2𝑥𝑞 (𝑥2+𝑦2)𝑚𝑣",
+    "E": "(𝑥2+𝑦2)𝑚𝑣 2𝑦𝑞"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "topicos_nomes": [
+      "Magnetismo"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partícula com carga +q percorre trajetória em velocidade constante — magnetismo."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1/ime_2019_fase1_q29.png",
+  "usa_imagem_no_render": true
+}

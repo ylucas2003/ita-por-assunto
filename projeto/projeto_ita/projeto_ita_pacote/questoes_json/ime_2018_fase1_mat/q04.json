@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "enunciado_md": "Valor: 0,25 \nSeja a inequação: \n6𝑥4 −5𝑥3 −29𝑥2 + 10𝑥< 0 \nSeja (𝑎, 𝑏) um intervalo contido no conjunto solução dessa inequação. O maior valor possível para 𝑏−𝑎 \né:",
+  "alternativas": {
+    "A": "2",
+    "B": "13 6",
+    "C": "1 3",
+    "D": "5 2",
+    "E": "8 3"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Equações e Sistemas"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Inequação 6x⁴−5x³−29x²+10x < 0 — equações e sistemas."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q04.png",
+  "usa_imagem_no_render": true
+}

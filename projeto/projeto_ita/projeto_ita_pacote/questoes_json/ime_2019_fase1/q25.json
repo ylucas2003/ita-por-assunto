@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_q25",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 25,
+  "enunciado_md": "Valor: 0,25 \n \nUm escritório de patentes analisa as afirmativas de um inventor que deseja obter os direitos sobre três \nmáquinas térmicas reais que trabalham em um ciclo termodinâmico. Os dados sobre o calor rejeitado para \na fonte fria e o trabalho produzido pela máquina térmica – ambos expressos em Joules – encontram-se na \ntabela abaixo. \nMáquina Térmica \nCalor Rejeitado [J] \nTrabalho Produzido [J] \nA \n40 \n60 \nB \n15 \n30 \nC \n8 \n12 \n \nAs afirmativas do inventor são: \nAfirmativa 1: O rendimento das máquinas A e C são os mesmos para quaisquer temperaturas de fonte \nquente e de fonte fria. \nAfirmativa 2: As máquinas A, B e C obedecem à Segunda Lei da Termodinâmica. \nAfirmativa 3: Se o calor rejeitado nas três situações acima for dobrado e se for mantida a mesma produção \nde trabalho, a máquina B apresentará rendimento superior aos das máquinas A e C, supondo atendidos os \nprincípios da termodinâmica. \nTomando sempre as temperaturas dos reservatórios das fontes quente e fria das máquinas como 900 K e \n300 K, está(ão) correta(s) a(s) afirmativa(s):",
+  "alternativas": {
+    "A": "1, apenas.",
+    "B": "2, apenas.",
+    "C": "1, 2 e 3.",
+    "D": "1 e 3, apenas.",
+    "E": "2 e 3, apenas. 14"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Inventor analisa três máquinas térmicas reais — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 14,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1/ime_2019_fase1_q25.png",
+  "usa_imagem_no_render": true
+}

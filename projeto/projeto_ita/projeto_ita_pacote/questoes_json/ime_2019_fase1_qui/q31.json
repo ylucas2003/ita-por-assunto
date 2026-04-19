@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_qui_q31",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 31,
+  "enunciado_md": "Valor: 0,25 \nConsidere que a superfície da Lua seja bombardeada a cada segundo por cerca de 100 bilhões de átomos \nde hidrogênio por cm2 em função da ação do “vento solar”. Supondo que esse fluxo se mantenha constante, \na massa aproximada de hidrogênio, que atingirá 1 cm2 da Lua nos próximos 5 milhões de anos será: \n(Dado: NA = 6,0.1023)",
+  "alternativas": {
+    "A": "16 g",
+    "B": "26 g",
+    "C": "32 g",
+    "D": "40 g",
+    "E": "48 g"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bombardeamento de átomos de hidrogênio na Lua por cm² — estequiometria."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_qui/ime_2019_fase1_qui_q31.png",
+  "usa_imagem_no_render": true
+}

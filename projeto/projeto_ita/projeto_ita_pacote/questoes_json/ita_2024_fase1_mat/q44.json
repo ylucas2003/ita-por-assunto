@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_mat_q44",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 44,
+  "enunciado_md": "Um poliedro convexo tem 24 vértices e 36 arestas. Sabemos que cada vértice\nune 3 faces e que o número de arestas em cada face só pode assumir um entre dois valores\nm ou n. É CORRETO afirmar que:",
+  "alternativas": {
+    "A": "é possível que m = 3 e n = 4.",
+    "B": "é possível que m = 3 e n = 5.",
+    "C": "é possível que m = 3 e n = 7.",
+    "D": "é possível que m = 3 e n = 8.",
+    "E": "é possível que m = 4 e n = 5. 16"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Poliedro convexo com 24 vértices e 36 arestas, fórmula de Euler, tipos de faces — geometria espacial."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_mat/ita_2024_fase1_mat_q44.png",
+  "usa_imagem_no_render": true
+}

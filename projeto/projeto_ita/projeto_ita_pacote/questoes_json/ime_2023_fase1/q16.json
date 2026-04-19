@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_q16",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 16,
+  "enunciado_md": "Valor: 0,25\nUm projétil de chumbo está a uma temperatura de 175 °C quando atinge uma parede e nela se aloja.\nConsidere que 25% da energia cinética do projétil imediatamente antes da colisão permaneça nele\ncomo energia interna.\nDados:\n• calor específico do chumbo: 125 J/(kg.°C);\n• temperatura de fusão do chumbo: 327 °C;\n• calor latente de fusão do chumbo: 26.000 J/kg.\nSe a energia interna que permanece após o projétil atingir a parede é justamente a mínima para\nque ocorra a fusão total do chumbo, a velocidade do projétil imediatamente antes da colisão, em\nm/s, é:",
+  "alternativas": {
+    "A": "30",
+    "B": "150",
+    "C": "400",
+    "D": "450",
+    "E": "600"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Projétil de chumbo a 175°C, 25% da energia cinética convertida em calor — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q16.png",
+  "usa_imagem_no_render": true
+}

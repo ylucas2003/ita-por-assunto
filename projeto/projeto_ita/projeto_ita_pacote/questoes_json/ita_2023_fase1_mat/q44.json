@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_mat_q44",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 44,
+  "enunciado_md": "Considere a hipérbole H de equação x2 −y2\n4 = 1. Seja T um triângulo de vértices P, F1, F2,\nonde F1 e F2 são os focos de H e P um ponto em H. Sabendo que o perímetro de T é 5\n√\n5, o produto da\nmedida dos lados de T é",
+  "alternativas": {
+    "A": "41 √ 5 2 .",
+    "B": "41 4 .",
+    "C": "41 √ 5 4 .",
+    "D": "41 8 .",
+    "E": "41 √ 5 8 ."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Hipérbole x²−y²/4=1, focos F₁ e F₂, triângulo PF₁F₂ — geometria analítica (cônicas)."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_mat/ita_2023_fase1_mat_q44.png",
+  "usa_imagem_no_render": true
+}

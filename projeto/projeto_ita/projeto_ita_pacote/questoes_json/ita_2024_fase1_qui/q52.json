@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_qui_q52",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 52,
+  "enunciado_md": "As afirmações a seguir relacionam processos físico-químicos que podem ser \ninterpretados utilizando diferentes modelos atômicos e representados por meio de uma \nequação química. \nI. \nO modelo de Bohr contém o arcabouço teórico minimamente necessário para \nrepresentar uma equação do tipo: 𝛾 + H(g) → H*(gሻ, em que H* representa o estado \neletrônico excitado do H. \nII.\nO modelo de Dalton contém o arcabouço teórico minimamente necessário para\nrepresentar uma equação do tipo: 12 Feሺsሻ + C(s) → Fe12C(s).\nIII. O modelo de Rutherford contém o arcabouço teórico minimamente necessário para\nrepresentar uma equação do tipo: He2+\n2\n4\n+ Au → He2+ \n2\n4\n+ Au. \nIV. O modelo de Thomson contém o arcabouço teórico minimamente necessário para\nrepresentar uma equação do tipo: 2H+ + 2e ⇌ H2.\nAssinale a opção que contém a(s) afirmação(ões) CORRETA(S) sobre a relação entre os \nmodelos atômicos e as equações químicas mostradas.",
+  "alternativas": {
+    "A": "Apenas I.",
+    "C": "Apenas II e IV.",
+    "E": "Todas as afirmações.",
+    "B": "Apenas I, II e III.",
+    "D": "Apenas III e IV."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "topicos_nomes": [
+      "Ligações Químicas"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "media",
+    "observacao": "Processos físico-químicos interpretados utilizando modelos de ligação e interações intermoleculares — ligações químicas."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_qui/ita_2024_fase1_qui_q52.png",
+  "usa_imagem_no_render": true
+}

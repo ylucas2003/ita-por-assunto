@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_qui_q59",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 59,
+  "enunciado_md": "Considere as afirmações relacionadas a células eletroquímicas. \nI. \nO potencial padrão de uma célula eletroquímica é diretamente proporcional à variação \nde energia livre de Gibbs padrão da reação envolvida e inversamente proporcional à \nsua constante de equilíbrio. \nII.\nDado que os valores de potencial padrão do eletrodo de cobre e do calomelano\nsaturado em relação ao eletrodo padrão de hidrogênio são, respectivamente, 0,34 V e\n0,24 V, o potencial do eletrodo de cobre em relação ao eletrodo de calomelano saturado\nserá 0,10 V.\nIII. Os potenciais padrão de eletrodo não são valores absolutos de semicélulas, mas sim\ndiferenças de potencial entre semicélulas.\nIV. O catodo de uma célula galvânica torna-se o anodo quando essa célula passa a operar\ncomo célula eletrolítica, embora a redução sempre ocorra no catodo da célula e a\noxidação sempre ocorra no anodo.\nAssinale a opção que contém as afirmações CORRETAS.",
+  "alternativas": {
+    "A": "Apenas I e II.",
+    "C": "Apenas I e III.",
+    "E": "Apenas III e IV.",
+    "B": "Apenas I, II e IV.",
+    "D": "Apenas II, III e IV."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Células eletroquímicas, potencial padrão de célula, eletrodos — eletroquímica."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_qui/ita_2024_fase1_qui_q59.png",
+  "usa_imagem_no_render": true
+}

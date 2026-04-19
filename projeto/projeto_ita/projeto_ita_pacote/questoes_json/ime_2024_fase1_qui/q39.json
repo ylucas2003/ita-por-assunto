@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_qui_q39",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 39,
+  "enunciado_md": "Valor: 0,25\nConsidere as três propostas de reação a seguir.\nReação 1:\nReação 2:\nReação 3:\nA ÚNICA alternativa correta é:",
+  "alternativas": {
+    "A": "Na reação 1, a partir de um reagente opticamente ativo, observa-se nos produtos α e β a formação de um novo centro quiral, implicando produtos opticamente inativos por conterem um par quiral dextrogiro, levogiro.",
+    "B": "A reação 2 não ocorre.",
+    "C": "A reação 2 é uma reação de condensação intramolecular que produz anidrido.",
+    "D": "Na reação 3, os produtos γ e δ são representações de um mesmo composto.",
+    "E": "Na reação 3 o ácido maleico, isômero geométrico do ácido fumárico, reage com bromo pro- duzindo isômeros meso."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "media",
+    "observacao": "Três propostas de reação, alternativa correta — reações orgânicas."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 22,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_qui/ime_2024_fase1_qui_q39.png",
+  "usa_imagem_no_render": true
+}

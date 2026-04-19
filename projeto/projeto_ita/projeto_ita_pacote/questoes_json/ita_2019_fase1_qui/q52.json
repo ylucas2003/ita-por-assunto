@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_qui_q52",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 52,
+  "enunciado_md": "Após atravessar um filtro de radiação ultravioleta, o qual não permite passar fótons de \ncomprimento de onda menor que 300 nm, um feixe de luz solar é direcionado para uma amostra de \nhidrogênio atômico gasoso à baixa pressão, mantido em um recipiente transparente à luz visível e opaco ao \ninfravermelho (com comprimento de onda superior a 663 nm). Após passarem pela amostra, a quantidade \nde fótons e suas energias são detectadas por sensores posicionados ortogonalmente ao feixe de luz. Assinale \na opção que melhor apresenta as energias, em eV, dos fótons que podem ser detectados.",
+  "alternativas": {
+    "A": "0,7; 1,9; 3,3; 10,2",
+    "C": "1,0; 1,5; 3,4; 13,6",
+    "E": "2,1; 2,4; 3,4; 3,8",
+    "B": "0,9; 1,4; 1,9; 3,3",
+    "D": "1,9; 2,6; 2,9; 3,0"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2",
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Química Ambiental e Industrial",
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria",
+      "Química Analítica e Ambiental"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Filtro UV, absorção de fótons por moléculas de ozônio, espectroscopia — química ambiental (ozônio) e estrutura atômica (quantização de energia)."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q52.png",
+  "usa_imagem_no_render": true
+}

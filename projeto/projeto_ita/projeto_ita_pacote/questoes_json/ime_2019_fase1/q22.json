@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_q22",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 22,
+  "enunciado_md": "Valor: 0,25 \n \nUma partícula com carga positiva viaja em velocidade constante até aproximar-se de uma esfera oca com \ncarga negativa uniformemente distribuída em sua casca. Ao encontrar a esfera, a partícula entra em seu \ninterior por um pequeno furo, passa pelo centro e deixa a esfera por um segundo furo, prosseguindo o \nmovimento. Bem distante da esfera, a partícula se aproxima de uma placa metálica plana de grande \ndimensão, com carga negativa uniformemente distribuída pela placa, conforme esquema da figura. \nObservações: \n• \na carga da partícula não redistribui a carga da casca esférica e nem da placa plana; e \n• \na distribuição das cargas da casca esférica e da placa plana não interferem entre si. \n \nO gráfico que melhor exprime a velocidade da partícula em função de sua posição é:",
+  "alternativas": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": "x x x x x 12"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partícula com carga positiva próxima a esfera oca negativa — eletrostática."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1/ime_2019_fase1_q22.png",
+  "usa_imagem_no_render": true
+}

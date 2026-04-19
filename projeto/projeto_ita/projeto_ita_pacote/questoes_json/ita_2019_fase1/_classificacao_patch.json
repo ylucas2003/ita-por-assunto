@@ -1,0 +1,76 @@
+{
+  "_comentario": "Classificação das 12 questões de Física do ITA 2019 1ª fase. Feita por Claude a partir da análise dos enunciados.",
+
+  "q01": {
+    "topicos_ids": ["7.2", "7.1", "6.1"],
+    "confianca": "alta",
+    "observacao": "Mista: (I) onda EM transversal não polarizada — óptica física; (II) reflexão total — óptica geométrica; (III) brisa marítima pelo calor específico — termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "Dinâmica do movimento circular com força centrípeta, envolvendo mola — dinâmica (2.3).",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": ["3.1", "4.1"],
+    "confianca": "alta",
+    "observacao": "Clássica: queda dentro de túnel através do centro de um planeta — gravitação (3.1) que resulta em MHS (4.1). Pede tempo de travessia = meio período do MHS.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Espelho côncavo — óptica geométrica.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": ["8.2"],
+    "confianca": "alta",
+    "observacao": "Associação em série de células voltaicas, resistência interna, corrente de carga — eletrodinâmica / geradores.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": ["2.2"],
+    "confianca": "alta",
+    "observacao": "Equilíbrio de barra rígida sobre quina de superfície — estática (momentos e equilíbrio de corpo rígido).",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": ["2.3", "2.1"],
+    "confianca": "media",
+    "observacao": "Bola em queda com rotação e efeito do ar (efeito Magnus) — dinâmica (força de Magnus não está no edital explicitamente, mas a análise de momento linear se aplica). Também envolve cinemática vetorial.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Teoria cinética dos gases: energia cinética média, velocidade de translação e efusão (Lei de Graham) — termodinâmica / teoria cinética.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": ["8.1"],
+    "confianca": "alta",
+    "observacao": "Potencial elétrico em pontos e campo elétrico uniforme — eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": ["8.3"],
+    "confianca": "alta",
+    "observacao": "Força magnética sobre carga em movimento em campo magnético uniforme — magnetismo. Movimento helicoidal.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": ["9.1", "8.2"],
+    "confianca": "alta",
+    "observacao": "Efeito fotoelétrico em filamento/eletrodo com análise de corrente — física quântica + eletrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": ["8.4", "8.3"],
+    "confianca": "alta",
+    "observacao": "Indução eletromagnética em espira com solenóide (corrente variável + rotação) — Lei de Faraday. Também envolve campo magnético de solenóide.",
+    "classificado_por": "claude"
+  }
+}

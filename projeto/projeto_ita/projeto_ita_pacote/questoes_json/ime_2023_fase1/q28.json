@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_q28",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 28,
+  "enunciado_md": "Valor: 0,25\nNa figura, uma partícula S e os pontos extremos A e B de um espelho plano movem-se no plano xy\nde acordo com as seguintes equações paramétricas para as coordenadas (em metros) em função\ndo instante t > 0 (em segundos):\n\u001axA(t) = 5 + t\nyA(t) = −5 −2t\n\u001axB(t) = 10 + t\nyB(t) = −5 −2t\n\u001axS(t) = sen(t)\nyS(t) = cos(t)\nObservação:\n• o plano do espelho é ortogonal ao plano xy.\nA maior velocidade escalar atingida pela imagem da partícula no espelho, em m/s, é:",
+  "alternativas": {
+    "A": "3",
+    "B": "√ 17",
+    "C": "2(1 + √ 5)",
+    "D": "5",
+    "E": "2√ 5 15"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partícula S e espelho plano movendo-se no plano xy — óptica geométrica (reflexão dinâmica)."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q28.png",
+  "usa_imagem_no_render": true
+}

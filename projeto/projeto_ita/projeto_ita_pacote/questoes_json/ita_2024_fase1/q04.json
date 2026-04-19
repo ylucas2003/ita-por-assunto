@@ -1,0 +1,52 @@
+{
+  "id": "ita_2024_fase1_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "enunciado_md": "Sejam duas bases de lanc¸amento de foguete. A primeira localizada em uma cidade no\nequador terrestre e a segunda na latitude 60◦.\nAssinale a alternativa que corresponde à melhor estimativa da razão entre os impulsos necessários\npara que um foguete seja lanc¸ado ao espac¸o partindo da primeira base e da segunda base.",
+  "alternativas": {
+    "A": "1,08",
+    "B": "0,98",
+    "C": "0,87",
+    "D": "0,76",
+    "E": "0,68"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Foguetes lançados do equador e da latitude 60°: velocidade de escape (3.1) subtraída da velocidade tangencial da rotação terrestre (2.1 - cinemática circular) em cada latitude."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1/ita_2024_fase1_q04.png"
+}

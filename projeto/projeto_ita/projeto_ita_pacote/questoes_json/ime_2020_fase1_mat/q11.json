@@ -1,0 +1,50 @@
+{
+  "id": "ime_2020_fase1_mat_q11",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 11,
+  "enunciado_md": "Valor: 0,25\nConsidere o sistema de equac¸ ões:\n\n\n\n\n\n\n\nlog(−2x + 3y + k) = log(3) + log(z)\nlogx(1 −y) = 1\nx + z = 1\nonde x, y, e z são variáveis e k é uma constante numérica real. Esse sistema terá soluc¸ ão se:",
+  "alternativas": {
+    "A": "k < −2",
+    "B": "−2 < k < 0",
+    "C": "0 < k < 2",
+    "D": "2 < k < 4",
+    "E": "k > 4"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3",
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes",
+      "Sistemas Lineares"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes",
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema com equações logarítmicas log(-2x+3y+k) = log(3)+log(z) — funções logarítmicas e sistemas"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

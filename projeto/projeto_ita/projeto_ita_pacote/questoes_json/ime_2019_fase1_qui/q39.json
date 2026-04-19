@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_qui_q39",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 39,
+  "enunciado_md": "Valor: 0,25 \nA figura abaixo esquematiza o funcionamento de um aparelho de ionização que pode ser útil para medir baixas \npressões compreendidas entre 10–4 e 10–10 mmHg. Nesse dispositivo, elétrons partem de um filamento aquecido, \natravessam uma rede cuja tensão fixa a energia do elétron, e atingem uma região do tubo sonda ligada ao sistema \nde alto vácuo cuja pressão se deseja medir. Esses elétrons ionizam espécies neutras presentes no tubo e formam \níons positivos que são atraídos por uma placa coletora negativa. Além disso, produzem uma corrente que pode \nser medida e correlacionada com a pressão do sistema de vácuo. Portanto, quanto mais baixa a pressão, menor \no número de moléculas neutras e, consequentemente, menor o número de íons positivos formados no tubo. \n \nO gráfico abaixo relaciona as primeiras energias de ionização aos números atômicos dos respectivos elementos. \n \nUm aparelho de ionização cuja energia eletrônica é 15 eV foi calibrado medindo-se a pressão de um sistema que \ncontinha vapor de sódio. Como a leitura do instrumento seria afetada se o vapor de sódio fosse substituído por \nneônio à mesma pressão?",
+  "alternativas": {
+    "A": "A leitura seria maior.",
+    "B": "A leitura manter-se-ia inalterada.",
+    "C": "A leitura seria até 50% menor.",
+    "D": "A leitura seria de até 50% do valor medido com sódio.",
+    "E": "A leitura seria zero. 22"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Gases"
+    ],
+    "blocos": [
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Aparelho de ionização para medir baixas pressões — gases."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_qui/ime_2019_fase1_qui_q39.png",
+  "usa_imagem_no_render": true
+}

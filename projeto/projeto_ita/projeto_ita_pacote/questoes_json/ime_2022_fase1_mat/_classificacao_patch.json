@@ -1,0 +1,125 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2022_fase1_mat. Gerada por Claude a partir dos enunciados.",
+  "q01": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matrizes A e B, XᵀA⁻¹=B, encontrar X⁻¹ — matrizes e determinantes.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Função f com f(1)=1 e desigualdades funcionais f(x+7)≥f(x)+7 — funções reais.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Conjuntos A e B de complexos com normas L1 e L∞ — números complexos.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação arctg(z)+arctg(z+1)=arctg(4/3) — trigonometria (arco-tangente).",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dez números em PG, removem-se aleatoriamente cinco — probabilidade.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tetraedro ABCD com ângulos e comprimentos de arestas — geometria espacial.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Soma dos inversos das soluções inteiras de equação com determinante — matrizes e determinantes.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "f(x)=log(x+√(x²+1)), propriedades (função ímpar/injetora) — funções transcendentes.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Polígono regular 2n vértices, 4 vértices formando quadrilátero — probabilidade.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "5.1",
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Ponto P com coordenadas satisfazendo sistema em cotg e cossec — trigonometria + geometria analítica.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Relógio com ponteiros das horas e minutos trocados — aritmética.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": [
+      "4.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo ABC com incentro I e ex-incentro G — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação 144x+324x/(64x+729x)=6/7 — funções transcendentes (exponencial).",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "2x²+cxy−3x+6y²−4y−2=0 representa duas retas concorrentes — geometria analítica.",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Número natural palíndromo tal que n²+2n é quadrado perfeito — aritmética.",
+    "classificado_por": "claude"
+  }
+}

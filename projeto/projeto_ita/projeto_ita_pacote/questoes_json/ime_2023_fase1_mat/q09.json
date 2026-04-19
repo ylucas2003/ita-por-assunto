@@ -1,0 +1,52 @@
+{
+  "id": "ime_2023_fase1_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "enunciado_md": "Valor: 0,25\nSeja i tal que i2 = −1. Seja A dado pela equação:\nA =\n1000\nP\nn=1\n\"\n(i)2n−2ln\n\u0012n + 1\nn + 2\n\u0013(−1)n−1#\n0 valor de e−A é:",
+  "alternativas": {
+    "A": "250",
+    "B": "500",
+    "C": "501",
+    "D": "1000",
+    "E": "1001"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Números Complexos",
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Somatório com complexos e logaritmos, valor de e^(−A) — complexos + funções transcendentes."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_mat/ime_2023_fase1_mat_q09.png",
+  "usa_imagem_no_render": true
+}

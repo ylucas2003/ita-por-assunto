@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "enunciado_md": "Valor: 0,25 \n \nSeja U o conjunto dos 1000 primeiros números naturais maiores que zero. Considere que zeros à esquerda \nsão omitidos. Seja   U o conjunto de números cuja representação na base 10 tem o algarismo mais \nsignificativo igual a 1; e B  U o conjunto de números cuja representação na base 4 tem o algarismo mais \nsignificativo igual a 2. As cardinalidades de  - B e de B -  são, respectivamente:",
+  "alternativas": {
+    "A": "46 e 277",
+    "B": "45 e 275",
+    "C": "44 e 275",
+    "D": "45 e 277",
+    "E": "46 e 275 Observação: • cardinalidade de um conjunto finito é o número de elementos distintos desse conjunto."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Conjuntos e Lógica"
+    ],
+    "blocos": [
+      "Conjuntos, Lógica e Fundamentos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Conjunto dos 1000 primeiros naturais, representação decimal — conjuntos e lógica."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q01.png",
+  "usa_imagem_no_render": true
+}

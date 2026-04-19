@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_qui_q67",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 67,
+  "enunciado_md": "Assinale a opção que apresenta a afirmação ERRADA sobre processos de oxidação e \nredução.",
+  "alternativas": {
+    "A": "Certas pilhas apresentam ânodo e cátodo constituídos de materiais metálicos de mesma natureza.",
+    "B": "Processos corrosivos são benéficos em muitas aplicações, como na oxidação de peças metálicas, com formação de película protetora.",
+    "C": "Uma forma de diminuir a velocidade da corrosão eletroquímica é diminuir a velocidade da reação catódica associada ao processo de corrosão.",
+    "D": "Na proteção catódica, a estrutura a ser protegida torna-se o cátodo de uma célula eletroquímica, não sendo necessária a utilização de uma fonte externa de corrente elétrica contínua caso a proteção ocorra com o uso de ânodo de sacrifício.",
+    "E": "Os valores de potenciais padrão de eletrodo indicam maior ou menor tendência termodinâmica para o processo de corrosão, além de fornecerem informações sobre a velocidade da reação. 22"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Afirmação ERRADA sobre processos de oxidação e redução — eletroquímica, número de oxidação"
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_qui/ita_2021_fase1_qui_q67.png",
+  "usa_imagem_no_render": true
+}

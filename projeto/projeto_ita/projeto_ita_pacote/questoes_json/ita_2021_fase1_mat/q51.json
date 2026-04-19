@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_mat_q51",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 51,
+  "enunciado_md": "Considere as seguintes afirmações:\nI. Se a medida do ângulo agudo entre uma reta r e um plano α é 45◦, então existe uma reta s contida\nem α tal que a medida do ângulo agudo entre r e s é 30◦.\nII. Se uma reta r é perpendicular a duas retas distintas s e t contidas em um plano α, então r é perpen-\ndicular a α.\nIII. Sejam r, s e t as três retas distintas determinadas por três pontos não colineares. Então, existe um\núnico ponto equidistante de r, s e t.\nIV. Se P e Q são pontos à mesma distância de um plano α, então o ponto médio do segmento PQ pertence\na α.\nÉ(são) VERDADEIRA(S):",
+  "alternativas": {
+    "A": "nenhuma.",
+    "B": "apenas I e II.",
+    "C": "apenas I e III.",
+    "D": "apenas III e IV.",
+    "E": "apenas II, III e IV."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Reta r e plano α com ângulo 45°, afirmações sobre retas paralelas/perpendiculares — geometria espacial"
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_mat/ita_2021_fase1_mat_q51.png",
+  "usa_imagem_no_render": true
+}

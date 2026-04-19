@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "enunciado_md": "Valor: 0,25\nSeja o sistema\n\n\n\n\n\n\n\n\n\n\n\n3x\n2\n1 + 3x\n2\n2 + 3x\n2\n3 = 6x4 −1\n3x\n2\n1 + 3x\n2\n2 + 3x\n2\n4 = 6x3 −1\n3x\n2\n1 + 3x\n2\n3 + 3x\n2\n4 = 6x2 −1\n3x\n2\n2 + 3x\n2\n3 + 3x\n2\n4 = 6x1 −1\nO valor de 1\nx1\n+ 1\nx2\n+ 1\nx3\n+ 1\nx4\né:",
+  "alternativas": {
+    "A": "12",
+    "B": "4 3",
+    "C": "2 3",
+    "D": "1 3",
+    "E": "9"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Equações e Sistemas"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema de equações com x1,x2,x3,x4 — equações e sistemas."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q01.png",
+  "usa_imagem_no_render": true
+}

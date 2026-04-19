@@ -1,0 +1,46 @@
+{
+  "id": "ita_2020_fase1_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "enunciado_md": "Um satélite artificial viaja em direção a um planeta ao longo de uma trajetória parabólica. A\numa distância d desse corpo celeste, propulsores são acionados de modo a, a partir daquele instante, mudar\no módulo da velocidade do satélite de vp para ve e também a sua trajetória, que passa a ser elíptica em\ntorno do planeta, com semieixo maior a. Sendo a massa do satélite desproporcionalmente menor que a do\nplaneta, a razão ve/vp é dada por\nda d d\nA -— =. Cc 1-—. E 1--.\nO Vi-s Oyi-E (O 1-6\n[d / d\nB —. D l+—.\n() 2a 0) + 2a",
+  "alternativas": {},
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Energia"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Orbital: órbita parabólica (energia total = 0) muda para elíptica com semieixo a; usa equação vis-viva (conservação de energia gravitacional + cinética)."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q05.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_qui_q39",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 39,
+  "enunciado_md": "Valor: 0,25 \nQuanto à precipitação do hidróxido férrico (KPS = 1,0.1036) em uma solução 0,001 molar de Fe3+, é correto \nafirmar que",
+  "alternativas": {
+    "A": "independe do pH.",
+    "B": "ocorre somente na faixa de pH alcalino.",
+    "C": "ocorre somente na faixa de pH ácido.",
+    "D": "não ocorre para pH < 3",
+    "E": "ocorre somente para pH  12."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Ácido-Base"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Precipitação de hidróxido férrico com Kps=1,0×10⁻³⁶ — equilíbrio ácido-base (Kps)."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_qui/ime_2018_fase1_qui_q39.png",
+  "usa_imagem_no_render": true
+}

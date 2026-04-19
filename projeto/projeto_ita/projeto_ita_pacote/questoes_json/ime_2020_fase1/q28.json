@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_q28",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 28,
+  "enunciado_md": "Valor: 0,25\nConsidere as afirmativas abaixo:\n1) Um copo contém água e gelo flutuante, ambos a 0°C. Quando o gelo se funde completamente,\npermanecendo o sistema a 0°C, o nível da água no copo:\nI.\naumenta.\nII.\npermanece constante.\nIII.\ndiminui.\n2) Um copo contém água e gelo flutuante, ambos a 0°C. O copo está no piso de um elevador que se\nencontra inicialmente em repouso. Se o elevador passa a subir com acelerac¸ ão constante, o nível\nda água no copo:\nIV.\naumenta.\nV.\npermanece constante.\nConsiderando que a configurac¸ ão do copo é a mesma em ambas as afirmativas, as sentenc¸as que\nrespondem corretamente essas afirmativas são:",
+  "alternativas": {
+    "A": "I e IV",
+    "B": "II e IV",
+    "C": "III e V",
+    "D": "I e V",
+    "E": "II e V 14"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Afirmativas sobre água e gelo flutuante a 0°C — termodinâmica, transição de fase, expansão"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 13,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_qui_q38",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 38,
+  "enunciado_md": "Valor: 0,25 \nConsidere a representação da Tabela Periódica a seguir: \n \nCom base nessa representação da tabela, avalie as asserções abaixo: \nI. \nO composto de representação 𝛿𝛼3 é iônico; \nII. \nA distribuição eletrônica [Ar] 4s2 3d8 pode representar o íon 3+; \nIII. O isótopo mais estável do elemento  tem 12 nêutrons; \nIV. Os elementos que apresentam, em seu estado fundamental, a distribuição eletrônica \n[Ne] 3s2 3py, com 1  y  6, são todos não metais; \nV. O raio atômico de  é menor que o raio atômico de . \n \nAssinale a alternativa que contém somente asserções corretas.",
+  "alternativas": {
+    "A": "I, II e III.",
+    "B": "III, IV e V.",
+    "C": "II , III e IV.",
+    "D": "I, IV e V.",
+    "E": "II, III e V. 21"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Tabela Periódica e Propriedades dos Elementos"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Representação da Tabela Periódica, asserções — tabela periódica."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_qui/ime_2019_fase1_qui_q38.png",
+  "usa_imagem_no_render": true
+}

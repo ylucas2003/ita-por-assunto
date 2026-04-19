@@ -1,0 +1,76 @@
+{
+  "_comentario": "Classificação das 12 questões de Matemática do ITA 2023 1ª fase. Feita por Claude a partir da análise dos enunciados.",
+
+  "q37": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Matriz A ∈ M₃(R), det(∛(2x²A)) + det(A³) = 0, único x real — matrizes e determinantes.",
+    "classificado_por": "claude"
+  },
+  "q38": {
+    "topicos_ids": ["9.1"],
+    "confianca": "alta",
+    "observacao": "f(z) = z² + i, iterações f^(n)(z), análise de sequência de complexos — números complexos.",
+    "classificado_por": "claude"
+  },
+  "q39": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Polígono convexo de n lados iguais, ângulos internos e diagonais — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q40": {
+    "topicos_ids": ["6.3"],
+    "confianca": "alta",
+    "observacao": "Média harmônica de n números positivos — estatística descritiva (médias).",
+    "classificado_por": "claude"
+  },
+  "q41": {
+    "topicos_ids": ["2.3"],
+    "confianca": "alta",
+    "observacao": "f(x) = 3^(2x) e g(x) = 3^x − 2^x, análise de afirmações sobre essas funções exponenciais — funções transcendentes.",
+    "classificado_por": "claude"
+  },
+  "q42": {
+    "topicos_ids": ["4.1", "5.1"],
+    "confianca": "alta",
+    "observacao": "Triângulo retângulo com BÂC = 30°, ponto D na hipotenusa, retas perpendiculares — geometria plana e trigonometria.",
+    "classificado_por": "claude"
+  },
+  "q43": {
+    "topicos_ids": ["9.1"],
+    "confianca": "alta",
+    "observacao": "z = 5−5i, f(n) = |z^(2n+1) + z̄^(2n+1)|, soma de f(n) para n de 1 a N — números complexos e módulo.",
+    "classificado_por": "claude"
+  },
+  "q44": {
+    "topicos_ids": ["4.3"],
+    "confianca": "alta",
+    "observacao": "Hipérbole x²−y²/4=1, focos F₁ e F₂, triângulo PF₁F₂ — geometria analítica (cônicas).",
+    "classificado_por": "claude"
+  },
+  "q45": {
+    "topicos_ids": ["6.2"],
+    "confianca": "alta",
+    "observacao": "Conjunto de moedas lançadas, remoção das que caem cara acima, análise probabilística — probabilidade.",
+    "classificado_por": "claude"
+  },
+  "q46": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Triângulo retângulo com hipotenusa 10, volume do sólido gerado pela rotação — geometria espacial (sólidos de revolução).",
+    "classificado_por": "claude"
+  },
+  "q47": {
+    "topicos_ids": ["2.3", "5.1"],
+    "confianca": "alta",
+    "observacao": "f(x) = cos(x)[cos(x/3)+2sen(x)]−sen(x)sen(x/3)−2, simplificação trigonométrica — funções transcendentes/trigonometria.",
+    "classificado_por": "claude"
+  },
+  "q48": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Expansão de [1+x²−x³+x⁴]^10, soma dos coeficientes de potências múltiplas de 3 — análise combinatória (binômio generalizado).",
+    "classificado_por": "claude"
+  }
+}

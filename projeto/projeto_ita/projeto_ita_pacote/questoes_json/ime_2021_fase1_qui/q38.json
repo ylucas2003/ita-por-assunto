@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_qui_q38",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 38,
+  "enunciado_md": "Valor: 0,25\nConsidere a célula eletroquímica abaixo:\nPt(s)|H2(g)|HCl(aq)||Hg2Cl2(s)|Hg(l)\nAdmita, ainda, a reação a seguir:\nHg2Cl2(s) + H2(g) →2Hg(l) + 2HCl(aq)\nO potencial-padrão da célula acima a 294,5 K é +0,2678 V e a 302,5 K é +0,2638 V. Considere\nque tanto a entalpia, quanto a entropia de reação mudam muito pouco para variações de tempe-\nratura não muito amplas. A constante de Faraday é 96500 C.mol−1. A entropia-padrão da reação\nacima, a 298,15 K, em J.(K.mol)−1, será aproximadamente:",
+  "alternativas": {
+    "A": "−2,60",
+    "B": "−48,20",
+    "C": "−12,90",
+    "D": "−96,50",
+    "E": "−87,90 23"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Célula eletroquímica Pt|H2|HCl||Hg2Cl2|Hg — eletroquímica."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 23,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_qui/ime_2021_fase1_qui_q38.png",
+  "usa_imagem_no_render": true
+}

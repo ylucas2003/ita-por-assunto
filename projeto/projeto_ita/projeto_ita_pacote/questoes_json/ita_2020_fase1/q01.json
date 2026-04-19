@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "enunciado_md": "Considere uma teoria na qual a força de interação entre duas “cargas generalizadas” qr e q»\nem universos N-dimensionais é expressa por F. = quqp/(srN 1), em que « é uma constante característica\ndo meio. A teoria também prevê uma força entre dois “polos generalizados” py e p> expressa por Fm =\npipo/ (urN-1), na qual q é outra constante característica do meio. Sabe-se ainda que um polo p pode\ninteragir com uma corrente de carga, i, gerando uma força F = ip/ (rN -2). Em todos os casos, r representa\na distância entre os entes interagentes. Considerando as grandezas fundamentais massa, comprimento,\ntempo e corrente de carga, assinale a alternativa que corresponde à fórmula dimensional de «ut.",
+  "alternativas": {
+    "A": "NT?",
+    "B": "L?T?",
+    "C": "LT?",
+    "D": "LINT?",
+    "E": "L2TN-"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Fundamentos"
+    ],
+    "blocos": [
+      "Fundamentos e Ferramentas Matemáticas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Análise dimensional pura: encontrar a dimensão de μp numa lei de força generalizada em universos N-dimensionais análoga às leis de Coulomb e magnetostática."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q01.png",
+  "usa_imagem_no_render": true
+}

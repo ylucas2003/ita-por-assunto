@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_qui_q34",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 34,
+  "enunciado_md": "Valor: 0,25 \nA azitromicina é um potente antibiótico comercial. Sua estrutura molecular está mostrada abaixo: \n \nConsiderando a estrutura acima, são feitas as seguintes afirmações: \nI. \n Existem 2 átomos com hibridização sp2. \nII. \n A molécula possui 18 carbonos quirais. \nIII. Éster, amina e éter são funções orgânicas encontradas na molécula. \nCom base na análise das afirmações acima, assinale a opção correta:",
+  "alternativas": {
+    "A": "Há apenas uma afirmação verdadeira.",
+    "B": "Apenas as afirmações I e II são verdadeiras.",
+    "C": "Apenas as afirmações I e III são verdadeiras.",
+    "D": "Apenas as afirmações II e III são verdadeiras.",
+    "E": "Todas as afirmações são verdadeiras."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Azitromicina, funções orgânicas na estrutura molecular — funções orgânicas."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_qui/ime_2019_fase1_qui_q34.png",
+  "usa_imagem_no_render": true
+}

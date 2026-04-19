@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_qui_q34",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 34,
+  "enunciado_md": "Valor: 0,25 \nÉ requerido que fazendas produtoras de leite bovino controlem a acidez do leite que está aguardando o \nprocessamento. \nEssa \nacidez \né \nresultante \nda \nconversão \nda \nlactose \nem \nácido \nlático \n(ácido 2-hidroxipropanoico) por ação de microrganismos: \nC12H22O11 + H2O → 4C3H6O3 \nUm fazendeiro decidiu fazer um experimento para determinar a taxa de geração de ácido lático no leite \narmazenado: retirou uma amostra de 50 cm3 de leite, cuja concentração de ácido lático é de 1,8 g/L, e, \ndepois de três horas, utilizou 40 cm3 de uma solução 0,1 molar de NaOH para neutralizá-la. \nConclui-se que a taxa média de produção de ácido lático por litro de leite é:",
+  "alternativas": {
+    "A": "0,25 mg/L.s",
+    "B": "0,33 mg/L.s",
+    "C": "0,50 mg/L.s",
+    "D": "0,67 mg/L.s",
+    "E": "1,00 mg/L.s"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Ácido-Base"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Acidez do leite bovino (graus Dornic) — equilíbrio ácido-base."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_qui/ime_2018_fase1_qui_q34.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_q19",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 19,
+  "enunciado_md": "O estetoscópio é um instrumento ampla-\nmente utilizado por profissionais de saúde para aus-\ncultar sons internos do corpo humano, como batimen-\ntos cardíacos e fluxo sanguíneo. Considere o modelo\nsimplificado de um estetoscópio, ilustrado na figura,\ncomposto de um cone truncado de bases circulares,\ncuja base maior possui raio R1, e a base menor, raio\nR2. Nos cilindros, perfeitamente conectados em cada\nbase, há pistões finos e rígidos de massa desprezível,\nque podem se mover para cima e para baixo sem\natrito. Considere que a onda sonora atinge toda a su-\nperfície do pistão maior e que sua energia é transfe-\nrida integralmente para o pistão menor.\nAssinale\na\nalternativa\nque\ncorresponde\nà\namplificac¸ ão,\nem dB, em func¸ ão dos raios das\nextremidades do estetoscópio.",
+  "alternativas": {
+    "A": "2 log \u0010R1 R2 \u0011",
+    "B": "4 log \u0010R1 R2 \u0011",
+    "C": "20 log \u0010R1 R2 \u0011",
+    "D": "40 log \u0010R1 R2 \u0011",
+    "E": "80 log \u0010R1 R2 \u0011 7"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Estetoscópio para auscultar sons internos do corpo — ondulatória, acústica, propagação do som"
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1/ita_2025_fase1_q19.png",
+  "usa_imagem_no_render": true
+}

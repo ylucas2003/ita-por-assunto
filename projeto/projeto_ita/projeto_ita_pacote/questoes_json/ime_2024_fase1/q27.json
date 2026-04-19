@@ -1,0 +1,43 @@
+{
+  "id": "ime_2024_fase1_q27",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 27,
+  "enunciado_md": "Valor: 0,25\nUm trapézio retângulo desloca-se para a direita à velocidade escalar constante u. No instante\ninicial, um de seus vértices está à distância h do ponto P. Ainda nesse instante, um objeto parte\ndo ponto P à velocidade constante v, indicada na figura juntamente com outras grandezas. O valor\nmínimo de v para que o objeto não seja atingido pelo trapézio, onde 0 < α < β < π\n2\n, é:\na)\nu\nsen(β −α)/senβ + h senα/L\nb)\nu cosβ\ncos(α + β) + h senα/L\nc)\nu senβ\nsenβ + h senα/L\nd)\nu senβ\nsen(β + α) + h senα/L\ne)\nu\ncosα + h senα cosβ/L\n15",
+  "alternativas": {},
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "topicos_nomes": [
+      "Indução Eletromagnética e Ondas EM"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Trapézio retângulo desloca-se com velocidade constante u em campo — indução eletromagnética."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q27.png",
+  "usa_imagem_no_render": true
+}

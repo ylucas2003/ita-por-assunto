@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_q23",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 23,
+  "enunciado_md": "Valor: 0,25\nDuas partículas A e B de massas iguais se deslocam no plano XY. As coordenadas de suas\nposições, em função do instante de tempo t, em que 0 ≤t ≤tchoque, são, respectivamente,\nSA = (t2 −9t + 13, t −2) e SB = (−2t + 3, t2 −7t + 13). No instante t = tchoque, as\npartículas chocam-se elasticamente. Imediatamente após o choque, o módulo da soma de seus\nvetores de velocidade é:",
+  "alternativas": {
+    "A": "√ 5",
+    "B": "√ 10",
+    "C": "√ 13",
+    "D": "√ 17",
+    "E": "√ 53 10"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Cinemática"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partículas A e B com coordenadas no plano XY em função do tempo — cinemática."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q23.png",
+  "usa_imagem_no_render": true
+}

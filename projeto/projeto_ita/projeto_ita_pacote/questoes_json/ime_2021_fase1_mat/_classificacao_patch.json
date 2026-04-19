@@ -1,0 +1,125 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2021_fase1_mat. Gerada por Claude a partir dos enunciados.",
+  "q01": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema de equações com x1,x2,x3,x4 — equações e sistemas.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Progressão geométrica −4/3x, 16/9x², … com soma dada — sequências e PG.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Retas secantes ao gráfico de f(x)=ln(…) passando por ponto — funções transcendentes.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Pares ordenados (x,y) inteiros satisfazendo 1/x+1/y=1/23 — aritmética.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Complexos z1,z2,z3 com |z|=4, minimizar |αz1−(α−1)z2−z3| — números complexos.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "9.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "z=(1−2√2i)¹², m=|z|, valor de x em 2x=logm(27m) — complexos + logaritmo.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "2.4",
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação cúbica com p1<p2<p3 números primos, razão entre raízes — equações + aritmética.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "s,t em (0,r) com s+t<r, probabilidade de formar triângulo — probabilidade.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Quadrado de lado L com operação de corte repetida — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Identidades de coeficientes binomiais, identificar a incorreta — análise combinatória.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matriz quadrada A de ordem 2021 com ai,j definido — matrizes e determinantes.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Família fn(x)=[tg(x)]^n, convergência/limite — limites e continuidade.",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Ponto A(−4,2) e B variável no eixo y, retas e lugar geométrico — geometria analítica.",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulos △ABC com BC=32 e AB/AC=3, máxima altura relativa a BC — geometria plana.",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cone de revolução raio R, ponto luminoso gerando sombra — geometria espacial.",
+    "classificado_por": "claude"
+  }
+}

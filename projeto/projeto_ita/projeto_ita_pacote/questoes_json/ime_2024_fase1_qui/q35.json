@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_qui_q35",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 35,
+  "enunciado_md": "Valor: 0,25\nEm todos os seres vivos, as proteínas são um importante grupo de substâncias. Sobre a estrutura\ndas proteínas, analise as afirmativas abaixo.\nI.\nA estrutura primária de uma proteína é a sequência de alfa-aminoácidos, tais como glicina,\nalanina e citosina, ligados por ligações peptídicas.\nII.\nA estrutura secundária é mantida por ligações de hidrogênio entre os grupos −NH e C−−O,\npróximos entre si, na disposição espacial da proteína.\nIII.\nA estrutura terciária é estabilizada por interações hidrofóbicas, hidrofílicas, iônicas e ligações\ndissulfeto.\nIV.\nA estrutura quaternária refere-se ao arranjo de múltiplas subunidades polipeptídicas que po-\ndem, por ação de agentes químicos ou físicos, ser alteradas ou destruídas através do fenô-\nmeno conhecido como desnaturação proteica, perdendo sua atividade biológica.\nV.\nAs proteínas apresentam estruturas geométricas de vários tipos e podem ser caracterizadas\npela produção de colorações, como por exemplo, a reação da proteína da pele com ácido\nnítrico, formando uma coloração azulada.\nA opção que apresenta APENAS afirmativas verdadeiras é:",
+  "alternativas": {
+    "A": "I e IV.",
+    "B": "II e V.",
+    "C": "I, II e III.",
+    "D": "II, III e IV.",
+    "E": "III e V."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Estrutura das proteínas, alternativas sobre cadeia polipeptídica — funções orgânicas."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_qui/ime_2024_fase1_qui_q35.png",
+  "usa_imagem_no_render": true
+}

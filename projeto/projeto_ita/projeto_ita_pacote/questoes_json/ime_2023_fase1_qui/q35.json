@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_qui_q35",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 35,
+  "enunciado_md": "Valor: 0,25\nCom relação aos compostos de interesse bioquímico abaixo, a alternativa INCORRETA é:",
+  "alternativas": {
+    "A": "Dentre os compostos timina, prolina, ácido aspártico e lisina, a timina é o único composto que não forma ligação peptídica.",
+    "B": "Os aminoácidos são anfóteros, podendo doar ou receber prótons (H +) de acordo com o con- ceito ácido base de Brönsted-Lowry.",
+    "C": "O RNA tem em sua estrutura diferentes combinações dos nucleotídeos formados pelas bases nitrogenadas purínicas adenina e guanina e pelas bases nitrogenadas pirimidínicas uracila e citosina.",
+    "D": "Os aminoácidos sintetizados em quantidade suficiente pelo sistema metabólico de certos or- ganismos vivos são denominados não essenciais.",
+    "E": "Os aminoácidos valina e glicina são constituintes das proteínas, opticamente ativos e formam ligações peptídicas."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Compostos de interesse bioquímico (proteínas, lipídios) — funções orgânicas."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_qui/ime_2023_fase1_qui_q35.png",
+  "usa_imagem_no_render": true
+}

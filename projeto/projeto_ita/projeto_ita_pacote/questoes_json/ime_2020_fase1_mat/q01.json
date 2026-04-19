@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "enunciado_md": "Valor: 0,25\nDetermine a soma dos coeficientes de x3 na expansão de (1 + x)4 (2 −x2)5.",
+  "alternativas": {
+    "A": "-320",
+    "B": "-288",
+    "C": "-192",
+    "D": "128",
+    "E": "320"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Análise Combinatória"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Soma dos coeficientes de x³ em (1+x)⁴(2-x²)⁵ — Binômio de Newton, combinatória"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

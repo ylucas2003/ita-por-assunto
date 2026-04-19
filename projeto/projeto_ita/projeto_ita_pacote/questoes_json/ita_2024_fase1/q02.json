@@ -1,0 +1,52 @@
+{
+  "id": "ita_2024_fase1_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "enunciado_md": "Uma fonte luminosa está presa ao\nteto de um recinto fechado, a uma altura H do\nsolo, conforme mostra a figura. No recinto há um\nobjeto de altura h (h < H/2) a uma distância 2a\nde uma das paredes. A lâmpada desprende-se,\niniciando um movimento de queda livre, e atinge\no solo a uma distância 3a da parede. Considere\nque o efeito de reflexão de luz nas paredes é des-\nprezível e que a fonte de luz é pontual.\na\na\na\nh\nH\nAssinale a alternativa que apresenta a expressão correta do módulo da velocidade da sombra a\npartir do instante em que esta comec¸a a ser projetada sobre a parede.",
+  "alternativas": {
+    "A": "q 2g(H – 3 2h)",
+    "B": "p 2g(H – h)",
+    "C": "1 2 q 2g(H – 3 2h)",
+    "D": "2 q 2g(H – 3 2h)",
+    "E": "2 p 2g(H – h) 2"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mista: lâmpada em queda livre (2.1 - cinemática) projetando sombra de objeto; traçado de raios luminosos em propagação retilínea (7.1) para encontrar posição e tamanho da sombra."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1/ita_2024_fase1_q02.png"
+}

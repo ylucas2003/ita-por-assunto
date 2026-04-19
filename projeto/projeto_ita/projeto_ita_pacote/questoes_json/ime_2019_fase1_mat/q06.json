@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_mat_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "enunciado_md": "Valor: 0,25 \n \nUm polinômio P(x) de grau maior que 3 quando dividido por x-2, x-3 e x-5 deixa restos 2, 3 e 5, \nrespectivamente. O resto da divisão de P(x) por (x-2)(x-3)(x-5) é:",
+  "alternativas": {
+    "A": "1",
+    "B": "x",
+    "C": "30",
+    "D": "x-1",
+    "E": "x-30"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Funções Algébricas"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polinômio P(x) dividido por x−2, x−3, x−5 com restos 2,3,5 — funções algébricas."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q06.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "enunciado_md": "Valor: 0,25\nDez números reais formam uma progressão geométrica (PG) com razão q > 1. Removem-se ao\nacaso cinco desses números. A probabilidade de que os cinco números restantes estejam em PG\né",
+  "alternativas": {
+    "A": "1 252",
+    "B": "1 126",
+    "C": "3 126",
+    "D": "2 63",
+    "E": "3 63"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dez números em PG, removem-se aleatoriamente cinco — probabilidade."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q05.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "enunciado_md": "Um recipiente isolado é dividido em duas partes. A região A, com volume VA, contém um\ngás ideal a uma temperatura TA. Na região B, com volume VB = 2VA, faz-se vácuo. Ao abrir um pequeno\norifício entre as regiões, o gás da região A começa a ocupar a região B. Considerando que não há troca de\ncalor entre o gás e o recipiente, a temperatura de equilíbrio final do sistema é",
+  "alternativas": {
+    "A": "TA/3.",
+    "B": "TA/2.",
+    "C": "TA.",
+    "D": "2TA.",
+    "E": "3TA."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Expansão livre de gás ideal para o vácuo sem troca de calor; trabalho = 0, ΔU = 0, logo temperatura final = temperatura inicial (1ª lei)."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1/ita_2021_fase1_q06.png",
+  "usa_imagem_no_render": true
+}

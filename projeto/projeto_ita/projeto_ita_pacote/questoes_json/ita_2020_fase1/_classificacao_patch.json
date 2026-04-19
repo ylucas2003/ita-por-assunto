@@ -1,0 +1,93 @@
+{
+  "_comentario": "Classificado por Claude Code",
+  "q01": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Análise dimensional pura: encontrar a dimensão de μp numa lei de força generalizada em universos N-dimensionais análoga às leis de Coulomb e magnetostática.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": ["2.1"],
+    "confianca": "alta",
+    "observacao": "Cinemática de intercepção: míssil 1 retilíneo e míssil 2 em trajetória curva alcançam alvo com velocidade constante; cálculo de velocidades e ângulos.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": ["4.1", "2.4"],
+    "confianca": "alta",
+    "observacao": "MHS iniciado pelo travamento do motor: amplitude determinada pela velocidade inicial v e energia elástica armazenada nas molas; força máxima no cabo via conservação de energia.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": ["5.1", "2.1"],
+    "confianca": "alta",
+    "observacao": "Mista: equação da continuidade para encontrar velocidade de saída (5.1) + alcance máximo de projétil horizontal (2.1).",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": ["3.1", "2.4"],
+    "confianca": "alta",
+    "observacao": "Orbital: órbita parabólica (energia total = 0) muda para elíptica com semieixo a; usa equação vis-viva (conservação de energia gravitacional + cinética).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": ["2.4"],
+    "confianca": "alta",
+    "observacao": "Energia dissipada por força de arrasto constante ao longo de muitas reflexões elásticas; distância total determinada pela razão P/(P+F) aplicada iterativamente.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": ["9.1", "9.2"],
+    "confianca": "alta",
+    "observacao": "Mista: efeito fotoelétrico (comprimento de onda λ → VAB via hc/λ - φ = eVAB) numa plataforma relativística, com dilatação do tempo e efeito Doppler relativístico afetando Δt.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": ["4.1", "6.1"],
+    "confianca": "alta",
+    "observacao": "Pêndulo simples (T ∝ √L) com fio que dilata termicamente (6.1); usa aproximação binomial para calcular variação percentual do período.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Dois processos termodinâmicos (volume constante depois pressão constante) com aquecimento elétrico; lei dos gases e 1ª lei da Termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": ["8.3", "2.2"],
+    "confianca": "alta",
+    "observacao": "Mista: força magnética sobre N espiras percorridas por corrente i em campo B uniforme (8.3) equilibra a componente gravitacional no plano inclinado (2.2 - equilíbrio).",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Interferência sonora por dois percursos de comprimentos distintos; condição de interferência construtiva/destrutiva ao variar comprimento do tubo.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": ["8.2", "8.1"],
+    "confianca": "alta",
+    "observacao": "Circuito RC com reostato linear; em regime estacionário, sem corrente no capacitor, a tensão sobre ele depende do ponto de contato x no reostato — combina divisor de tensão (8.2) e carga de capacitor (8.1).",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": ["8.1"],
+    "confianca": "alta",
+    "observacao": "Três esferas idênticas de massa m e carga Q presas a fios isolantes — equilíbrio eletrostático, força de Coulomb",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Dois raios luminosos paralelos interdistantes 2 mm focados em um ponto — óptica geométrica, lentes e focalização",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Sistema de três máquinas térmicas acopladas (rejeito de uma alimenta a seguinte) — termodinâmica, eficiência de ciclo",
+    "classificado_por": "claude"
+  }
+}

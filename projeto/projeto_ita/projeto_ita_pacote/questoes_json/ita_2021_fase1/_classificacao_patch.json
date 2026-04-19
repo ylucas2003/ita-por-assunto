@@ -1,0 +1,93 @@
+{
+  "_comentario": "Classificado por Claude Code",
+  "q01": {
+    "topicos_ids": ["1.1"],
+    "confianca": "alta",
+    "observacao": "Análise dimensional: no sistema de unidades atômicas de Hartree (e, m_e, K_0, ℏ = 1), encontrar a ordem de grandeza numérica de c a partir de suas dimensões.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": ["2.4", "2.3"],
+    "confianca": "alta",
+    "observacao": "Trem com aceleração constante e perda energética de 5%; usa teorema trabalho-energia para obter a força média fornecida pela locomotiva.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": ["2.3", "2.1"],
+    "confianca": "alta",
+    "observacao": "Colisão elástica entre bola de gude e basquete após reflexão na parede (conservação de momento e energia cinética) seguida de cinemática de projétil para calcular deslocamento Δs.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Três satélites nos vértices de triângulo equilátero em órbita mútua; força gravitacional resultante fornece a centrípeta para cada satélite.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": ["5.1", "2.1"],
+    "confianca": "alta",
+    "observacao": "Mista: Bernoulli/Torricelli modificado com pressão extra do pistão (5.1) determina velocidade de saída; cinemática de projétil dá alcance horizontal D (2.1).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Expansão livre de gás ideal para o vácuo sem troca de calor; trabalho = 0, ΔU = 0, logo temperatura final = temperatura inicial (1ª lei).",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Frequência de MHS em mola após acréscimo de massa m; aproximação binomial (1+x)^n ≈ 1+nx para Δf/f pequeno.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Cordas vibrantes do violão: harmônicos fundamentais, dependência da frequência com comprimento efetivo, tensão e densidade linear.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Lente biconvexa imersa em água: equação dos fabricantes de lentes com índices de refração do material e do meio; imagem real/virtual com afirmativas I-III.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": ["7.2"],
+    "confianca": "alta",
+    "observacao": "Dupla fenda de Young: contar máximos de interferência na faixa −30° ≤ θ ≤ 30° para λ = 500 nm e separação d = 16 µm.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": ["8.1"],
+    "confianca": "alta",
+    "observacao": "Esferas metálicas condutoras compartilhando carga: distribuição proporcional ao raio em sequência de contatos; redistribuição de carga eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": ["8.2"],
+    "confianca": "alta",
+    "observacao": "Curvas características V×I de quatro resistores; identificar resistência equivalente de associações série e paralelo a partir dos gráficos.",
+    "classificado_por": "claude"
+  },
+  "q13": {
+    "topicos_ids": ["2.1"],
+    "confianca": "alta",
+    "observacao": "Projétil a 500 m/s atravessando uma maçã — cinemática, tempo de exposição para registrar o instante do impacto",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": ["8.1"],
+    "confianca": "alta",
+    "observacao": "Cilindro condutor oco (raio interno R/2, externo R) — eletrostática, distribuição de carga em casca cilíndrica, campo elétrico",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": ["8.4"],
+    "confianca": "alta",
+    "observacao": "Bobina circular de 200 voltas e 5 cm de raio em campo magnético uniforme — indução eletromagnética, lei de Faraday",
+    "classificado_por": "claude"
+  }
+}

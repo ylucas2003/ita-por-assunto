@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_q16",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 16,
+  "enunciado_md": "Valor: 0,25\nUm cubo de arestas de comprimento L é fabricado a partir de uma chapa metálica fina de densi-\ndade superficial de massa S. O cubo encontra-se bem vedado e possui 20% de seu volume interior\npreenchido com óleo e o restante preenchido com ar. Em certo momento, o cubo é colocado dentro\nde um reservatório de água e permanece em equilíbrio na posição ilustrada na figura.\nDados:\n• massa específica da água: 1 g/cm³;\n• massa específica do óleo: 0,8 g/cm³.\nObservações:\n• a massa do ar no interior do cubo é desprezível;\n• a espessura da chapa é desprezível em relação ao comprimento L das arestas;\n• a unidade de L é cm;\n• a unidade de S é g/cm².\nA relação L/S, em cm³/g, é:",
+  "alternativas": {
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "E": "10 6"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cubo de arestas L feito de chapa metálica em fluido — hidrostática (flutuação)."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q16.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,247 @@
+{
+  "prova_id": "ime_2024_fase1_mat",
+  "pdf": "/home/ylucas2003/Downloads/ita_por_assunto/fis/ime/prova2024.pdf",
+  "materia": "Matemática",
+  "paginas": [
+    {
+      "numero": 1,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 1,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 2,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 17,
+      "imagens_embutidas": 2
+    },
+    {
+      "numero": 3,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 21,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 4,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 42,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 5,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 31,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 6,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 6,
+      "imagens_embutidas": 3
+    },
+    {
+      "numero": 7,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 17,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 8,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 7,
+      "imagens_embutidas": 3
+    },
+    {
+      "numero": 9,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 10,
+      "imagens_embutidas": 3
+    },
+    {
+      "numero": 10,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 5,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 11,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 21,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 12,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 14,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 13,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 17,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 14,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 5,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 15,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 15,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 16,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 9,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 17,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 7,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 18,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 9,
+      "imagens_embutidas": 3
+    },
+    {
+      "numero": 19,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 10,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 20,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 7,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 21,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 38,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 22,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 7,
+      "imagens_embutidas": 3
+    },
+    {
+      "numero": 23,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 3,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 24,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 3,
+      "imagens_embutidas": 0
+    }
+  ],
+  "questoes_extraidas": [
+    {
+      "numero": 1,
+      "pagina": 2,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 2,
+      "pagina": 2,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 3,
+      "pagina": 2,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 4,
+      "pagina": 2,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 5,
+      "pagina": 3,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 6,
+      "pagina": 3,
+      "alternativas_ok": false,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 7,
+      "pagina": 3,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 8,
+      "pagina": 3,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 9,
+      "pagina": 4,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 10,
+      "pagina": 4,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 11,
+      "pagina": 4,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 12,
+      "pagina": 4,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 13,
+      "pagina": 5,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 14,
+      "pagina": 5,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 15,
+      "pagina": 5,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    }
+  ],
+  "avisos": [
+    "Página 23 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 24 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros."
+  ]
+}

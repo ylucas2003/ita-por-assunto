@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_mat_q49",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 49,
+  "enunciado_md": "A expansão decimal do número 100! = 100 · 99 · · · 2 · 1 possui muitos algarismos iguais a zero.\nContando da direita para a esquerda, a partir do dígito das unidades, o número de zeros, que esse número\npossui antes de um dígito não nulo aparecer, é igual a",
+  "alternativas": {
+    "A": "20.",
+    "B": "21.",
+    "C": "22.",
+    "D": "23.",
+    "E": "24."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Números e Aritmética"
+    ],
+    "blocos": [
+      "Conjuntos, Lógica e Fundamentos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "100! — contagem de zeros finais, primeiro dígito não nulo da direita — teoria dos números"
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q49.png",
+  "usa_imagem_no_render": true
+}

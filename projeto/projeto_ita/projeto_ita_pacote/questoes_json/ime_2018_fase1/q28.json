@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_q28",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 28,
+  "enunciado_md": "Valor: 0,25 \n0,05 W\nRint\nE\nfusível\ncarga\nVT\ncabos\n100 m\n+\n-\n+\n-\nfonte de tensão\n \n \n150\n650\ncorrente \n[A]\nTempo de \nabertura do fusível\n[ms]\n25\nFigura 1 \n \nFigura 2 \n \nUma fonte de tensão com tensão interna 𝐸 e resistência interna 𝑅𝑖𝑛𝑡 = 0,05 Ω, protegida por um fusível, \nalimenta uma carga por meio de dois cabos com resistência linear igual a 1 Ω/km, como mostra a Figura 1. \nA Figura 2 mostra a aproximação da reta característica de operação do fusível utilizado na fonte. \nInicialmente, a carga que consome 10 kW e opera com tensão terminal 𝑉𝑇 igual a 100 V, mas, subitamente, \num curto circuito entre os cabos que alimentam a carga faz com que o fusível se rompa, abrindo o circuito. \nSabendo-se que o tempo de abertura do fusível foi de 1,25 ms, a energia total dissipada nos cabos, em \njoules, durante o período de ocorrência do curto circuito é, aproximadamente:",
+  "alternativas": {
+    "A": "41",
+    "B": "55",
+    "C": "73",
+    "D": "90",
+    "E": "98 15"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Circuito com fusível, resistência interna e cabos longos — eletrodinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1/ime_2018_fase1_q28.png",
+  "usa_imagem_no_render": true
+}

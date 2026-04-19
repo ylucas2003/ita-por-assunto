@@ -1,0 +1,52 @@
+{
+  "id": "ime_2018_fase1_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "enunciado_md": "Valor: 0,25 \nOs \nângulos \n𝜃1, 𝜃2, 𝜃3, ⋯, 𝜃100 \nsão \nos \ntermos \nde \numa \nprogressão \naritmética \nna \nqual \n 𝜃11 + 𝜃26 + 𝜃75 + 𝜃90 =\n𝜋\n4 . O valor de sen(∑\n𝜃𝑖\n100\n𝑖=1\n) é:",
+  "alternativas": {
+    "A": "−1",
+    "B": "− √2 2",
+    "C": "0",
+    "D": "√2 2",
+    "E": "1"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ângulos θ1..θ100 em PA com condição — sequências + trigonometria."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q02.png",
+  "usa_imagem_no_render": true
+}

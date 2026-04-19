@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_mat_q14",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 14,
+  "enunciado_md": "Valor: 0,25\nConsidere os triângulos △ABC em que BC = 32 e AB\nAC = 3. O maior valor possível para a\naltura relativa ao lado BC é:",
+  "alternativas": {
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "E": "12"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triângulos △ABC com BC=32 e AB/AC=3, máxima altura relativa a BC — geometria plana."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q14.png",
+  "usa_imagem_no_render": true
+}

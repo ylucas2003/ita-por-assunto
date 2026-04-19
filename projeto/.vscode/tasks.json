@@ -1,0 +1,100 @@
+{
+  "version": "2.0.0",
+  "inputs": [
+    {
+      "id": "ano",
+      "type": "promptString",
+      "description": "Ano da prova (ex: 2023)"
+    },
+    {
+      "id": "materia",
+      "type": "pickString",
+      "description": "Matéria",
+      "options": ["Física", "Química", "Matemática"],
+      "default": "Física"
+    }
+  ],
+  "tasks": [
+    {
+      "label": "ITA: processar tudo (todos os anos e matérias)",
+      "type": "shell",
+      "command": "python pipeline/processar_tudo.py",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "new", "clear": true },
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "ITA: processar tudo (forçar reprocessamento)",
+      "type": "shell",
+      "command": "python pipeline/processar_tudo.py --force",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "new", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "ITA: processar prova (uma matéria)",
+      "type": "shell",
+      "command": "python pipeline/pipeline_completo.py pdfs_originais/${input:ano}_fase1.pdf --ano ${input:ano} --fase 1 --materia ${input:materia} --gabarito pdfs_originais/gabarito_${input:ano}.pdf",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "new" },
+      "problemMatcher": []
+    },
+    {
+      "label": "IME: processar tudo",
+      "type": "shell",
+      "command": "python pipeline/processar_ime.py",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "new", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "ITA: gerar banco unificado (3 matérias)",
+      "type": "shell",
+      "command": "python pipeline/gerar_banco_unificado.py",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "ITA: gerar HTML (Física)",
+      "type": "shell",
+      "command": "python pipeline/renderizar_html.py --provas $(ls questoes_json | grep 'fase1$' | tr '\\n' ' ') --titulo 'Banco ITA — Física' --saida banco_fisica.html --no-embed",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "ITA: gerar HTML (Química)",
+      "type": "shell",
+      "command": "python pipeline/renderizar_html.py --provas $(ls questoes_json | grep '_qui$' | tr '\\n' ' ') --titulo 'Banco ITA — Química' --saida banco_quimica.html --no-embed",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "ITA: gerar HTML (Matemática)",
+      "type": "shell",
+      "command": "python pipeline/renderizar_html.py --provas $(ls questoes_json | grep '_mat$' | tr '\\n' ' ') --titulo 'Banco ITA — Matemática' --saida banco_matematica.html --no-embed",
+      "options": {
+        "cwd": "${workspaceFolder}/projeto_ita/projeto_ita_pacote"
+      },
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    }
+  ]
+}

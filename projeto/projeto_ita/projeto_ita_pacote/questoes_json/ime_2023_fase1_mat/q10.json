@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "enunciado_md": "Valor: 0,25\nSejam dois dados cúbicos (com faces numeradas de 1 a 6) e um dado na forma de dodecaedro\n(com faces numeradas de 1 a 12). Em cada tipo de dado, todas as faces possuem mesma probabi-\nlidade de ocorrência. Com um único lançamento de cada dado, a probabilidade de se obter maior\npontuação com o dodecaedro do que com os dois dados cúbicos somados é:",
+  "alternativas": {
+    "A": "2/3",
+    "B": "1/6",
+    "C": "7/36",
+    "D": "5/12",
+    "E": "3/16"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dois dados cúbicos e um dado dodecaedro, probabilidade — probabilidade."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_mat/ime_2023_fase1_mat_q10.png",
+  "usa_imagem_no_render": true
+}

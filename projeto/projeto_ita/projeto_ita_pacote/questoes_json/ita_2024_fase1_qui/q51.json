@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_qui_q51",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 51,
+  "enunciado_md": "Dados os processos químicos abaixo, assinale aquele que representa uma \nreação endotérmica.",
+  "alternativas": {
+    "A": "Cristalização de cloreto de sódio a partir do sal puro fundido.",
+    "B": "Corrosão de uma placa de ferro.",
+    "C": "Neutralização de uma solução aquosa de um ácido forte com uma solução aquosa de uma base fraca.",
+    "D": "Decomposição de uma solução aquosa de peróxido de hidrogênio 40 volumes na presença de um catalisador.",
+    "E": "Formação de cal virgem por decomposição de calcário. 20"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Identificação de reação endotérmica entre as opções — termoquímica (entalpia e direção de reações)."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_qui/ita_2024_fase1_qui_q51.png",
+  "usa_imagem_no_render": true
+}

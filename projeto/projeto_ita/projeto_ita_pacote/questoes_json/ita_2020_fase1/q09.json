@@ -1,0 +1,43 @@
+{
+  "id": "ita_2020_fase1_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "enunciado_md": "Uma certa quantidade de gás com temperatura inicial Ty, pressão Py e volume Vo, é aquecida\npor uma corrente elétrica que flui por um fio de platina num intervalo de tempo At. Esse procedimento é\nfeito duas vezes: primeiro, com volume constante Vo e pressão variando de Py para P, e, a seguir, com pressão\nconstante Py e volume variando de Vo para Vi. Assinale a alternativa que explicita a relação Cp /Cy do gás.\nD q no q 2h q 2h q Roq\nP, Po P, Po Po\nA(O) Wo B() 4 C() Wo D() E() mm\nVN Vo N Vo Vo\n3",
+  "alternativas": {},
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dois processos termodinâmicos (volume constante depois pressão constante) com aquecimento elétrico; lei dos gases e 1ª lei da Termodinâmica."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q09.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_qui_q40",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 40,
+  "enunciado_md": "Valor: 0,25\nCom relação à série de decaimento radioativo do 92U238 até o 82Pb206, a única alternativa\nINCORRETA é:",
+  "alternativas": {
+    "A": "Na emissão de uma partícula α, o 92U238 decai para um elemento 90X234.",
+    "B": "Por não ser físsil, o 92U238 não é empregado isoladamente para a geração de energia em reatores nucleares.",
+    "C": "Uma partícula α é emitida espontaneamente por certos núcleos de elementos radioativos, com número atômico maior que 82, como urânio, tório, polônio e rádio.",
+    "D": "Na emissão de uma partícula α e de duas partículas β, o 92U238 decai para o seu isótopo 92U234.",
+    "E": "A distribuição eletrônica do 82Pb206 (1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2) garante sua estabilidade nuclear. 22 RASCUNHO 23 RASCUNHO 24"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Série de decaimento radioativo ²³⁸U→²⁰⁶Pb — estrutura atômica."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 22,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_qui/ime_2024_fase1_qui_q40.png",
+  "usa_imagem_no_render": true
+}

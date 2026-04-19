@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "enunciado_md": "Ao redor de uma carga elétrica Q, localizada no ponto\n(0, R/2), existe uma casca metálica aterrada de raio R e com centro\nlocalizado na origem do sistema de coordenadas, conforme ilustrado\nna figura.\nA respeito dessa situac¸ ão física, são feitas as seguintes afirmac¸ ões.\nI. O campo elétrico no exterior da casca metálica é nulo.\nII. A carga elétrica induzida na casca metálica é igual a –Q.\nIII. O campo elétrico no ponto (0, 3R/4) é mais intenso do que o\ncampo elétrico no ponto (0, R/4).\nx\ny\nQ\nR\nAssinale a alternativa que contém todas as afirmac¸ ões corretas com respeito ao sistema descrito.",
+  "alternativas": {
+    "A": "I",
+    "B": "I e II",
+    "C": "I e III",
+    "D": "II e III",
+    "E": "I, II e III"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Carga Q dentro de casca metálica aterrada: método da imagem elétrica; campo externo nulo (aterramento), carga induzida na casca, campo interno não-nulo."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1/ita_2024_fase1_q09.png"
+}

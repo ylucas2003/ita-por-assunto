@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase1_q18",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 18,
+  "enunciado_md": "Valor: 0,25\nQuatro partículas, denominadas A, B, C e D, partem simultaneamente dos vértices de um qua-\ndrado de lado unitário. Todas as partículas apresentam velocidades escalares iguais durante suas\ntrajetórias. A partícula A persegue a partícula B, de tal forma que o seu vetor velocidade está\nsempre na direc¸ ão e sentido de A para B. O mesmo ocorre entre as partículas B e C, C e D e,\nfinalmente, entre D e A. Tomando o centro do quadrado como origem do sistema de coordenadas,\na tangente do ângulo entre vetor unitário do sentido positivo do eixo x e o vetor que une o ponto A\nao ponto B, quando A se encontra em um ponto arbitrário (x,y) da sua trajetória, é dada por:",
+  "alternativas": {
+    "A": "x−y 2x−2y+1",
+    "B": "−1+x+y x+y",
+    "C": "−x−y x+y",
+    "D": "x y −y x",
+    "E": "1+x+y 1−x+y"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Cinemática"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Quatro partículas nos vértices de um quadrilátero partem simultaneamente — cinemática de perseguição"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

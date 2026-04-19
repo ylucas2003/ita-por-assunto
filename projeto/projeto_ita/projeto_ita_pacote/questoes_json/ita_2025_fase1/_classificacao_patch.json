@@ -1,0 +1,75 @@
+{
+  "_comentario": "ITA 2025 Fase 1 — Física (Q13-24; em 2025 o exame tem 4 matérias: Mat Q1-12, Fis Q13-24, Qui Q25-36, Ing Q37-48)",
+  "q13": {
+    "topicos_ids": ["2.1"],
+    "confianca": "alta",
+    "observacao": "Partícula com x(t)=√(D²+(Vt−D)²) — cinemática, trajetória e velocidade a partir da equação horária",
+    "classificado_por": "claude"
+  },
+  "q14": {
+    "topicos_ids": ["2.4"],
+    "confianca": "alta",
+    "observacao": "Carrinho em trilho no plano vertical — dinâmica, conservação de energia mecânica",
+    "classificado_por": "claude"
+  },
+  "q15": {
+    "topicos_ids": ["3.1"],
+    "confianca": "alta",
+    "observacao": "Planeta exótico com satélite natural, intervalos entre fases observados — gravitação, período orbital, leis de Kepler",
+    "classificado_por": "claude"
+  },
+  "q16": {
+    "topicos_ids": ["4.1"],
+    "confianca": "alta",
+    "observacao": "Três osciladores massa-mola independentes de massa m e constantes k1, k2, k3 — MHS, frequência natural",
+    "classificado_por": "claude"
+  },
+  "q17": {
+    "topicos_ids": ["2.2"],
+    "confianca": "alta",
+    "observacao": "Barra homogênea de seção circular com extremidade fixa em articulação — equilíbrio estático, torque",
+    "classificado_por": "claude"
+  },
+  "q18": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Recipiente de paredes diatérmicas dividido por êmbolo de área A — termodinâmica, lei dos gases",
+    "classificado_por": "claude"
+  },
+  "q19": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Estetoscópio para auscultar sons internos do corpo — ondulatória, acústica, propagação do som",
+    "classificado_por": "claude"
+  },
+  "q20": {
+    "topicos_ids": ["7.1"],
+    "confianca": "alta",
+    "observacao": "Arco-íris — óptica geométrica, refração, reflexão interna total, dispersão da luz",
+    "classificado_por": "claude"
+  },
+  "q21": {
+    "topicos_ids": ["5.1"],
+    "confianca": "alta",
+    "observacao": "Tanque cúbico metálico com água e óleo — hidrostática, pressão, princípio de Arquimedes",
+    "classificado_por": "claude"
+  },
+  "q22": {
+    "topicos_ids": ["8.2"],
+    "confianca": "alta",
+    "observacao": "Circuito para medir resistência elétrica Rx — eletrodinâmica, lei de Ohm, ponte de Wheatstone",
+    "classificado_por": "claude"
+  },
+  "q23": {
+    "topicos_ids": ["8.4"],
+    "confianca": "alta",
+    "observacao": "Campo magnético diminui a taxa fixa (20î−10ĵ+12k̂) T/s, circunferência fechada — lei de Faraday, indução",
+    "classificado_por": "claude"
+  },
+  "q24": {
+    "topicos_ids": ["9.1"],
+    "confianca": "alta",
+    "observacao": "Efeito Raman, espalhamento inelástico da luz, fóton espalhado com energia diferente — física quântica",
+    "classificado_por": "claude"
+  }
+}

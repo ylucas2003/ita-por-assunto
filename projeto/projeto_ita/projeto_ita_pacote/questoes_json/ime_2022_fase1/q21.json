@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_q21",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 21,
+  "enunciado_md": "Valor: 0,25\nUma balança de massa desprezível recebe a aplicação de 3 forças, como indicado na figura acima.\nA distância x assinalada, em metros, que garante o equilíbrio, é aproximadamente:",
+  "alternativas": {
+    "A": "2,0",
+    "B": "6,0",
+    "C": "8,3",
+    "D": "9,1",
+    "E": "14,0 9"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Balança de massa desprezível com 3 forças aplicadas — estática e equilíbrio."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q21.png",
+  "usa_imagem_no_render": true
+}

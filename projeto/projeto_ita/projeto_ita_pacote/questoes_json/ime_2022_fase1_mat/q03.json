@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_mat_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "enunciado_md": "Valor: 0,25\nConsidere os conjuntos de números complexos:\nA = {x + iy tal que x,y ∈R e |x| + |y| ≤r}\ne\nB = {x + iy tal que x,y ∈R e max {|x −a|,|y −b|} ≤c} ,\nonde r, a, b e c são números reais positivos e max {x1,x2} é o maior valor entre os reais x1 e x2.\nO menor valor de r, em função de a, b e c, para que se tenha B ⊂A é",
+  "alternativas": {
+    "A": "a + b + c",
+    "B": "(a + b) √ 2 + c",
+    "C": "2(a + b) + c",
+    "D": "a + b + 2c",
+    "E": "2(a + b + c)"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Conjuntos A e B de complexos com normas L1 e L∞ — números complexos."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q03.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,75 @@
+{
+  "_comentario": "Classificado por Claude Code",
+  "q01": {
+    "topicos_ids": ["2.1", "2.3"],
+    "confianca": "alta",
+    "observacao": "Lançamento horizontal em vácuo vs ar: gráfico de |v| × x compara cinemática pura (2.1) com movimento sob resistência do ar constante (2.3 - força dissipativa).",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": ["2.2", "2.4"],
+    "confianca": "alta",
+    "observacao": "Disco em plano horizontal com mola articulada à borda: equilíbrio estável/instável (2.2) e condição energética para completar voltas inteiras (2.4 - conservação de energia).",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": ["6.1", "2.3"],
+    "confianca": "alta",
+    "observacao": "Mista: expansão de gás com êmbolo em plataforma acelerada; a 1ª lei da termodinâmica determina o estado do gás (6.1) e a 2ª lei de Newton dá a aceleração do sistema (2.3).",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": ["2.3", "2.4"],
+    "confianca": "alta",
+    "observacao": "Corpo lança horizontal, entra em tubo circular de raio R: dinâmica do movimento circular (força centrípeta) seguida de trecho uniforme; conservação de energia determina as forças.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": ["5.1", "2.3"],
+    "confianca": "alta",
+    "observacao": "Recipiente em U com dois líquidos imiscíveis em rotação: pressão hidrostática modificada em referencial não inercial (5.1 + 2.3 - força centrífuga).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": ["6.1"],
+    "confianca": "alta",
+    "observacao": "Máquina térmica de quatro etapas (expansão isotérmica, resfriamento isocórico, compressão isotérmica, aquecimento isocórico): eficiência pela 2ª lei da termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": ["4.2"],
+    "confianca": "alta",
+    "observacao": "Ola esportiva como onda mecânica transversal: velocidade de propagação, comprimento de onda, frequência e relação com D e τ.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": ["7.2", "4.1"],
+    "confianca": "alta",
+    "observacao": "Mista: pêndulo com filtro polarizador rotativo (4.1 - MHS) na frente de polarizador fixo; intensidade transmitida via Lei de Malus em função do ângulo (7.2 - polarização).",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": ["8.1", "8.2"],
+    "confianca": "alta",
+    "observacao": "Membrana neuronal modelada como circuito RC: membrana lipídica = capacitor (8.1), canais iônicos = resistores (8.2); identifica modelo correto de circuito.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": ["8.3", "8.1"],
+    "confianca": "alta",
+    "observacao": "Partícula carregada em campos E e B cruzados: força de Lorentz magnética (8.3) e força elétrica (8.1) determinam a trajetória em 3D.",
+    "classificado_por": "claude"
+  },
+  "q11": {
+    "topicos_ids": ["8.4"],
+    "confianca": "alta",
+    "observacao": "Ímã movendo-se por linha AB ou A'B' com velocidade constante; corrente induzida na espira pela variação do fluxo magnético (Lei de Faraday e Lenz).",
+    "classificado_por": "claude"
+  },
+  "q12": {
+    "topicos_ids": ["9.2"],
+    "confianca": "alta",
+    "observacao": "Múon criado a 100 km de altitude por raios cósmicos: dilatação do tempo relativística permite que o múon instável alcance a superfície terrestre.",
+    "classificado_por": "claude"
+  }
+}

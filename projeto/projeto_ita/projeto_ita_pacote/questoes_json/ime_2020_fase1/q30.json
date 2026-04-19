@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_q30",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 30,
+  "enunciado_md": "Valor: 0,25\nA caixa preta acima possui a associac¸ ão de um indutor, um capacitor e um resistor. Inicialmente,\na chave S está aberta e não há energia armazenada nos componentes. Em t = 0, a chave S é\nfechada. Em t →∞, a corrente IA = 10 A e a tensão V1 = 80 V. Sabendo que a energia total\narmazenada nos campos magnético e eletrostático do circuito é 370 J, a alternativa correta que\napresenta a topologia e os valores dos componentes na caixa preta é:\n15\n\nCONCURSO DE ADMISS ÃO\nAO\nCONCURSO DE FORMAC¸ ÃO E GRADUAC¸ ÃO\nQUEST ÕES DE 31 A 40\nQUÍMICA\n31ª QUEST ÃO\nValor: 0,25\nConsidere\nSubstância\nEnergia Livre de Gibbs padrão de Formac¸ ão (kJ.mol−1), a 25 ◦C\nBenzeno (líquido)\n+124\nBenzeno (gasoso)\n+129\nDados:\n• R=0,08 atm.L/ K.mol = 8,3 J/ K.mol = 62,3 mmHg.L/ K.mol\nA pressão de vapor do benzeno em atm, a temperatura de 298 K, é aproximadamente:",
+  "alternativas": {
+    "A": "e−4,77",
+    "B": "e−2,02",
+    "C": "e−0,21",
+    "D": "e−209,7",
+    "E": "e−12,4 32ª QUEST ÃO Valor: 0,25 Seja a reac¸ ão A(g) ⇌2B(g), a 298 K e 1 atm, com ∆G0 r = 0, sendo A e B gases ideais. Considere as seguintes afirmativas. I. No equilíbrio, o valor da pressão parcial de A é igual ao quadrado do valor da pressão parcial de B, para qualquer temperatura. II. Um aumento na pressão parcial de A, a partir da situac¸ ão de equilíbrio, causará o deslocamento da reac¸ ão para a direita. III. Se a reac¸ ão direta for exotérmica, um aumento da temperatura da reac¸ ão, favorecerá a formac¸ ão de produto. Está(ão) correta(s) a(s) afirmativa(s): (A) I, apenas. (B) I e II, apenas. (C) II, apenas. (D) I e III, apenas. (E) II e III, apenas. 16 33ª QUEST ÃO Valor: 0,25 Uma soluc¸ ão de Ba(OH)2 foi adicionada a 300 cm³ de uma soluc¸ ão 0,5 M de HNO3. Houve a precipitac¸ ão de um sal, mas o meio permaneceu ácido. Conseguiu-se a neutralizac¸ ão por meio da adic¸ ão de 200 cm³ de uma soluc¸ ão 0,25 M de KOH, que foi totalmente consumido. Dados: • Massa Molar Ba = 137 g/mol; • Massa Molar O = 16 g/mol; • Massa Molar H = 1 g/mol; • Massa Molar K = 39 g/mol; e • Massa Molar N = 14 g/mol. Assim, pode-se afirmar que a massa, em gramas, de Ba(OH)2 presente na soluc¸ ão adicionada era aproximadamente: (A) 2,5 (B) 4,3 (C) 6,1 (D) 8,6 (E) 9,4 34ª QUEST ÃO Valor: 0,25 Considere a representac¸ ão esquemática dos nuclídeos abaixo: A ZD A1 Z1E Z2G A A2 Z J Z3L A3 Sabe-se que: A −Z = N A1 −Z1 = N1 A −Z2 = N2 A2 −Z = N1 A3 −Z3 = N É possível afirmar que (A) D e G são isótonos. (B) L e D são isótopos. (C) G e L são isótopos. (D) E e J são isótonos. (E) D e G são isótopos. 17 35ª QUEST ÃO Valor: 0,25 Um professor de química propôs, como primeira etapa do mecanismo de esterificac¸ ão do terc- butanol com o ácido acético, a formac¸ ão de um carbocátion terciário no álcool. Suponha a viabili- dade dessa proposta. O átomo do ácido acético mais propenso a realizar o ataque nucleofílico ao carbocátion formado seria o (A) oxigênio do grupo hidroxila, pois seria o átomo mais eletronegativo por estar ligado a um átomo de hidrogênio. (B) oxigênio da carbonila, pois facilmente assume uma carga negativa formal por ressonância. (C) carbono do grupo ácido, pois facilmente assume a forma de carbânion por deslocamento de carga eletrônica. (D) carbono do grupo metila, pois é o menos impedido espacialmente entre os dois carbonos. (E) hidrogênio do grupo hidroxila, pois consegue se dissociar e formar um hidreto, um dos com- postos mais eletronegativos existentes. 36ª QUEST ÃO Valor: 0,25 Sabe-se que dois compostos A e B reagem em soluc¸ ão de acordo com a estequiometria A + B →C + D, que segue uma cinética de primeira ordem tanto em relac¸ ão a A quanto a B, com velocidade específica de reac¸ ão k = 10−3 L mol−1 s−1. Em um recipiente, são adicionados 2 mols de cada um dos reagentes e um solvente adequado até completar 1 L de soluc¸ ão. Considerando que A é totalmente solúvel e B tem uma solubilidade igual a 0,1 mol L−1, obtenha a taxa de reac¸ ão (v em mol L−1 s−1) em func¸ ão da conversão de A, dada por X = (2–nA)/2 (onde nA é o número de mols de A em um dado instante). (A)      v = 0,002 (1 –X), 0 ≤X ≤0,95; e v = 0,004 (1 –X)², 0,95 ≤X ≤1. (B)      v = 0,0002 (1 –X), 0 ≤X ≤0,05; e v = 0,002 (1 –X)², 0,05 ≤X ≤1. (C) v = 0,004 (1 – X)² durante todo o processo, pois a reac¸ ão se dá em soluc¸ ão. (D)      v = 0,0004 (1 –X)², 0 ≤X ≤0,05; e v = 0,004 (1 –X)², 0,05 ≤X ≤1. (E)      v = 0,0002 (1 –X), 0 ≤X ≤0,95; e v = 0,004 (1 –X)², 0,95 ≤X ≤1. 18 37ª QUEST ÃO Valor: 0,25 A uma soluc¸ ão aquosa de ácido carbônico, adiciona-se bicarbonato de sódio e posteriormente ácido clorídrico. Assinale a alternativa correta. (A) O ácido carbônico é um oxiácido moderado. (B) A adic¸ ão do bicarbonato não altera o equilíbrio de ionizac¸ ão do ácido carbônico. (C) A adic¸ ão do bicarbonato aumenta o grau de ionizac¸ ão do ácido carbônico. (D) A adic¸ ão do bicarbonato não altera o valor da constante de equilíbrio. (E) A adic¸ ão de ácido clorídrico, em pequenas quantidades, contribuirá para a diminuic¸ ão do pH da soluc¸ ão. 38ª QUEST ÃO Valor: 0,25 Assinale a alternativa correta. (A) A adic¸ ão de brometo de hidrogênio ao propeno, em presenc¸a de peróxidos, gera o 2- bromo- propano. (B) O ciclopropano é um composto pouco reativo em virtude da estabilidade proporcionada por sua estrutura triangular. (C) Como possui três duplas ligac¸ ões, o benzeno é altamente suscetível a adic¸ ões eletrofílicas aromáticas. (D) A adic¸ ão de cloro em excesso ao metano gera exclusivamente o clorometano. (E) Tanto o cis-3-octeno quanto o trans-3-octeno, ao serem oxidados com permanganato de potássio em meio básico e posteriormente acidificados, geram os ácidos propanoico e penta- noico. 39ª QUEST ÃO Valor: 0,25 Sendo n o número quântico principal e considerando as transic¸ ões eletrônicas no hidrogênio. Assi- nale a alternativa correta. (A) Um elétron livre absorve energia quando é incorporado ao íon H + em n = 2. (B) O comprimento de onda da luz emitida é maior quando um elétron retorna do estado n = 3 para n = 1, do que do estado n = 3 para n = 2. (C) Quando um elétron se desloca do estado n = 3 para n = 2, a energia absorvida é equivalente a um quantum de energia. (D) Quando o elétron se desloca do estado n = 2 para n = 1, o átomo emite energia radiante, sob forma de um fóton. (E) Quando a intensidade ou brilho da radiac¸ ão incidente em um átomo for suficientemente ele- vada, para qualquer frequência de onda eletromagnética, um elétron sempre sofrerá uma transic¸ ão, ou seja, uma mudanc¸a de nível. 19 40ª QUEST ÃO Valor: 0,25 A respeito dos elementos do Grupo 13 da Tabela Periódica (B5, Al13, Ga31, In49, Tl81), considere as seguintes afirmativas: I. os valores da primeira energia de ionizac¸ ão diminuem do B para o Al, a partir daí, essa diminuic¸ ão não é mais tão proeminente pois os subníveis (n-1)d e/ou (n-2)f, que comec¸am a surgir do Ga em diante, são menos efetivos para blindar a carga nuclear. II. o efeito do par inerte é bem pronunciado, nos elementos mais pesados do grupo, fazendo com que esses elementos apresentem carga iônica duas unidades a mais do que o esperado. III. os raios atômicos crescem com o aumento do número atômico no grupo, embora não tão acen- tuadamente como nos grupos 1 e 2. Está(ão) correta(s) a(s) afirmativa(s): (A) I, apenas. (B) I e II, apenas. (C) II, apenas. (D) I e III, apenas. (E) II e III, apenas. 20 RASCUNHO 21 RASCUNHO 22 RASCUNHO 23 RASCUNHO 24"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.2",
+      "8.4"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica",
+      "Indução Eletromagnética e Ondas EM"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Caixa preta com indutor, capacitor e resistor — circuito RLC, indução, oscilações eletromagnéticas"
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

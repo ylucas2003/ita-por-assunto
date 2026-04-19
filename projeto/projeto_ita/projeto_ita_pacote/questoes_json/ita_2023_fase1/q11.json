@@ -1,0 +1,50 @@
+{
+  "id": "ita_2023_fase1_q11",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 11,
+  "enunciado_md": "Considere um arranjo experimental, representado\nna figura, em que um ímã pode se movimentar ao longo das\nretas AB ou A′B′, sempre com velocidade constante (v ≪c).\nUma espira retangular de auto-indutância desprezível é posicio-\nnada perpendicularmente a AB. Pelo centro da espira, o ponto\nP, passam as retas AB e A′B′. A corrente elétrica na espira,\nobservada desde a perspectiva de um observador no ponto A, é\npositiva, por convenção, se estiver no sentido horário. O polo\nnorte do ímã sempre aponta ou para A ou para A′.\nA respeito da situação física descrita, são feitas as seguintes\nafirmações:\nI. Quando o ímã se desloca de A para P, a corrente na espira é\nnegativa.\nII. No momento em que o centro do ímã passa pelo ponto P, a\ncorrente na espira é zero.\nB'\nA'\nB\nA\nS\nN\nP\nS\nN\nIII. Durante a passagem do ímã de A para B, haverá dois picos de corrente medidos.\nIV. Quando o ímã passa por A′B′, a corrente máxima na espira é maior do que a corrente máxima quando\no ímã passa por AB.\nDas afirmações I a IV, acima destacadas, estão corretas",
+  "alternativas": {
+    "A": "apenas I, III.",
+    "B": "apenas II, III.",
+    "C": "todas.",
+    "D": "apenas III.",
+    "E": "apenas I."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "topicos_nomes": [
+      "Indução Eletromagnética e Ondas EM"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ímã movendo-se por linha AB ou A'B' com velocidade constante; corrente induzida na espira pela variação do fluxo magnético (Lei de Faraday e Lenz)."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao": "imagens/ita_2023_fase1/ita_2023_fase1_q11.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1/ita_2023_fase1_q11.png"
+}

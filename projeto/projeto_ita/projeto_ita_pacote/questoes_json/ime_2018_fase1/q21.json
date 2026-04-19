@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_q21",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 21,
+  "enunciado_md": "Valor: 0,25 \n \nA\n +Q, 2m, v\nB\n+Q, m, 2v\nRegião \nsujeita ao \ncampo \nmagnético\n \n \nFigura 1 \n \nFigura 2 \n \n \nDuas partículas A e B, ambas com carga positiva +𝑄 e massas 2𝑚 e 𝑚, respectivamente, viajam, em \nvelocidades constantes 𝑣 e 2𝑣 e nas direções e sentidos mostrados na Figura 1, até se chocarem e ficarem \ngrudadas no instante em que penetram numa região sujeita a um campo magnético constante ( 0 , 0 , 𝐵 ), \nsendo 𝐵 uma constante positiva. O comprimento da trajetória percorrida pelo conjunto A+B dentro da região \nsujeita ao campo magnético é: \nObservações: \n• \ndespreze o efeito gravitacional; \n• \nantes do choque, a partícula B viaja tangenciando a região sujeita ao campo magnético; \n• \no sistema de eixo adotado é o mostrado na Figura 2; e \n• \ndespreze a interação elétrica entre as partículas A e B.",
+  "alternativas": {
+    "A": "3√2𝜋𝑚𝑣 2𝑄𝐵",
+    "B": "√2𝜋𝑚𝑣 𝑄𝐵",
+    "C": "3√2𝜋𝑚𝑣 𝑄𝐵",
+    "D": "3𝜋𝑚𝑣 2𝑄𝐵",
+    "E": "√2𝜋𝑚𝑣 2𝑄𝐵 11"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "topicos_nomes": [
+      "Magnetismo"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partículas A e B com carga positiva em campo magnético — magnetismo."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1/ime_2018_fase1_q21.png",
+  "usa_imagem_no_render": true
+}

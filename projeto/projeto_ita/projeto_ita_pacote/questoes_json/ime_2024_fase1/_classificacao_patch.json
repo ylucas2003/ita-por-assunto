@@ -1,0 +1,124 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2024_fase1. Gerada por Claude a partir dos enunciados.",
+  "q16": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinco discos giram solidariamente, partículas enroladas (cinemática rotacional) — cinemática.",
+    "classificado_por": "claude"
+  },
+  "q17": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Três partículas fixadas e quarta pendurada por fio, cargas elétricas — eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q18": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Manômetro de Hg aprisionando gás ideal em equilíbrio — hidrostática.",
+    "classificado_por": "claude"
+  },
+  "q19": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema de carga de bateria com gráficos I(t) e V(t) — eletrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q20": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Prisma reto como protótipo de navio — hidrostática (flutuação).",
+    "classificado_por": "claude"
+  },
+  "q21": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte sonora lançada balisticamente emitindo frequência constante — efeito Doppler.",
+    "classificado_por": "claude"
+  },
+  "q22": {
+    "topicos_ids": [
+      "4.1",
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Canhão preso ao teto por duas molas disparando elétrons em campo magnético — MHS + magnetismo.",
+    "classificado_por": "claude"
+  },
+  "q23": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Rampa inclinada apoiada por suportes A e B — estática e equilíbrio.",
+    "classificado_por": "claude"
+  },
+  "q24": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois feixes de luz em fase, um traversa bloco — interferência, óptica física.",
+    "classificado_por": "claude"
+  },
+  "q25": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Transformação de Lorentz para diversas velocidades (0,3c a 0,9c) — relatividade restrita.",
+    "classificado_por": "claude"
+  },
+  "q26": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Modelo para simular órbita de satélite de planeta — gravitação.",
+    "classificado_por": "claude"
+  },
+  "q27": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Trapézio retângulo desloca-se com velocidade constante u em campo — indução eletromagnética.",
+    "classificado_por": "claude"
+  },
+  "q28": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Lente convergente de material índice n, equação do fabricante de lentes — óptica geométrica.",
+    "classificado_por": "claude"
+  },
+  "q29": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Parede com isolante externo e aquecimento interno — condução de calor.",
+    "classificado_por": "claude"
+  },
+  "q30": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Distribuição volumétrica esférica de cargas, campo elétrico E(r) — eletrostática.",
+    "classificado_por": "claude"
+  }
+}

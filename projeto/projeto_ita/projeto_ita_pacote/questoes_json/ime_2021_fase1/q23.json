@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_q23",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 23,
+  "enunciado_md": "Valor: 0,25\nO sistema da figura acima é composto por duas barras articuladas B1 e B2, uma roldana R e um\nfio inextensível, todos de massa desprezível, e dois objetos carregados eletricamente O1 e O2. O1\ne O2 estão fixados cada um a uma extremidade livre do fio e também à extremidade livre de B1 e\nB2, respectivamente. O sistema encontra-se em equilíbrio e está estático na posição mostrada na\nfigura.\nDados:\n• comprimento total do fio = 31 m;\n• massa de O1 = 4 kg;\n• massa de O2 = 12 kg; e\n• aceleração da gravidade: g = 10 m/s2.\nConsiderações:\n• os objetos O1 e O2 estão carregados eletricamente com cargas opostas;\n• as dimensões de O1, O2 e da roldana são desprezíveis; e\n• B1 e B2 estão paralelas ao eixo horizontal.\nDiante do exposto, o módulo da força elétrica entre os objetos O1 e O2, em N, é aproximadamente:",
+  "alternativas": {
+    "A": "18",
+    "B": "20",
+    "C": "23",
+    "D": "26",
+    "E": "30 12"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema com barras articuladas B1, B2 e roldana — estática e equilíbrio."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 12,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1/ime_2021_fase1_q23.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,214 @@
+{
+  "prova_id": "ime_2021_fase1_qui",
+  "pdf": "/home/ylucas2003/Downloads/ita_por_assunto/fis/ime/prova2021.pdf",
+  "materia": "Química",
+  "paginas": [
+    {
+      "numero": 1,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 1,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 2,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 22,
+      "imagens_embutidas": 2
+    },
+    {
+      "numero": 3,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 25,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 4,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 15,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 5,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 15,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 6,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 24,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 7,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 6,
+      "imagens_embutidas": 3
+    },
+    {
+      "numero": 8,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 8,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 9,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 11,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 10,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 18,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 11,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 14,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 12,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 6,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 13,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 6,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 14,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 4,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 15,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 6,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 16,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 4,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 17,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 5,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 18,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 5,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 19,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 4,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 20,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 8,
+      "imagens_embutidas": 2
+    },
+    {
+      "numero": 21,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 7,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 22,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 7,
+      "imagens_embutidas": 0
+    },
+    {
+      "numero": 23,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 7,
+      "imagens_embutidas": 1
+    },
+    {
+      "numero": 24,
+      "tipo": "nativa",
+      "desenhos_vetoriais": 8,
+      "imagens_embutidas": 0
+    }
+  ],
+  "questoes_extraidas": [
+    {
+      "numero": 31,
+      "pagina": 20,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 32,
+      "pagina": 20,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 33,
+      "pagina": 21,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 34,
+      "pagina": 21,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 35,
+      "pagina": 22,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 36,
+      "pagina": 22,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    },
+    {
+      "numero": 37,
+      "pagina": 23,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 38,
+      "pagina": 23,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 39,
+      "pagina": 24,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 40,
+      "pagina": 24,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": false
+    }
+  ],
+  "avisos": []
+}

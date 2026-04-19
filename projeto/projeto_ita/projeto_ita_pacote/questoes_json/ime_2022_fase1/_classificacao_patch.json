@@ -1,0 +1,125 @@
+{
+  "_comentario": "Classificação das questões IME — ime_2022_fase1. Gerada por Claude a partir dos enunciados.",
+  "q16": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Cubo de arestas L feito de chapa metálica em fluido — hidrostática (flutuação).",
+    "classificado_por": "claude"
+  },
+  "q17": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Tanque com bomba d'água, agitador e aquecimento, massa específica — hidrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q18": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Físico em espaçonave e semáforo interestelar verde — relatividade (efeito Doppler relativístico).",
+    "classificado_por": "claude"
+  },
+  "q19": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula solta a partir do repouso próxima a outra fixada — eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q20": {
+    "topicos_ids": [
+      "4.1",
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte sonora em pêndulo realizando MPS com efeito Doppler — MHS + ondas.",
+    "classificado_por": "claude"
+  },
+  "q21": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Balança de massa desprezível com 3 forças aplicadas — estática e equilíbrio.",
+    "classificado_por": "claude"
+  },
+  "q22": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Parede plana com temperaturas distintas nas superfícies A e B — condução de calor.",
+    "classificado_por": "claude"
+  },
+  "q23": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Partículas A e B com coordenadas no plano XY em função do tempo — cinemática.",
+    "classificado_por": "claude"
+  },
+  "q24": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula de carga negativa sujeita a campo elétrico E vertical constante — eletrostática.",
+    "classificado_por": "claude"
+  },
+  "q25": {
+    "topicos_ids": [
+      "4.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois espelhos planos em blocos oscilantes — MHS + óptica geométrica.",
+    "classificado_por": "claude"
+  },
+  "q26": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Barra de aço vertical presa ao teto com dilatação/deformação — termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q27": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com fonte de 12 V e múltiplas resistências — eletrodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q28": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Feixe de luz atravessando rede de difração — óptica física.",
+    "classificado_por": "claude"
+  },
+  "q29": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Três partículas carregadas em região com campo magnético — magnetismo.",
+    "classificado_por": "claude"
+  },
+  "q30": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Luneta com lente plano-convexa de raio R — óptica geométrica.",
+    "classificado_por": "claude"
+  }
+}
