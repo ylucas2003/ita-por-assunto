@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_mat_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Sejam (an) uma progressão aritmética e (bn) uma progressão geométrica. Se\na razão de (an) é r, r ̸= 0, a razão de (bn) é q = 1=r, a1 = b1 = 4 e\na1 + a2 + a3 + a4 + a5 = 50\n3 ;\ndetermine n de modo que a soma dos n primeiros termos da progressão geométrica seja\nigual a −80.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "PA e PG relacionadas; soma dos n primeiros termos da PG."
+  },
+  "fonte": {
+    "pdf": "matematica_2024_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_mat/ita_2024_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_qui_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Considere a seguinte reação química, em que A, B e C são espécies químicas \nhipotéticas: \n \nA(s) + B(g) ⇌ 2C(g) \n \nKc = 2,0. \n \nNo início, o sistema contém 1,0 mol de B(g). Após atingir o equilíbrio, é adicionada uma \nquantidade “y” de B(g) no sistema, fazendo com que se atinja um novo equilíbrio em que \nas concentrações de B(g) e C(g) são iguais. Considere que o volume do sistema é constante \ne igual a 1 L. \n \nA partir das informações fornecidas, determine os seguintes valores numéricos: \n \na) concentração, em molL–1, de B(g) e C(g) no primeiro equilíbrio; \nb) número de mols dessa quantidade “y” adicionada; \nc) concentração, em molL–1, de B(g) e C(g) no segundo equilíbrio. \n \n \n \n\n \n5 \nQUÍMICA \n________________________________________________________________________",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Equilíbrio A(s)+B(g)⇌2C(g); novo equilíbrio após adição de B."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q02.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ime_2019_fase2_qui_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \nEstabeleça a relação entre os pares cujas estruturas estão representadas abaixo, identificando-os \ncomo enantiômeros, diastereoisômeros, isômeros constitucionais ou representações diferentes de \num mesmo composto. \na)\ne\n \n \n \nc)\ne\n \nd)\ne\n \ne)\ne\n \n \ne\nb)\n\n \n 6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Fundamentos e Hidrocarbonetos"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Enantiômeros, diastereoisômeros — identificação de pares."
+  },
+  "fonte": {
+    "pdf": "quim2019.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_qui/ime_2019_fase2_qui_q08.png",
+  "usa_imagem_no_render": true
+}

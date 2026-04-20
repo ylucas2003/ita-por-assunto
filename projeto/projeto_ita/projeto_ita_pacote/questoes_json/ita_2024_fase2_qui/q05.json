@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_qui_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Os dados da tabela abaixo foram obtidos em um estudo de determinação dos \nparâmetros cinéticos de uma reação hipotética e irreversível do tipo A + B → C + D. \nExperimento \n[A] (mol L1) \n[B] (mol L1) \nT (K) \nv (mol L1 min1) \n1 \n0,50 \n0,50 \n400 \n1,25.102\n2 \n0,50 \n0,25 \n400 \n6,25.103\n3 \n1,00 \n0,25 \n400 \n2,50.102\n4 \n0,50 \n0,50 \n500 \n1,25.101\nNão havendo mudança no mecanismo da reação no intervalo de temperatura considerado, \ndetermine os seguintes valores numéricos: \na)\nOrdem da reação em relação ao reagente A.\nb)\nOrdem da reação em relação ao reagente B.\nc)\nOrdem global da reação.\nd)\nConstante de velocidade da reação a 400 K, com sua respectiva unidade de medida.\ne)\nConstante de velocidade da reação a 500 K, com sua respectiva unidade de medida.\nf)\nEnergia de ativação da reação, em kcal mol1.\n\n18 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cinética: ordem em relação a A, B e constante de velocidade."
+  },
+  "fonte": {
+    "pdf": "quimica_2024_2f.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_qui/ita_2024_fase2_qui_q05.png",
+  "usa_imagem_no_render": true
+}

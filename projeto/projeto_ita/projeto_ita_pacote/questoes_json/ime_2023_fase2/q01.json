@@ -1,0 +1,45 @@
+{
+  "id": "ime_2023_fase2_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nFigura 1\nFigura 2\nUm cilindro de 60 cm2 de área de sec¸ ão transversal contém um gás ideal confinado em seu interior.\nEm cima do pistão do cilindro é colado um bloco de 15 N de peso. Na Figura 1, a distância do\npistão à extremidade fechada do cilindro é de 3 cm. Invertendo-se a posic¸ ão do cilindro, conforme\nmostra a Figura 2, verifica-se que a distância do pistão à extremidade fechada do cilindro passa a\nvaler 6 cm.\nDados:\n• constante universal dos gases: R = 8,314 J/(mol.K);\n• temperatura do gás: T = 433 K.\nObservac¸ ões:\n• desconsidere a área de contato do bloco;\n• considere a temperatura do gás constante.\nDiante do exposto, calcule:\na) a pressão atmosférica no local da experiência;\nb) as pressões do gás em cada uma das situac¸ ões das figuras;\nc) o número de mols do gás no interior do cilindro.\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cilindro com gás ideal e bloco — pressão, pistão, Boyle."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

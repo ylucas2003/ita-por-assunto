@@ -1,0 +1,45 @@
+{
+  "id": "ime_2022_fase2_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA figura acima ilustra um planeta esférico hipotético de raio R e massa M uniformemente dis-\ntribuída em seu volume.\nSeja um corpo de massa m que possa ser movimentado por meio de motores.\nEm uma primeira etapa A, o corpo descreve uma órbita circular de raio r2 em uma cavidade estreita\nno interior do planeta.\nEm uma etapa B, os motores do corpo são acionados para transportá-lo, através de uma passagem\nnão representada na figura acima, da órbita circular de raio r2 para a órbita circular de raio r3.\nEm uma etapa C, o corpo descreve uma órbita circular de raio r3.\nDado:\n• constante universal da gravitac¸ ão: G.\nObservac¸ ões:\n• despreze o atrito agindo no movimento do corpo;\n• para efeitos gravitacionais, despreze a falta de massa na cavidade de raio r2.\nDiante do exposto, determine:\na) o trabalho realizado pela forc¸a gravitacional para o corpo dar uma volta pela órbita circular de\nraio r2 durante a etapa A;\nb) a velocidade de órbita do corpo durante a etapa A;\nc) o trabalho realizado pelos motores para cumprir a etapa B, ou seja, mudar a trajetória do corpo\nda órbita circular de raio r2 para a órbita circular de raio r3;\nd) o período para completar uma volta em torno do planeta durante a etapa C.\n10\n\nRASCUNHO\n11\n\nRASCUNHO\n12\n\nRASCUNHO\n13\n\nRASCUNHO\n14\n\nRASCUNHO\n15\n\nRASCUNHO\n16",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Planeta esférico com massa distribuída, órbita interna e transporte."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

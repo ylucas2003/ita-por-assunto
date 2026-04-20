@@ -1,0 +1,76 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Variação de entalpia — decomposição de nitroglicerina."
+  },
+  "q02": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Ácido monoprótico com Ka — massa de H+ ionizado."
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Mecanismos de decomposição da nitramida — lei de velocidade."
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.2",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Esterificação de Fischer — ésteres possíveis."
+  },
+  "q05": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Diagrama de fases hexano-octano — destilação."
+  },
+  "q06": {
+    "topicos_ids": [
+      "1.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Estrutura do tricloro, ácido hipocloroso e cianúrico."
+  },
+  "q07": {
+    "topicos_ids": [
+      "5.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Titulação redox Fe²⁺ com KMnO₄."
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Enantiômeros, diastereoisômeros — identificação de pares."
+  },
+  "q09": {
+    "topicos_ids": [
+      "5.1",
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Obtenção de alumínio da bauxita — eletrólise."
+  },
+  "q10": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Determinação de fórmula molecular CaHbOcNd — combustão."
+  }
+}

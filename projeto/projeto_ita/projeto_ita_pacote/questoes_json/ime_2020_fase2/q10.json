@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase2_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\nUm recipiente de formato cúbico de aresta a armazena 100 L de água. Um objeto cúbico de\naresta b é colocado no interior desse recipiente e fica com 75% de seu volume submerso, conforme\nmostrado na figura. No instante t = 0, aplica-se na direção vertical uma força F, no centro da face\nsuperior do cubo, fazendo com que o objeto seja deslocado para cima.\n\nDados:\n* massa específica da água: 1000 kg/m;\n* aceleração da gravidade: q = 10 m/s?;\n*“a=0,5m;e\n“b=0,2m.\n\nDesconsiderando o atrito entre o recipiente e a água e sabendo que a intensidade da força F varia\nde forma que a altura da água no recipiente caia a uma taxa constante de 4 mm/s, determine:\n\na) a massa específica do objeto, em kg/ms;\n\nb) o volume do objeto cúbico submerso, em t = 5 s;e\n\nc) o módulo da força É no mesmo instante de tempo do item b).",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cubo boiando, empuxo, força aplicada para emergir."
+  },
+  "fonte": {
+    "pdf": "fis2020.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2/ime_2020_fase2_q10.png",
+  "usa_imagem_no_render": true
+}

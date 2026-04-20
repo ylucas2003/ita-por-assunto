@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_qui_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm motor de 6 cilindros e volume total de 5.700 cm3, utilizado em viaturas leves e blindadas, con-\nsome 0,5g do combustível gasoso de composic¸ ão média C8H18, em cada cilindro, por segundo de\noperac¸ ão.\nConsiderac¸ ões:\n• o ciclo termodinâmico do motor compreende o funcionamento em 4 tempos: admissão, com-\npressão, combustão e exaustão (escape);\n• o motor executa 10 ciclos por segundo, ou seja, a mistura de ar e combustível enche os\ncilindros e depois é comprimida 10 vezes por segundo;\n• a mistura ar e combustível é introduzida à temperatura de 100 ◦C, até que a pressão seja de\n1atm em cada cilindro;\n• 20,0% da quantidade de combustível sofre combustão incompleta, sendo convertida em CO(g);\n• 80,0% da quantidade de combustível sofre combustão completa, sendo convertida em CO2(g);\n• a mistura de ar e combustível comporta-se como gás ideal;\n• as capacidades caloríficas molares são independentes da temperatura; e\n• as entalpias de formac¸ ão a 25 ◦C.\nDetermine:\na) a vazão da entrada de ar no motor, em m3/s; e\nb) a composic¸ ão percentual molar dos produtos e a temperatura de combustão, em K.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1",
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Química Ambiental e Industrial"
+    ],
+    "blocos": [
+      "Química Analítica e Ambiental",
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Motor V8 consumindo combustível C8H18 — estequiometria."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

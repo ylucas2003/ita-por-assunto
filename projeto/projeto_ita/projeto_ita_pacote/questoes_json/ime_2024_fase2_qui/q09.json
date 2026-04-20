@@ -1,0 +1,42 @@
+{
+  "id": "ime_2024_fase2_qui_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma molécula A em fase gasosa está sujeita a processos reacionais envolvendo ativac¸ ão e\ndesativac¸ ão por colisões moleculares e sua autodecomposic¸ ão, abrangendo as seguintes etapas:\nEtapa 1: ativac¸ ão molecular\nA + A −−→A* + A\nconstante de velocidade k1\nEtapa 2: desativac¸ ão molecular\nA + A* −−→A + A\nconstante de velocidade k2\nEtapa 3: autodecomposic¸ ão\nA* −−→B\nconstante de velocidade k3\nConsidere que:\ni) o composto ativado A* é formado e consumido com a mesma velocidade;\nii) k1, k2 e k3 possuem a mesma ordem de grandeza.;\niii) a lei de velocidade de formac¸ ão de B é expressa apenas em termos da concentrac¸ ão de A e\ndas três constantes de velocidade.\nDetermine a ordem aproximada da formac¸ ão de B e a constante de reac¸ ão em altíssimas pressões\nde A.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mecanismo Lindemann — ativação/desativação e autodecomposição."
+  },
+  "fonte": {
+    "pdf": "quim2024.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

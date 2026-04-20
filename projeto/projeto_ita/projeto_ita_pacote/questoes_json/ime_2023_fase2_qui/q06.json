@@ -1,0 +1,42 @@
+{
+  "id": "ime_2023_fase2_qui_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nOs principais poluentes nitrogenados do ar são o óxido nítrico e o dióxido de nitrogênio. O primeiro\né produzido durante tempestades de raios e no interior de motores a combustão. Em altas tem-\nperaturas, o óxido nítrico reage com hidrogênio formando óxido nitroso, um dos gases causadores\ndo efeito estufa, além de água. De modo a estudar a cinética desta reac¸ ão a 820 oC, a taxa de\nformac¸ ão inicial de óxido nitroso foi medida, partindo-se de misturas com diferentes pressões par-\nciais de óxido nítrico e gás hidrogênio, conforme tabela abaixo:\nExperimento\nPressão parcial do gás (Pa)\nTaxa inicial de produc¸ ão\nde óxido nitroso (Pa.s-1)\nÓxido nítrico\nHidrogênio\n1\n16000\n8000\n12\n2\n8000\n8000\n3\n3\n8000\n24000\n9\nDetermine se a reac¸ ão é elementar.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cinética da reação NO + H₂ → N₂O + H₂O."
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

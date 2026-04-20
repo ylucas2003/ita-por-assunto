@@ -1,0 +1,47 @@
+{
+  "id": "ime_2022_fase2_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nAs raízes da equação 4x3 −40x2 + 129x −135 = 0 são os comprimentos dos lados de um triângulo\nem metros.\nDetermine a área deste triângulo.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.4",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Equações e Sistemas",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Álgebra e Funções",
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Raízes de cúbica são lados de triângulo — área."
+  },
+  "fonte": {
+    "pdf": "mat2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase2_mat/ime_2022_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

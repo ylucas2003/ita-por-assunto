@@ -1,0 +1,44 @@
+{
+  "id": "ime_2023_fase2_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nPara cada número inteiro k ⩾1, seja Sk =\nk\nX\nn=1\n2n + n2 + n\n2n+1n(n + 1). Determine o menor valor de k para o\nqual\n|Sk −1| < 265\n4608\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Série Sk — menor k para limitar diferença."
+  },
+  "fonte": {
+    "pdf": "mat2023.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase2_mat/ime_2023_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

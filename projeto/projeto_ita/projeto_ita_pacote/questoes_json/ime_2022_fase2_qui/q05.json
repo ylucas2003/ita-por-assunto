@@ -1,0 +1,45 @@
+{
+  "id": "ime_2022_fase2_qui_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm combustível formado por uma mistura equimolar de n-propano e 2-metil-propano alimenta a\nfornalha de uma usina termelétrica, na qual ocorre sua combustão total na presenc¸a de ar. Um\nsensor posicionado na chaminé dessa fornalha detecta a presenc¸a de 3% em mol de oxigênio nos\ngases de exaustão.\nCalcule a razão ar/combustível, em proporc¸ ão mássica, para uma alimentac¸ ão de 1000 mol/s desse\ncombustível, com a fornalha operando sob essa condic¸ ão.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1",
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Química Ambiental e Industrial"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Analítica e Ambiental"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Combustão de mistura equimolar C3H8/C4H10 — razão ar/combustível."
+  },
+  "fonte": {
+    "pdf": "quim2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

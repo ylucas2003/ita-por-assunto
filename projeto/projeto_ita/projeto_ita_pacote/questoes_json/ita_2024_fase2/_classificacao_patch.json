@@ -1,0 +1,85 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Equilíbrio estático de banco com barra assimétrica.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Ondas estacionárias em corda; gerador de frequência, roldana, massa.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.1",
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "MHS de partícula carregada em campo elétrico com mola; sistema acoplado.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Termômetro a gás a volume constante; expansão térmica do tubo.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Trabalho mínimo de refrigerador via variação de entropia (Carnot).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "3.1",
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema binário de estrelas; efeito Doppler; massas via Kepler.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Placa zonal de Fresnel; focalização por difração em anéis concêntricos.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Energia potencial de sistema de cargas em quadrado; equilíbrio.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Curva I-V de célula solar; fem e corrente em cargas resistivas.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.2",
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Cíclotron relativístico; raio de trajetória em campo magnético.",
+    "classificado_por": "claude"
+  }
+}

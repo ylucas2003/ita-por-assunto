@@ -1,0 +1,44 @@
+{
+  "id": "ime_2024_fase2_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere um caixote que é puxado por um motor com bateria e que, em t = 0, move-se em linha\nreta e no mesmo sentido ao longo de uma superfície horizontal com atrito. Durante a trajetória ao\nlongo da superfície, a velocidade do caixote varia conforme o gráfico ilustrado na figura acima.\nDados:\n• massa do caixote: 2 kg;\n• diferenc¸a de potencial da bateria.: 10 V;\n• coeficiente de atrito cinético: 0,3;\n• acelerac¸ ão da gravidade: 10 m/s2.\nObservac¸ ões:\n• a forc¸a de atrito é constante durante todo o percurso do caixote;\n• toda a energia fornecida pela bateria é usada para mover o caixote;\n• a bateria descarrega-se totalmente em t = 4 s.\nDiante do exposto, determine:\na) a energia total fornecida pela bateria ao longo de 4 s;\nb) a corrente fornecida pela bateria em t = 1,5 s;\nc) a distância percorrida pelo caixote desde o início de seu deslocamento, de t = 0 a t = 4 s;\nd) a potência instantânea máxima fornecida pelo motor em 0 < t < 4 s.\n9",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3",
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Energia"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Caixote puxado por motor — atrito, velocidade variando em gráfico."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

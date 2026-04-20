@@ -1,0 +1,89 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "1.3",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Ponto de fusão: interações intermoleculares (comparações).",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Reações de álcoois com agentes oxidantes; esterificação; redução.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Tonometria: pressão de vapor de solução vs solvente puro.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Semicélulas Ag2O/Ag e NbO2/Nb; fem da célula galvânica.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinética: ordem em relação a A, B e constante de velocidade.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "3.3",
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "pH de água em equilíbrio com CO2 atmosférico (chuva).",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "2.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "NaCl+KCl: Ag+ precipita Cl-, Zn deposita Ag; massas.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Resinas epoxídicas: epicloridrina + bisfenol-A; cura.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.2",
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinética A⇌B; variação de k1,k2 com T; constante total.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "2.1",
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Elementos Z, Z-2, Z-3 (calcogênio e vizinhos); estequiometria.",
+    "classificado_por": "claude"
+  }
+}

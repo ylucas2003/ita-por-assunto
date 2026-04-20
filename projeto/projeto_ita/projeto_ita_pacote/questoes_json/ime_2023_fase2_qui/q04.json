@@ -1,0 +1,42 @@
+{
+  "id": "ime_2023_fase2_qui_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma amostra de 0,156 g de benzeno gasoso sofreu combustão em um calorímetro de pressão\nconstante com capacidade calorífica de 586 J.K−1.\nSabe-se que:\ni)\na temperatura do calorímetro aumentou em 6,0 K;\nii)\ntodos os produtos formados são gasosos;\niii)\no conjunto calorímetro-meio reacional é um sistema isolado;\niv)\ntodo o benzeno foi consumido.\nCalcule a massa, em gramas, de dióxido de carbono formado.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Combustão do benzeno em calorímetro — massa de CO₂."
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

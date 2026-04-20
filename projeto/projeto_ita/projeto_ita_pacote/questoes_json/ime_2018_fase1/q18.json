@@ -7,6 +7,7 @@
     "materia": "Física"
   },
   "numero": 18,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \nlíquido\n+ + + + + + +\n_ _ _ _ _ _ _\ncorpo\ncarga\nE\n \n \n \nUm corpo encontra-se com 2 3\n⁄ de seu volume submerso. Uma de suas extremidades está presa por uma \ncorda a um conjunto de roldanas que suspende uma carga puntiforme submetida a um campo elétrico \nuniforme. A outra extremidade está presa a uma mola distendida que está fixa no fundo do recipiente. Este \nsistema se encontra em equilíbrio e sua configuração é mostrada na figura acima. Desprezando os efeitos \nde borda no campo elétrico, a deformação da mola na condição de equilíbrio é: \nDados: \n• \na corda e as roldanas são ideais; \n• \naceleração da gravidade: 𝑔; \n• \nmassa específica do fluido: 𝜌; \n• \nmassa específica do corpo: 2𝜌; \n• \nconstante elástica da mola: 𝑘; \n• \nvolume do corpo: 𝑉; \n• \nintensidade do campo elétrico uniforme: 𝐸; \n• \nmassa da carga elétrica: 𝑚; e \n• \ncarga elétrica: + 𝑞.",
   "alternativas": {
     "A": "𝑔 𝑘( 𝑚 2 − 4𝜌𝑉 3 ) + 𝑞𝐸 2𝑘",
@@ -18,21 +19,12 @@
   "gabarito": "B",
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "5.1",
-      "8.1"
-    ],
-    "topicos_nomes": [
-      "Hidrostática e Hidrodinâmica",
-      "Eletrostática"
-    ],
-    "blocos": [
-      "Eletromagnetismo",
-      "Hidrostática e Hidrodinâmica"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Corpo com 2/3 submerso em campo elétrico — hidrostática + eletrostática."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -43,7 +35,7 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": true
   },

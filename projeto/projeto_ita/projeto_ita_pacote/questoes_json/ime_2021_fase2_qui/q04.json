@@ -1,0 +1,44 @@
+{
+  "id": "ime_2021_fase2_qui_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nOs elementos do 2o e 3o períodos da tabela periódica apresentam desvios da tendência em suas\ncurvas da energia de ionizac¸ ão em func¸ ão do número atômico. Com relac¸ ão a esses elementos:\na) esboce qualitativamente o gráfico da energia de ionizac¸ ão em func¸ ão do número atômico; e\nb) explique esses desvios de forma sucinta, baseado na estrutura eletrônica e no preenchimento\ndos orbitais atômicos.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica",
+      "Tabela Periódica e Propriedades dos Elementos"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Energia de ionização em função do Z — desvios da tendência."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Considere um elétron confinado no interior de uma cavidade esférica de raio a cuja fronteira\né intransponível.\n(a) Estime o valor do módulo da velocidade (v) e a energia total (E) desse elétron em seu estado fundamental.\n(b) De acordo com o modelo de Bohr, o estado de menor energia do elétron em um átomo de hidrogênio é\ncaracterizado pela órbita circular de raio rB, tendo o elétron a velocidade tangencial de módulo vB. Obtenha\na restrição em a/rB para que ocorra a desigualdade v > vB.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Física Quântica"
+    ],
+    "blocos": [
+      "Física Moderna"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Elétron confinado em cavidade esférica; comparação com modelo de Bohr."
+  },
+  "fonte": {
+    "pdf": "fisica_2019_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2/ita_2019_fase2_q10.png",
+  "usa_imagem_no_render": true
+}

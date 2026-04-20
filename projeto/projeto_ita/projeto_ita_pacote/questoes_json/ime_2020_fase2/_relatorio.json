@@ -1,0 +1,163 @@
+{
+  "prova_id": "ime_2020_fase2",
+  "pdf": "/home/ylucas2003/Downloads/ita_por_assunto/projeto/ime2fase/fis2020.pdf",
+  "materia": "Física",
+  "paginas": [
+    {
+      "numero": 1,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 277,
+      "imagens_embutidas": 21
+    },
+    {
+      "numero": 2,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 218,
+      "imagens_embutidas": 12
+    },
+    {
+      "numero": 3,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 410,
+      "imagens_embutidas": 20
+    },
+    {
+      "numero": 4,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 622,
+      "imagens_embutidas": 20
+    },
+    {
+      "numero": 5,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 269,
+      "imagens_embutidas": 5
+    },
+    {
+      "numero": 6,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 353,
+      "imagens_embutidas": 26
+    },
+    {
+      "numero": 7,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 629,
+      "imagens_embutidas": 22
+    },
+    {
+      "numero": 8,
+      "tipo": "escaneada",
+      "desenhos_vetoriais": 194,
+      "imagens_embutidas": 10
+    }
+  ],
+  "questoes_extraidas": [
+    {
+      "numero": 1,
+      "pagina": 1,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 1,
+      "pagina": 1,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 2,
+      "pagina": 2,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 3,
+      "pagina": 3,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 4,
+      "pagina": 4,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 5,
+      "pagina": 4,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 6,
+      "pagina": 5,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 5,
+      "pagina": 4,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 6,
+      "pagina": 5,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 7,
+      "pagina": 5,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 8,
+      "pagina": 6,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 7,
+      "pagina": 5,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 8,
+      "pagina": 6,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 9,
+      "pagina": 7,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 10,
+      "pagina": 7,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    },
+    {
+      "numero": 10,
+      "pagina": 7,
+      "alternativas_ok": true,
+      "possivelmente_tem_figura": true
+    }
+  ],
+  "avisos": [
+    "Página 1 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 2 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 3 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 4 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 5 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 6 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 7 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros.",
+    "Página 8 (escaneada): texto obtido via OCR. Revise com atenção — OCR pode cometer erros."
+  ]
+}

@@ -7,6 +7,7 @@
     "materia": "Física"
   },
   "numero": 24,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \n \napoio \narticulado\ncesto\nfio\nmola\nhaste\n \nA figura mostra uma haste de massa desprezível com um apoio articulado em uma extremidade. A outra \nextremidade possui um recipiente apoiado em uma mola e amarrado ao solo por um fio. A haste é mantida \nna posição horizontal e a mola comprimida. Uma bola é colocada nesse recipiente e, após o corte do fio, o \nsistema é liberado com distensão instantânea da mola. \nA constante elástica da mola, em N/m, para que, quando a prancha estiver perpendicular ao solo, a bola \nseja lançada e acerte o cesto é: \nDados: \n• \ncomprimento da prancha: 1 m; \n• \ndistância do apoio ao cesto: 5 m; \n• \nmassa da bola: 200 g; \n• \ndeformação inicial da mola: 10 cm; e \n• \naceleração da gravidade: 10 m/s2. \nObservação: \n• \ndespreze as dimensões da bola.",
   "alternativas": {
     "A": "400",
@@ -18,18 +19,12 @@
   "gabarito": "C",
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "2.2"
-    ],
-    "topicos_nomes": [
-      "Estática e Equilíbrio"
-    ],
-    "blocos": [
-      "Mecânica da Partícula"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Haste com apoio articulado e mola — estática e equilíbrio."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,7 +35,7 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": true
   },

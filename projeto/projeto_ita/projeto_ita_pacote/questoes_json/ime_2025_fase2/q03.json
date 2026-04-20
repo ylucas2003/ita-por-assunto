@@ -1,0 +1,47 @@
+{
+  "id": "ime_2025_fase2_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma pequena esfera é presa ao ponto A indicado na figura por um fio de comprimento ℓ. Abaixo e\nna mesma vertical de A, a uma distância d, há o ponto B, de forma que uma barra delgada imóvel\né fixada entre A e B.\nEm um determinado momento, a esfera é posicionada à direita de A, de maneira que o fio esteja\nesticado na horizontal. Na sequência, a esfera é solta, passando a movimentar-se em uma trajetória\nque descreve um quarto de circunferência em torno de A e, ao passar por baixo do ponto B, parte\ndo fio encosta e gruda na barra e a esfera continua seu movimento.\nDado:\n• aceleração da gravidade: g.\nObservação:\n• o fio é inextensível e de massa desprezível.\nDetermine, em função de ℓe de acordo com o contexto apresentado:\na) o valor mínimo de d para que a trajetória descrita pela esfera após passar por baixo de B seja\numa semicircunferência;\nb) o raio de curvatura instantâneo, caso d = 3/7 ℓ, da trajetória da esfera em seu ponto mais alto\napós ter passado por baixo do ponto B.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Movimento Harmônico Simples",
+      "Energia"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Esfera presa por fio com barra entre dois pontos — movimento pendular."
+  },
+  "fonte": {
+    "pdf": "fis2025.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2/ime_2025_fase2_q03.png",
+  "usa_imagem_no_render": true
+}

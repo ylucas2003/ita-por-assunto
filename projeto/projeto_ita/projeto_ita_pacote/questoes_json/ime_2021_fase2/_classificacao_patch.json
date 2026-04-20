@@ -1,0 +1,76 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Submarino com tanques de lastro, empuxo, massa específica."
+  },
+  "q02": {
+    "topicos_ids": [
+      "4.1",
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Canhão em MHS disparando elétrons em campo magnético."
+  },
+  "q03": {
+    "topicos_ids": [
+      "8.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Corpos carregados com controle eletrônico, dinâmica e Coulomb."
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Refrigerador com ganhos térmicos pelas paredes e portas."
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Ponte com apoios e molas, veículo atravessando — equilíbrio."
+  },
+  "q06": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Espelho de Lloyd — interferência luminosa."
+  },
+  "q07": {
+    "topicos_ids": [
+      "2.4",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Pêndulo com colisão inelástica, fio encontra pino — conservação."
+  },
+  "q08": {
+    "topicos_ids": [
+      "7.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Polias, cubo com face espelhada, laser, câmera — cinemática óptica."
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com três baterias, resistores e chaves — potência."
+  },
+  "q10": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema planetário — duas órbitas com partículas em suspensão."
+  }
+}

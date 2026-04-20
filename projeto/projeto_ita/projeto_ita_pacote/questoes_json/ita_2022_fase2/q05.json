@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Uma cidade localiza-se ao nível do mar, próxima à costa oceânica à oeste e a poucos quilômetros\nde uma cordilheira. Durante o dia, uma brisa constante úmida de ar flui da costa para a montanha. Um\nbarômetro localizado na cidade indica uma pressão de 100 kPa a temperatura de 25◦C. Por sua vez, um\noutro barômetro localizado no ponto mais alto da cordilheira indica uma pressão de 80 kPa. Considere que o\ncalor específico molar do ar a volume constante vale 2R. Se necessário, considere:\n3√\n2 ≈1,26 e\n3√\n10 ≈2,15.\n(a) Estime a temperatura no ponto mais alto da cordilheira em Kelvin.\n(b) Considerando uma umidade relativa φ0 = 50 % ao nível do mar e φ1 = 10 % no ponto mais alto\nda cordilheira, estime o volume de água em m3 que precipita por hora na trajetória da brisa entre a\ncidade e o pico se o fluxo médio de ar seco que alcança o topo da cordilheira for de 2, 0 × 109 kg/h.\n(c) Explique qualitativamente a razão pela qual desertos se formam no lado continental das cordilheiras\ne cite ao menos um exemplo em que isso ocorre no planeta Terra.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Transformação adiabática de ar ascendendo em cordilheira."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q05.png",
+  "usa_imagem_no_render": true
+}

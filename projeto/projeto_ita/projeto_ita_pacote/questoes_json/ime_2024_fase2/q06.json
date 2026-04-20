@@ -1,0 +1,42 @@
+{
+  "id": "ime_2024_fase2_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere um corpo descrevendo uma órbita circular de raio r e velocidade v, resultando num\nperíodo T , em torno da Terra.\nDados:\n• constante universal da gravitac¸ ão: G;\n• massa do corpo: m;\n• massa da Terra.: M.\nObservac¸ ão:\n• (1 + x)n ≈1 + nx, para |x| << 1.\nQuando o corpo se move para uma órbita circular de raio r + ∆r, sendo ∆r << r, seu novo\nperíodo de órbita passa a ser T + ∆T e sua nova velocidade orbital se torna v + ∆v.\nDetermine o valor aproximado:\na) de ∆T em func¸ ão de ∆r e v;\nb) de ∆v em func¸ ão de ∆r e T ;\nc) da energia potencial gravitacional em func¸ ão de ∆r, r, G, m e M.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação"
+    ],
+    "blocos": [
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Órbita circular mudando de raio — variação do período."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

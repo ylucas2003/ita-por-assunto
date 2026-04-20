@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_mat_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja a1, a2, a3, . . . , a2027 uma sequência de números reais tal que a1 = 1, a4 = 10 e que o\nsistema linear\n\n\n\n\n\nx + 2y + z = aj\nx + 3y + z = aj+1\nx + 4y + z = aj+2\né possível para cada j = 1, . . . , 2025. Calcule P2025\nj=1 (xj + yj + zj), em que (xj, yj, zj) repre-\nsenta uma solução do sistema para cada j = 1, . . . , 2025.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Sistemas Lineares"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema linear com sequência aj — soma de soluções."
+  },
+  "fonte": {
+    "pdf": "mat2025.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_mat/ime_2025_fase2_mat_q06.png",
+  "usa_imagem_no_render": true
+}

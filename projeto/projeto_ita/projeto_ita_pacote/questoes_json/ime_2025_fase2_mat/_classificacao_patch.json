@@ -1,0 +1,73 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "z³ = -9+46i — determinar α, β inteiros."
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação polinomial do 4º grau — soluções reais."
+  },
+  "q03": {
+    "topicos_ids": [
+      "7.1",
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Função série com secantes — coeficiente angular mínimo."
+  },
+  "q04": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação envolvendo z e conjugado — soluções."
+  },
+  "q05": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Prova de desigualdade (a+b+c)(1/a+1/b+1/c)≥9."
+  },
+  "q06": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema linear com sequência aj — soma de soluções."
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade condicional — teorema de Bayes."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema com log(x+√(x²+1)) — unicidade de solução real."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Quadrado com triângulo equilátero — raio do círculo inscrito."
+  },
+  "q10": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tetraedro regular com esfera inscrita — nova construção."
+  }
+}

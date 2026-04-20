@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_qui_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Considere as seguintes equações termoquímicas, envolvendo substâncias \nhipotéticas e suas respectivas variações de entalpia, em kJmol-1, a 25 ºC: \n \nI. \nA + B → C + D \n \n \n \nΔH = + 150 \nII. \nC + F → G \n \n \n \nΔH = - 200 \nIII. \n2G + 3H → 2 I \n \n \n \nΔH = + 90 \nIV. \n3/2 J + Y → D + 1/2 F \n \n \nΔH = + 190 \nV. \nB + T → Y \n \n \n \n \nΔH = - 155 \nVI. \nJ → H + F \n \n \n \nΔH = - 40 \n \na) Apresente todas as equações termoquímicas balanceadas utilizadas para obter o valor \nnumérico do calor de formação do composto A, formado por meio da reação \nrepresentada pela seguinte equação química: \n \nI + T → A. \n \nb) Calcule o valor numérico do calor de formação (ΔH) do composto A. \nc) Dado que o valor da variação da energia de Gibbs da reação I + T → A é \n994,45 kJmol−1, calcule o valor numérico da variação da entropia em kJK-1mol-1. \n \n \n \n\n \n11 \nQUÍMICA \n________________________________________________________________________",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Lei de Hess: calor de formação combinando equações termoquímicas."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q08.png",
+  "usa_imagem_no_render": true
+}

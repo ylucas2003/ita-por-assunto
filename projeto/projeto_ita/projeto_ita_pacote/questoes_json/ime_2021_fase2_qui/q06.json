@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_qui_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA intensidade das emissões radioativas pode ser expressa em curie (Ci), unidade definida como\n3,7x1010 desintegrac¸ ões nucleares por segundo. Considere um tanque que armazena 50.000 L\nde um rejeito radioativo aquoso desde 1945, o qual contém o isótopo 137Cs, cuja cinética de\ndesintegrac¸ ão radioativa é considerada como de primeira ordem. A meia vida do 137Cs é de 30,1\nanos e sua radioatividade específica é de 86,6 Ci/g. Se em 2010 a concentrac¸ ão de 137Cs neste\nrejeito aquoso era de 1,155x10-3 g/L, determine:\na) a frac¸ ão percentual em massa de 137Cs que deverá ter decaído para que o nível de radioatividade\na ele relacionada seja de 1,0x10-3 Ci/L; e\nb) a concentrac¸ ão em g/L de 137Cs no tanque quando o rejeito foi inicialmente estocado, consi-\nderando que o volume do rejeito tenha sido constante ao longo do tempo.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1",
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica",
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Decaimento radioativo de ¹³⁷Cs — cinética de 1ª ordem."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

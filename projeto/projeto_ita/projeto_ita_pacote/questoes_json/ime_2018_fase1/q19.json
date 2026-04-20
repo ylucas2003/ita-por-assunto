@@ -7,6 +7,7 @@
     "materia": "Física"
   },
   "numero": 19,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \n \nq\npartícula\ncentro do \ncírculo\n \nUma partícula desloca-se solidária a um trilho circular com 0,5 m de raio. Sabe-se que o ângulo q, indicado \nna figura, segue a equação q = 𝑡 2, onde 𝑡 é o tempo em segundos e q é o ângulo em radianos. O módulo \ndo vetor aceleração da partícula, em 𝑡 = 1 s, é:",
   "alternativas": {
     "A": "√5",
@@ -18,18 +19,12 @@
   "gabarito": "A",
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "2.1"
-    ],
-    "topicos_nomes": [
-      "Cinemática"
-    ],
-    "blocos": [
-      "Mecânica da Partícula"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Partícula em trilho circular, ângulo em função do tempo — cinemática circular."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,7 +35,7 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": true
   },

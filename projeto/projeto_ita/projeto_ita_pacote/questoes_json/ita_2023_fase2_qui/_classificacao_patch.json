@@ -1,0 +1,87 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Lei de Raoult: pressão de vapor de solução ideal.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Síntese do ácido fórmico em duas etapas.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Aquecimento de sólidos com fusão em temperaturas diferentes.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Precipitação seletiva com Kps muito diferentes.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.1",
+      "1.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Mistura óxido+carbonato com HCl; estequiometria.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Átomo de hidrogênio excitado (estado próximo ao contínuo); modelo de Bohr.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Raio nuclear R=R0 A^(1/3); densidade nuclear.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "1.4",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Obtenção de magnésio metálico em sequência de reações.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Etanoato de metila: hidrólise ácida/básica, amonólise, redução LiAlH4.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.1",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Isômeros de C4H8 e produtos dibromados com Br2.",
+    "classificado_por": "claude"
+  }
+}

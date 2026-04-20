@@ -1,0 +1,50 @@
+{
+  "id": "ita_2022_fase2_qui_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Uma mistura de cloreto de cálcio e fluoreto de sódio, de massa igual a 39,0 g, foi \nadicionada à água, sendo observada a formação de um precipitado (Precipitado 1), o qual foi \nremovido por filtração. Ao sobrenadante, foram adicionados 900 mL de uma solução aquosa \n0,5 mol L−1 em nitrato de prata, sendo essa quantidade em excesso para garantir a formação de \num precipitado (Precipitado 2) que também foi removido por filtração. Posteriormente, foi \nadicionada a essa nova solução sobrenadante uma placa polida de zinco metálico. Após um tempo \nsuficientemente longo, observou-se um aumento de massa dessa placa igual a 3,76 g. A partir \ndessas observações: \na) apresente todas as equações que representam as reações químicas balanceadas envolvidas \nno processo, identificando cada um dos precipitados. \nb) calcule o valor numérico do número de mols do Precipitado 2. \nc) calcule o valor numérico das massas de cloreto de cálcio e fluoreto de sódio na mistura \ninicial.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2",
+      "5.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico",
+      "Eletroquímica",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio",
+      "Estequiometria e Gases",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "CaCl2/NaF + água; AgNO3; Zn metálico. Precipitação e redox."
+  },
+  "fonte": {
+    "pdf": "quimica_2022_2f.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_qui/ita_2022_fase2_qui_q10.png",
+  "usa_imagem_no_render": true
+}

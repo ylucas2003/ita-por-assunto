@@ -1,0 +1,45 @@
+{
+  "id": "ime_2023_fase2_qui_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere que o dióxido de carbono da atmosfera terrestre reage com a água da chuva, ao nível\ndo mar, criando uma soluc¸ ão tampão de CO2(aq)|HCO−\n3 (aq), conforme a reac¸ ão abaixo:\nCO2(aq) + 2 H2O(l) −−⇀\n↽−−HCO−\n3 (aq) + H3O+(aq)\nKeq = 1,5×10−8\nSuponha que:\ni)\na pressão parcial de equilíbrio inicial de CO2(g) na atmosfera é 3,75×10−4 bar;\nii)\npara a formac¸ ão de CO2(aq) a partir de CO2(g), ocorre o seguinte equilíbrio de dissoluc¸ ão na\natmosfera úmida, com [CO2(aq)] em mol.L−1 e PCO2(g) em bar:\nCO2(g) −−⇀\n↽−−CO2(aq)\nKdiss = 0,04 = [CO2(aq)]\nPCO2(g)\niii)\n5% em massa de NO2(g) reagem, de forma irreversível, com OH gasoso na atmosfera para\ngerar HNO3(g), conforme a reac¸ ão abaixo:\nNO2(g) + OH(g) −−→HNO3(g)\niv)\ntodo HNO3(g) se dissolve na atmosfera úmida, transformando-se em HNO3(aq);\nv)\no H2CO3(aq) formado a partir da reac¸ ão de HNO3(aq) com a base do tampão não se converte\nem CO2(aq), HCO−\n3 (aq), H3O+(aq) ou H2O(l).\nSabe-se que:\n• a única soluc¸ ão positiva da equac¸ ão x2 + 1,5 × 10−8x −225 × 10−15 = 0 é aproximadamente\n5,0 ×10−7;\n• a única soluc¸ ão positiva da equac¸ ão x2 + 8,15 × 10−7x −6,75 × 10−14 = 0 é aproximadamente\n0,8×10−7.\nApós a liberac¸ ão de 184 mg de NO2(g) por m3 de atmosfera úmida, calcule o módulo da diferenc¸a\nentre os valores final e inicial do pH do tampão de CO2(aq)|HCO−\n3 (aq).\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3",
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Ácido-Base",
+      "Química Ambiental e Industrial"
+    ],
+    "blocos": [
+      "Química Analítica e Ambiental",
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Solução tampão CO₂(aq)/HCO₃⁻ com a atmosfera."
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

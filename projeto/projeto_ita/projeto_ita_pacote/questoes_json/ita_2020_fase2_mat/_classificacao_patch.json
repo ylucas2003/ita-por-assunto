@@ -1,0 +1,84 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Circunferência por 3 pontos; quadrado circunscrito.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade condicional com dados.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Teoria dos números: primos como soma de dois cubos.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.4",
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Reta intersectando parábola; conjunto de k.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Mínimo global de polinômio de grau 6 via completamento de quadrados.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "9.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Raiz de equação quadrática com sen α; potências de complexo.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Hexágono em Argand-Gauss como raízes de polinômio.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Circunferência, tangente, projeção ortogonal, ângulos.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio cúbico com raiz inteira.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Pirâmide hexagonal regular inscrita em esfera; ângulo diedro.",
+    "classificado_por": "claude"
+  }
+}

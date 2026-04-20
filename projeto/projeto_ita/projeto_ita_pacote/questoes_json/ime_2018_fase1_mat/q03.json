@@ -7,6 +7,7 @@
     "materia": "Matemática"
   },
   "numero": 3,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \nCalcule o valor do determinante: \n|\n4\n2\n1\nlog 81\nlog 900\nlog 300\n(log 9)2\n 2 + 4 log 3 + 2(log 3)2 \n(log 3 + 2)2\n|",
   "alternativas": {
     "A": "1",
@@ -15,21 +16,15 @@
     "D": "8",
     "E": "16 2"
   },
-  "gabarito": "E",
+  "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "3.1"
-    ],
-    "topicos_nomes": [
-      "Matrizes e Determinantes"
-    ],
-    "blocos": [
-      "Álgebra Linear e Matrizes"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Determinante 3×3 com logaritmos — matrizes e determinantes."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,10 +35,8 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": false
-  },
-  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q03.png",
-  "usa_imagem_no_render": true
+  }
 }

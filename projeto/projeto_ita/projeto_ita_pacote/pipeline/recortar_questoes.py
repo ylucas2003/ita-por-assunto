@@ -92,6 +92,8 @@ VARIANTES_QUESTAO_IME = [
     "{n}ª Questão",
     "{n}a QUESTÃO",    # ª pode ser encodado como 'a' em alguns PDFs
     "{n}ª questão",
+    "{n}ª QUEST \u02dcAO",  # IME 2020: til separado (U+02DC) após espaço
+    "{n}ª QUEST ˜AO",       # literal (mesma variante acima)
 ]
 
 # retrocompatibilidade
@@ -340,9 +342,16 @@ def processar_recortes(prova_id: str):
             # Caso simples: mesma página.
             y_fim = rect_prox.y0 - 2
             # Se não há questão seguinte na mesma página (última da matéria),
-            # aplica margem inferior para evitar capturar rodapé/número de página.
+            # aplica margem inferior para evitar capturar rodapé/número de página —
+            # mas só se isso não colidir com o início da própria questão (caso de
+            # provas de 2ª fase em que a última questão está no fim da página).
+            altura_pag = doc[pag_inicio - 1].rect.height
             if i + 1 == len(numeros_ordenados):
-                y_fim = min(y_fim, doc[pag_inicio - 1].rect.height - 80)
+                candidato = altura_pag - 80
+                if candidato > y_inicio + 20:
+                    y_fim = min(y_fim, candidato)
+                else:
+                    y_fim = altura_pag - 2
             pix = recortar_regiao_pagina(doc[pag_inicio - 1], y_inicio, y_fim)
             pixmaps.append(pix)
         else:

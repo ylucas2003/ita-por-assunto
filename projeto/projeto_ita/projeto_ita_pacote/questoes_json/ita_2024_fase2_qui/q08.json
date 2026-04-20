@@ -1,0 +1,46 @@
+{
+  "id": "ita_2024_fase2_qui_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "As resinas epoxídicas contêm pelo menos dois grupos epóxidos terminais por \nmolécula e reagem com um agente de cura para a formação de um polímero por meio de \numa reação de cura (ou reticulação). Uma forma comum de se obter resina epoxídica \nenvolve a reação entre epicloridrina (1-cloro-2,3-epoxipropano) e bisfenol-A (4,4´dihidroxi-\n2,2-difenilpropano). \na)\nApresente a fórmula estrutural da epicloridrina e do bisfenol-A.\nb)\nEscreva a equação química balanceada entre as substâncias do item a) para a\nformação de uma resina epoxídica.\nc)\nEscreva a equação química entre um anel epóxido e o agente de cura 4,4´Diamino-\ndifenilmetano (DDM).\n\n21 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Resinas epoxídicas: epicloridrina + bisfenol-A; cura."
+  },
+  "fonte": {
+    "pdf": "quimica_2024_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_qui/ita_2024_fase2_qui_q08.png",
+  "usa_imagem_no_render": true
+}

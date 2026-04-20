@@ -1,0 +1,45 @@
+{
+  "id": "ime_2024_fase2_qui_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nEm um julgamento, tendo em vista o grande número de pessoas acusadas, o juiz criou dois dis-\npositivos distintos para limitar o tempo de sustentac¸ ão oral, um para o defensor, e outro para o\nacusador. Para medir esses tempos, preparou dispositivos químicos distintos e isolados, nos quais\numa soluc¸ ão de HCl com concentrac¸ ão igual a 0,1 mol.L−1 é gotejada. O dispositivo do defensor\nconsiste em um recipiente contendo 1 litro de soluc¸ ão aquosa contendo 795 mg de carbonato de\nsódio e o do acusador um recipiente contendo 1 litro de soluc¸ ão aquosa contendo 840 mg de bi-\ncarbonato de sódio. Utilizando trac¸os de indicador com viragem em pH neutro, ajustou a dosagem\ndas gotas para 20 gotas por minuto, iniciando junto com a sustentac¸ ão oral do defensor, e 40 gotas\npor minuto, iniciando junto com a sustentac¸ ão oral do acusador. As falas serão interrompidas no\nmomento da viragem do indicador.\nCalcule os tempos de viragem do indicador para a defesa e para a acusac¸ ão, considerando que\ncada gota de soluc¸ ão de HCl contém 0,05 mL.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética",
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dispositivos com gotejamento de HCl — cinética."
+  },
+  "fonte": {
+    "pdf": "quim2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

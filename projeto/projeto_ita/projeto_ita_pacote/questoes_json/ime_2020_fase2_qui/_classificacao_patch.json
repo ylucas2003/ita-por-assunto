@@ -1,0 +1,73 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "media",
+    "observacao": "Enunciado vazio/incompleto na extração — mantido conservador."
+  },
+  "q02": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Decaimento radioativo — meia-vida, massa restante."
+  },
+  "q03": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Titulação Fe²⁺/Ce⁴⁺ com eletrodo de platina — fem."
+  },
+  "q04": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Substituir sacarose por sorbitol — propriedade coligativa (ebullioscopia)."
+  },
+  "q05": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Isomeria óptica em complexo octaédrico — pares de enantiômeros."
+  },
+  "q06": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dedução da equação de Van der Waals — correções de volume e pressão."
+  },
+  "q07": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Decaimento radioativo — massa restante do isótopo C1."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Propelente de foguete com agente oxidante e redutor — reagente limitante."
+  },
+  "q09": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Explosivo FOX-7 — densidade eletrônica, cargas e comprimentos de ligação."
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.1",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Ácido pirúvico — isômero e conversão para ácido lático."
+  }
+}

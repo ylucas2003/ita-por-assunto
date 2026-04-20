@@ -1,0 +1,45 @@
+{
+  "id": "ime_2023_fase2_qui_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA substância gasosa obtida na reac¸ ão de 4 mols de peróxido de hidrogênio com óxido de prata,\nem excesso, foi borbulhada continuamente em um bécher contendo 1 litro de água. Durante os\n16 minutos em que a reac¸ ão ocorreu, constatou-se que a quantidade de gás dissolvido na água\naumentou de 2,5 mg.L−1 para 8 mg.L−1.\nDetermine:\na) a estequiometria da reac¸ ão;\nb) a ordem dessa reac¸ ão, considerada elementar, em relac¸ ão ao peróxido;\nc) a velocidade média de produc¸ ão de gás na reac¸ ão;\nd) o volume de gás que foi dissolvido na água, medido nas CNTP.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética",
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "H₂O₂ + Ag₂O gerando gás — estequiometria e cinética."
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

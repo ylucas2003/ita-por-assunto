@@ -1,0 +1,47 @@
+{
+  "id": "ita_2024_fase2_qui_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Seja a reação A\nk1→B, que apresenta lei de velocidade de primeira ordem (em\nrelação a A) e constante de velocidade k1 igual a 5 x 104 s1 a 300 K. A reação reversa, \nB\nk2→A, também é de primeira ordem (em relação a B) e, a 300 K, tem uma constante de\nvelocidade k2 igual a um milésimo de k1. A constante de velocidade total em direção ao \nequilíbrio é dada pela soma das constantes de velocidade direta e reversa, e para cada \naumento de 10 K na temperatura, os valores de k1 são duplicados e os de k2 são \nquadruplicados. \nDeseja-se realizar essa reação buscando a máxima constante de velocidade total possível, \nmas utilizando um reator limitado a uma temperatura de trabalho de até 500 K, e mantendo \num rendimento mínimo de 24,41%, representado por \n[B]eq\n[A]eq ൒\n1\n4,096. Com base nessas \nrestrições, determine: \na)\nqual das propriedades constitui o limitante para a operação do reator, a temperatura ou\no rendimento;\nb) o valor numérico da temperatura de operação; \nc) o valor numérico do rendimento de operação; \nd)\nse a constante de velocidade total na condição de operação supera o valor de 10 s1.\n\n22 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Equilíbrio Químico"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio",
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cinética A⇌B; variação de k1,k2 com T; constante total."
+  },
+  "fonte": {
+    "pdf": "quimica_2024_2f.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_qui/ita_2024_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

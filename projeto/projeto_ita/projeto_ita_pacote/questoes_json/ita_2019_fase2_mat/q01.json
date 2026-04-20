@@ -1,0 +1,46 @@
+{
+  "id": "ita_2019_fase2_mat_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Determine os valores reais de a e b para os quais as equações x3+ax2+18 = 0 e x3+bx+12 = 0\npossuam duas raízes em comum e, a seguir, determine essas raízes.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2",
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Funções Algébricas",
+      "Equações e Sistemas"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Raízes comuns de polinômios cúbicos."
+  },
+  "fonte": {
+    "pdf": "matematica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_mat/ita_2019_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

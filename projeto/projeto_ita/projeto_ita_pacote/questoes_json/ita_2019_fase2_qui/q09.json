@@ -1,0 +1,46 @@
+{
+  "id": "ita_2019_fase2_qui_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "A figura ao lado mostra a estrutura básica de um triacilglicerídeo, em que R, \nR’ e R’’ representam cadeias carbônicas, saturadas ou insaturadas, com pelo menos oito \nátomos de carbono. Sabe-se que o triacilglicerídeo pode reagir tanto por transesterificação \n(reação A) quanto por hidrólise básica (reação B). Em ambos os casos, um produto \ncomum dessas reações pode ser usado na produção de nitroglicerina (reação C). Com base \nnessas informações, escreva as equações que descrevem as reações A, B e C.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2",
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Funções Orgânicas Oxigenadas e Nitrogenadas",
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triacilglicerídeo: transesterificação, hidrólise, nitroglicerina."
+  },
+  "fonte": {
+    "pdf": "quimica_2019_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_qui/ita_2019_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

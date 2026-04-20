@@ -1,0 +1,75 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.1",
+      "1.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Identificação de reagentes para formar sal duplo CsKS."
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Isômeros de C2H2Cl2 — fórmulas e nomenclatura IUPAC."
+  },
+  "q03": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Montagem de pilha com potencial entre 2,0 e 2,5 V."
+  },
+  "q04": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Combustão do benzeno em calorímetro — massa de CO₂."
+  },
+  "q05": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Estrutura de Lewis do 2,2,2-tricloroetano-1,1-diol — ligações."
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinética da reação NO + H₂ → N₂O + H₂O."
+  },
+  "q07": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Pressão osmótica — CaCl₂ + sacarose vs ureia (ebullioscopia)."
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Produção de NH₃ — termodinâmica, espontaneidade."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "H₂O₂ + Ag₂O gerando gás — estequiometria e cinética."
+  },
+  "q10": {
+    "topicos_ids": [
+      "3.3",
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Solução tampão CO₂(aq)/HCO₃⁻ com a atmosfera."
+  }
+}

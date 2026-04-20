@@ -1,0 +1,83 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Circunferência circunscrita a trapézio isósceles.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Valores de a para matriz não singular.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "PG: soma dos 79 termos igual ao produto dos 13 primeiros.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Pontos em circunferência satisfazendo equação.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes comuns de polinômios de graus 5 e 4.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Complexo: equidistância entre z^7 e z^13 a z.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Relógio digital: H,M,S como PA de razão positiva; contagem.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Pirâmide regular base quadrada; esferas inscrita/circunscrita coincidentes.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Soma de senos e cossenos iguais a valores dados; cos²+cos²+cos².",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade: moeda lançada até 2 caras, total par.",
+    "classificado_por": "claude"
+  }
+}

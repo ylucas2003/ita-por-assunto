@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_qui_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nO acetato de linalila é um composto orgânico que contém átomos de carbono, hidrogênio e oxigênio\nna razão 6:10:1, respectivamente.\nSabe-se que cada molécula de acetato de linalila:\ni) contém dois átomos de oxigênio;\nii) possui cadeia principal com oito átomos de carbono;\niii) representa um dieno não conjugado nas posições 1 e 6;\niv) tem duas metilas em uma mesma extremidade de cadeia;\nv) tem uma metila e o grupo acetato ligados ao carbono alílico, não terminal, de menor impedimento\nespacial.\nDiante dessas informações, apresente:\na) a fórmula estrutural plana do acetato de linalila;\nb) o polímero possivelmente formado considerando somente a reação de poliadição na dupla liga-\nção mais substituída.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Fundamentos e Hidrocarbonetos"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Acetato de linalila — fórmula estrutural a partir de dados."
+  },
+  "fonte": {
+    "pdf": "quim2025.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_qui/ime_2025_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

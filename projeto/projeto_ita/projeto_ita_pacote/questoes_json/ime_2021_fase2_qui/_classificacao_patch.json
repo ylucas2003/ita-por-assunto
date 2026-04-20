@@ -1,0 +1,77 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinética da hidrólise de acetato de etila — condutividade."
+  },
+  "q02": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Eletrólise de NaCl — resíduo remanescente."
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Água super-resfriada — variação de entropia no congelamento."
+  },
+  "q04": {
+    "topicos_ids": [
+      "1.1",
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Energia de ionização em função do Z — desvios da tendência."
+  },
+  "q05": {
+    "topicos_ids": [
+      "1.3",
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Estrutura cúbica CCC vs CFC — razão de densidades."
+  },
+  "q06": {
+    "topicos_ids": [
+      "1.1",
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Decaimento radioativo de ¹³⁷Cs — cinética de 1ª ordem."
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Mononitração aromática — produtos majoritários."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.1",
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Motor V8 consumindo combustível C8H18 — estequiometria."
+  },
+  "q09": {
+    "topicos_ids": [
+      "3.2",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Equilíbrio NiO+CO — termoquímica a temperatura constante."
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Pares enantiômeros/diastereoisômeros/isômeros."
+  }
+}

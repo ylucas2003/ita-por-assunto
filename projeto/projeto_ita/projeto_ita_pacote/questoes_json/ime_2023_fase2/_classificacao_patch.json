@@ -1,0 +1,77 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "6.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Cilindro com gás ideal e bloco — pressão, pistão, Boyle."
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.4",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Plano inclinado submerso com bloco e mola — atrito + MHS."
+  },
+  "q03": {
+    "topicos_ids": [
+      "8.3",
+      "8.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Fios infinitos gerando campo B(x), chapa induzindo f.e.m."
+  },
+  "q04": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Veículo emitindo sinais luminosos e acústicos — Doppler e cinemática."
+  },
+  "q05": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Laboratório refrigerado — balanço térmico em paredes e teto."
+  },
+  "q06": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Duas esferas condutoras ligadas, aterramento — redistribuição de cargas."
+  },
+  "q07": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Guindaste com barras e apoios — reações e esforços."
+  },
+  "q08": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Fibra ótica curva — reflexão total interna em trajetórias diferentes."
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois circuitos: voltímetros/amperímetros e resistores idênticos."
+  },
+  "q10": {
+    "topicos_ids": [
+      "7.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema de defesa com lente convergente — imagem de blindado."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ime_2022_fase2_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma corda de massa m uniformemente distribuída pelo seu comprimento L é mantida fixa em uma\ndas extremidades e gira horizontalmente à velocidade angular ω.\nObservac¸ ões:\n• a corda permanece sempre esticada;\n• a extremidade solta da corda percorre um círculo de raio L;\n• despreze a forc¸a peso sobre a corda.\nDetermine:\na) a forc¸a de reac¸ ão no extremo fixo da corda;\nb) a tensão na corda, em func¸ ão da posic¸ ão x indicada na figura, onde se encontra um pulso de\nonda transversal que se propaga a partir da extremidade solta;\nc) a velocidade de propagac¸ ão do pulso de onda em func¸ ão de x.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Corda girando horizontalmente, reação no fixo e tensão."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

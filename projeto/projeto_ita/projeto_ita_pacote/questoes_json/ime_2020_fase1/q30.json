@@ -45,5 +45,7 @@
     "classificado": true,
     "revisado": false,
     "possivelmente_tem_figura": false
-  }
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q30.png",
+  "usa_imagem_no_render": true
 }

@@ -1,0 +1,44 @@
+{
+  "id": "ime_2019_fase2_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \nA figura mostra um sistema usado em um laboratório de física para demonstrar a difração de luz por uma \nfenda. A luz de um laser de comprimento de onda  passa por uma fenda de largura d, formada pelo \nespaço entre as extremidades de duas barras de comprimento L. A outra extremidade de cada barra é \nmantida fixa. Depois de passar pela fenda, a luz incide em uma tela distante, na qual é observado um \npadrão de difração formado por regiões claras e escuras. \na) Dado que na tela são observados exatamente 3 mínimos de intensidade luminosa em cada lado do \nmáximo central de intensidade, determine o intervalo de valores da largura d da fenda que são \ncompatíveis com essa observação. \n \nb) A temperatura do laboratório normalmente é mantida em 24,0 °C por um aparelho de ar \ncondicionado. Em um dia no qual o experimento foi realizado com o aparelho de ar condicionado \ndesligado, observou-se na tela apenas 1 mínimo de intensidade luminosa em cada lado do máximo \ncentral de intensidade, o que foi atribuído à dilatação térmica das barras. Sabendo que o coeficiente \nde dilatação linear das barras é , determine o intervalo de temperaturas do laboratório, no dia em \nque o aparelho de ar condicionado foi desligado, que são compatíveis com essa observação. \n \nDados: \n• comprimento de onda do laser:  = 532 nm; \n• comprimento de cada barra a 24,0 °C: L = 50 cm; \n• coeficiente de dilatação linear de cada barra:  = 10-7 °C-1. \n \n \n \n \n\n \n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Óptica Física"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Difração de luz por fenda única (barras flexionáveis)."
+  },
+  "fonte": {
+    "pdf": "fis2019.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2/ime_2019_fase2_q01.png",
+  "usa_imagem_no_render": true
+}

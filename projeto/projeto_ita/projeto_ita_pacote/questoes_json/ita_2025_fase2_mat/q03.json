@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_mat_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Sejam ¸; ˛ ∈\n»ı\n2 ; 3ı\n2\n–\ntais que\nsen(¸) −sen(˛) = 1\n4\ne\nsen(¸) −2sen(˛) + cos(˛) = 3\n4:\nCalcule o valor de sen(¸ + ˛).\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Equações trigonométricas; sen(α+β)."
+  },
+  "fonte": {
+    "pdf": "matematica_2025_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_mat/ita_2025_fase2_mat_q03.png",
+  "usa_imagem_no_render": true
+}

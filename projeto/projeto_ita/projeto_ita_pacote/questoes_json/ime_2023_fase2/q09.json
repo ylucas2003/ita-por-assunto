@@ -1,0 +1,42 @@
+{
+  "id": "ime_2023_fase2_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nCircuito 1\nCircuito 2\nAs figuras ilustram dois circuitos. O Circuito 1 possui oito nós, numerados de N1 a N8, quatro\nresistores e apresenta algumas medidas realizadas por voltímetros e amperímetros, inclusive a\ncorrente i1 entre os nós N4 e N5. Já o Circuito 2 possui duas baterias de 62 V, três resistores\nidênticos e um circuito que é ajustável de forma que por ele circule a mesma corrente i1 indicada\nno Circuito 1.\nDetermine as correntes i1, i2, i3 e i4 do Circuito 2.\n9",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dois circuitos: voltímetros/amperímetros e resistores idênticos."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

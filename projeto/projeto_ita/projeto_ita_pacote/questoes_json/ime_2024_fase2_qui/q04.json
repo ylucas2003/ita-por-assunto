@@ -1,0 +1,45 @@
+{
+  "id": "ime_2024_fase2_qui_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nO ácido ascórbico tem fórmula molecular C6H8O6 e parte de suas ligac¸ ões químicas estão repre-\nsentadas abaixo.\na) Apresente a estrutura de Lewis do ácido ascórbico.\nb) Com base na estrutura eletrônica, qual é o hidrogênio mais ácido dentre os hidrogênios assina-\nlados por 1 e 2 ? Justifique.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.3",
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Ligações Químicas",
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria",
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ácido ascórbico — Lewis e hidrogênio mais ácido."
+  },
+  "fonte": {
+    "pdf": "quim2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

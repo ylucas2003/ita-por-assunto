@@ -1,0 +1,47 @@
+{
+  "id": "ime_2025_fase2_qui_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm metal M forma o sal MCℓ2. A eletrólise desse sal fundido, com uma corrente igual a 0,4 A\ndurante 6,7 horas produziu 4,38 gramas do metal sólido.\nDetermine qual elemento da Tabela Periódica é o metal M.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Eletrólise de MCℓ₂ — identificar metal M."
+  },
+  "fonte": {
+    "pdf": "quim2025.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_qui/ime_2025_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
+}

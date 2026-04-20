@@ -1,0 +1,90 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.2",
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinética de 2X+Y⇌3Z; equação de Arrhenius; k direta/inversa.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "7.1",
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Determinação de nitrogênio amoniacal por titulação.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.2",
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinética em reator gasoso; ordem da reação a partir de dados.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Kps de sais de prata/mercúrio; potabilização com Ag+.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Combustão de CS2 com N2O (\"cão que late\"); volumes e massas.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Homopolímeros: temperatura de fusão (cristalinidade).",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "4.1",
+      "1.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Ciclo termoquímico: entalpia de solubilização de CaCl2.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Estequiometria de NH3 + O2 → NO + H2O.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Etilcarbilamina: isomerização, Grignard, hidrólise.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "3.2",
+      "5.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "CaCl2/NaF + água; AgNO3; Zn metálico. Precipitação e redox.",
+    "classificado_por": "claude"
+  }
+}

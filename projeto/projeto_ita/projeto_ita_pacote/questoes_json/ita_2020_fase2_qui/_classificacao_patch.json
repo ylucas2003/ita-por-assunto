@@ -1,0 +1,88 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.2",
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinética: k direta/inversa, Ea, diagrama de energia, Keq.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "4.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Biodigestor; entalpia de combustão do metano; vazão.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "6.2",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Biodiesel: transesterificação de triacilglicerol com etanol.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Proteção catódica: Zn sacrificial em tubo de ferro.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Decaimento radioativo em três etapas (β, β, α).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.2",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Isomerização cis-trans catalisada por I2; mecanismo.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Conformações, centros quirais, enantiômeros e compostos meso.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "5.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Redox dicromato+enxofre; balanceamento e estequiometria.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Polimerização de poliuretano; reação com água.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Titulação ácido-base: curva de pH em vários casos.",
+    "classificado_por": "claude"
+  }
+}

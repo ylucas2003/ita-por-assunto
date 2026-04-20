@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Considere um dispositivo desenvolvido\npara simular condições de voo em que operam tubos\nde Pitot para a medição da velocidade de aeronaves.\nA pressão de estagnação PA dá-se na entrada A do\nPitot, onde se acopla um tubo contendo água cuja\nsuperfície livre encontra-se a h = 60 cm de altura no\ninterior de um recipiente fechado sujeito a um vácuo\nparcial de 9,0×104 Pa. Por sua vez, a pressão estática\nPB dá-se na entrada B do corpo do tubo de Pitot,\nimerso numa câmara fechada contendo 75\n16 mols de\ngás ideal a T = 27 ◦C que ocupa um volume total\nde 125 ℓ. bla bla bla bla bla bla bla bla bla bla bla\nSendo ρ = 1,2 kg/m3 a densidade do ar atmosférico,\ncalcule, em km/h, o valor a ser registrado por um\nvelocímetro de aeronave que se baseia na leitura dos\nmanômetros acoplados ao sistema ilustrado abaixo.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tubo de Pitot; pressão em gás ideal dentro de câmara."
+  },
+  "fonte": {
+    "pdf": "fisica_2020_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2/ita_2020_fase2_q06.png",
+  "usa_imagem_no_render": true
+}

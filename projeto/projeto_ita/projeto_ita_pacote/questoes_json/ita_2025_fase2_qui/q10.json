@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_qui_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Considere uma célula eletrolítica constituída por duas placas de platina \nimersas numa solução aquosa 1 molL−1 em ácido clorídrico. Uma das placas foi recoberta \npor cloreto de prata e conectada ao polo negativo de uma fonte de tensão. Após as devidas \nconexões, foi aplicada uma corrente elétrica contínua de 1,5 A durante 10,72 min. \nCom base nas informações fornecidas e considerando-se que não há formação de gases \nno catodo, responda às seguintes questões: \na)\nApresente as semiequações químicas que representam as semirreações que\nocorreram no anodo e no catodo e indique a polaridade dos eletrodos.\nb)\nApresente a equação química que representa a reação global.\nc)\nDetermine o valor numérico da variação de massa do catodo e do anodo.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Eletrólise em célula com Pt/AgCl; cálculo pela lei de Faraday."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q10.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ime_2020_fase2_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\n5927\n\nUm fio de comprimento L, e densidade linear |4, está ligado a outro fio com comprimento L, = 14L,\ne densidade |1, = |t,/64. O conjunto está preso pelas suas extremidades a duas paredes fixas e\nsubmetido a uma tensão “7”. Uma onda estacionária se forma no conjunto com a menor frequência\npossível, com um nó na junção dos dois fios. Incluindo os nós das extremidades, determine o\nnúmero de nós que serão observados ao longo do conjunto.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Onda estacionária em dois fios de densidades diferentes."
+  },
+  "fonte": {
+    "pdf": "fis2020.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2/ime_2020_fase2_q05.png",
+  "usa_imagem_no_render": true
+}

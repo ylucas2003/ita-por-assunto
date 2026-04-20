@@ -1,0 +1,47 @@
+{
+  "id": "ita_2024_fase2_qui_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Uma solução foi preparada por meio da dissolução de 1,330 g de uma mistura \nde NaCl(s) e KCl(s) em água. A essa solução, foram adicionados 10 mL de uma solução \n4,0 mol.L-1 em AgNO3 para precipitar todo cloreto na amostra. Posteriormente, o sólido foi \nremovido e uma placa de zinco foi adicionada à solução sobrenadante. Após um tempo \nsuficiente para a reação completa, verificou-se uma variação de massa de 1,506 g na placa \nde zinco. Com base nessas informações, determine as quantidades, em mol, de: \na)\nzinco consumido na placa;\nb)\ncloreto na solução inicial;\nc)\nNaCl(s) e KCl(s) na mistura inicial.\n\n20 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica",
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "NaCl+KCl: Ag+ precipita Cl-, Zn deposita Ag; massas."
+  },
+  "fonte": {
+    "pdf": "quimica_2024_2f.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_qui/ita_2024_fase2_qui_q07.png",
+  "usa_imagem_no_render": true
+}

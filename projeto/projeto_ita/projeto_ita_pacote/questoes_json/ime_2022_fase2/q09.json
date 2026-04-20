@@ -1,0 +1,45 @@
+{
+  "id": "ime_2022_fase2_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm reservatório com 4 m x 5 m de base retangular contém 1000 L de água. Duas trelic¸as iguais\nem planos paralelos verticais o sustentam na configurac¸ ão mostrada na figura acima, por meio de\nquatro apoios que estão representados por pequenos triângulos. No instante t = 0, a água passa\na entrar no reservatório a uma vazão de 2 m3/min.\nDados:\n• área transversal de cada barra das trelic¸as: 0,04 m2;\n• pressão de ruptura de cada barra das trelic¸as: 1 MPa;\n• √\n2 ≈1,4;\n• acelerac¸ ão da gravidade: 10 m/s2;\n• massa específica da água: 1000 kg/m3;\nObservac¸ ões:\n• os quatro apoios do reservatório de água estão num mesmo plano horizontal;\n• as paredes laterais do reservatório de água estão contidas em planos verticais;\n• despreze o peso do reservatório;\n• a pressão em cada barra das trelic¸as é constante em sua área;\n• cada trelic¸a é indeformável e apenas pode se romper quando alguma pressão de ruptura for\natingida.\nMediante os dados apresentados, determine:\na) o módulo da tensão em cada uma das barras das trelic¸as na iminência do primeiro rompimento\nde barra devido ao aumento do peso acumulado no reservatório;\nb) o instante t em que ocorre o primeiro rompimento de barra.\n9",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Reservatório com treliças, enchimento de água — equilíbrio."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

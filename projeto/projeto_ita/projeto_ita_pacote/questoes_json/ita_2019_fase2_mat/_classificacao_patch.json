@@ -1,0 +1,85 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.2",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes comuns de polinômios cúbicos.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação trigonométrica sen^6 x + cos^6 x.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Número complexo de menor argumento em disco do plano complexo.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Função com logaritmos; máximo em intervalo fechado.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Parábola, elipse; lugar geométrico por condição de área e distância.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "7.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "PA com condições trigonométricas (soma de senos e cossenos).",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Aritmética de dígitos: permutação de algarismo gera múltiplo.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cone e cilindro de mesma base; esfera inscrita no cone.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "5.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Relações em triângulo a partir de senos de soma/diferença de ângulos.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade de soma divisível por 3 em amostra aleatória.",
+    "classificado_por": "claude"
+  }
+}

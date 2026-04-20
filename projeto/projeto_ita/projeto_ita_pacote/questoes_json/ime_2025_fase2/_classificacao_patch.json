@@ -1,0 +1,74 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Energia potencial Ep(x), força F(x) — movimento oscilatório."
+  },
+  "q02": {
+    "topicos_ids": [
+      "3.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema planetário, colisão inelástica entre planeta e cometa."
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Esfera presa por fio com barra entre dois pontos — movimento pendular."
+  },
+  "q04": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com três fontes, chaves, malha infinita de resistências."
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Viga com apoios e articulação, bloco — equilíbrio estático."
+  },
+  "q06": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Barra sobre trilho em campo magnético, fonte e força variável — indução."
+  },
+  "q07": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Casca metálica condutora com carga no centro — campo e potencial."
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Câmara frigorífica para congelar suco — potência de resfriamento."
+  },
+  "q09": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Duas fontes monocromáticas em fase — interferência com intensidades diferentes."
+  },
+  "q10": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Cilindros coaxiais espelhados — reflexão de feixe luminoso."
+  }
+}

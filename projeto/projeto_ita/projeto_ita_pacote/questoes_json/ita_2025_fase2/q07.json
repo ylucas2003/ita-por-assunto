@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "O interferômetro de Mach-Zehnder é um dispositivo óptico que, através do uso\nde espelhos semirrefletores, divide um feixe de luz em duas partes, uma refletida e uma\ntransmitida, de igual intensidade. Essas duas partes percorrem dois caminhos distintos,\nC1 e C2, e depois são recombinadas, permitindo observar padrões de interferência. O\ninterferômetro possui como componentes dois detectores, D1 e D2, dois espelhos semir-\nrefletores, S1 e S2, e dois espelhos de reflexão total E, conforme ilustra a figura. A cada\nreflexão, ocorre um avanc¸o de 1/4 de comprimento de onda, λ/4. Por outro lado, a onda\ntransmitida não sofre defasagem. Sabendo que o feixe incidente é uma onda senoidal de\nintensidade I0, fac¸a o que se pede nos itens a seguir.\nS1\nS2\nE\nE\nD1\nD2\nfeixe\nincidente\nM\nC2\nC1\na) Determine a intensidade medida por cada um dos detectores. Justifique.\nb) Considere agora que um material M, que causa um deslocamento de fase de φ na onda\ntransmitida, seja inserido no caminho entre E e S2. Esboce os gráficos de intensidade\nversus deslocamento de fase φ, correspondentes à detecc¸ ão de fótons em D1 e D2, para\nφ = [0, 2π].\nc) Se o feixe incidente fosse composto por apenas um fóton, discuta se ele iria percorrer\num caminho específico até um dos detectores.\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Óptica Física"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Interferômetro de Mach-Zehnder."
+  },
+  "fonte": {
+    "pdf": "fisica_2025_2f.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2/ita_2025_fase2_q07.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,76 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Balança medindo campo magnético via força em espiras."
+  },
+  "q02": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com chaves abrindo/fechando em sequência, resistores."
+  },
+  "q03": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Tubo com fluidos incompressíveis, êmbolo, hidrostática."
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Máquina térmica em série com reservatório intermediário."
+  },
+  "q05": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Onda estacionária em dois fios de densidades diferentes."
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.2",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Tubo com gás ideal, alto-falante — velocidade do som e temperatura."
+  },
+  "q07": {
+    "topicos_ids": [
+      "7.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Duas lentes convergentes, uma móvel, formação de imagem."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Treliça rígida — reações nos apoios, esforços nas barras."
+  },
+  "q09": {
+    "topicos_ids": [
+      "3.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Nave espacial, nuvem de poeira, gravitação e quantidade de movimento."
+  },
+  "q10": {
+    "topicos_ids": [
+      "5.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Cubo boiando, empuxo, força aplicada para emergir."
+  }
+}

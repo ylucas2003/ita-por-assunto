@@ -1,0 +1,88 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "6.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Fórmula empírica/molecular e isômeros de composto orgânico.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Equilíbrio A(s)+B(g)⇌2C(g); novo equilíbrio após adição de B.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Balão de pescoço de cisne: aquecimento de mercúrio; gases.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "4.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Aquecimento de câmara com combustão de gás natural (metano+etano).",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "1.1",
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Datação por radiocarbono; correção por contaminação.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "5.1",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Etilômetro: oxidação de etanol por Cr2O7^2- em meio ácido.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.2",
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Separação de aminas, ésteres, álcoois e ácidos por pH.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Lei de Hess: calor de formação combinando equações termoquímicas.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "7.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Difusão de íons em gelatina; reação com fenolftaleína e K4Fe(CN)6.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Eletrólise em célula com Pt/AgCl; cálculo pela lei de Faraday.",
+    "classificado_por": "claude"
+  }
+}

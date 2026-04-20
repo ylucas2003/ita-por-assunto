@@ -7,6 +7,7 @@
     "materia": "Física"
   },
   "numero": 16,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \n \nl / 4\nl / 4\nl / 4\nl / 4\nl / 4\ncompressão\nexpansão\n \nFigura 1 \nFigura 2 \nConsiderando as Figuras 1 e 2 acima e, com relação às ondas sonoras em tubos, avalie as afirmações a \nseguir: \nAfirmação I. as ondas sonoras são ondas mecânicas, longitudinais, que necessitam de um meio material \npara se propagarem, como representado na Figura 1. \nAfirmação II. uma onda sonora propagando-se em um tubo sonoro movimenta as partículas do ar no seu \ninterior na direção transversal, como representado na Figura 2. \nAfirmação III. os tubos sonoros com uma extremidade fechada, como representado na Figura 2, podem \nestabelecer todos os harmônicos da frequência fundamental. \nÉ correto o que se afirma em:",
   "alternativas": {
     "A": "I, apenas.",
@@ -18,18 +19,12 @@
   "gabarito": "A",
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "4.2"
-    ],
-    "topicos_nomes": [
-      "Ondas e Acústica"
-    ],
-    "blocos": [
-      "Oscilações e Ondas Mecânicas"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Ondas sonoras: compressão/expansão, análise de tubos sonoros."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,7 +35,7 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": true
   },

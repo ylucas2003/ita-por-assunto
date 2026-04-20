@@ -1,0 +1,47 @@
+{
+  "id": "ime_2021_fase2_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere o sistema a seguir:\n\n\n\n\n\n3x + 2y −z = ky\n(1 −k)x −y + 4z = 0\n2x + y −kz = z\nDetermine o menor valor da constante real k que torna o sistema indeterminado. Para esse valor\nde k, encontre a solução x, y, z do sistema acima que minimiza o valor de (x −z)2 + ex+y −4|x| −2y.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2",
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Sistemas Lineares",
+      "Equações e Sistemas"
+    ],
+    "blocos": [
+      "Álgebra e Funções",
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema linear indeterminado — minimização."
+  },
+  "fonte": {
+    "pdf": "mat2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase2_mat/ime_2021_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

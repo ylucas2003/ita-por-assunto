@@ -1,0 +1,76 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "1.2",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Problema de idades — sistema de equações."
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.2",
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Função real com max-min em intervalo definido por raízes."
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo com perpendicular — lugar geométrico."
+  },
+  "q04": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tetraedro regular com projeções — razão de volumes."
+  },
+  "q05": {
+    "topicos_ids": [
+      "3.2",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema linear indeterminado — minimização."
+  },
+  "q06": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação logarítmica e trigonométrica."
+  },
+  "q07": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Rotação de número complexo — produto xy."
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade — 11 estudantes em grupos, casal junto."
+  },
+  "q09": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Identidade trigonométrica — expressão em a, b."
+  },
+  "q10": {
+    "topicos_ids": [
+      "4.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo acutângulo — alturas e cossenos."
+  }
+}

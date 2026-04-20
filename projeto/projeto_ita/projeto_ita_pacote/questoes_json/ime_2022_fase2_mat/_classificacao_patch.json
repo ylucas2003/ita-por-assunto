@@ -1,0 +1,76 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Determinante tridiagonal — valor de x."
+  },
+  "q02": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Identidade trigonométrica — valor inteiro."
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.4",
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema com módulo e cônica — unicidade de solução."
+  },
+  "q04": {
+    "topicos_ids": [
+      "9.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Números complexos em PA/PG — soma parcial."
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.4",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes de cúbica são lados de triângulo — área."
+  },
+  "q06": {
+    "topicos_ids": [
+      "6.2",
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Dodecaedro regular — 3 vértices na mesma face."
+  },
+  "q07": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo com H=O (ortocentro e circuncentro) — ângulo."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Expressão com logaritmos — valor inteiro."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tetraedro regular e prisma triangular — razão de volumes."
+  },
+  "q10": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação polinomial em forma fatorada — raízes reais."
+  }
+}

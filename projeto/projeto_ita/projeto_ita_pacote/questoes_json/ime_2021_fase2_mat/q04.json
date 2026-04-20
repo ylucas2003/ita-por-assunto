@@ -1,0 +1,44 @@
+{
+  "id": "ime_2021_fase2_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja um tetraedro regular ABCD de aresta a e o ponto Q médio de AB. O ponto P sobre a aresta\nAB, entre Q e A, é projetado nas arestas AC e AD, sobre os pontos M e M ′, respectivamente, e\ntambém nas arestas BC e BD, sobre os pontos N e N ′, respectivamente. O plano MM ′NN ′ divide\no tetraedro em dois volumes com razão de 1 para 4. Determine QP em função de a.\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tetraedro regular com projeções — razão de volumes."
+  },
+  "fonte": {
+    "pdf": "mat2021.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase2_mat/ime_2021_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

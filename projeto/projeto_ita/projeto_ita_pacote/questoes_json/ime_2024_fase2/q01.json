@@ -1,0 +1,45 @@
+{
+  "id": "ime_2024_fase2_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n50cm\n20Ω\n20Ω\n60Ω\n8Ω\n52V\nu\n3cm\nTampa de vidro\napoiada\nBoia\nCaneca\nde água\nA figura ilustra dois recipientes cilíndricos comunicantes. O primeiro recipiente possui sec¸ ão reta\ncircular de 3 cm de raio e está inicialmente fechado por uma tampa de vidro plana perfeitamente\napoiada em sua face superior. Um líquido incompressível de massa específica ρ é lentamente\ndespejado no segundo recipiente, fazendo-se variar a posic¸ ão vertical de uma boia de massa e\nvolume desprezíveis que flutua sobre a superfície do líquido.\nA boia está afixada a um cursor metálico de resistência nula que faz contato com uma barra resistiva\nhomogênea, posicionada na vertical, cuja resistência total é de 10 Ωe cujo comprimento total é de\n50 cm.\nDados:\n• massa da tampa apoiada.: 1004,4 g;\n• π ≈3,1.\nObservac¸ ões:\n• a tampa possui aproximadamente as dimensões da sec¸ ão circular do primeiro recipiente;\n• a boia nunca estará abaixo do plano da tampa apoiada do primeiro recipiente;\n• a altura do ponto de contato do cursor metálico com a barra resistiva sempre coincide com a altura\nda boia;\n• a barra resistiva faz parte de um circuito elétrico por meio de ligac¸ ões com fios condutores ideais.\nSabendo que, no instante em que o líquido comec¸a a vazar por baixo da tampa apoiada, a tensão\nu indicada na figura é +9 V, determine numericamente o valor de ρ.\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Recipientes comunicantes com tampa de vidro, boia, circuito elétrico."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

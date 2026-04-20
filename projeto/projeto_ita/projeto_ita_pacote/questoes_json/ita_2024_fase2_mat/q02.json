@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_mat_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Quatro cidades A, B, C e D estão ligadas por seis pontes distintas da seguinte\nmaneira:\n– uma ponte liga A e B;\n– uma ponte liga A e C;\n– uma ponte liga B e C;\n– duas pontes ligam B e D;\n– uma ponte liga C e D.\nQuantos caminhos são possíveis ligando todas as cidades e passando por todas as pontes\numa única vez, sabendo que é permitido passar em uma mesma cidade mais de uma vez?\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Análise Combinatória"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Contagem de caminhos eulerianos em grafo de 4 cidades/6 pontes."
+  },
+  "fonte": {
+    "pdf": "matematica_2024_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_mat/ita_2024_fase2_mat_q02.png",
+  "usa_imagem_no_render": true
+}

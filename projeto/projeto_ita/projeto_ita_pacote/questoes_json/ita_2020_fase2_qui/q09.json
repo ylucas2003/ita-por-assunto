@@ -1,0 +1,46 @@
+{
+  "id": "ita_2020_fase2_qui_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "A produção de borrachas e espumas é comumente realizada pela síntese de poliuretanos. \nPara tal produção, a polimerização ocorre a partir de um poliol e um isocianato. \na) Apresente a(s) reação(ões) químicas da polimerização e formação de poliuretano a partir de um \ndiol e um diisocianato. \nb) A água, quando presente no meio, gera reação(ões) paralela(s) e é determinante na produção de \nespumas. Apresente essa(s) reação(ões).",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polimerização de poliuretano; reação com água."
+  },
+  "fonte": {
+    "pdf": "quimica_2020_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_qui/ita_2020_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

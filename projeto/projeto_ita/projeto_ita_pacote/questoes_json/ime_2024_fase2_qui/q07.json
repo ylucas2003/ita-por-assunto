@@ -1,0 +1,45 @@
+{
+  "id": "ime_2024_fase2_qui_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm certo aldeído B é subsequente ao aldeído A na série homóloga de aldeídos de cadeia normal.\nUma alíquota de 20 g do aldeído B é adicionada a 100 g de uma soluc¸ ão aquosa contendo 30%\nem massa do aldeído A. A adic¸ ão de uma soluc¸ ão amoniacal de AgNO3 a 8,25 g dessa soluc¸ ão de\naldeídos resulta na precipitac¸ ão de 21,6 g de prata.\nFornec¸a a nomenclatura dos aldeídos A e B.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.2",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Funções Orgânicas Oxigenadas e Nitrogenadas",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Série homóloga de aldeídos — Ag⁰ precipitado, nomenclatura."
+  },
+  "fonte": {
+    "pdf": "quim2024.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

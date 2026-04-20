@@ -1,0 +1,89 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "5.1",
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Pares redox e tendência à corrosão; potenciais padrão.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "7.2",
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Chuva ácida: CO2, NOx, SO2 em diferentes regiões.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.2",
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Decomposição em fase gasosa; pressão parcial e cinética.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Poder calorífico superior/inferior de metano e etanol.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "3.2",
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Kps de NiS; solubilização em meio ácido.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "2.1",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Combustão incompleta de alceno com ar em excesso.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "1.1",
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Afinidade eletrônica e energia de ionização de O e N.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "5.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Redox PbSO4+HOCl; ΔU, justificativa termodinâmica.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Polietileno: PEBD vs PEAD; polimerização.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "2,4-pentanodiona: tautomerismo ceto-enólico; acidez.",
+    "classificado_por": "claude"
+  }
+}

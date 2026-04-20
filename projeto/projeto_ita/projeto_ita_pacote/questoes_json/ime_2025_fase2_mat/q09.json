@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nNo quadrado ABCD de lado a, são dados os pontos M sobre o lado BC e N sobre o lado CD\nde forma que AMN seja um triângulo equilátero. Calcule, em função de a, o raio do círculo inscrito\nno triângulo CMN.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Quadrado com triângulo equilátero — raio do círculo inscrito."
+  },
+  "fonte": {
+    "pdf": "mat2025.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_mat/ime_2025_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

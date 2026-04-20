@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_qui_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Dicromato de potássio, enxofre e água reagem produzindo hidróxido de potássio, óxido de \ncromo III e dióxido de enxofre. Para oxidar 96 g de enxofre, são utilizados 50% de dicromato de potássio \nem excesso. Sabendo que o rendimento da reação é de 80%, determine: \na) a equação balanceada da reação química; \nb) a massa de dicromato de potássio utilizada; \nc) a massa de dióxido de enxofre produzida. \n \n \n \n\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Eletroquímica",
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Redox dicromato+enxofre; balanceamento e estequiometria."
+  },
+  "fonte": {
+    "pdf": "quimica_2020_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_qui/ita_2020_fase2_qui_q08.png",
+  "usa_imagem_no_render": true
+}

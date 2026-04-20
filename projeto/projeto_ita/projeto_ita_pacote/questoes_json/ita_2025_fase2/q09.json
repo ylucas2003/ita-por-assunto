@@ -1,0 +1,47 @@
+{
+  "id": "ita_2025_fase2_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Uma balanc¸a de corrente montada sobre uma base isolante horizontal é com-\nposta por um ímã, um circuito elétrico, uma massa móvel m e um contrapeso, ambos\nisolantes.\nO circuito é constituído de um arranjo metálico móvel, apoiado sobre supor-\ntes metálicos, ligados a uma diferenc¸a de potencial (d.d.p.), um amperímetro e um po-\ntenciômetro. Uma extremidade do arranjo, com comprimento ℓ= 10 cm e situada a uma\ndistância L = 1, 0 m dos pontos de apoio, localiza-se entre os polos do ímã, sob a influência\nde seu campo magnético. Considere que o campo magnético, no interior do ímã, é uni-\nforme, está na direc¸ ão horizontal e é desprezível fora do ímã. A outra extremidade possui\num contrapeso que equilibra o arranjo metálico. Uma massa móvel m, isolante, está posi-\ncionada a uma distância d dos pontos de apoio no arranjo metálico, conforme ilustrado na\nfigura. Durante o experimento, a distância d do objeto é variada, então mede-se a corrente\ni necessária para equilibrar a balanc¸a quando m = 10 mg. Os resultados das medic¸ ões são\napresentados em um gráfico. A partir desses dados, estime o valor do campo magnético do\nímã.\n10",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.3",
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Magnetismo",
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Balança de corrente; força magnética em arranjo metálico."
+  },
+  "fonte": {
+    "pdf": "fisica_2025_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2/ita_2025_fase2_q09.png",
+  "usa_imagem_no_render": true
+}

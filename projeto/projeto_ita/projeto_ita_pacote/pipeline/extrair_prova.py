@@ -83,6 +83,20 @@ FAIXAS_POR_VESTIBULAR = {
     "IME": FAIXAS_MATERIA_IME,
 }
 
+# ITA 2ª fase: cada matéria é um PDF separado com 10 questões dissertativas (1-10).
+FAIXAS_MATERIA_ITA_FASE2 = {
+    "Física":     (1, 10),
+    "Química":    (1, 10),
+    "Matemática": (1, 10),
+}
+
+# IME 2ª fase: idem — cada matéria é um PDF separado com 10 questões dissertativas.
+FAIXAS_MATERIA_IME_FASE2 = {
+    "Física":     (1, 10),
+    "Química":    (1, 10),
+    "Matemática": (1, 10),
+}
+
 
 # ============================================================================
 # UTILITÁRIOS DE TEXTO
@@ -187,7 +201,7 @@ PADRAO_QUESTAO = re.compile(
 # Allow optional space before ÃO because some PDFs encode "QUEST˜AO" with a space
 # before the combining tilde, which after normalization becomes "QUEST ÃO".
 PADRAO_QUESTAO_IME = re.compile(
-    r"(\d{1,2})ª?\s*QUEST\s*[ÃA]O",
+    r"(\d{1,2})[ªºao]?\s*QUEST\s*[ÃA]O",
     flags=re.IGNORECASE,
 )
 
@@ -324,7 +338,12 @@ def processar_pdf(
 
     Retorna um relatório diagnóstico.
     """
-    if vestibular.upper() == "ITA" and ano in FAIXAS_MATERIA_ITA_ANOS:
+    dissertativa = (vestibular.upper() in ("ITA", "IME") and fase == 2)
+    if dissertativa and vestibular.upper() == "ITA":
+        faixas = FAIXAS_MATERIA_ITA_FASE2
+    elif dissertativa and vestibular.upper() == "IME":
+        faixas = FAIXAS_MATERIA_IME_FASE2
+    elif vestibular.upper() == "ITA" and ano in FAIXAS_MATERIA_ITA_ANOS:
         faixas = FAIXAS_MATERIA_ITA_ANOS[ano]
     else:
         faixas = FAIXAS_POR_VESTIBULAR.get(vestibular.upper(), FAIXAS_MATERIA)
@@ -390,13 +409,26 @@ def processar_pdf(
         if info["tipo"] == "escaneada":
             if OCR_DISPONIVEL:
                 try:
-                    # OCR em português. Configuração "psm 6" = bloco uniforme,
-                    # que funciona bem para páginas de prova.
-                    img = Image.open(png_path)
-                    texto_ocr = pytesseract.image_to_string(
-                        img, lang="por", config="--psm 6"
+                    # Re-renderiza a 300 dpi para OCR (melhor qualidade).
+                    # Rodamos dois passes (PSM 6 = bloco uniforme, e PSM 3 =
+                    # segmentação automática) e escolhemos o que detectou
+                    # mais marcadores "Nª QUESTÃO" — PSM 6 costuma ser melhor
+                    # para texto denso, PSM 3 para layouts com tabelas/figuras.
+                    pix_ocr = page.get_pixmap(dpi=300)
+                    ocr_png = dir_paginas_prova / f"pagina_{num_pag:02d}_ocr.png"
+                    pix_ocr.save(str(ocr_png))
+                    img = Image.open(ocr_png)
+                    # Concatena OCR dos dois PSMs — cada um captura
+                    # marcadores "Nª QUESTÃO" que o outro perde, dependendo
+                    # do layout da página. Duplicação é tolerável: a
+                    # segmentação seguinte pega o primeiro enunciado de
+                    # cada N, e saves de JSON posteriores sobrescrevem.
+                    texto_pagina = "\n".join(
+                        pytesseract.image_to_string(
+                            img, lang="por", config=f"--psm {psm}"
+                        )
+                        for psm in (6, 3)
                     )
-                    texto_pagina = texto_ocr
                     relatorio["avisos"].append(
                         f"Página {num_pag} (escaneada): texto obtido via OCR. "
                         f"Revise com atenção — OCR pode cometer erros."
@@ -415,6 +447,17 @@ def processar_pdf(
         texto_completo += "\n" + texto_pagina
 
     texto_completo = normalizar_texto(texto_completo)
+
+    # OCR de PDFs escaneados do IME frequentemente lê o "ª" como "2"
+    # (ex: "5ª QUESTÃO" → "52 QUESTÃO"). Para 2ª fase do IME, onde só temos
+    # Q1-Q10, qualquer "\dN2 QUESTÃO" com N>1 é quase certamente o ordinal.
+    if dissertativa and vestibular.upper() == "IME":
+        texto_completo = re.sub(
+            r"(\d)2(\s*QUEST\s*[ÃA]O)",
+            r"\1ª\2",
+            texto_completo,
+            flags=re.IGNORECASE,
+        )
 
     # ------------------------------------------------------------------
     # Etapa 2: segmentar questões da matéria pedida.
@@ -447,7 +490,7 @@ def processar_pdf(
 
         # Procura no texto_completo o offset desta questão
         if is_ime:
-            padrao_num = re.compile(rf"{num}ª?\s*QUEST\s*[ÃA]O", re.IGNORECASE)
+            padrao_num = re.compile(rf"{num}[ªºao]?\s*QUEST\s*[ÃA]O", re.IGNORECASE)
         else:
             padrao_num = re.compile(rf"Quest(?:ão|ao|˜ao)\s*{num}\s*\.", re.IGNORECASE)
         m = padrao_num.search(texto_completo)
@@ -455,8 +498,16 @@ def processar_pdf(
         pagina = descobrir_pagina(offset)
         info_pagina = relatorio["paginas"][pagina - 1]
 
-        # Separa enunciado e alternativas
-        partes = extrair_enunciado_e_alternativas(q_bruta["texto_bruto"], padrao_alt=padrao_alt)
+        # Separa enunciado e alternativas. Em provas dissertativas (2ª fase),
+        # não há alternativas A-E: o texto inteiro é o enunciado.
+        if dissertativa:
+            partes = {
+                "enunciado_md": q_bruta["texto_bruto"].strip(),
+                "alternativas": {},
+                "alternativas_extraidas": True,
+            }
+        else:
+            partes = extrair_enunciado_e_alternativas(q_bruta["texto_bruto"], padrao_alt=padrao_alt)
 
         tem_figura = provavelmente_tem_figura(partes["enunciado_md"], info_pagina)
 
@@ -469,6 +520,7 @@ def processar_pdf(
                 "materia": materia,
             },
             "numero": num,
+            "dissertativa": dissertativa,
             "enunciado_md": partes["enunciado_md"],
             "alternativas": partes["alternativas"],
             "gabarito": None,  # preenchido depois pelo script de gabarito

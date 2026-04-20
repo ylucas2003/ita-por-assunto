@@ -1,0 +1,47 @@
+{
+  "id": "ime_2024_fase2_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nDetermine as raizes complexas da equação abaixo, onde i2 = −1.\nx2 + 1 + i\n√\n3\n2\nx + 1\n·\nx2 + 1 −i\n√\n3\n2\nx −1\n=\n16\n(x2 −1)2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Equações e Sistemas"
+    ],
+    "blocos": [
+      "Álgebra e Funções",
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Raízes complexas de equação polinomial."
+  },
+  "fonte": {
+    "pdf": "mat2024.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase2_mat/ime_2024_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

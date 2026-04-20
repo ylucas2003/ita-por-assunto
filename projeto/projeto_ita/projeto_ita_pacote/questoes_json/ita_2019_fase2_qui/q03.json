@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_qui_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Considere uma porção de uma solução aquosa de um eletrólito genérico AB, em formato de um \ncilindro de 2 cm de diâmetro e 314 cm de comprimento, cuja concentração seja de 1,0 x 10−2 mol L−1. \nSabendo que a resistência elétrica dessa porção é de 1,0 x 104 ohm, calcule a sua condutividade molar em \nS cm2 mol−1.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Condutividade molar de solução de eletrólito."
+  },
+  "fonte": {
+    "pdf": "quimica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_qui/ita_2019_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

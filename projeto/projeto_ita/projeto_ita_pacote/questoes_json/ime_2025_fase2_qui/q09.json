@@ -1,0 +1,47 @@
+{
+  "id": "ime_2025_fase2_qui_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nNas últimas décadas, tem sido observado um aumento substancial da concentração de dióxido\nde carbono na atmosfera terrestre. Pesquisas recentes estimam que, sem a adoção de medidas\nmitigadoras da emissão de poluentes, essa concentração de CO2 deve atingir cerca de 545 ppm,\nbase molar, no ano de 2050.\na) Calcule a concentração molar de CO2 dissolvido em água pura a 25 oC, assumindo equilíbrio\ncom a atmosfera nas condições estimadas para o ano de 2050.\nb) Com base na concentração obtida no item anterior, calcule o valor do pH da solução resultante.\nc) Considere uma solução em equilíbrio com o CO2 atmosférico. Se a temperatura for aumentada e\na concentração de CO2 dissolvido for mantida constante, o pH da solução aumentará ou diminuirá?\nJustifique.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3",
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Ácido-Base",
+      "Química Ambiental e Industrial"
+    ],
+    "blocos": [
+      "Química Analítica e Ambiental",
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "CO₂ atmosférico com estimativa de 545 ppm — concentração aquosa."
+  },
+  "fonte": {
+    "pdf": "quim2025.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_qui/ime_2025_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

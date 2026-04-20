@@ -1,0 +1,46 @@
+{
+  "id": "ita_2023_fase2_qui_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "O ácido fórmico pode ser obtido por meio de uma reação de duas etapas. Na primeira etapa, \nem temperatura de 200 °C e pressão de 10 atm, monóxido de carbono e hidróxido de sódio reagem. Na \nsegunda, o produto dessa primeira etapa reage com ácido sulfúrico, formando-se o ácido fórmico. \nSobre esse processo, apresente: \na) a fórmula estrutural do produto gerado na primeira etapa; \nb) a equação química balanceada da primeira etapa; \nc) a equação química balanceada da segunda etapa. \n \n \n \n\n15",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Síntese do ácido fórmico em duas etapas."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q02.png",
+  "usa_imagem_no_render": true
+}

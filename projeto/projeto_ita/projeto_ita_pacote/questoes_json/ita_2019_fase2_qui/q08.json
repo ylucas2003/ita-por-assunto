@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_qui_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Considere as variações de entalpia de processo abaixo tabeladas. \nProcesso \n∆H (kJ mol−1) \nIonização do Na0 \n495,8 \nEnergia de ligação Cl-Cl \n242,6 \nEntalpia de vaporização do Na0 \n97,4 \nAfinidade eletrônica do Cl \n−349 \nEntalpia de rede do NaCl \n−787 \na) Esboce o diagrama de Born-Haber para a formação do NaCl(s) a partir de Na0(s) e Cl2(g) e calcule \na variação de entalpia de formação do NaCl(s). \nb) Sabe-se que o valor absoluto (em módulo) da entalpia de rede do CaO(s) é maior do que a do \nNaCl(s). Explique por quê.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.3",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Ligações Químicas",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria",
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ciclo de Born-Haber para NaCl; comparação com CaO."
+  },
+  "fonte": {
+    "pdf": "quimica_2019_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_qui/ita_2019_fase2_qui_q08.png",
+  "usa_imagem_no_render": true
+}

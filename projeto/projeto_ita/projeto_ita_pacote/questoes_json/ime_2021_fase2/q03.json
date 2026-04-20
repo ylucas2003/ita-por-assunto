@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere um meio hipotético onde os corpos CA, CB e CC, todos de massa m, estão fixados no\nespac¸o conforme mostra a Figura 1 e, inicialmente, carregados eletricamente com cargas\nQA = + 5 C; QB = −5 C; e QC = + 30 C, respectivamente. O corpo CB está na extremidade de\numa barra feita com material isolante. Um dispositivo eletrônico controla a quantidade de cargas\nelétricas positivas em CA, por meio de injec¸ ão de corrente no corpo.\nDados:\n• acelerac¸ ão da gravidade: g = 10 m/s2; e\n• massa dos corpos: m = 0,2 kg.\nConsiderac¸ ões:\n• o fluxo positivo de corrente do gráfico da Figura 2 indica que cargas positivas são injetadas\nem CA; e\n• a mola tem por objetivo manter a barra sempre na posic¸ ão vertical.\nDiante do exposto, determine:\na) a constante eletrostática do meio, sabendo que nas condic¸ ões iniciais, a forc¸a de compressão\nna barra é 4 N.\nConsidere agora que o dispositivo eletrônico comece a operar, injetando corrente no corpo CA (con-\nforme gráfico da Figura 2) até que a trac¸ ão na barra seja 0 (zero). Para as novas condic¸ ões de\nfuncionamento, determine:\nb) o novo valor da carga QA; e\nc) o tempo necessário para o sistema chegar a este novo ponto de operac¸ ão.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "2.3"
+    ],
+    "topicos_nomes": [
+      "Eletrostática",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Mecânica da Partícula",
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Corpos carregados com controle eletrônico, dinâmica e Coulomb."
+  },
+  "fonte": {
+    "pdf": "fis2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

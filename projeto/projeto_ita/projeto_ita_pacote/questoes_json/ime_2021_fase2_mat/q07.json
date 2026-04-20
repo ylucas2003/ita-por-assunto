@@ -1,0 +1,44 @@
+{
+  "id": "ime_2021_fase2_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSejam os pontos a e b, no plano complexo, representados pelos números a = 9 + xi e b = y + 3i,\nonde i é a unidade imaginária tal que i2 = −1. O ponto a é a rotação de 30o do ponto b em torno da\norigem no sentido anti-horário. Determine o valor do produto xy.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Rotação de número complexo — produto xy."
+  },
+  "fonte": {
+    "pdf": "mat2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase2_mat/ime_2021_fase2_mat_q07.png",
+  "usa_imagem_no_render": true
+}

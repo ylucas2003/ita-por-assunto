@@ -1,0 +1,77 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "5.1",
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Recipientes comunicantes com tampa de vidro, boia, circuito elétrico."
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Aquecedor elétrico vaporizando água — potência, calor latente."
+  },
+  "q03": {
+    "topicos_ids": [
+      "7.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Lente convergente com pêndulo — imagem oscilante."
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Ciclo de refrigeração acoplado a motor térmico — aproveitamento de calor."
+  },
+  "q05": {
+    "topicos_ids": [
+      "8.3",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Fios dobrados com partícula impulsionada por mola — choque inelástico."
+  },
+  "q06": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Órbita circular mudando de raio — variação do período."
+  },
+  "q07": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Película sobre placa de vidro — interferência destrutiva em três λ."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Treliça com três triângulos — reações nos apoios e cargas nas barras."
+  },
+  "q09": {
+    "topicos_ids": [
+      "2.3",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Caixote puxado por motor — atrito, velocidade variando em gráfico."
+  },
+  "q10": {
+    "topicos_ids": [
+      "8.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula carregada em movimento circular sob atração de outra carga."
+  }
+}

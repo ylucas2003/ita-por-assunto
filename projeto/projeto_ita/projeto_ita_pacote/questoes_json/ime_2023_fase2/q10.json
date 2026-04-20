@@ -1,0 +1,45 @@
+{
+  "id": "ime_2023_fase2_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm sistema automático de defesa contra um determinado tipo de blindado inimigo é instalado\npróximo a um morro, como mostra a figura. Nesse sistema, um observador comanda o disparo\nde um morteiro que se encontra escondido atrás desse mesmo morro, com base na imagem do\nblindado obtida através de uma lente convergente especial. O observador realiza duas medidas\ndo tamanho da imagem do blindado em instantes diferentes e utiliza esses valores para calcular o\ninstante de disparo do morteiro.\nDados:\n• distância focal da lente do observador: f = 50 m;\n• altura do morro: H = 320 m;\n• altura do blindado inimigo: h = 2,7 m;\n• distância horizontal entre a lente e o topo do morro: L = 110 m;\n• velocidade de disparo do projétil: v0 = 100 m/s;\n• intervalo de tempo entre as medidas dos tamanhos das imagens: ∆t = 25 s;\n• tamanho da primeira medida da imagem invertida: i1 = 5,40 cm;\n• tamanho da segunda medida da imagem invertida: i2 = 6,75 cm;\n• acelerac¸ ão da gravidade: g = 10 m/s.\nObservac¸ ões:\n• o blindado e o morteiro estão na mesma horizontal;\n• para efeito de cálculo do ponto de impacto do projétil, use o chão como referência.\nSabendo que o blindado se desloca com velocidade constante em direc¸ ão à lente do observador\ne que o projétil atirado pelo morteiro atinge seu ponto máximo na trajetória exatamente no pico do\nmorro, determine:\na) a que distância horizontal D do pico do morro o morteiro deve ser posicionado;\nb) as distâncias entre o blindado e a lente nos momentos das duas medidas;\nc) a velocidade do blindado;\nd) o intervalo de tempo depois da segunda medida de imagem para que o disparo seja realizado e\npossa atingir o blindado.\n10\n\nRASCUNHO\n11\n\nRASCUNHO\n12\n\nRASCUNHO\n13\n\nRASCUNHO\n14\n\nRASCUNHO\n15\n\nRASCUNHO\n16",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Óptica",
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema de defesa com lente convergente — imagem de blindado."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

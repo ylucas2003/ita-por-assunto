@@ -1,0 +1,44 @@
+{
+  "id": "ime_2019_fase2_qui_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \nConsidere a reação de decomposição da nitramida em solução aquosa: \nNH2NO2(aq) →N2O(g) + H2O(ℓ) \nSabendo-se que a lei de velocidade, determinada experimentalmente, é dada pela expressão \n𝑣= 𝑘\n[NH2NO2]\n[H3O+] , foram propostos três possíveis mecanismos para a reação: \nMECANISMO I: \nNH2NO2 + H2O ⇌NHNO2\n−+ H3O+ (equilíbrio rápido) \nNHNO2\n−→N2O + OH− (etapa lenta) \nH3O+ + OH−→2H2O (etapa rápida) \nMECANISMO II: \n NH2NO2 →N2O + H2O (etapa elementar) \nMECANISMO III: \nNH2NO2 + H3O+ ⇌NH3NO2\n+ + H2O (equilíbrio rápido) \nNH3NO2\n+ →N2O + H3O+ (etapa lenta) \nCom base nas informações acima, determine se cada mecanismo proposto é compatível com a \nexpressão da velocidade experimental, fundamentando suas respostas. \n\n \n 3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mecanismos de decomposição da nitramida — lei de velocidade."
+  },
+  "fonte": {
+    "pdf": "quim2019.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_qui/ime_2019_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

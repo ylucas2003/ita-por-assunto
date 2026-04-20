@@ -1,0 +1,88 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "9.1",
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Quantum de fluxo magnético; elétron em órbita circular.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Barra com forças em sequência geométrica; equilíbrio estático.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Objeto sobre cunha móvel com atrito; dinâmica de sistema.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.3",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Colisão bidimensional; conservação de momento e energia.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "3.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Ejeção de nanossatélite via fluido (Bernoulli); gravitação.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Condução térmica em casca esférica de duas camadas.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Interferômetro de Mach-Zehnder.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "8.1",
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "N partículas com interações gravitacional e elétrica em órbita circular.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.3",
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Balança de corrente; força magnética em arranjo metálico.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.1",
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Radiação em feixes relativísticos; emissão de fótons.",
+    "classificado_por": "claude"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ita_2025_fase2_qui_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "O etilômetro é um instrumento utilizado na detecção da quantidade de etanol \nno ar expirado. Nesse dispositivo, o etanol proveniente da expiração de uma pessoa entra \nem contato com uma solução de dicromato de potássio em meio ácido (ácido sulfúrico). O \netanol é oxidado a ácido acético, enquanto o crômio (VI), de cor amarelo-alaranjado, é \nreduzido a crômio (III), de cor verde. Como subprodutos, são gerados sulfato de potássio e \nágua. Mediante detecção da variação de cor da solução, a quantidade de etanol é \ndeterminada. \n \na) Escreva a equação química balanceada, que representa a reação que ocorre no \netilômetro. \nb) Considere, hipoteticamente, um limite permitido de etanol de 0,05 mg·L-1. Em uma \naferição, foi gerada uma quantidade de 0,0207 mg de água no reservatório do \netilômetro. Considerando o volume de 200 mL para o reservatório do etilômetro, \nverifique se a quantidade de etanol presente nesse teste é superior ao limite \nestabelecido e apresente os cálculos. \n \n \n \n\n \n9 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica",
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Etilômetro: oxidação de etanol por Cr2O7^2- em meio ácido."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q06.png",
+  "usa_imagem_no_render": true
+}

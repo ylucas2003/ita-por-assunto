@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_qui_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSob determinadas condic¸ ões, a água pode ser super-resfriada, ou seja, permanecer no estado\nlíquido em temperaturas inferiores ao seu ponto de congelamento, em uma situac¸ ão termodina-\nmicamente instável. Considere um processo em que 5,0 mol de água super-resfriada a –10◦C e\n1,0 atm sejam convertidos em gelo à mesma temperatura. Determine a variac¸ ão de entropia:\na) do sistema;\nb) na vizinhanc¸a; e\nc) do universo.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Água super-resfriada — variação de entropia no congelamento."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

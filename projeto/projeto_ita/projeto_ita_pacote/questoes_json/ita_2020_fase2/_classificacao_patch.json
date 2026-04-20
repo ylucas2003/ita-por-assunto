@@ -1,0 +1,87 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "MCU + lançamento de projétil, ângulo de acerto de alvo.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "5.1",
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Empuxo em prancha parcialmente submersa; equilíbrio estático com atrito.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "MHS de bloco com mola em plano inclinado com atrito.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "3.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Satélite em órbita elíptica, excentricidade máxima, trabalho dos propulsores.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Difração/interferência em três fendas.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "5.1",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Tubo de Pitot; pressão em gás ideal dentro de câmara.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Queda livre; energia cinética convertida em calor de gás monoatômico; velocidade quadrática média.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Capacitor de placas paralelas; elétron tangencia placa.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Fibra óptica: reflexão total interna e tempo de propagação.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Decaimento relativístico de partícula em outra + neutrino.",
+    "classificado_por": "claude"
+  }
+}

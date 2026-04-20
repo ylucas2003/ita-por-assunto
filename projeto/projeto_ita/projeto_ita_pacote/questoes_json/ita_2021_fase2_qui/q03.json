@@ -1,0 +1,47 @@
+{
+  "id": "ita_2021_fase2_qui_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Um reator químico, projetado com uma válvula de alívio de pressão que é acionada a \n8,5 atm, contém uma mistura gasosa composta por quantidades iguais de um reagente (A) e de uma \nsubstância inerte (B), a 10 oC e 2 atm. Ao elevar rapidamente a temperatura do reator para 293 °C, o \nreagente A começa a se decompor de acordo com a seguinte equação estequiométrica genérica: \n2A(g) → 3C(g) + 4D(g) + E(g) \nSabendo que a velocidade de consumo de A nessa temperatura é dada por νA = −0,25 × (PA)0 (em \natm⋅h−1), onde PA corresponde à pressão parcial da substância A, responda: \na) Após quanto tempo de reação a válvula de alívio é acionada? \nb) Quais as pressões parciais de cada espécie (A, B, C, D e E) presente no reator no momento do \nacionamento da válvula de alívio? \nc) Assumindo 100% de rendimento da reação, qual a quantidade máxima de mistura gasosa que pode ser \nadicionada ao reator sem que a válvula de alívio seja acionada?",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Gases"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Decomposição em fase gasosa; pressão parcial e cinética."
+  },
+  "fonte": {
+    "pdf": "quimica_2021_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2_qui/ita_2021_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

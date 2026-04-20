@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA ponte acima é escorada por quatro apoios verticais (A, B, E e F) e por dois engates (C e D), que\npermitem a transmissão de esforc¸os verticais e horizontais. Um veículo de 100 kN atravessa essa\nponte de peso linear constante de 10 kN/m. Se nos apoios B e E são instaladas molas elásticas\ncom k = 9000 kN/m, calcule a máxima contrac¸ ão que surge nas molas, enquanto o veículo atra-\nvessa o trecho central CD da ponte.\nObservac¸ ões:\n• o veículo é um objeto pontual;\n• desconsidere eventuais forc¸as horizontais que surjam na ponte; e\n• considere que as deformac¸ ões das molas sejam muito menores do que o comprimento da\nponte.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ponte com apoios e molas, veículo atravessando — equilíbrio."
+  },
+  "fonte": {
+    "pdf": "fis2021.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

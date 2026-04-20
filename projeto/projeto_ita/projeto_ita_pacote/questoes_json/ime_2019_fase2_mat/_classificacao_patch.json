@@ -1,0 +1,75 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.4",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes de equações quadráticas formando PG — equações + progressões."
+  },
+  "q02": {
+    "topicos_ids": [
+      "9.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Região no plano complexo, área."
+  },
+  "q03": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Placas de identificação — princípio fundamental da contagem."
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Jogo de dados entre duas pessoas — probabilidade."
+  },
+  "q05": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matrizes semelhantes — det(A)=det(B), verificação."
+  },
+  "q06": {
+    "topicos_ids": [
+      "2.3",
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação envolvendo log, trigonometria, complexos."
+  },
+  "q07": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Produto de senos em ângulos específicos."
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Bissetriz paralela a reta — lugar geométrico, excentricidade (cônica)."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Tangentes a circunferências — lugar geométrico."
+  },
+  "q10": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Descarte de material radioativo em paralelepípedo — sequência geométrica."
+  }
+}

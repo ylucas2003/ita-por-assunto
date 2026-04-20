@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nNa figura, encontra-se ilustrado um experimento, em que o canhão preso ao bloco efetua um mo-\nvimento harmônico simples (MHS) na região sujeita ao campo magnético constante, disparando\nhorizontalmente e continuamente um feixe de elétrons. Nele, observou-se que, nos momentos em\nque o bloco está com a maior energia cinética, ora os elétrons colidem ortogonalmente contra o\nanteparo, ora colidem frontalmente contra a traseira do canhão, após tangenciarem o anteparo.\nDados:\n• velocidade relativa de disparo do feixe de elétrons em relac¸ ão ao canhão: v;\n• constante elástica da mola: k;\n• massa do conjunto bloco + canhão: M;\n• carga do elétron: −e;\n• massa do elétron: me;\n• distância entre o canhão e o anteparo: d.\nDetermine:\na) a amplitude de oscilac¸ ão do bloco para que o experimento seja viável, em func¸ ão de v, M e k;\nb) o ângulo de impacto entre o anteparo e os elétrons disparados quando o bloco estiver com\nvelocidade nula;\nc) a densidade de fluxo magnético do campo ⃗B, para que o experimento seja viável, em func¸ ão de\ne, me, v e d;\nd) os possíveis valores de d em relac¸ ão a v, M e k impostos pelo tempo de viagem dos elétrons\naté o choque frontal com a traseira do canhão.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "8.3"
+    ],
+    "topicos_nomes": [
+      "Movimento Harmônico Simples",
+      "Magnetismo"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Canhão em MHS disparando elétrons em campo magnético."
+  },
+  "fonte": {
+    "pdf": "fis2021.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

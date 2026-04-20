@@ -1,0 +1,44 @@
+{
+  "id": "ita_2023_fase2_qui_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Duas soluções aquosas, contendo os cátions genéricos, A+ e B+, são preparadas com as \nconcentrações iniciais descritas a seguir. \nSolução 1: [A+] = 2 × 10−2 mol L−1 e [B+] = 1 × 10−4 mol L−1. \nSolução 2: [A+] = 5 × 10−2 mol L−1 e [B+] = 1 × 10−3 mol L−1. \nA cada uma dessas soluções são adicionadas quantidades progressivas de um ânion C−, sem variação \nsignificativa do volume das soluções. Considere que os produtos de solubilidade dos sólidos AC(s) e BC(s) \nsão iguais a 1 × 10−7 e 1 × 10−9, respectivamente. \nCom base nessas informações, determine o que se pede para a solução 1 e para a solução 2. \na) Qual sólido será formado primeiro com a adição progressiva de C− a cada uma das soluções? \nJustifique a sua resposta. \nb) Conforme C− é progressivamente adicionado, o segundo sólido começa a se formar. Nesse momento, \nqual é a concentração em solução do cátion desse primeiro sólido precipitado em cada solução? \n \n \n \n\n17",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Precipitação seletiva com Kps muito diferentes."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q04.png",
+  "usa_imagem_no_render": true
+}

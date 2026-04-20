@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "A figura mostra um circuito simples em\nque um gerador ideal fornece uma d.d.p. V aos blocos\nretangulares A, B e C, sendo os dois últimos de mes-\nmas dimensões. Esses três são constituídos por mate-\nriais distintos de respectivas condutividades elétricas\nσA, σB e σC, tais que σA = 3σC e σB = 2σC. Consi-\nderando que a área da seção transversal à passagem\nde corrente do bloco A é o dobro da de B, e sendo\nPA, PB e PC as respectivas potências dissipadas nos\nblocos, determine as razões PB/PA e PC/PA.\nV\nA\nB\nC\nd/2\nd/2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Circuito com blocos de condutividades distintas; potências dissipadas."
+  },
+  "fonte": {
+    "pdf": "fisica_2019_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2/ita_2019_fase2_q07.png",
+  "usa_imagem_no_render": true
+}

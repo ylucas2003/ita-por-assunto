@@ -1,0 +1,78 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "6.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Máquina térmica, projétil contra alvo com mola — rendimento e energia."
+  },
+  "q02": {
+    "topicos_ids": [
+      "5.1",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Cubo boiando com aquecimento elétrico — empuxo + dilatação."
+  },
+  "q03": {
+    "topicos_ids": [
+      "8.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Roldanas com cargas elétricas, fios, equilíbrio com campo."
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Corda girando horizontalmente, reação no fixo e tensão."
+  },
+  "q05": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte sonora em queda livre — efeito Doppler com aproximação ao solo."
+  },
+  "q06": {
+    "topicos_ids": [
+      "2.4",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois caminhos: rampa com lançamento e trecho rugoso — energia."
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Energia geotérmica, resfriamento por água quente — balanço térmico."
+  },
+  "q08": {
+    "topicos_ids": [
+      "8.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito magnético com bobinas primária e secundária — indução."
+  },
+  "q09": {
+    "topicos_ids": [
+      "2.2",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Reservatório com treliças, enchimento de água — equilíbrio."
+  },
+  "q10": {
+    "topicos_ids": [
+      "3.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Planeta esférico com massa distribuída, órbita interna e transporte."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Difração de luz por fenda única (barras flexionáveis)."
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Ciclo termodinâmico — máquina refrigeradora e dispositivo térmico."
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula presa a duas molas ortogonais (MHS 2D)."
+  },
+  "q04": {
+    "topicos_ids": [
+      "5.1",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Tubo com fluidos, válvula, ar comprimido — hidrostática + gases."
+  },
+  "q05": {
+    "topicos_ids": [
+      "8.3",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Partícula carregada em campo magnético variável, lançamento oblíquo."
+  },
+  "q06": {
+    "topicos_ids": [
+      "7.1",
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Refração, reflexão, intensidades dos feixes refletido e transmitido."
+  },
+  "q07": {
+    "topicos_ids": [
+      "7.1",
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Lente convergente móvel, imagens reais, efeito Doppler sonoro."
+  },
+  "q08": {
+    "topicos_ids": [
+      "8.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Três cargas em triângulo equilátero, micropartículas carregadas caindo."
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Conversor eletromecânico, potências dissipadas e mecânica."
+  },
+  "q10": {
+    "topicos_ids": [
+      "7.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Óptica com feixe atravessando bloco submerso, refração + flutuação."
+  }
+}

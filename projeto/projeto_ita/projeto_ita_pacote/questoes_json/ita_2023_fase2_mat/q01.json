@@ -1,0 +1,46 @@
+{
+  "id": "ita_2023_fase2_mat_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Sejam a e b números reais positivos. Considere o sistema linear nas incógnitas x, y e z:\n\n\n\n\n\n−ax + by + az = 0\nb2x + a3y + 4a2z = 0\n4a2x + a3y + b2z = 0\nSabendo que esse sistema admite solução não trivial, determine b em função de a. Determine o conjunto\nsolução do sistema para a = 1\n2.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Sistemas Lineares",
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema linear homogêneo com solução não trivial; determinante."
+  },
+  "fonte": {
+    "pdf": "matematica_2023_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_mat/ita_2023_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

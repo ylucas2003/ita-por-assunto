@@ -1,0 +1,47 @@
+{
+  "id": "ita_2021_fase2_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Um fio tem uma de suas extremidades presa ao\nteto e suspende um bloco de densidade ρ=10ρa, em que ρa\nrepresenta a densidade da água. Na configuração descrita,\nv0 é a velocidade de propagação de ondas mecânicas no fio.\nEm seguida, o bloco é mergulhado gradativamente em um\nrecipiente contendo água, como mostra a figura, até ficar\ncompletamente submerso. Em nenhum momento o bloco\ntoca as laterais e o fundo do recipiente. Denote por f a\nfração do bloco submersa em água.\ng\nm\n(a) Calcule a expressão da velocidade de propagação v das ondas mecânicas no fio em função de f e v0.\n(b) Esboce um gráfico que descreva o comportamento de (v/v0)2 em função de f.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Velocidade de onda em fio tensionado por bloco submerso (empuxo modifica tensão)."
+  },
+  "fonte": {
+    "pdf": "fisica_2021_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2/ita_2021_fase2_q06.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ime_2019_fase2_qui_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \nO minério de bauxita é uma mistura de óxido de alumínio e outros compostos. Para obtenção do \nalumínio puro, inicialmente a bauxita é aquecida em um reator, juntamente com uma solução de \nhidróxido de sódio, formando hidróxido de alumínio. Após purificação e calcinação, o hidróxido gera \nóxido de alumínio, que é então dissolvido em um eletrólito inerte e eletrolisado com anodos de \ncarbono. Esses anodos reagem com o óxido, eliminando gás não tóxico. \nUma indústria tem a capacidade de processar até 9 mil toneladas de bauxita por dia e, a cada 6 kg \ndesse minério são obtidos 3,6 kg de óxido de alumínio. Atualmente, a indústria aplica à cuba \neletrolítica uma corrente de 130 MA durante 24 horas. Supondo 100% de eficiência da corrente, \ncalcule o percentual da capacidade máxima que é atualmente utilizado pela indústria.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica",
+      "Química Ambiental e Industrial"
+    ],
+    "blocos": [
+      "Química Analítica e Ambiental",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Obtenção de alumínio da bauxita — eletrólise."
+  },
+  "fonte": {
+    "pdf": "quim2019.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_qui/ime_2019_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

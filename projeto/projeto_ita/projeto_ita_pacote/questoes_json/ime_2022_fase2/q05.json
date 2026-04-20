@@ -1,0 +1,42 @@
+{
+  "id": "ime_2022_fase2_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nEm uma experiência de campo, uma fonte sonora é deixada cair de um helicóptero a velocidade\ninicial nula. Um observador situado a uma distância desprezível do ponto de impacto no solo usa\num instrumento para registrar a frequência da onda emitida pela fonte. Antes de a fonte atingir o\nsolo, a frequência medida aumenta a princípio, mas depois se torna constante dentro do limite de\nprecisão do instrumento.\nDados:\n• massa da fonte sonora: m;\n• frequência da fonte sonora: f0;\n• frequência máxima captada pelo instrumento do observador: f1;\n• velocidade local do som: vs;\n• acelerac¸ ão da gravidade: g.\nSupondo que a forc¸a de arrasto que o ar exerce sobre a fonte sonora é dada por F = cv2, no\nsentido oposto ao do movimento, em que c é uma constante a ser calculada e v é a velocidade\nescalar instantânea da fonte:\na) Determine a velocidade máxima da fonte medida pelo observador em func¸ ão dos dados listados\nacima.\nb) Determine o valor da constante c.\nc) Ao tentar exprimir a velocidade v em func¸ ão do tempo t, em que t = 0 é o instante em que a fonte\ndeixa o repouso, indique quais das cinco func¸ ões abaixo, em que k1 e k2 são constantes positivas,\nnão servem como aproximac¸ ões de v(t) por serem inconsistentes no início e na estabilizac¸ ão da\nvelocidade.\nv(t) ≈f1(t) =\nk1t\n1 + k2t\nv(t) ≈f2(t) =\nk1t2\n1 + k2t\nv(t) ≈f3(t) =\nk1\n1 + k2t\nv(t) ≈f4(t) = k1 (1 −e−t/k2)\nv(t) ≈f5(t) = k1 (1 −e−t/k2)\n1 + e−t/k2\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Fonte sonora em queda livre — efeito Doppler com aproximação ao solo."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

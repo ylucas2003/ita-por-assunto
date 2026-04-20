@@ -1,0 +1,44 @@
+{
+  "id": "ime_2020_fase2_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\nSeja o polinômio 1 —- y+y? — y' +---.— y!º + y? que pode ser escrito da seguinte forma\n\nOg + ax + ax? + asa + au! ++ agr!” + aqu?!\nonde «: =y+1 e a; são constantes reais. Calcule o valor numérico de as .",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "topicos_nomes": [
+      "Funções Algébricas"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polinômio reescrito em termos de x=y+1 — coeficientes."
+  },
+  "fonte": {
+    "pdf": "mat2020.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2_mat/ime_2020_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

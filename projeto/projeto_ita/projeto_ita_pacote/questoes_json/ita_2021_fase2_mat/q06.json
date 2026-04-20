@@ -1,0 +1,44 @@
+{
+  "id": "ita_2021_fase2_mat_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Considere z = a\n\u0000√\n3 + i\n\u0001\n∈C, onde a ∈R. Determine todos os números reais a para os quais z7\ne z13 estão à mesma distância de z no plano complexo.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Complexo: equidistância entre z^7 e z^13 a z."
+  },
+  "fonte": {
+    "pdf": "matematica_2021_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2_mat/ita_2021_fase2_mat_q06.png",
+  "usa_imagem_no_render": true
+}

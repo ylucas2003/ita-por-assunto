@@ -1,0 +1,90 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Efeito Doppler e cinemática de dois aviões.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.3",
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "MCU em plano inclinado com campo magnético; tração em fio.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "3.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Aproximação gravitacional mútua de dois corpos; velocidades de colisão.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Trabalho e eficiência metabólica; calor em maratonista.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Equilíbrio de barra articulada com cabo e carga.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.2",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Velocidade de onda em fio tensionado por bloco submerso (empuxo modifica tensão).",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "7.2",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Interferência de feixes com espelhos; MHS em espelho móvel.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Anel carregado; partícula projetada ao longo do eixo do anel; potencial elétrico.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.4",
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Espira condutora caindo em campo magnético não uniforme; indução.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.1",
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "De Broglie; elétron ultraenergético para estudar núcleo atômico.",
+    "classificado_por": "claude"
+  }
+}

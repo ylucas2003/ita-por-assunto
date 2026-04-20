@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Existe um limite inferior da distância Terra-Lua para que o nosso satélite não se desintegre\npor efeitos de maré. Para determinar uma expressão aproximada dessa distância, considere a Lua como a\ncomposição de dois semi-satélites esféricos idênticos, homogêneos e em contato. Os corpos descritos realizam\num movimento circular ao redor da Terra, cuja massa é dada por MT , com os três centros sempre colineares.\nA estabilidade da Lua é associada à tendência natural dessas duas metades manterem o contato entre si por\nefeitos gravitacionais. Considerando que o raio da lua RL é muito menor do que a distância Terra-Lua D e\nque MT é muito maior que a massa da Lua ML, faça o que se pede.\nCaso necessário, use: (1 + x)n ≈1 + nx, se |x| ≪1.\n(a) Considerando que os semi-satélites têm a mesma densidade da Lua, determine os seus raios r e massas\nm. Deixe sua resposta em termos dos dados do enunciado.\n(b) Estime o valor mínimo de D para que a Lua não se desintegre. Deixe sua resposta em termos de MT ,\nm e r.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação"
+    ],
+    "blocos": [
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Limite de Roche: estabilidade gravitacional da Lua."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,87 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Bloco sobre cunha acelerada com atrito.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Limite de Roche: estabilidade gravitacional da Lua.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "4.2",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Efeito Doppler com fonte em MHS; intervalo acústico.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "4.2",
+      "5.1",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Velocidade do som em cubo com gás ideal; pressão de coluna de fluido.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Transformação adiabática de ar ascendendo em cordilheira.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Interferômetro de Michelson; LIGO; ondas gravitacionais.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com diodo em corrente alternada; reostato.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "8.3",
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Espectrômetro de massa; desvio em campo magnético.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.4",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Haste condutora caindo em trilhos; f.e.m. induzida + força de resistência.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Efeito fotoelétrico; função trabalho a partir de potenciais de corte.",
+    "classificado_por": "claude"
+  }
+}

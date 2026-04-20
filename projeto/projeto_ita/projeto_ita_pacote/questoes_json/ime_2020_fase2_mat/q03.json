@@ -1,0 +1,44 @@
+{
+  "id": "ime_2020_fase2_mat_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\nConsidere uma progressão aritmética (PA) de números inteiros com razão p > 2, seu primeiro termo\nmaior do que 2 e seu último termo menor do que 47. Retirando-se uma determinada quantidade de\nelementos da PA, recai-se em uma PG de 3 elementos e razão q > 2. Para p e q inteiros, p diferente\nde q, determine a PA cuja soma de seus elementos seja a maior possível.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "PA com elementos retirados formando PG — otimização."
+  },
+  "fonte": {
+    "pdf": "mat2020.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2_mat/ime_2020_fase2_mat_q03.png",
+  "usa_imagem_no_render": true
+}

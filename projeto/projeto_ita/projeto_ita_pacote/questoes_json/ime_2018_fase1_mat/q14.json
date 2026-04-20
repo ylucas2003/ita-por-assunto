@@ -7,6 +7,7 @@
     "materia": "Matemática"
   },
   "numero": 14,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \nConsidere as afirmações abaixo: \nI) \nse três pontos são colineares, então eles são coplanares; \nII) se uma reta tem um ponto sobre um plano, então ela está contida nesse plano; \nIII) se quatro pontos são não coplanares, então eles determinam 6 (seis) planos; \nIV) duas retas não paralelas determinam um plano; \nV) se dois planos distintos têm um ponto em comum, então a sua interseção é uma reta. \nEntre essas afirmações:",
   "alternativas": {
     "A": "apenas uma é verdadeira;",
@@ -15,21 +16,15 @@
     "D": "apenas quatro são verdadeiras;",
     "E": "todas são verdadeiras."
   },
-  "gabarito": "B",
+  "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "4.2"
-    ],
-    "topicos_nomes": [
-      "Geometria Espacial"
-    ],
-    "blocos": [
-      "Geometria Plana e Espacial"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Afirmações sobre pontos colineares, reta em plano, coplanaridade — geometria espacial."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -39,11 +34,9 @@
   "status": {
     "texto_extraido": true,
     "alternativas_extraidas": true,
-    "figuras_recortadas": true,
-    "classificado": true,
+    "figuras_recortadas": false,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": true
-  },
-  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q14.png",
-  "usa_imagem_no_render": true
+  }
 }

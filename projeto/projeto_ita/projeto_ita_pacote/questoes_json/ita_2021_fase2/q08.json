@@ -1,0 +1,44 @@
+{
+  "id": "ita_2021_fase2_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Um anel circular de raio R e densidade li-\nnear de carga elétrica λ está localizado no plano yz com o\nseu centro na origem do sistema de coordenadas O, como\nmostra a figura. Uma partícula de massa m e carga q é\nprojetada a partir do ponto P(−\n√\n3R, 0, 0) em direção ao\nponto O, com velocidade inicial v. Qual o menor valor de\nv para que a partícula não retorne ao ponto P?\ny\nx\nz\nR\nO\nP",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Anel carregado; partícula projetada ao longo do eixo do anel; potencial elétrico."
+  },
+  "fonte": {
+    "pdf": "fisica_2021_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2/ita_2021_fase2_q08.png",
+  "usa_imagem_no_render": true
+}

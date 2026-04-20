@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_qui_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nEm um experimento específico, conduzido em atmosfera ambiente, pesquisadores analisaram o\ndecaimento de uma parte de uma série radioativa, como representado abaixo.\n... −−→227\n89X −−→227\n90J −−→223\n88L −−→219\n86Z −−→215\n84T −−→...\nConsidere as condições experimentais nas CNTP e que o tempo de meia-vida do nuclídeo Z é de\naproximadamente 4 segundos.\nDiante do exposto:\na) escreva a equação estequiométrica da série radioativa, incluindo as partículas emitidas para\ncada desintegração, de forma a estabelecer o correto balanço das cargas elétricas e dos números\nde massas nucleares;\nb) demonstre a família radioativa a que os isótopos da série pertencem;\nc) para o nuclídeo Z, calcule a vida-média e a constante de decaimento do isótopo, apresentando\nas unidades no SI.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Série radioativa — decaimento, meia-vida, equação de ²¹⁹Z."
+  },
+  "fonte": {
+    "pdf": "quim2025.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_qui/ime_2025_fase2_qui_q10.png",
+  "usa_imagem_no_render": true
+}

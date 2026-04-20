@@ -1,0 +1,47 @@
+{
+  "id": "ita_2022_fase2_qui_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Na reação conhecida como “cão que late”, uma mistura de óxido nitroso e dissulfeto de \ncarbono entra em combustão, gerando um clarão azulado e um som parecido com “woof” ou \n“uulsh”. Considerando uma combustão completa e que todo o enxofre gerado se encontra na forma \nde sólido S8: \na) escreva a equação química balanceada dessa reação. \nb) determine o valor numérico do volume de gás gerado (em litros) para cada 304 g de \ndissulfeto de carbono que reagiu de forma estequiométrica. Considere a pressão igual a \n105 Pa e a temperatura de 300 K. \nc) calcule o valor numérico da massa de enxofre sólido (em g) gerado considerando a mesma \nquantidade de dissulfeto de carbono do item (b). \n \n \n\n18",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Combustão de CS2 com N2O (\"cão que late\"); volumes e massas."
+  },
+  "fonte": {
+    "pdf": "quimica_2022_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_qui/ita_2022_fase2_qui_q05.png",
+  "usa_imagem_no_render": true
+}

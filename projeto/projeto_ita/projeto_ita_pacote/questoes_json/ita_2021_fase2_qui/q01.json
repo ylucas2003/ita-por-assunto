@@ -1,0 +1,47 @@
+{
+  "id": "ita_2021_fase2_qui_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Sejam dados os seguintes pares redox e seus respectivos potenciais padrão de eletrodo, a \n25 oC. \nSemirreação\nEo (V versus EPH) \n \nSemirreação\nEo (V versus EPH)\nMg2+ + 2e− ⇌ Mg \n−2,37 \n \n2H+ + 2e− ⇌ H2 \n0,00 \nAl3+ + 3e− ⇌ Al \n−1,66 \n \nCu2+ + 2e− ⇌ Cu \n0,34 \nCr3+ + 3e− ⇌ Cr \n−0,74 \n \nAg+ + e− ⇌ Ag \n0,80 \nFe2+ + 2e− ⇌ Fe \n−0,44 \n \nO2 + 4H+ + 4e− ⇌ 2H2O\n1,23 \nPb2+ + 2e− ⇌ Pb \n−0,13 \n \nAu3+ + 3e− ⇌ Au \n1,50 \nCom base nessas informações, responda aos itens abaixo sobre a tendência à corrosão de metais em \ndiferentes meios. \na) Apresente os elementos metálicos listados na tabela em ordem decrescente (do maior para o menor) de \ntendência à corrosão. \nb) Se esses elementos metálicos forem mergulhados em uma solução desaerada de H2SO4 a 0,5 mol⋅L−1, \nquais deles sofrerão corrosão? Justifique. \nc) Se a solução do item b) for aerada, a tendência à corrosão dos elementos metálicos será alterada? Se \nsim, quais sofrerão corrosão? Justifique. \nd) Se os elementos metálicos forem mergulhados em uma solução aquosa desaerada de NaOH a 1 mol⋅L−1, \nquais deles sofrerão corrosão? Justifique. \ne) Se a solução do item d) for substituída por uma de NaOH a 0,1 mol⋅L−1 e aerada, a tendência à \ncorrosão dos elementos metálicos será alterada? Se sim, quais sofrerão corrosão? Justifique. \nDado eventualmente necessário: log 2 = 0,3.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica",
+      "Tabela Periódica e Propriedades dos Elementos"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Pares redox e tendência à corrosão; potenciais padrão."
+  },
+  "fonte": {
+    "pdf": "quimica_2021_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2_qui/ita_2021_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
+}

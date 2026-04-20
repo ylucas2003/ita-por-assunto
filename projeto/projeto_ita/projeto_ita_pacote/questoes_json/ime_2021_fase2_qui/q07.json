@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_qui_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nEscreva a fórmula estrutural plana do produto majoritário da mononitrac¸ ão, via substituic¸ ão ele-\ntrofílica aromática, para cada reagente indicado abaixo:\na) ácido p-toluico (ácido 4-metilbenzoico);\nb) p-cresol (4-metilfenol);\nc) p-tolunitrila (4-metilbenzonitrila);\nd) m-xileno (1,3-dimetilbenzeno); e\ne) 2,6-difluoroacetanilida (N-(2,6-difluorofenil) etanamida);\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mononitração aromática — produtos majoritários."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

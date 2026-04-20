@@ -1,0 +1,50 @@
+{
+  "id": "ita_2022_fase2_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Considere um cubo de lado a, que contém n mols de um gás ideal em equilíbrio termodinâmico,\nsobre o qual é colocado um recipiente cilíndrico de altura h e raio r, completamente preenchido de um fluido\nde densidade ρ. O cilindro e o cubo são separados por uma membrana flexível. No topo do cilindro, há\numa outra membrana flexível sobre a qual é colocada um corpo de massa m. Sabendo que a velocidade de\npropagação do som é v0 a uma temperatura T0, que a pressão atmosférica vale Patm e que uma fonte sonora\ngera uma onda com frequência f no interior do cubo, determine:\n(a) a temperatura do gás no interior do cubo;\n(b) uma expressão para o comprimento de onda dessa onda no meio gasoso.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "5.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica",
+      "Hidrostática e Hidrodinâmica",
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Termodinâmica",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Velocidade do som em cubo com gás ideal; pressão de coluna de fluido."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q04.png",
+  "usa_imagem_no_render": true
+}

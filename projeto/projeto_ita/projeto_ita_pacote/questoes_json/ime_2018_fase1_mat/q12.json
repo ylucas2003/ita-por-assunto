@@ -7,6 +7,7 @@
     "materia": "Matemática"
   },
   "numero": 12,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \nUma hipérbole equilátera de eixo igual a 4, com centro na origem, eixos paralelos aos eixos coordenados \ne focos no eixo das abscissas sofre uma rotação de 450 no sentido anti-horário em torno da origem. A \nequação dessa hipérbole após a rotação é:",
   "alternativas": {
     "A": "𝑥𝑦= 2",
@@ -15,21 +16,15 @@
     "D": "𝑥𝑦= −2",
     "E": "𝑥2 −𝑦2 = −2"
   },
-  "gabarito": "A",
+  "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "4.3"
-    ],
-    "topicos_nomes": [
-      "Geometria Analítica"
-    ],
-    "blocos": [
-      "Geometria Plana e Espacial"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Hipérbole equilátera de eixo 4 com focos no eixo das abscissas — geometria analítica."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,10 +35,8 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": false
-  },
-  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_mat/ime_2018_fase1_mat_q12.png",
-  "usa_imagem_no_render": true
+  }
 }

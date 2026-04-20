@@ -1,0 +1,44 @@
+{
+  "id": "ime_2020_fase2_qui_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Um cientista prepara uma amostra de 1,1 g do isótopo C1 do carbono de extrema pureza. Esse\nisótopo é radioativo, iniciando seu decaimento após a preparação (instante inicial to = 0). Sabendo-\nse que sua meia-vida é de 21 min, calcule a massa restante de C, no instantet= 1he 31 min.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Decaimento radioativo — massa restante do isótopo C1."
+  },
+  "fonte": {
+    "pdf": "quim2020.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2_qui/ime_2020_fase2_qui_q07.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,72 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Determinante de matriz — valor de k."
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação logarítmica."
+  },
+  "q03": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "PA com elementos retirados formando PG — otimização."
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio reescrito em termos de x=y+1 — coeficientes."
+  },
+  "q05": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Lugar geométrico de ponto no plano complexo."
+  },
+  "q06": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade com pacotes de cereal e letras — cupons completos."
+  },
+  "q07": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo com relação trigonométrica — cotg de semiângulos."
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Reta com ponto fixo (3,3) interceptando eixos — lugar geométrico."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo ABC com pontos nas laterais — razão de áreas."
+  },
+  "q10": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Paralelepípedo oblíquo — volume em função de ângulo."
+  }
+}

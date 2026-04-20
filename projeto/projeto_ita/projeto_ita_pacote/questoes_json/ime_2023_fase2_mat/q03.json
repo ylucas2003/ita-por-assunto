@@ -1,0 +1,47 @@
+{
+  "id": "ime_2023_fase2_mat_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nResolva a seguinte inequação para x real:\n\f\f\f\f\f\f\f\n1\n1\n1\n2\nlog2x\n1\n4\n(log2x)2\n1\n\f\f\f\f\f\f\f\n⩽\n\f\f\f\f\f\f\f\n1\n1\n1\n1\ncolog2x\n1/2\n1\n(colog2x)2\n1/4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes",
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes",
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Inequação envolvendo determinantes com logaritmos."
+  },
+  "fonte": {
+    "pdf": "mat2023.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase2_mat/ime_2023_fase2_mat_q03.png",
+  "usa_imagem_no_render": true
+}

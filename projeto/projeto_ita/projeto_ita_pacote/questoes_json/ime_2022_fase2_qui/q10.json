@@ -1,0 +1,42 @@
+{
+  "id": "ime_2022_fase2_qui_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nEstabelec¸a a relac¸ ão entre as estruturas de cada par abaixo, identificando-as como enantiômeros,\ndiastereoisômeros, isômeros constitucionais ou representac¸ ões diferentes de um mesmo composto.\na)\nb)\nc)\nd)\ne)\n5\n\nRASCUNHO\n6\n\nRASCUNHO\n7\n\nRASCUNHO\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Fundamentos e Hidrocarbonetos"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Pares enantiômeros/diastereoisômeros/isômeros."
+  },
+  "fonte": {
+    "pdf": "quim2022.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

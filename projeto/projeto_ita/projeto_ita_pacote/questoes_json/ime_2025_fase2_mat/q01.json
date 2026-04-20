@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja i tal que i2 = −1. Considere o número complexo z = α + βi, sendo α e β números inteiros\nnão nulos. Sabendo que z3 = −9 + 46i, determine α e β.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "z³ = -9+46i — determinar α, β inteiros."
+  },
+  "fonte": {
+    "pdf": "mat2025.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_mat/ime_2025_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

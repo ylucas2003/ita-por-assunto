@@ -1,0 +1,83 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "PA e PG relacionadas; soma dos n primeiros termos da PG.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Contagem de caminhos eulerianos em grafo de 4 cidades/6 pontes.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação com módulos de logaritmos de bases distintas.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matriz 2x2 simétrica definida positiva; valores de b.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio grau 4 simétrico em torno de x=1; raízes.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Maior segmento em sólido de dois paralelepípedos.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Circunferência tangente ao eixo y passando por dois pontos.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.3",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Parábola y=4x-x²; trapézio PABV, área.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio grau 4 com raiz complexa 1+ai; quadrilátero em Argand-Gauss.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Trigonometria: tangente de soma/meia de ângulos.",
+    "classificado_por": "claude"
+  }
+}

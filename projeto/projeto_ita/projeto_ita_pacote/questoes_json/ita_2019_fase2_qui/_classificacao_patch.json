@@ -1,0 +1,90 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "4.1",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Combustão do etanol; variação de entalpia em diferentes condições.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Estequiometria e entalpia de combustão de mistura A+3B.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Condutividade molar de solução de eletrólito.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "5.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Redox: água oxigenada com permanganato e iodeto.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "1.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Classificação de óxidos (ácido, básico, anfótero).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "5.1",
+      "3.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Constante de equilíbrio a partir de potenciais padrão.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "3.3",
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "pH de solução comercial de HCl a 37%.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "1.3",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Ciclo de Born-Haber para NaCl; comparação com CaO.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.2",
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Triacilglicerídeo: transesterificação, hidrólise, nitroglicerina.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "3.2",
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Equilíbrio 2A⇌B; perturbações (catalisador, T, P, remoção).",
+    "classificado_por": "claude"
+  }
+}

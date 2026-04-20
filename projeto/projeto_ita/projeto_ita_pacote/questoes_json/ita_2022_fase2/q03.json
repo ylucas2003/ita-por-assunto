@@ -1,0 +1,46 @@
+{
+  "id": "ita_2022_fase2_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "As fontes F1 e F2 contém duas buzinas que geram ruídos de frequências próprias f1 e f2\n(f2 > f1), respectivamente. A fonte F1 mantém-se em repouso, enquanto a fonte F2 realiza um movimento\nharmônico simples de frequência fm e amplitude A ao longo da reta que une os dois corpos. Um observador\nvizinho a F1 registra um intervalo acústico entre os dois sons captados que varia de 5/4 até 3/2. Considere\no tempo de propagação do som desprezível. Com base nas informações fornecidas, determine:\n(a) o intervalo acústico entre f1 e f2;\n(b) a relação entre fm, A e a velocidade do som v0.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica",
+      "Movimento Harmônico Simples"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Efeito Doppler com fonte em MHS; intervalo acústico."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q03.png",
+  "usa_imagem_no_render": true
+}

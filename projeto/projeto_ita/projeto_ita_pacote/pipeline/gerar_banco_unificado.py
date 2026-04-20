@@ -78,19 +78,36 @@ def carregar_questoes(prova_ids: list[str]) -> list[dict]:
 SUFIXO_GAL = {"": 1, "_mat": 4, "_qui": 5}   # ITA 1st-phase gallery IDs (2022-2024)
 SUFIXO_OFF = {"": 0, "_mat": 36, "_qui": 48}  # absolute-number offset per subject
 
+# ITA 2nd-phase gallery IDs for the 2022-2023 layout (servicos.aridesa.com.br/comentario/ita/{ano})
+ITA_F2_GAL_2022_2023 = {"_mat": 6, "_qui": 7, "": 8}
+
+# ITA 2nd-phase slide offsets for 2025+ (comentarios.aridesa.com.br/ita?...&stage=2)
+# Mat Q1 at slide 1, Qui Q1 at slide 11; Fis Q1 depends on how many Qui slides were comentadas.
+ITA_F2_OFF_2025_PLUS = {
+    2025: {"_mat": 0, "_qui": 10, "": 20},
+    2026: {"_mat": 0, "_qui": 10, "": 19},
+}
+
 # IME reference_ids for comentarios.aridesa.com.br (no formula — hard-coded)
 IME_REF_IDS = {2023: 3, 2024: 2, 2025: 4}
+
+# IME 1st-phase Aridesa gallery layout (2021-2022):
+# gallery-1 = Matemática (1-15), gallery-2 = Física (16-30), gallery-3 = Química (31-40)
+IME_GAL = {"_mat": 1, "": 2, "_qui": 3}
+IME_OFF = {"_mat": 0, "": 15, "_qui": 30}
 
 
 def url_resolucao_fase1(sufixo: str, vestibular: str, ano: int, numero: int) -> str:
     """Return the Aridesa resolution URL for a 1st-phase question, or '' if unknown."""
     if vestibular == "IME":
         if ano in IME_REF_IDS:
-            return f"https://comentarios.aridesa.com.br/ime?reference_id={IME_REF_IDS[ano]}"
-        if ano == 2022:
-            return "https://servicos.aridesa.com.br/comentario/ime/2022-2023/"
-        if ano == 2021:
-            return "https://servicos.aridesa.com.br/comentario/ime/2021-2022/"
+            # 2023-2025: all 40 questions share gallery-1 (1-indexed by numero)
+            return f"https://comentarios.aridesa.com.br/ime?reference_id={IME_REF_IDS[ano]}#gallery-1-{numero}"
+        if ano in (2021, 2022):
+            gid = IME_GAL.get(sufixo, 1)
+            within = numero - IME_OFF.get(sufixo, 0)
+            slug = f"{ano}-{ano + 1}"
+            return f"https://servicos.aridesa.com.br/comentario/ime/{slug}/#gallery-{gid}-{within}"
         if ano == 2020:
             return "http://login.aridesa.com.br/vestibular/ime2020_2021/index.aspx"
         if ano == 2019:
@@ -110,6 +127,35 @@ def url_resolucao_fase1(sufixo: str, vestibular: str, ano: int, numero: int) -> 
     if ano >= 2019:
         return f"http://login.aridesa.com.br/vestibular/ita{ano}/index.aspx"
     return ""
+
+
+def url_resolucao_fase2(sufixo: str, vestibular: str, ano: int, numero: int) -> str:
+    """Return the Aridesa resolution URL for a 2nd-phase question, or '' if unknown."""
+    if vestibular != "ITA":
+        return ""
+    if ano >= 2025:
+        ref = ano - 2024
+        offsets = ITA_F2_OFF_2025_PLUS.get(ano, ITA_F2_OFF_2025_PLUS[2025])
+        slide = numero + offsets.get(sufixo, 0)
+        return f"https://comentarios.aridesa.com.br/ita?reference_id={ref}&stage=2#gallery-1-{slide}"
+    if ano == 2024:
+        # Same galleries as 1ª fase, mas Q1 da 2ª fase começa no slide 13 (offset 12)
+        gid = SUFIXO_GAL.get(sufixo, 1)
+        slide = numero + 12
+        return f"https://servicos.aridesa.com.br/comentario/ita/2024/#gallery-{gid}-{slide}"
+    if ano in (2022, 2023):
+        gid = ITA_F2_GAL_2022_2023.get(sufixo, 6)
+        return f"https://servicos.aridesa.com.br/comentario/ita/{ano}/#gallery-{gid}-{numero}"
+    if 2019 <= ano <= 2021:
+        # Sem deep-link: Aridesa usa a mesma landing page da 1ª fase
+        return f"http://login.aridesa.com.br/vestibular/ita{ano}/index.aspx"
+    return ""
+
+
+def url_resolucao(fase: int, sufixo: str, vestibular: str, ano: int, numero: int) -> str:
+    if fase == 2:
+        return url_resolucao_fase2(sufixo, vestibular, ano, numero)
+    return url_resolucao_fase1(sufixo, vestibular, ano, numero)
 
 
 def build_materia(cfg: dict) -> dict:
@@ -138,6 +184,7 @@ def build_materia(cfg: dict) -> dict:
                     "id": q.get("id", ""),
                     "vestibular": q["prova"].get("vestibular", "ITA"),
                     "ano": q["prova"]["ano"],
+                    "fase": q["prova"].get("fase", 1),
                     "numero": q.get("numero", 0),
                     "topicos_ids": q["classificacao"].get("topicos_ids", []),
                     "gabarito": q.get("gabarito", "?"),
@@ -146,7 +193,8 @@ def build_materia(cfg: dict) -> dict:
                     "enunciado_md": q.get("enunciado_md", ""),
                     "alternativas": q.get("alternativas", {}),
                     "obs": q["classificacao"].get("observacao", ""),
-                    "resolucao_url": url_resolucao_fase1(
+                    "resolucao_url": url_resolucao(
+                        q["prova"].get("fase", 1),
                         cfg["sufixo"],
                         q["prova"].get("vestibular", "ITA"),
                         q["prova"]["ano"],
@@ -170,12 +218,14 @@ def build_materia(cfg: dict) -> dict:
             })
 
     anos = sorted(set(q["prova"]["ano"] for q in classificadas))
+    fases = sorted(set(q["prova"].get("fase", 1) for q in classificadas))
     return {
         "nome": cfg["nome"],
         "cor": cfg["cor"],
         "cor_claro": cfg["cor_claro"],
         "total": len(classificadas),
         "anos": anos,
+        "fases": fases,
         "blocos": blocos,
     }
 
@@ -349,12 +399,35 @@ a { color: inherit; text-decoration: none; }
 .sb-subtopics.open { display: block; }
 
 .sb-bloco-label {
-  padding: 6px 10px 2px;
+  padding: 8px 10px;
   font-size: 10px;
   letter-spacing: 0.1em;
   color: var(--text-tertiary);
   text-transform: uppercase;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  border-radius: 3px;
+  transition: all 0.15s;
+  user-select: none;
 }
+.sb-bloco-label:hover { color: var(--ari-blue); background: var(--paper); }
+.sb-bloco-label.open { color: var(--ari-blue); }
+.sb-bloco-label.active {
+  color: var(--ari-blue);
+  background: var(--ari-blue-light);
+  font-weight: 500;
+}
+.sb-bloco-label .chev {
+  transition: transform 0.18s;
+  flex-shrink: 0;
+  opacity: 0.55;
+}
+.sb-bloco-label.open .chev { transform: rotate(180deg); opacity: 0.9; }
+.sb-bloco-subs { display: none; padding: 2px 0 6px; }
+.sb-bloco-subs.open { display: block; }
 
 .sb-subtopic {
   padding: 6px 10px;
@@ -633,6 +706,7 @@ a { color: inherit; text-decoration: none; }
       </div>
     </div>
     <div class="filter-bar" id="year-filter-bar"></div>
+    <div class="filter-bar" id="fase-filter-bar"></div>
     <div id="questoes-container"></div>
   </main>
 </div>
@@ -646,36 +720,87 @@ const DATA = JSON.parse(document.getElementById('banco-data').textContent);
 
 const state = {
   materia: DATA[0].nome,
+  expanded: DATA[0].nome,
+  openBlocos: {},
   filter: 'all',
   vestibular: 'all',
   ano: 'all',
+  fase: 'all',
 };
 
 function getM(nome) { return DATA.find(m => m.nome === nome); }
 
 // ── SIDEBAR ───────────────────────────────────────────────────────────
 
+function blocoKey(materia, bloco) { return materia + '::' + bloco; }
+
 function renderMateriaList() {
   const cont = document.getElementById('materia-list');
   cont.innerHTML = DATA.map(m => {
     const isActive = m.nome === state.materia;
-    const subtopics = isActive ? m.blocos.map(bloco =>
-      `<div class="sb-bloco-label">${bloco.nome}</div>` +
-      bloco.subareas.map(sub => {
+    const isExpanded = m.nome === state.expanded;
+    const subtopics = isExpanded ? m.blocos.map((bloco, bi) => {
+      const k = blocoKey(m.nome, bloco.nome);
+      const blocoOpen = !!state.openBlocos[k];
+      const blocoActive = isActive && state.filter === `bloco:${bloco.id}`;
+      const subs = blocoOpen ? bloco.subareas.map(sub => {
         const f = `sub:${sub.id}`;
-        return `<div class="sb-subtopic ${state.filter === f ? 'active' : ''}" onclick="setFilter('${f}')">
+        return `<div class="sb-subtopic ${state.filter === f && isActive ? 'active' : ''}" onclick="setFilter('${f}','${m.nome}')">
           <span>${sub.id} ${sub.nome}</span>
           <span class="sc">${sub.total}</span>
         </div>`;
-      }).join('')
-    ).join('') : '';
+      }).join('') : '';
+      return `
+        <div class="sb-bloco-label ${blocoOpen ? 'open' : ''} ${blocoActive ? 'active' : ''}" onclick="toggleBloco('${m.nome.replace(/'/g, "\\'")}', ${bi})">
+          <span>${bloco.nome}</span>
+          <svg class="chev" width="9" height="9" viewBox="0 0 10 10"><path d="M 2 3.5 L 5 6.5 L 8 3.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
+        <div class="sb-bloco-subs ${blocoOpen ? 'open' : ''}">${subs}</div>`;
+    }).join('') : '';
     return `
       <div class="sb-discipline ${isActive ? 'active' : ''}" onclick="setMateria('${m.nome}')">
         <span class="sb-disc-name">${m.nome}</span>
         <span class="sb-disc-count">${m.total}</span>
       </div>
-      <div class="sb-subtopics ${isActive ? 'open' : ''}">${subtopics}</div>`;
+      <div class="sb-subtopics ${isExpanded ? 'open' : ''}">${subtopics}</div>`;
   }).join('');
+}
+
+function toggleBloco(materiaNome, blocoIdx) {
+  const m = getM(materiaNome);
+  if (!m) return;
+  const bloco = m.blocos[blocoIdx];
+  if (!bloco) return;
+
+  if (state.materia !== materiaNome) {
+    state.materia = materiaNome;
+    state.expanded = materiaNome;
+  }
+
+  const k = blocoKey(materiaNome, bloco.nome);
+  const wasOpen = !!state.openBlocos[k];
+  const f = state.filter;
+  const belongsToBloco = f === `bloco:${bloco.id}` || (f.startsWith('sub:') && f.slice(4).startsWith(bloco.id + '.'));
+
+  if (wasOpen) {
+    state.openBlocos[k] = false;
+    if (belongsToBloco) {
+      state.filter = 'all';
+      state.ano = 'all';
+      state.fase = 'all';
+    }
+  } else {
+    state.openBlocos[k] = true;
+    state.filter = `bloco:${bloco.id}`;
+    state.ano = 'all';
+    state.fase = 'all';
+  }
+
+  renderMateriaList();
+  renderYearFilter();
+  renderFaseFilter();
+  renderContent();
+  document.getElementById('content').scrollTop = 0;
 }
 
 // ── YEAR FILTER ───────────────────────────────────────────────────────
@@ -692,6 +817,28 @@ function renderYearFilter() {
 function setAno(ano) {
   state.ano = ano;
   renderYearFilter();
+  renderContent();
+  document.getElementById('content').scrollTop = 0;
+}
+
+// ── FASE FILTER ───────────────────────────────────────────────────────
+
+function renderFaseFilter() {
+  const m = getM(state.materia);
+  const bar = document.getElementById('fase-filter-bar');
+  if (!m.fases || m.fases.length < 2) {
+    bar.innerHTML = '';
+    return;
+  }
+  bar.innerHTML = `
+    <span class="filter-label">fase</span>
+    <button class="chip ${state.fase === 'all' ? 'active' : ''}" onclick="setFase('all')">todas</button>
+    ${m.fases.map(f => `<button class="chip ${state.fase === f ? 'active' : ''}" onclick="setFase(${f})">${f}ª fase</button>`).join('')}`;
+}
+
+function setFase(fase) {
+  state.fase = fase;
+  renderFaseFilter();
   renderContent();
   document.getElementById('content').scrollTop = 0;
 }
@@ -743,16 +890,20 @@ function renderContent() {
   let shown = 0;
 
   for (const bloco of m.blocos) {
-    const showBloco = f === 'all' || (f.startsWith('sub:') && f.slice(4).startsWith(bloco.id + '.'));
+    const blocoFilter = `bloco:${bloco.id}`;
+    const showBloco = f === 'all'
+      || f === blocoFilter
+      || (f.startsWith('sub:') && f.slice(4).startsWith(bloco.id + '.'));
     if (!showBloco) continue;
 
     for (const sub of bloco.subareas) {
       const subFilter = `sub:${sub.id}`;
-      if (f !== 'all' && f !== subFilter) continue;
+      if (f !== 'all' && f !== subFilter && f !== blocoFilter) continue;
       let qsFilt = state.vestibular === 'all'
         ? sub.questoes
         : sub.questoes.filter(q => (q.vestibular || 'ITA') === state.vestibular);
       if (state.ano !== 'all') qsFilt = qsFilt.filter(q => q.ano === state.ano);
+      if (state.fase !== 'all') qsFilt = qsFilt.filter(q => (q.fase || 1) === state.fase);
       if (!qsFilt.length) continue;
       html += `
         <div class="topic">
@@ -777,6 +928,11 @@ function renderContent() {
   if (f === 'all') {
     titleEl.textContent = m.nome;
     metaEl.textContent = `${m.total} questões · anos: ${m.anos.join(', ')}`;
+  } else if (f.startsWith('bloco:')) {
+    const bid = f.slice(6);
+    const bloco = m.blocos.find(b => b.id === bid);
+    titleEl.textContent = bloco ? bloco.nome : m.nome;
+    metaEl.textContent = `${shown} questões`;
   } else if (f.startsWith('sub:')) {
     const sid = f.slice(4);
     const bloco = m.blocos.find(b => b.subareas.some(s => s.id === sid));
@@ -789,11 +945,19 @@ function renderContent() {
 // ── NAVIGATION ────────────────────────────────────────────────────────
 
 function setMateria(nome) {
+  if (state.materia === nome) {
+    state.expanded = (state.expanded === nome) ? null : nome;
+    renderMateriaList();
+    return;
+  }
   state.materia = nome;
+  state.expanded = nome;
   state.filter = 'all';
   state.ano = 'all';
+  state.fase = 'all';
   renderMateriaList();
   renderYearFilter();
+  renderFaseFilter();
   renderContent();
   document.getElementById('content').scrollTop = 0;
 }
@@ -807,11 +971,17 @@ function setVestibular(vest) {
   document.getElementById('content').scrollTop = 0;
 }
 
-function setFilter(f) {
+function setFilter(f, materiaNome) {
+  if (materiaNome && materiaNome !== state.materia) {
+    state.materia = materiaNome;
+    state.expanded = materiaNome;
+  }
   state.filter = f;
   state.ano = 'all';
+  state.fase = 'all';
   renderMateriaList();
   renderYearFilter();
+  renderFaseFilter();
   renderContent();
   document.getElementById('content').scrollTop = 0;
 }
@@ -824,6 +994,7 @@ document.getElementById('sb-updated').textContent = 'atualizado em __DATA_GERACA
 
 renderMateriaList();
 renderYearFilter();
+renderFaseFilter();
 renderContent();
 </script>
 </body>

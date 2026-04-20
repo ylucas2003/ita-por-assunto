@@ -1,0 +1,45 @@
+{
+  "id": "ime_2023_fase2_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nEm uma experiência de campo, um observador parado estuda o movimento de um veículo que\nse aproxima em sua direc¸ ão. De tempos em tempos, o veículo emite simultaneamente um sinal\nacústico de frequência f e um sinal luminoso. No instante t = t1, o observador detecta um sinal\nluminoso; no instante t = t1 + ∆t1, detecta o sinal acústico correspondente com uma frequência\nf1. No instante t = t2, o observador detecta outro sinal luminoso; no instante t = t2+∆t2, detecta\no sinal acústico correspondente com uma frequência f2.\nDados:\n• f = 300 Hz;\n• t1 = 0 s;\n• ∆t1 = 3 s;\n• f1 = 310 Hz;\n• t2 = 34 s;\n• ∆t2 = 1 s;\n• f2 = 320 Hz;\n• velocidade do som: 340 m/s.\nObservac¸ ão:\n• a velocidade do veículo não sofre variac¸ ões abruptas.\nPara o intervalo de tempo t1 ≤t ≤t2, determine:\na) a velocidade média do veículo;\nb) a acelerac¸ ão média do veículo.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Veículo emitindo sinais luminosos e acústicos — Doppler e cinemática."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

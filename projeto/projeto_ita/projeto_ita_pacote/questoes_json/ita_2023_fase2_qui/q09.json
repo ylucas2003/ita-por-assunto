@@ -1,0 +1,46 @@
+{
+  "id": "ita_2023_fase2_qui_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Apresente os compostos orgânicos formados a partir das reações do etanoato de metila com os \nseguintes reagentes: \nI. \nsolução aquosa de ácido clorídrico. \nII. \nsolução aquosa de hidróxido de sódio. \nIII. \namônia gasosa. \nIV. \nLi(AlH4) dissolvido em dietil éter, seguido da adição de uma solução aquosa ácida. \n \n \n \n\n22",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.3",
+      "6.2"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Etanoato de metila: hidrólise ácida/básica, amonólise, redução LiAlH4."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

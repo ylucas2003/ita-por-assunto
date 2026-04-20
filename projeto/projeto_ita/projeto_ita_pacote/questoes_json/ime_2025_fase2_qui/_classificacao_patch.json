@@ -1,0 +1,77 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "5.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Eletrólise de MCℓ₂ — identificar metal M."
+  },
+  "q02": {
+    "topicos_ids": [
+      "6.3",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "C5H11Cℓ → alceno → ozonólise → álcool terciário C."
+  },
+  "q03": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Acetato de linalila — fórmula estrutural a partir de dados."
+  },
+  "q04": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Tratamento de águas industriais — pH, decantação."
+  },
+  "q05": {
+    "topicos_ids": [
+      "4.1",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Combustão do metano — razão entre massas m1/m2."
+  },
+  "q06": {
+    "topicos_ids": [
+      "6.2",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Ácido carboxílico neutralizado com NaOH — identificar ácido."
+  },
+  "q07": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Obtenção de cobre da malaquita — termoquímica endotérmica."
+  },
+  "q08": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "confianca": "alta",
+    "observacao": "B2H6 com ligações 3c-2e — dodecaborato."
+  },
+  "q09": {
+    "topicos_ids": [
+      "3.3",
+      "7.2"
+    ],
+    "confianca": "alta",
+    "observacao": "CO₂ atmosférico com estimativa de 545 ppm — concentração aquosa."
+  },
+  "q10": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Série radioativa — decaimento, meia-vida, equação de ²¹⁹Z."
+  }
+}

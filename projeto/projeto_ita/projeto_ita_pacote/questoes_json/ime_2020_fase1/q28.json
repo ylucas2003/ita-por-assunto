@@ -39,9 +39,11 @@
   "status": {
     "texto_extraido": true,
     "alternativas_extraidas": true,
-    "figuras_recortadas": false,
+    "figuras_recortadas": true,
     "classificado": true,
     "revisado": false,
     "possivelmente_tem_figura": true
-  }
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q28.png",
+  "usa_imagem_no_render": true
 }

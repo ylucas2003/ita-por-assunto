@@ -7,6 +7,7 @@
     "materia": "Física"
   },
   "numero": 17,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \n \nUma lanterna cilíndrica muito potente possui uma lente divergente em sua extremidade. Ela projeta uma \nluz sobre um anteparo vertical. O eixo central da lanterna e o eixo principal da lente estão alinhados e \nformam um ângulo de 45º com a horizontal. A lâmpada da lanterna gera raios de luz paralelos, que \nencontram a lente divergente, formando um feixe cônico de luz na sua saída. O centro óptico da lente 𝑂 \nestá, aproximadamente, alinhado com as bordas frontais da lanterna. A distância horizontal entre o foco 𝐹 \nda lente e o anteparo é de 1 m. Sabendo disto, pode-se observar que o contorno da luz projetada pela \nlanterna no anteparo forma uma seção plana cônica. Diante do exposto, o comprimento do semieixo maior \ndo contorno dessa seção, em metros, é: \nDados: \n• \na lente é do tipo plano-côncava; \n• \na face côncava está na parte mais externa da lanterna; \n• \ndiâmetro da lanterna: 𝑑 = 10 cm; \n• \níndice de refração do meio externo (ar): 1; \n• \níndice de refração da lente: 1,5; \n• \nraio de curvatura da face côncava: 2,5 √3 cm.",
   "alternativas": {
     "A": "3√2",
@@ -18,18 +19,12 @@
   "gabarito": "D",
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "7.1"
-    ],
-    "topicos_nomes": [
-      "Óptica Geométrica"
-    ],
-    "blocos": [
-      "Óptica"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Lente divergente em lanterna projetando luz — óptica geométrica."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,7 +35,7 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": false
   },

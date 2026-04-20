@@ -1,0 +1,85 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "3.2",
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sistema linear homogêneo com solução não trivial; determinante.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matriz αA + αB + C invertível: valores de α.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação logarítmica.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.2",
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio x^4-x^3+x^2-x+1: divisão e raízes complexas.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Calcular sen(α-β) a partir de A=cos(α)+cos(β) e B=sen(α)-sen(β).",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Raio do círculo inscrito em triângulo BCD.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Pontos na elipse com ângulo 60° entre raios focais.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Cilindro equilátero com esfera inscrita; volume de água.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo: perímetro e soma de senos; lados.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Decágono: diagonais que não se interceptam.",
+    "classificado_por": "claude"
+  }
+}

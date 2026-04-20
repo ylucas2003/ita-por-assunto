@@ -1,0 +1,76 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Potências de matriz 2x2 — soma."
+  },
+  "q02": {
+    "topicos_ids": [
+      "9.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes de equação complexa — área do triângulo."
+  },
+  "q03": {
+    "topicos_ids": [
+      "2.3",
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação envolvendo determinantes com logaritmos."
+  },
+  "q04": {
+    "topicos_ids": [
+      "7.1",
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Soma On de PA — restos na divisão por 8."
+  },
+  "q05": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Série Sk — menor k para limitar diferença."
+  },
+  "q06": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Funções estritamente crescentes entre conjuntos — combinatória."
+  },
+  "q07": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Reflexão em reta — desigualdade de distâncias."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.3",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação trigonométrica envolvendo parâmetro α."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Quadrado com 4 pontos nos lados — vértices."
+  },
+  "q10": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Pirâmide triangular regular — esfera pelos ortocentros."
+  }
+}

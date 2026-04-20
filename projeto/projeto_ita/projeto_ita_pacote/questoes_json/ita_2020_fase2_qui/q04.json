@@ -1,0 +1,44 @@
+{
+  "id": "ita_2020_fase2_qui_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Uma barra de zinco foi soldada a um tubo de ferro fundido para protegê-lo contra a \ncorrosão, estando ambos enterrados no solo. Sabendo que uma corrente constante de 0,02 A escoa entre \nos dois, responda: \na) Qual é a semirreação que ocorre na superfície da barra de zinco? \nb) Como a reação descrita em (a) atua para proteger o ferro contra corrosão? \nc) Como se chama este sistema de proteção contra a corrosão? \nd) Qual deve ser a massa do metal consumida em 10 anos?",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Proteção catódica: Zn sacrificial em tubo de ferro."
+  },
+  "fonte": {
+    "pdf": "quimica_2020_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_qui/ita_2020_fase2_qui_q04.png",
+  "usa_imagem_no_render": true
+}

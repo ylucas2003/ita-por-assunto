@@ -7,6 +7,7 @@
     "materia": "Física"
   },
   "numero": 28,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \n0,05 W\nRint\nE\nfusível\ncarga\nVT\ncabos\n100 m\n+\n-\n+\n-\nfonte de tensão\n \n \n150\n650\ncorrente \n[A]\nTempo de \nabertura do fusível\n[ms]\n25\nFigura 1 \n \nFigura 2 \n \nUma fonte de tensão com tensão interna 𝐸 e resistência interna 𝑅𝑖𝑛𝑡 = 0,05 Ω, protegida por um fusível, \nalimenta uma carga por meio de dois cabos com resistência linear igual a 1 Ω/km, como mostra a Figura 1. \nA Figura 2 mostra a aproximação da reta característica de operação do fusível utilizado na fonte. \nInicialmente, a carga que consome 10 kW e opera com tensão terminal 𝑉𝑇 igual a 100 V, mas, subitamente, \num curto circuito entre os cabos que alimentam a carga faz com que o fusível se rompa, abrindo o circuito. \nSabendo-se que o tempo de abertura do fusível foi de 1,25 ms, a energia total dissipada nos cabos, em \njoules, durante o período de ocorrência do curto circuito é, aproximadamente:",
   "alternativas": {
     "A": "41",
@@ -18,18 +19,12 @@
   "gabarito": "C",
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "8.2"
-    ],
-    "topicos_nomes": [
-      "Eletrodinâmica"
-    ],
-    "blocos": [
-      "Eletromagnetismo"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Circuito com fusível, resistência interna e cabos longos — eletrodinâmica."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,7 +35,7 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": true
   },

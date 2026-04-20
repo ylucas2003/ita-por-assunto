@@ -1,0 +1,44 @@
+{
+  "id": "ime_2019_fase2_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \nSobre uma reta r são marcados três pontos distintos A, B e C, sendo que C é um ponto externo ao \nsegmento de reta 𝐴𝐵\n̅̅̅̅. Determine o lugar geométrico das interseções das retas tangentes a partir de A e B a \nqualquer circunferência tangente à reta r no ponto C. Justifique sua resposta.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tangentes a circunferências — lugar geométrico."
+  },
+  "fonte": {
+    "pdf": "mat2019.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_mat/ime_2019_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

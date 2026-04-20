@@ -1,0 +1,86 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Cinemática de bloco em plano inclinado com exposição fotográfica múltipla.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.3",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Colisão oblíqua; impulso de forças constantes.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Torricelli: jato de água por furo em reservatório.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Condução térmica estacionária em casca esférica; radiação de corpo negro.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Doppler com emissor em MCU; receptor acompanhando coordenada.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Metamaterial de índice negativo; formação de imagem em interface.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "8.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Roda com cargas em campo elétrico não uniforme; torque elétrico.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.1",
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Ar-condicionado como máquina térmica de Carnot; dissipação em resistores.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "8.3",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Barras paralelas com correntes; força magnética; mola → MHS.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Efeito fotoelétrico; função trabalho a partir da velocidade do fotoelétron.",
+    "classificado_por": "claude"
+  }
+}

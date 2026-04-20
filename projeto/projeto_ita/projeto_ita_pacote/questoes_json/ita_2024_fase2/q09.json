@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Um painel solar é um gerador elétrico capaz de converter energia luminosa em energia\nelétrica. Uma vez exposto à luz solar, processos físicos geram uma diferenc¸a de potencial elétrico\ncapaz de gerar corrente elétrica. Uma curva característica I – V de um dispositivo como esse é\nfornecida abaixo.\n10\n8\n6\n4\n2\n00\n10\n20\n30\n40\n50\nV(V)\nI(A)\nFac¸a o que se pede nos itens a seguir.\na) Obtenha a forc¸a eletromotriz do painel solar.\nb) Determine a corrente elétrica gerada pela célula solar quando seus terminais são ligados por\nresistências de 2,5 Ω, 5 Ωe 10 Ω, respectivamente. Descreva o procedimento usado para chegar à\nresposta.\nc) Fac¸a um esboc¸o do gráfico da potência elétrica P fornecida pela célula solar em func¸ ão da\ntensão V entre os terminais do gerador. Indique os pontos de potência nula e se há algum ponto de\noperac¸ ão de potência máxima.\n10",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Curva I-V de célula solar; fem e corrente em cargas resistivas."
+  },
+  "fonte": {
+    "pdf": "fisica_2024_2f.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2/ita_2024_fase2_q09.png",
+  "usa_imagem_no_render": true
+}

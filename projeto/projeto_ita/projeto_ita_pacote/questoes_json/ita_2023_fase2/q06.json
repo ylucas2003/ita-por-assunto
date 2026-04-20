@@ -1,0 +1,44 @@
+{
+  "id": "ita_2023_fase2_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Considere um metamaterial, de índice de refração n1 < 0\ne espessura d1, depositado sobre um meio de índice de refração n2 > 0.\nNesse meio, um objeto A dista d2 da interface com o metamaterial,\ncomo na figura. Considere pequeno o ângulo θ que se forma entre o raio\nóptico que vai do objeto ao observador e a normal da interface entre\no metamaterial e o ar. Nesse caso, vale a aproximação tgθ ≈senθ.\nDetermine n1 em função de n2, d1 e d2 para que a imagem final do\nobjeto se forme na interface entre o ar e o metamaterial.\nθ\nd2\nA\nn1\nn2\nd1\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Metamaterial de índice negativo; formação de imagem em interface."
+  },
+  "fonte": {
+    "pdf": "fisica_2023_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2/ita_2023_fase2_q06.png",
+  "usa_imagem_no_render": true
+}

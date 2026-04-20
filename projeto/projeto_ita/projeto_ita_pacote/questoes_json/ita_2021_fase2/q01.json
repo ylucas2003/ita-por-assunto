@@ -1,0 +1,47 @@
+{
+  "id": "ita_2021_fase2_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Dois aviões de combate, A e B, viajam a uma\nmesma altitude com velocidades constantes ⃗vA=(100 m/s)ˆi\ne ⃗vB=(200 m/s)ˆj , respectivamente.\nA figura ilustra as\nposições dos aviões no instante t=0 s, que estão separadas\npor uma distância D=100 m. Devido ao funcionamento de\nsua turbina, o avião A emite um som de frequência carac-\nterística de 1000 Hz. A velocidade do som na região onde\nse encontram os aviões é de 300 m/s.\nCom base nessas\ninformações, calcule:\n(a) a distância mínima entre os dois aviões ao longo do\nmovimento;\n(b) a frequência percebida no instante t=0 s, pelo piloto do\navião B, devido ao som da turbina do avião A.\nD\ny\nA\nx\nB\nvB\nvA\ni\nj^\n^",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Efeito Doppler e cinemática de dois aviões."
+  },
+  "fonte": {
+    "pdf": "fisica_2021_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2/ita_2021_fase2_q01.png",
+  "usa_imagem_no_render": true
+}

@@ -7,6 +7,7 @@
     "materia": "Física"
   },
   "numero": 26,
+  "dissertativa": false,
   "enunciado_md": "Valor: 0,25 \n \n \ng\nh\n \nUm cilindro de raio 𝑅 rola, sem deslizar, em velocidade angular 𝜔, sobre uma superfície plana horizontal \naté atingir uma rampa. Considerando também que o rolamento na rampa seja sem deslizamento e \nchamando de 𝑔 a aceleração da gravidade, a altura máxima, ℎ, que o eixo do cilindro alcança na rampa \nem relação à superfície plana é:",
   "alternativas": {
     "A": "𝑅+ 𝜔2𝑅2 𝑔",
@@ -18,18 +19,12 @@
   "gabarito": "A",
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [
-      "2.4"
-    ],
-    "topicos_nomes": [
-      "Energia"
-    ],
-    "blocos": [
-      "Mecânica da Partícula"
-    ],
-    "classificado_por": "claude",
-    "confianca": "alta",
-    "observacao": "Cilindro que rola sem deslizar até rampa — energia mecânica."
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": null,
+    "confianca": null,
+    "observacao": ""
   },
   "fonte": {
     "pdf": "prova2018.pdf",
@@ -40,7 +35,7 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": true,
+    "classificado": false,
     "revisado": false,
     "possivelmente_tem_figura": false
   },

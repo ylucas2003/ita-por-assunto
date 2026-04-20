@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA figura mostra o aspecto da curva da energia potencial de uma partícula em movimento unidimen-\nsional, cuja equação é dada por\nEp(x) = 2x2 −x3/3\n,\nsendo a força associada aplicada à partícula dada por\nF(x) = −4x + x2\n.\nObservação:\n• todos os valores são dados em unidades SI.\nDado o exposto:\na) determine o intervalo de posições possíveis para a partícula para que seu movimento seja osci-\nlatório;\nb) determine o supremo Esup da energia mecânica abaixo do qual a partícula possa conservar-se\nem movimento oscilatório;\nc) esboce o gráfico da velocidade em função do tempo se, num instante inicial, em x = 0, o\nsentido da velocidade da partícula é da direita para a esquerda e sua energia mecânica E é tal que\nE > Esup.\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Energia"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Energia potencial Ep(x), força F(x) — movimento oscilatório."
+  },
+  "fonte": {
+    "pdf": "fis2025.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2/ime_2025_fase2_q01.png",
+  "usa_imagem_no_render": true
+}

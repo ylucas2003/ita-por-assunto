@@ -1,0 +1,79 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.4",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes reais de trinômio com trigonométricas."
+  },
+  "q02": {
+    "topicos_ids": [
+      "2.4",
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação cúbica com raiz complexa de módulo γ."
+  },
+  "q03": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Três casas, três pessoas, sorteios — combinatória/probabilidade."
+  },
+  "q04": {
+    "topicos_ids": [
+      "9.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Raízes complexas de equação polinomial."
+  },
+  "q05": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Volume de prisma triangular — prova geométrica."
+  },
+  "q06": {
+    "topicos_ids": [
+      "3.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matrizes com funções trigonométricas — det=0."
+  },
+  "q07": {
+    "topicos_ids": [
+      "2.2",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Polinômio P(x)=x^2025-1/(x-1)^2025 — coeficiente de x^3."
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.3",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Semicircunferência com tangente e circunferência — geometria analítica."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Três pontos colineares — lugar geométrico de ponto de interseção."
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Série de complexos — valor máximo de |z|."
+  }
+}

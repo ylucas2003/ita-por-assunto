@@ -1,0 +1,78 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Pilha lítio-iodo para marca-passo — potenciais."
+  },
+  "q02": {
+    "topicos_ids": [
+      "4.2",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Dispositivos com gotejamento de HCl — cinética."
+  },
+  "q03": {
+    "topicos_ids": [
+      "6.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Dois C4H8 reagindo com HBr com e sem peróxido — adições."
+  },
+  "q04": {
+    "topicos_ids": [
+      "1.3",
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Ácido ascórbico — Lewis e hidrogênio mais ácido."
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.2",
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Compostos de elemento X — proporções mássicas e peso atômico."
+  },
+  "q06": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Iodo-131 — tempo para não ser detectado por Geiger."
+  },
+  "q07": {
+    "topicos_ids": [
+      "6.2",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Série homóloga de aldeídos — Ag⁰ precipitado, nomenclatura."
+  },
+  "q08": {
+    "topicos_ids": [
+      "2.1",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Combustão de propano + O₂ — cilindro adiabático."
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Mecanismo Lindemann — ativação/desativação e autodecomposição."
+  },
+  "q10": {
+    "topicos_ids": [
+      "2.1",
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tanque com metano+O₂ e água com corante — combustão."
+  }
+}

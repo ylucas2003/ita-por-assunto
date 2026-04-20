@@ -1,0 +1,86 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "3.1",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Foguete, escape gravitacional, conservação de energia.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "4.2",
+      "2.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Ressonância em corda oscilando; equilíbrio de braço articulado com corda homogênea.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Órbita elíptica (Kepler) + queda livre gravitacional.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Espelho côncavo, imagem de objeto puntiforme em movimento.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Refrigeração, condução térmica, eficiência de máquina térmica.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "8.3",
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Campo magnético de condutor longo, força sobre condutor móvel, equilíbrio.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito com blocos de condutividades distintas; potências dissipadas.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.2",
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Velocidade do som em gás; ondas sonoras entre ambientes com gases e temperaturas diferentes.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Efeito relativístico: placa quadrada em alta velocidade vista girada (rotação de Terrell).",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Elétron confinado em cavidade esférica; comparação com modelo de Bohr.",
+    "classificado_por": "claude"
+  }
+}

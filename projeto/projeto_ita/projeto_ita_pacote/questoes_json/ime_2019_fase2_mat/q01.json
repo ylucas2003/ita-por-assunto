@@ -1,0 +1,47 @@
+{
+  "id": "ime_2019_fase2_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \nSejam a e b raízes da equação x2 − 4x + M = 0, c e d raízes da equação x2 − 36x + N = 0. Sabendo-se \nque a, b, c e d formam uma progressão geométrica crescente, determine o valor de M + N.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.4",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Equações e Sistemas",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Raízes de equações quadráticas formando PG — equações + progressões."
+  },
+  "fonte": {
+    "pdf": "mat2019.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_mat/ime_2019_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja o tetraedro regular ABCD de aresta a e a esfera inscrita no mesmo. Considerando cada\nvértice, traça-se um plano distinto da base oposta, paralelo a esta base e tangente à esfera. Um\nnovo tetraedro é então formado a partir do vértice A e dos novos vértices definidos pela interseção\ndo novo plano traçado, paralelo à base BCD, com o tetraedro ABCD. Analogamente faz-se o\nmesmo processo para os vértices B, C e D. Em seguida, inscreve-se uma esfera em cada novo\ntetraedro criado. Repete-se o processo de forma indefinida. Calcule em função de a o volume\nocupado por todas as esferas interiores ao tetraedro ABCD.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Plana e Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tetraedro regular com esfera inscrita — nova construção."
+  },
+  "fonte": {
+    "pdf": "mat2025.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_mat/ime_2025_fase2_mat_q10.png",
+  "usa_imagem_no_render": true
+}

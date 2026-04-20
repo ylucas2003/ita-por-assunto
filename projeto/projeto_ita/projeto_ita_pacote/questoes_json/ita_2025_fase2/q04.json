@@ -1,0 +1,46 @@
+{
+  "id": "ita_2025_fase2_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Um objeto de massa m se movimenta em direc¸ ão a outro objeto de massa M\ninicialmente em repouso. Após a colisão, a velocidade dos objetos forma, respectivamente,\nângulos α e θ com a horizontal. Fac¸a o que se pede nos itens a seguir.\na) Determine as expressões para os módulos de ⃗v1 e ⃗v2 em func¸ ão de α, θ e v.\nb) Denotando a variac¸ ão relativa entre a energia cinética final e inicial do sistema por δ,\ndetermine a razão m/M em func¸ ão de θ e δ, para α = 90◦.\nc) Calcule o valor numérico da razão M/m, para θ = 30◦, α = 90◦e perda relativa de 60%\nde energia cinética depois da colisão.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.3",
+      "2.4"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Energia"
+    ],
+    "blocos": [
+      "Mecânica da Partícula"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Colisão bidimensional; conservação de momento e energia."
+  },
+  "fonte": {
+    "pdf": "fisica_2025_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2/ita_2025_fase2_q04.png",
+  "usa_imagem_no_render": true
+}

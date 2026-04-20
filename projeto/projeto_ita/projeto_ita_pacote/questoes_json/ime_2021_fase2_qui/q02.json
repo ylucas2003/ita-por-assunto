@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_qui_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma célula eletrolítica dotada de eletrodos de platina é preenchida com 1 L de uma soluc¸ ão 4 M de\nNaCl puro em água bidestilada. Em seguida, faz-se percorrer pela mesma, por 5 horas, 21 minutos\ne 40 segundos, uma corrente de 5 A, ocorrendo desprendimento de cloro e hidrogênio. Decorrido o\ntempo mencionado, a corrente é desligada e a soluc¸ ão remanescente é evaporada, obtendo-se um\nresíduo sólido. Calcule a massa do resíduo obtido.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Eletrólise de NaCl — resíduo remanescente."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

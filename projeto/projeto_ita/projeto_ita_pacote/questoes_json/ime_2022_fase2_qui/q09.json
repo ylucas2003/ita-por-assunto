@@ -1,0 +1,45 @@
+{
+  "id": "ime_2022_fase2_qui_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja a reac¸ ão genérica balanceada:\nA(g) + 2B(g) −−⇀\n↽−−C(s) + D(l)\nConsidere que: as solubilidades das espécies químicas no líquido formado são desprezíveis; os\ngases se comportam idealmente; e as propriedades termodinâmicas a 1,0 atm e 30 oC são as da-\ndas abaixo.\nA(g)\n∆Ho\nf,A(g) = −394 kJ/mol\n∆Go\nf,A(g) = −394 kJ/mol\nB(g)\n∆Ho\nf,B(g) = −47,0 kJ/mol\n∆Go\nf,B(g) = −16,0 kJ/mol\nC(s)\n∆Ho\nf,C(s) = −334 kJ/mol\n∆Go\nf,C(s) = −197 kJ/mol\nD(l)\n∆Ho\nf,D(l) = −286 kJ/mol\n∆Go\nf,D(l) = −237 kJ/mol\nDetermine para essa reac¸ ão:\na) a expressão da constante de equilíbrio com base nas concentrac¸ ões (KC);\nb) o valor da constante de equilíbrio com base nas pressões parciais (Kp), a 30 oC e 1 atm;\nc) a variac¸ ão de entalpia a 30 oC e 1 atm, estabelecendo se a reac¸ ão é exotérmica ou endotérmica;\nd) o valor da constante de equilíbrio Kp, a 13 oC e 1 atm, com base na equac¸ ão de Van’t Hoff:\nln\n\u0012Kp,1\nKp,2\n\u0013\n= −∆Ho\nR\n\u0012 1\nT1\n−1\nT2\n\u0013\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Soluções e Equilíbrio",
+      "Termoquímica e Cinética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Reação A(g)+2B(g)⇌C(s)+D(l) — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "quim2022.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

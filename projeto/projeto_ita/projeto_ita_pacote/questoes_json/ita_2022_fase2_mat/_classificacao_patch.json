@@ -1,0 +1,84 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Retângulo com lados polinomiais; perímetro determina coeficientes.",
+    "classificado_por": "claude"
+  },
+  "q02": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Complexo z com Im(z³) e Im((1+z)³) nulos.",
+    "classificado_por": "claude"
+  },
+  "q03": {
+    "topicos_ids": [
+      "3.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Matriz por recorrência; soma de todas as entradas.",
+    "classificado_por": "claude"
+  },
+  "q04": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Contagem: configurações vitoriosas no jogo da velha.",
+    "classificado_por": "claude"
+  },
+  "q05": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Equação com arccos e arcsen.",
+    "classificado_por": "claude"
+  },
+  "q06": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Geometria analítica: reta, intersecção e distância.",
+    "classificado_por": "claude"
+  },
+  "q07": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Volume de tronco de pirâmide hexagonal com ângulo diedro dado.",
+    "classificado_por": "claude"
+  },
+  "q08": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Quadrilátero inscrito em circunferência; raio via Ptolomeu/Brahmagupta.",
+    "classificado_por": "claude"
+  },
+  "q09": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Três circunferências tangentes a uma reta horizontal; interseção.",
+    "classificado_por": "claude"
+  },
+  "q10": {
+    "topicos_ids": [
+      "4.2",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Sequência de octaedros/cubos; razão l10/l1.",
+    "classificado_por": "claude"
+  }
+}

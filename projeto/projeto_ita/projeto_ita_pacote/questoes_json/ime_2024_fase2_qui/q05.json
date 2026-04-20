@@ -1,0 +1,45 @@
+{
+  "id": "ime_2024_fase2_qui_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nDe modo a estimar o peso atômico de um elemento X, um cientista do século XIX escolheu um\nprocedimento criativo. Ele preparou 4 compostos A, B, C e D contendo o elemento químico X, em\nproporc¸ ões mássicas conforme tabela abaixo. Na sequência, transferiu-os, individualmente, para\nfrascos idênticos, previamente evacuados, até que todos atingissem 1 atm de pressão, na tem-\nperatura de 525 K, na qual sabia que todos os compostos se comportariam como gases ideais.\nO cientista repetiu o experimento com nitrogênio, e pesou, então, todos os frascos, mantendo as\ncondic¸ ões de temperatura e pressão, montando a seguinte tabela.:\nGás\n% em massa de X\nMassa de gás (g)\nN2\n0,0\n2,8\nA\n97,3\n3,65\nB\n83,5\n8,5\nC\n89,1\n11,95\nD\n92,2\n15,4\nCom base nestas informac¸ ões, identifique o elemento químico X.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.2",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Gases",
+      "Tabela Periódica e Propriedades dos Elementos"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Compostos de elemento X — proporções mássicas e peso atômico."
+  },
+  "fonte": {
+    "pdf": "quim2024.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}
