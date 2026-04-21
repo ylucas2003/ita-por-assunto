@@ -306,6 +306,15 @@ function setTopTab(tab) {
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === 'tab-' + tab));
   if (tab === 'estatisticas') buildStatsUI();
   if (tab === 'lista' && typeof buildListaUI === 'function') buildListaUI();
+  if (tab === 'mensagem') {
+    const q = document.querySelector('#tab-mensagem .msg-quote');
+    if (q) {
+      q.classList.remove('animate-in');
+      // força reflow para reiniciar a transição mesmo se já estava visível
+      void q.offsetWidth;
+      requestAnimationFrame(() => q.classList.add('animate-in'));
+    }
+  }
 }
 
 window.DATA = DATA;
