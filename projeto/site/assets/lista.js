@@ -408,12 +408,12 @@ function buildListaExportHTML(opts = {}) {
   const sub = listaState.subtitulo ? `<div class="lista-subtitle">${escHtml(listaState.subtitulo)}</div>` : '';
   const styles = `
     body { font-family: Georgia, 'Times New Roman', serif; color: #1a1a1a; line-height: 1.55; max-width: 780px; margin: 0 auto; padding: 28px 36px; background: #fff; }
-    h1 { font-size: 22px; color: #14148a; margin-bottom: 4px; font-weight: 600; }
-    h2 { font-size: 15px; color: #14148a; margin: 18px 0 8px; font-weight: 600; border-bottom: 1px solid #ccc; padding-bottom: 4px; }
+    h1 { font-size: 22px; color: #0F2A5C; margin-bottom: 4px; font-weight: 600; }
+    h2 { font-size: 15px; color: #0F2A5C; margin: 18px 0 8px; font-weight: 600; border-bottom: 1px solid #ccc; padding-bottom: 4px; }
     .lista-subtitle { font-size: 12px; color: #555; margin-bottom: 18px; }
     .q-item { margin-bottom: 20px; padding-bottom: 10px; border-bottom: 0.5px dashed #ddd; page-break-inside: avoid; }
     .q-item:last-of-type { border-bottom: none; }
-    .q-header { font-size: 11px; color: #14148a; margin-bottom: 8px; letter-spacing: 0.02em; }
+    .q-header { font-size: 11px; color: #0F2A5C; margin-bottom: 8px; letter-spacing: 0.02em; }
     .q-header b { color: #000; margin-right: 4px; }
     .q-text { white-space: pre-wrap; font-size: 12px; }
     .q-alts { margin-top: 8px; font-size: 12px; }
