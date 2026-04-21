@@ -91,7 +91,6 @@ function renderYearFilter() {
   const m = getM(state.materia);
   const bar = document.getElementById('year-filter-bar');
   bar.innerHTML = `
-    <span class="filter-label">ano</span>
     <button class="chip ${state.ano === 'all' ? 'active' : ''}" onclick="setAno('all')">todos</button>
     ${m.anos.map(a => `<button class="chip ${state.ano === a ? 'active' : ''}" onclick="setAno(${a})">${a}</button>`).join('')}`;
 }
@@ -108,14 +107,18 @@ function setAno(ano) {
 function renderFaseFilter() {
   const m = getM(state.materia);
   const bar = document.getElementById('fase-filter-bar');
+  const label = document.getElementById('fase-section-label');
   if (!m.fases || m.fases.length < 2) {
     bar.innerHTML = '';
+    bar.style.display = 'none';
+    if (label) label.style.display = 'none';
     return;
   }
+  bar.style.display = '';
+  if (label) label.style.display = '';
   bar.innerHTML = `
-    <span class="filter-label">fase</span>
     <button class="chip ${state.fase === 'all' ? 'active' : ''}" onclick="setFase('all')">todas</button>
-    ${m.fases.map(f => `<button class="chip ${state.fase === f ? 'active' : ''}" onclick="setFase(${f})">${f}ª fase</button>`).join('')}`;
+    ${m.fases.map(f => `<button class="chip ${state.fase === f ? 'active' : ''}" onclick="setFase(${f})">${f}ª</button>`).join('')}`;
 }
 
 function setFase(fase) {
@@ -139,36 +142,45 @@ function renderQuestion(q, m) {
   }
   const ids = q.topicos_ids || [];
   const materiaEsc = m.nome.replace(/'/g, "\\'");
-  const topicTag = ids.length ? `<span class="q-topic-tags">${
-    ids.map((tid, i) => {
-      const nome = (m.topic_names && m.topic_names[tid]) || '';
-      const cls = i === 0 ? 'q-topic-tag primary' : 'q-topic-tag';
-      const label = nome ? `${tid} · ${nome}` : tid;
-      return `<span class="${cls}" title="${nome}" onclick="setFilter('sub:${tid}','${materiaEsc}')">${label}</span>`;
-    }).join('')
-  }</span>` : '';
+  const tags = ids.length ? ids.map((tid, i) => {
+    const nome = (m.topic_names && m.topic_names[tid]) || '';
+    const cls = i === 0 ? 'q-topic-tag primary' : 'q-topic-tag';
+    const label = nome ? `${tid} · ${nome}` : tid;
+    return `<span class="${cls}" title="${nome}" onclick="setFilter('sub:${tid}','${materiaEsc}')">${label}</span>`;
+  }).join('') : '';
   const resBtn = q.resolucao_url
     ? `<a class="q-action-btn" href="${q.resolucao_url}" target="_blank" rel="noopener">resolução ↗</a>`
-    : '';
+    : '<span class="q-action-btn disabled">sem resolução</span>';
+  const gabBtn = q.gabarito
+    ? `<button class="q-gab-btn ${vestCls}" onclick="toggleGabarito(this)" data-gab="${q.gabarito}" type="button">
+        <span class="gab-label">gabarito</span>
+        <span class="gab-letter">${q.gabarito}</span>
+      </button>`
+    : '<span class="q-gab-btn disabled">—</span>';
   const caption = q.obs
     ? `<div class="question-caption">${q.obs.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}</div>`
     : '';
   return `
     <article class="question ${vestCls}" data-vest="${vest}" data-ano="${q.ano}">
-      <div class="question-head">
-        <span class="q-inst ${vestCls}">${vest}</span>
-        <span class="q-year">${q.ano}</span>
-        <span class="q-num">Questão ${q.numero}</span>
-        ${topicTag}
-        <div class="q-spacer"></div>
-        <div class="q-answer">resp. <span class="letter">${q.gabarito}</span></div>
-        ${resBtn}
-      </div>
-      <div class="question-body">
+      <div class="question-main">
+        <div class="question-head">
+          <span class="q-inst ${vestCls}">${vest}</span>
+          <span class="q-year">${q.ano}</span>
+          <span class="q-num">Questão ${q.numero}</span>
+        </div>
         <div class="question-statement">${stmtHtml}</div>
+        ${caption}
       </div>
-      ${caption}
+      <aside class="question-side">
+        ${gabBtn}
+        ${resBtn}
+        ${tags ? `<div class="q-side-tags">${tags}</div>` : ''}
+      </aside>
     </article>`;
+}
+
+function toggleGabarito(btn) {
+  btn.classList.toggle('revealed');
 }
 
 function scopePrimary(q, scopeBlocoId, subToBloco) {
@@ -293,7 +305,10 @@ function setTopTab(tab) {
   document.querySelectorAll('.top-tab').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === 'tab-' + tab));
   if (tab === 'estatisticas') buildStatsUI();
+  if (tab === 'lista' && typeof buildListaUI === 'function') buildListaUI();
 }
+
+window.DATA = DATA;
 
 // ── ESTATÍSTICAS ──────────────────────────────────────────────────────
 
@@ -316,18 +331,26 @@ function aggregateStats(m, f) {
   const match = q => (f.vestibular === 'all' || (q.vestibular || 'ITA') === f.vestibular)
                   && (f.ano === 'all' || q.ano === f.ano)
                   && (f.fase === 'all' || (q.fase || 1) === f.fase);
+
+  // Total de questões únicas que casam com o filtro (base para %)
+  const matched = new Set();
+  for (const bloco of m.blocos) {
+    for (const sub of bloco.subareas) {
+      for (const q of sub.questoes) {
+        if (match(q)) matched.add(q.id);
+      }
+    }
+  }
+  const total = matched.size;
+
   const subs = [];
   for (const bloco of m.blocos) {
     for (const sub of bloco.subareas) {
       const count = sub.questoes.filter(match).length;
-      const noFilter = f.vestibular === 'all' && f.ano === 'all' && f.fase === 'all';
-      if (count === 0 && !noFilter) continue;
-      if (count === 0 && noFilter) continue;
-      subs.push({ id: sub.id, nome: sub.nome, count });
+      if (count === 0) continue;
+      subs.push({ id: sub.id, nome: sub.nome, count, pct: total ? (count / total) * 100 : 0 });
     }
   }
-  const total = subs.reduce((s, x) => s + x.count, 0);
-  subs.forEach(s => { s.pct = total ? (s.count / total) * 100 : 0; });
   subs.sort((a, b) => b.pct - a.pct || a.id.localeCompare(b.id));
   return { subs, total };
 }
@@ -388,6 +411,7 @@ function applyStatsData(m) {
     chart.data.labels = labels;
     chart.data.datasets[0].data = values;
     chart.$subs = subs;
+    chart.$total = total;
     chart.update();
     return;
   }
@@ -415,7 +439,7 @@ function applyStatsData(m) {
           callbacks: {
             label: c => {
               const s = c.chart.$subs[c.dataIndex];
-              return `${s.count} questões · ${s.pct.toFixed(1)}%`;
+              return `${s.count} questões · ${s.pct.toFixed(1)}% das ${c.chart.$total} totais`;
             }
           }
         }
@@ -434,6 +458,7 @@ function applyStatsData(m) {
     }
   });
   chart.$subs = subs;
+  chart.$total = total;
   statsCharts[m.nome] = chart;
 }
 
