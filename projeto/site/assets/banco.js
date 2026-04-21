@@ -341,12 +341,27 @@ function aggregateStats(m, f) {
                   && (f.ano === 'all' || q.ano === f.ano)
                   && (f.fase === 'all' || (q.fase || 1) === f.fase);
 
-  // Total de questões únicas que casam com o filtro (base para %)
+  // Questões únicas que casam com o filtro (base para %) e soma de tags (marcações)
   const matched = new Set();
+  let totalTags = 0;
+  let multiTagQ = 0;
   for (const bloco of m.blocos) {
     for (const sub of bloco.subareas) {
       for (const q of sub.questoes) {
         if (match(q)) matched.add(q.id);
+      }
+    }
+  }
+  // Contagem de tags: itera questões únicas e soma topicos_ids
+  const countedIds = new Set();
+  for (const bloco of m.blocos) {
+    for (const sub of bloco.subareas) {
+      for (const q of sub.questoes) {
+        if (!match(q) || countedIds.has(q.id)) continue;
+        countedIds.add(q.id);
+        const n = (q.topicos_ids || []).length || 1;
+        totalTags += n;
+        if (n > 1) multiTagQ++;
       }
     }
   }
@@ -361,7 +376,7 @@ function aggregateStats(m, f) {
     }
   }
   subs.sort((a, b) => b.pct - a.pct || a.id.localeCompare(b.id));
-  return { subs, total };
+  return { subs, total, totalTags, multiTagQ };
 }
 
 function renderStatsFilters(m) {
@@ -392,14 +407,17 @@ function renderStatsFilters(m) {
 function applyStatsData(m) {
   const slug = statsSlug(m.nome);
   const f = statsState[m.nome];
-  const { subs, total } = aggregateStats(m, f);
+  const { subs, total, totalTags, multiTagQ } = aggregateStats(m, f);
   const wrap = document.querySelector(`#stats-chart-wrap-${slug}`);
   const metaEl = document.getElementById('stats-meta-' + slug);
   const parts = [];
   parts.push(f.vestibular === 'all' ? 'todos os vestibulares' : f.vestibular);
   parts.push(f.ano === 'all' ? 'todos os anos' : `ano ${f.ano}`);
   parts.push(f.fase === 'all' ? 'todas as fases' : `${f.fase}ª fase`);
-  metaEl.textContent = `${total} questões · ${parts.join(' · ')}`;
+  const multiNote = multiTagQ > 0
+    ? ` · ${multiTagQ} com múltiplos assuntos (${totalTags} marcações)`
+    : '';
+  metaEl.textContent = `${total} questões · ${parts.join(' · ')}${multiNote}`;
 
   if (!subs.length) {
     if (statsCharts[m.nome]) { statsCharts[m.nome].destroy(); delete statsCharts[m.nome]; }
@@ -448,7 +466,7 @@ function applyStatsData(m) {
           callbacks: {
             label: c => {
               const s = c.chart.$subs[c.dataIndex];
-              return `${s.count} questões · ${s.pct.toFixed(1)}% das ${c.chart.$total} totais`;
+              return `${s.count} questões · aparece em ${s.pct.toFixed(1)}% das ${c.chart.$total}`;
             }
           }
         }
