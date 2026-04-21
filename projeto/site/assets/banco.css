@@ -1556,21 +1556,26 @@ select:focus-visible,
   .lista-title-row h1 { font-size: 24px; }
   .msg-wrap {
     grid-template-columns: 1fr;
-    grid-template-rows: auto auto auto;
+    grid-template-rows: auto;
+    grid-auto-rows: auto;
     gap: 32px;
     padding: 32px 20px;
     text-align: center;
   }
-  .msg-col, .msg-col-left, .msg-col-right {
+  .msg-col, .msg-col-left, .msg-col-right, .msg-photo {
     grid-column: 1;
     grid-row: auto;
-    max-width: none;
     justify-self: center;
+  }
+  .msg-col, .msg-col-left, .msg-col-right {
+    max-width: none;
     align-self: auto;
     align-items: center;
   }
-  .msg-col-right { order: -1; }
-  .msg-photo { height: min(55vh, 680px); }
+  .msg-photo {
+    width: min(100%, 360px);
+    height: auto;
+  }
   .msg-quote {
     border-left: none;
     border-top: 3px solid var(--navy-800);
