@@ -512,7 +512,130 @@ function buildStatsUI() {
       </section>`;
   }).join('');
   DATA.forEach(m => { renderStatsFilters(m); applyStatsData(m); });
+  buildHistoricoSection();
   wrap.dataset.built = '1';
+}
+
+// ── HISTÓRICO POR ASSUNTO ────────────────────────────────────────────
+
+const historicoState = {
+  materia: 'Física',
+  subId: '2.1',
+};
+let historicoChart = null;
+
+function getSubById(m, subId) {
+  for (const b of m.blocos) {
+    for (const s of b.subareas) if (s.id === subId) return s;
+  }
+  return null;
+}
+
+function buildHistoricoSection() {
+  const wrap = document.getElementById('stats-wrap');
+  const section = document.createElement('section');
+  section.className = 'stats-section';
+  section.id = 'historico-section';
+  section.innerHTML = `
+    <div class="stats-head">
+      <h2>Histórico por assunto</h2>
+      <div class="stats-meta" id="historico-meta"></div>
+    </div>
+    <div class="stats-filters">
+      <div class="filter-bar" id="historico-materia-bar"></div>
+      <div class="filter-bar historico-sub-row">
+        <span class="filter-label">assunto</span>
+        <select id="historico-sub-select" class="historico-select" onchange="setHistoricoSub(this.value)"></select>
+      </div>
+    </div>
+    <div class="stats-chart-wrap" id="historico-chart-wrap">
+      <canvas id="historico-chart"></canvas>
+    </div>
+  `;
+  wrap.appendChild(section);
+  renderHistoricoSelectors();
+  applyHistoricoChart();
+}
+
+function renderHistoricoSelectors() {
+  const bar = document.getElementById('historico-materia-bar');
+  bar.innerHTML = `<span class="filter-label">matéria</span>` + DATA.map(m => {
+    const esc = m.nome.replace(/'/g, "\\'");
+    const active = historicoState.materia === m.nome ? ' active' : '';
+    return `<button class="chip${active}" onclick="setHistoricoMateria('${esc}')">${m.nome}</button>`;
+  }).join('');
+
+  const m = getM(historicoState.materia);
+  const sel = document.getElementById('historico-sub-select');
+  const curSub = getSubById(m, historicoState.subId);
+  if (!curSub) historicoState.subId = m.blocos[0]?.subareas[0]?.id || '';
+  sel.innerHTML = m.blocos.map(b =>
+    `<optgroup label="${b.id} · ${b.nome}">` +
+    b.subareas.map(s => `<option value="${s.id}"${s.id === historicoState.subId ? ' selected' : ''}>${s.id} ${s.nome}</option>`).join('') +
+    `</optgroup>`
+  ).join('');
+}
+
+function applyHistoricoChart() {
+  const m = getM(historicoState.materia);
+  const sub = getSubById(m, historicoState.subId);
+  if (!sub) return;
+  const anos = m.anos;
+  const ita = anos.map(a => sub.questoes.filter(q => q.ano === a && (q.vestibular || 'ITA') === 'ITA').length);
+  const ime = anos.map(a => sub.questoes.filter(q => q.ano === a && q.vestibular === 'IME').length);
+  const ambos = anos.map((_, i) => ita[i] + ime[i]);
+
+  const totalITA = ita.reduce((s, n) => s + n, 0);
+  const totalIME = ime.reduce((s, n) => s + n, 0);
+  document.getElementById('historico-meta').textContent =
+    `${sub.id} · ${sub.nome} · ${totalITA + totalIME} questões (ITA ${totalITA} · IME ${totalIME})`;
+
+  const canvas = document.getElementById('historico-chart');
+  if (historicoChart) {
+    historicoChart.data.labels = anos;
+    historicoChart.data.datasets[0].data = ita;
+    historicoChart.data.datasets[1].data = ime;
+    historicoChart.data.datasets[2].data = ambos;
+    historicoChart.update();
+    return;
+  }
+  historicoChart = new Chart(canvas, {
+    type: 'line',
+    data: {
+      labels: anos,
+      datasets: [
+        { label: 'ITA', data: ita, borderColor: '#14148a', backgroundColor: 'rgba(20,20,138,0.08)', tension: 0.35, fill: false, borderWidth: 2.5, pointRadius: 4, pointHoverRadius: 6, pointBackgroundColor: '#14148a' },
+        { label: 'IME', data: ime, borderColor: '#8b1d8b', backgroundColor: 'rgba(139,29,139,0.08)', tension: 0.35, fill: false, borderWidth: 2.5, pointRadius: 4, pointHoverRadius: 6, pointBackgroundColor: '#8b1d8b' },
+        { label: 'ITA + IME', data: ambos, borderColor: '#e85d04', backgroundColor: 'rgba(232,93,4,0.1)', tension: 0.35, fill: false, borderWidth: 2.5, pointRadius: 4, pointHoverRadius: 6, pointBackgroundColor: '#e85d04', borderDash: [6, 4] },
+      ],
+    },
+    options: {
+      maintainAspectRatio: false,
+      responsive: true,
+      animation: { duration: 280 },
+      plugins: {
+        legend: { position: 'top', align: 'end', labels: { boxWidth: 18, boxHeight: 2, font: { size: 12 }, color: '#5f5e5a', padding: 14 } },
+        tooltip: { mode: 'index', intersect: false },
+      },
+      interaction: { mode: 'index', intersect: false },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { size: 11 }, color: '#888780' } },
+        y: { beginAtZero: true, ticks: { precision: 0, font: { size: 11 }, color: '#888780' }, grid: { color: 'rgba(0,0,0,0.05)' } },
+      },
+    },
+  });
+}
+
+function setHistoricoMateria(nome) {
+  historicoState.materia = nome;
+  const m = getM(nome);
+  historicoState.subId = m.blocos[0]?.subareas[0]?.id || '';
+  renderHistoricoSelectors();
+  applyHistoricoChart();
+}
+function setHistoricoSub(id) {
+  historicoState.subId = id;
+  applyHistoricoChart();
 }
 
 function setStatsFilter(materiaNome, key, value) {
