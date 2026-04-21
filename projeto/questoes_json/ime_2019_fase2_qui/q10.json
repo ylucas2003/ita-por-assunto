@@ -1,0 +1,47 @@
+{
+  "id": "ime_2019_fase2_qui_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \nEm um experimento em laboratório, tomaram-se duas amostras de 0,177 g de um composto de \nfórmula CaHbOcNd. Uma das amostras foi completamente consumida por combustão, gerando 0,264 g \nde CO2 e 0,135 g de vapor de água. A outra reagiu totalmente com compostos não nitrogenados, \ngerando amônia como único produto nitrogenado, a qual necessitou de 3 cm3 de uma solução \n0,5 mol/L de ácido sulfúrico para sua completa neutralização. Determine a fórmula empírica do \ncomposto. \n \n \n \n \n \n \n \n \n \n \n \n\nRASCUNHO\n7\n\nRASCUNHO\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Fundamentos e Hidrocarbonetos"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "CaHbOcNd: combustão gera CO₂ e H₂O; N→NH₃ neutralizada por H₂SO₄: fórmula empírica — estequiometria + química orgânica."
+  },
+  "fonte": {
+    "pdf": "quim2019.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_qui/ime_2019_fase2_qui_q10.png",
+  "usa_imagem_no_render": true
+}

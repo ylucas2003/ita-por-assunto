@@ -1,0 +1,47 @@
+{
+  "id": "ita_2022_fase2_qui_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Um novo método para potabilização da água residual em espaçonaves emprega íons de \nprata como agente bactericida. Considere os dados de produto de solubilidade de alguns sais \napresentados na Tabela 1 e o limite máximo permitido de íons nos padrões de qualidade da água \npotável disposto na Tabela 2. \nTabela 1. Dados de constantes de \nsolubilidade. \nSal \nKps \nAgCl(s) \n1,21 × 10−10 \nAgBr(s) \n4,90 × 10−13 \nAgI(s) \n1,00 × 10−16 \nNaCl(s) \n37,3 \nNaBr(s) \n127 \nNaI(s) \n151 \nHgCl2(s) \n8,10 × 10−2 \nHgBr2(s) \n6,20 × 10−20 \nHgI2(s) \n3,20 × 10−29 \n \nTabela 2. Limite máximo permitido nos padrões de \nqualidade da água potável. \nEspécie \nMáximo nível permitido (mg∙L−1) \nCloretos\n1000 \nBrometos\n4,0 \nIodetos\n0,018 \nPrata\n0,090 \nSódio\n20 \nMercúrio\n0,002 \n \nSabe-se que concentrações de íons de prata acima de dez partes por bilhão (>10 ppb) são \nsuficientes para prevenir o crescimento de bactérias, algas e outros microorganismos. A estratégia \ndo método consiste em assegurar uma concentração fixa de Ag+ na água potável por meio da \nsaturação da solução com um sal de prata moderadamente solúvel. Com base nessas informações, \nresponda: \na) Dentre os sais de prata apresentados na Tabela 1, indique qual(is) poderia(m) ser \nempregado(s) no método de potabilização da água e calcule a concentração em ppb de \nAg+na solução resultante. \nb) Dentre os sais de prata que não poderiam ser usados no item (a) e considerando o limite \nmáximo permitido nos padrões de qualidade da água potável, indique aquele(s) sal(is) que \npoderia(m) ser empregado(s), juntamente com NaCl ou HgCl2, para ajustar a concentração \ntotal de Ag+ para 10,8 ppb. Determine o valor numérico da concentração final de Na+ ou \nHg2+ em cada situação. \n \n \n\n17",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.3",
+      "12.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio de Solubilidade",
+      "Química Ambiental e Industrial"
+    ],
+    "blocos": [
+      "Química Analítica e Ambiental",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bactericida Ag⁺ em água de espaçonave: Kps de halogenetos de Ag, Na, Hg vs limites de potabilidade — solubilidade + química ambiental."
+  },
+  "fonte": {
+    "pdf": "quimica_2022_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_qui/ita_2022_fase2_qui_q04.png",
+  "usa_imagem_no_render": true
+}

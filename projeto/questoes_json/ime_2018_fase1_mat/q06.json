@@ -1,0 +1,48 @@
+{
+  "id": "ime_2018_fase1_mat_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \nSeja 𝑧 um número complexo tal que z12 ∈ℝ, 𝑅𝑒(𝑧) = 1 e arg (z) ∈(0,\nπ\n2). A soma dos inversos dos possíveis \nvalores de |𝑧| está no intervalo:",
+  "alternativas": {
+    "A": "( 1 2 , 3 2)",
+    "B": "( 3 2 , 5 2)",
+    "C": "( 5 2 , 7 2)",
+    "D": "( 7 2 , 9 2)",
+    "E": "( 9 2 , 11 2 ) 3"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "z complexo: z¹² ∈ ℝ, Re(z)=1, arg(z)∈(0,π/2): soma dos inversos dos |z| possíveis — complexos."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

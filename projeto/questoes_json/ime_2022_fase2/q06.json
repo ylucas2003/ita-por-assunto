@@ -1,0 +1,45 @@
+{
+  "id": "ime_2022_fase2_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA figura acima mostra dois caminhos 1 e 2. As partes iniciais de ambos são horizontais e lisas,\nsendo que, nos dois casos, os blocos A e B partem a mesma velocidade de uma mesma posic¸ ão\nde referência.\nNo instante t1, o bloco A comec¸a a subir uma rampa lisa, lanc¸ando-se ao final da mesma. Nesse\nmesmo instante t1, o bloco B passa a percorrer um trecho rugoso de comprimento igual ao da base\nda rampa. Após esse trecho, o caminho 2 volta a ser liso.\nDados:\n• velocidade escalar inicial dos blocos: v = 8 m/s;\n• acelerac¸ ão da gravidade: 10 m/s2.\nConsiderando que, imediatamente após o lanc¸amento do bloco A da rampa, as velocidades hori-\nzontais dos blocos são as mesmas e que o bloco B já passou o trecho rugoso, determine:\na) o coeficiente de atrito do trecho rugoso do caminho 2;\nb) a distância horizontal entre os blocos imediatamente após o lanc¸amento do bloco A;\nc) o tempo total que o bloco A leva desde o início da subida da rampa até atingir o solo horizontal\napós o lanc¸amento.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Energia",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Energia",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Blocos A (sobe rampa + lançamento) e B (trecho rugoso + liso): comparação dos movimentos — energia + dinâmica (atrito)."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

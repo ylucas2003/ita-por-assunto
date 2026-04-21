@@ -1,0 +1,52 @@
+{
+  "id": "ita_2024_fase1_mat_q41",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 41,
+  "enunciado_md": "Considere o conjunto C = {1; 2; 3; 4; 5}. Para cada escolha possível de\na0, a1, a2, a3, a4 ∈C, dois a dois distintos, formamos o polinômio\na0 + a1x + a2x2 + a3x3 + a4x4:\nA soma das raízes, contadas com multiplicidade, de todos os polinômios formados nesse\nprocesso é igual a:",
+  "alternativas": {
+    "A": "−17125 4 .",
+    "B": "−1800.",
+    "C": "−360.",
+    "D": "−351 2 .",
+    "E": "−101 4 ."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios",
+      "Análise Combinatória"
+    ],
+    "blocos": [
+      "Polinômios",
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polinômios a₀+a₁x+...+a₄x⁴ com coef em permutação de {1,...,5}: soma das raízes — Girard aplicado a todas as permutações."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_mat/ita_2024_fase1_mat_q41.png",
+  "usa_imagem_no_render": true
+}

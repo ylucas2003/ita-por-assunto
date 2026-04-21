@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_mat_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Considere a função f : R →R definida por f(x) = x6 −10x4 −4x3 + 25x2 + 20x + 28.\na) Determine dois números reais α e β de modo que f possa ser reescrita como f(x) = (x3 −5x + α)2 + β.\nb) Determine o valor mínimo de f.\nc) Determine o(s) ponto(s) x ∈R onde f assume seu valor mínimo.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Funções Algébricas",
+      "Polinômios"
+    ],
+    "blocos": [
+      "Polinômios",
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "f(x)=x⁶-10x⁴-4x³+25x²+20x+28 reescrita como (x³-5x+α)²+β: identificação polinomial + mínimo."
+  },
+  "fonte": {
+    "pdf": "matematica_2020_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_mat/ita_2020_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_mat_q54",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 54,
+  "enunciado_md": "Considere as seguintes afirmações:\nI. Sejam π1, π2 e π3 três planos distintos, e secantes dois a dois segundo as retas distintas r, s e t. Se\nr ∩s ̸= ∅então r ∩s ∩t ̸= ∅.\nII. As projeções ortogonais de duas retas paralelas r e s sobre um plano π são duas retas paralelas.\nIII. Para quaisquer retas r, s e t reversas duas a duas, existe uma reta u paralela à r e concorrente com s\ne com t.\nÉ(são) VERDADEIRA(S)",
+  "alternativas": {
+    "A": "apenas I.",
+    "B": "apenas II.",
+    "C": "apenas I e II.",
+    "D": "apenas I e III.",
+    "E": "nenhuma."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Afirmações sobre retas e planos no espaço: incidência, projeções ortogonais e retas reversas — geometria de posição."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q54.png",
+  "usa_imagem_no_render": true
+}

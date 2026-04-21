@@ -1,0 +1,44 @@
+{
+  "id": "ime_2020_fase2_mat_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\nSuponha que cada pacote do cereal CROK contenha um cupom com uma das letras da palavra\nCROK. Um consumidor que tenha todas as letras desse cereal ganha um pacote. Considere que\ntodas as letras tenham a mesma probabilidade de aparecer no pacote. Determine a probabilidade\nde que um consumidor que comprou 10 pacotes desse cereal ganhe pelo menos um pacote.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cupom CROK em cada pacote; 10 pacotes: P(ganhar pelo menos 1 pacote, i.e. ter C,R,O,K) — probabilidade."
+  },
+  "fonte": {
+    "pdf": "mat2020.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2_mat/ime_2020_fase2_mat_q06.png",
+  "usa_imagem_no_render": true
+}

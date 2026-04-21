@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_qui_q34",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 34,
+  "enunciado_md": "Valor: 0,25\nConsidere a representac¸ ão esquemática dos nuclídeos abaixo:\nA\nZD\nA1\nZ1E\nZ2G\nA\nA2\nZ J\nZ3L\nA3\nSabe-se que:\nA −Z = N\nA1 −Z1 = N1\nA −Z2 = N2\nA2 −Z = N1\nA3 −Z3 = N\nÉ possível afirmar que",
+  "alternativas": {
+    "A": "D e G são isótonos.",
+    "B": "L e D são isótopos.",
+    "C": "G e L são isótopos.",
+    "D": "E e J são isótonos.",
+    "E": "D e G são isótopos. 17"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Nuclídeos D,E,G,J,L: relações A-Z vs N; isótopos/isótonos — estrutura atômica."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_qui/ime_2020_fase1_qui_q34.png",
+  "usa_imagem_no_render": true
+}

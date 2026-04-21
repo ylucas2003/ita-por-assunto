@@ -1,0 +1,47 @@
+{
+  "id": "ime_2022_fase2_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSejam os números complexos z1, z2, . . . , zn tais que suas partes reais e imaginárias formam, res-\npectivamente, uma progressão aritmética e uma progressão geométrica crescentes de números\nreais e de mesma razão. Sabe-se que z1 = 2 + 5i e z4 = m(i4m + 5i4m+1) onde m ∈Z∗\n+ e i2 = −1.\nConsidere Sn = 1\n5\nn\nX\nk=1\nzk e An = 2\n5\nn\nX\nk=1\nk.\nCalcule o valor de P =Sn −An\ni\n+ 1 em função de n.\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Complexos zₖ com Re em PA e Im em PG (mesma razão): z₁=2+5i, z₄ dado; Sₙ, Aₙ: P=(Sₙ-Aₙ)/i + 1 — complexos + PA/PG."
+  },
+  "fonte": {
+    "pdf": "mat2022.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase2_mat/ime_2022_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ime_2021_fase1_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "enunciado_md": "Valor: 0,25\nConsidere o quadrado de lado L apresentado na Figura A. Ao aplicar uma determinada operação\nde corte, obtem-se a Figura B e repetindo a operação, em cada quadrado remanescente, obtem-\nse a Figura C. Qual será a área remanescente, a partir da quadrado da Figura A, ao final de 10\noperações?",
+  "alternativas": {
+    "A": "59L2 99",
+    "B": "510L2 910",
+    "C": "511L2 911",
+    "D": "\u0012910 −510 910 \u0013 L2",
+    "E": "\u0012510 −910 910 \u0013 L2 4"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Operação iterativa de corte num quadrado L (A→B→C): área remanescente após 10 operações — PG + geometria plana."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q09.png",
+  "usa_imagem_no_render": true
+}

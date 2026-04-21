@@ -1,0 +1,50 @@
+{
+  "id": "ime_2018_fase1_q23",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 23,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \n \nConsidere as seguintes grandezas e suas dimensionais: \nCalor específico – [𝑐] \nCoeficiente de dilatação térmica – [𝛼] \nConstante eletrostática – [𝑘] \nPermeabilidade magnética – [𝜇] \nA alternativa que expressa uma grandeza adimensional é:",
+  "alternativas": {
+    "A": "[𝑐][𝛼]−1[𝑘][𝜇]",
+    "B": "[𝑐][𝛼]−1[𝑘]−1[𝜇]",
+    "C": "[𝑐][𝛼]−1[𝑘][𝜇]−1",
+    "D": "[𝑐][𝛼]−2[𝑘][𝜇]−2",
+    "E": "[𝑐][𝛼]−2[𝑘]−1[𝜇]−2"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Fundamentos"
+    ],
+    "blocos": [
+      "Fundamentos e Ferramentas Matemáticas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Análise dimensional com [c], [α], [k], [μ]: combinação adimensional — fundamentos."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 12,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1/ime_2018_fase1_q23.png",
+  "usa_imagem_no_render": true
+}

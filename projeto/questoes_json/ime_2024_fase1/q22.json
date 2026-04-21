@@ -1,0 +1,46 @@
+{
+  "id": "ime_2024_fase1_q22",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 22,
+  "enunciado_md": "Valor: 0,25\nNa figura, é apresentado um canhão oscilando preso ao teto por duas molas e disparando continu-\namente elétrons numa região sujeita a um campo magnético constante.\nDados:\n• constante elástica de cada mola: k;\n• amplitude de oscilação do canhão / par de molas: A;\n• direção de oscilação do canhão / par de molas: y;\n• vetor campo magnético: (˘B,0,0);\n• velocidade relativa de disparo dos elétrons em relação ao canhão: (˘v,0,0);\n• massa do elétron: m;\n• massa do canhão: M;\n• carga do elétron: ˘e.\nObservações:\n• o canhão oscila no plano xy;\n• a velocidade inicial de um elétron disparado é obtida ao se somarem vetorialmente os efeitos da\noscilação e do canhão parado;\n• despreze o efeito gravitacional no movimento dos elétrons;\n• m << M;\n• despreze as interações elétricas entre os elétrons.\nNas condições acima, a maior coordenada z que algum elétron pode alcançar é:\na)\nmA\nr\n2kA2\nM + v2\neB\nb)\nm\nr\nkA2\nM + v2\neB\nc)\nmA\nr\n2 k\nM\neB\nd)\nmA\nr k\nM\neB\ne)\n2mA\nr\n2 k\nM\neB\n11",
+  "alternativas": {},
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Movimento Harmônico Simples",
+      "Magnetismo"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Canhão oscilando em molas (k,A) disparando elétrons + B=(B,0,0): análise do movimento — MHS + magnetismo."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q22.png",
+  "usa_imagem_no_render": true
+}

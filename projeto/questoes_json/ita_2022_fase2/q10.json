@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Uma placa metálica é iluminada com radiação de diferentes comprimentos de onda a fim de\ncoletar fotoelétrons. Os elétrons emitidos são desacelerados por uma diferença de potencial, e os potenciais\nde corte para os quais a corrente elétrica deixa de ser detectada para cada comprimento de onda isolado são\napresentados na tabela a seguir.\nλ (˚A)\nVc (V)\n250\n37\n150\n70\n110\n100\n50\n235\nFaça o que se pede nos itens a seguir.\n(a) Determine, em eV, a função trabalho da placa metálica.\n(b) Em seguida, foi utilizada uma lâmpada de hidrogênio para iluminar a mesma placa metálica. Determine\nde quais saltos quânticos dos elétrons do átomo de H é possível obter radiação capaz de emitir fotoelétrons\nda placa metálica considerada.\n11",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "14.1"
+    ],
+    "topicos_nomes": [
+      "Física Quântica"
+    ],
+    "blocos": [
+      "Física Moderna"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Efeito fotoelétrico: tabela Vc×λ para determinar função trabalho da placa e constante de Planck."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q10.png",
+  "usa_imagem_no_render": true
+}

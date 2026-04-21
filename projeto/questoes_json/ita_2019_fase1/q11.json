@@ -1,0 +1,53 @@
+{
+  "id": "ita_2019_fase1_q11",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 11,
+  "enunciado_md": "Dentro de uma câmara de vácuo encontra-se um o filamento NF aquecido por meio de uma fonte\nelétrica externa de d.d.p. Vi. À radiação emitida por F atinge o eletrodo metálico E, que passa a emitir\nelétrons que podem ser coletados no eletrodo [%, acarretando a corrente 1 medida num amperímetro. Uma\nsegunda fonte externa, de d.d.p. V>, é conectada ao circuito conforme ilustrado na figura. Um obstáculo O\nimpede que £» receba radiação do filamento F. Analise as seguintes afirmações:\nI. A corrente 7 aumenta sempre que Vo aumenta e tende a um valor assintótico Lmar-\nII. Toda a radiação que incide em E, pode causar ejeção de elétrons.\nII. Para certo valor Vo < 0, é possível obter uma corrente 1 invertida em relação ao sentido mostrado na\nfigura.\nA A , - V,\nIV. E possível ter 120 para Vo =0 com T dependente de Vi. - l\nEstão corretas E, E,",
+  "alternativas": {
+    "A": "todas as afirmações.",
+    "D": "apenaslle IV. tuo Dm 0 a",
+    "B": "apenas 1, Ile HI.",
+    "C": "apenaslelV.",
+    "E": "apenas 1, Ie IV. T"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "14.1",
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Física Quântica",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletrodinâmica",
+      "Física Moderna"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Efeito fotoelétrico em câmara de vácuo com circuito DC controlando emissão/coleta."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao": "imagens/ita_2019_fase1/ita_2019_fase1_q11.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1/ita_2019_fase1_q11.png"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2023_fase2_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Feixes de luz de comprimentos de onda 590 nm, 450 nm e 380 nm incidem sobre uma superfície\nmetálica. Com um aparato experimental, são medidas as velocidades dos fotoelétrons ejetados.\nSabendo que a maior velocidade detectada foi de 640 km/s, faça o que se pede:\na) determine a função trabalho do material;\nb) determine a frequência de corte;\nc) justifique se é possível que um elétron livre absorva um fóton, tal como ocorre no efeito fotoelétrico em\num material. Um elétron livre é um elétron sem interações com outros corpos, além do referido fóton.\n11",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "14.1"
+    ],
+    "topicos_nomes": [
+      "Física Quântica"
+    ],
+    "blocos": [
+      "Física Moderna"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Efeito fotoelétrico com 3 λ: função trabalho, frequência de corte e discussão sobre absorção por elétron livre."
+  },
+  "fonte": {
+    "pdf": "fisica_2023_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2/ita_2023_fase2_q10.png",
+  "usa_imagem_no_render": true
+}

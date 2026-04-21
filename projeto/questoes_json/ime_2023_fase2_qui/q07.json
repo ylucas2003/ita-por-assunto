@@ -1,0 +1,36 @@
+{
+  "id": "ime_2023_fase2_qui_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma soluc¸ ão de 222 g de cloreto de cálcio e 342 g de sacarose em 2 L de água destilada apre-\nsenta pressão osmótica idêntica à de uma soluc¸ ão de ureia em igual volume de água destilada, de\nconcentrac¸ ão 3 mol/L, estando ambas diluídas e nas mesmas condic¸ ões de temperatura e pressão.\nCom relac¸ ão às informac¸ ões apresentadas:\na) calcule a temperatura de ebulic¸ ão da primeira soluc¸ ão;\nb) determine o grau de dissociac¸ ão do cloreto de cálcio.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

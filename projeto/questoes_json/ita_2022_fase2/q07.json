@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Considere o circuito ilustrado abaixo com uma fonte de corrente alternada senoidal de 60 Hz\ne tensão de pico de 120 V , um diodo ideal sujeito a uma diferença de potencial Vd, dois resistores, cujas\nresistências elétricas valem 50Ωe 100Ω, e um reostato de resistência variável R. Um diodo é um dispositivo\neletrônico que permite a passagem de corrente em apenas um sentido (Vd > 0).\nR\n120 V\n+\n100 W\n50 W\nVd\n_\nFaça o que se pede nos itens a seguir.\n(a) Descreva e esboce o gráfico da corrente i(t) que atravessa o reostato quando este está configurado para\noferecer uma resistência elétrica de R = 25Ω.\n(b) Determine o valor de R que proporciona uma transferência máxima de potência da fonte alternada ao\nreostato.\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Circuito AC com diodo ideal e reostato: retificação de meia-onda, corrente i(t) e análise do circuito em função de R."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q07.png",
+  "usa_imagem_no_render": true
+}

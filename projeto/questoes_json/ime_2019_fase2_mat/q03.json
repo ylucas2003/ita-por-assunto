@@ -1,0 +1,44 @@
+{
+  "id": "ime_2019_fase2_mat_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \nOs modelos de placas de identificação de automóveis adotadas no Brasil estão sendo atualizados. \nAtualmente, o modelo antigo ABC1234 (três letras seguidas de quatro algarismos) está sendo \ngradativamente substituído pelo modelo novo ABC1D23 (três letras seguidas de um algarismo, uma \nletra e dois algarismos). \nPlacas de modelos distintos podem apresentar sequências de caracteres alfanuméricos iguais. Por \nexemplo, a sequência de caracteres “20” aparece nas combinações IME2020 e BRA5P20, enquanto a \nsequência “A12” aparece nas combinações BRA1234 e IME4A12. \nConsidere a placa do modelo antigo IME2019. Seja P o conjunto de placas do modelo novo que podem \nser formadas com alguma sequência de três caracteres em comum com a placa IME2019. Determine o \nnúmero de elementos de P. \nPor exemplo, IME4A12 e BRA5E20 pertencem ao conjunto P. IMP5E19 não pertence ao conjunto P. \n Obs: considere o alfabeto com 26 letras.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Análise Combinatória"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Placas antigas (ABC1234) vs novas (ABC1D23): sequências de caracteres comuns — análise combinatória."
+  },
+  "fonte": {
+    "pdf": "mat2019.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_mat/ime_2019_fase2_mat_q03.png",
+  "usa_imagem_no_render": true
+}

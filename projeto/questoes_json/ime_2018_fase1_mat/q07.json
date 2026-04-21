@@ -1,0 +1,51 @@
+{
+  "id": "ime_2018_fase1_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \n \nDefinimos a função 𝑓: ℕ⟶ℕ da seguinte forma: \n{\n \n \n𝑓(0) = 0\n𝑓(1) = 1\n𝑓(2𝑛) = 𝑓(𝑛),\n𝑛≥1\n𝑓(2𝑛+ 1) = 𝑛2, 𝑛≥1\n \nDefinimos a função 𝑔: ℕ⟶ℕ da seguinte forma: 𝑔(𝑛) = 𝑓(𝑛)𝑓(𝑛+ 1). \nPodemos afirmar que:",
+  "alternativas": {
+    "A": "g é uma função sobrejetora.",
+    "B": "g é uma função injetora.",
+    "C": "f é uma função sobrejetora.",
+    "D": "f é uma função injetora.",
+    "E": "g(2018) tem mais do que 4 divisores positivos."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Funções Reais",
+      "Conjuntos e Lógica"
+    ],
+    "blocos": [
+      "Álgebra e Funções",
+      "Conjuntos e Lógica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Função recursiva f:ℕ→ℕ com f(2n)=f(n), f(2n+1)=n²; g(n)=f(n)f(n+1): propriedades — funções + lógica."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

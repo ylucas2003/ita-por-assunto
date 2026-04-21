@@ -1,0 +1,46 @@
+{
+  "id": "ime_2024_fase1_q18",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 18,
+  "enunciado_md": "Valor: 0,25\nNa Figura 1, é apresentado um manômetro de Hg, graduado em cm, que aprisiona uma certa massa\nde gás ideal em equilíbrio. Adiciona-se uma nova quantidade de Hg pela extremidade aberta do\nmanômetro e, após o novo equilíbrio, obtém-se a configuração da Figura 2.\nSabendo que a temperatura ambiente se manteve constante, desprezando-se qualquer vazamento\nde gás e sendo 70 cmHg a pressão atmosférica, o valor da graduação x, em cm, é:\na) 30\nb) 15\nc) 42\nd) 21\ne) 10",
+  "alternativas": {},
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Manômetro de Hg com gás ideal + adição de Hg pela extremidade aberta: graduação x — gases ideais + hidrostática."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q18.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ita_2022_fase2_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "O LIGO é um observatório de ondas gravitacionais baseado em interferômetros de Michelson-\nMorley. Considere um interferômetro no qual um feixe LASER monocromático de 300 nm é dividido em\ndois feixes que percorrem dois caminhos ópticos de 4,0 km. Quando uma onda gravitacional atravessa esse\nsistema com velocidade c, o espaço-tempo é perturbado. Esse efeito pode ser aproximado como movimentos\nharmônicos simples do espelho 1 e do espelho 2 ao longo dos caminhos ópticos de seus respectivos feixes\nincidentes. Enquanto um comprimento de um braço do interferômetro contrai, o outro se dilata na mesma\namplitude. Durante a passagem da onda gravitacional, o sinal medido no detector, originalmente igual a I0,\npassa a descrever um comportamento como o representado no gráfico abaixo.\n0,0\n0,2\n0,4\n0,6\n0,8\n1,0\n3I0/4\nI0\nTempo (s)\nIntensidade\n0\nFaça o que se pede nos itens a seguir.\n(a) Determine o comprimento de onda da onda gravitacional detectada.\n(b) Qual a máxima variação do comprimento de cada braço do interferômetro?\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Física",
+      "Movimento Harmônico Simples"
+    ],
+    "blocos": [
+      "Óptica",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "LIGO / interferômetro de Michelson com espelhos em MHS (perturbação gravitacional): interferência óptica modulada por oscilação harmônica."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q06.png",
+  "usa_imagem_no_render": true
+}

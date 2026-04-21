@@ -1,0 +1,52 @@
+{
+  "id": "ime_2020_fase1_q22",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 22,
+  "enunciado_md": "Valor: 0,25\nUm projetil de massa m é disparado com velocidade v contra dois blocos A e B, de massas\nMA = 800m e MB = 199m, que estão inicialmente em repouso, um sobre o outro, conforme\nmostra a figura. O projetil atinge o bloco A, fazendo o conjunto se movimentar de uma distância d,\nda posic¸ ão O até a posic¸ ão D. Considerando g a acelerac¸ ão da gravidade local, o coeficiente de\natrito estático mínimo µe entre os blocos, de modo que o bloco B não deslize sobre o bloco A, é:",
+  "alternativas": {
+    "A": "v2 2.106gd",
+    "B": "v 2.106gd",
+    "C": "v2 106gd",
+    "D": "v 3.106gd",
+    "E": "v2 3.106gd 10"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Energia"
+    ],
+    "blocos": [
+      "Dinâmica",
+      "Energia"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Projétil m em blocos A (800m) e B (199m) sobrepostos, distância d: μ_e mínimo para B não deslizar — dinâmica (atrito) + energia/colisão."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q22.png",
+  "usa_imagem_no_render": true
+}

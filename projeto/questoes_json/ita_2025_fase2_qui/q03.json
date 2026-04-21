@@ -1,0 +1,47 @@
+{
+  "id": "ita_2025_fase2_qui_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Considere um experimento no qual o fundo de um balão de pescoço de cisne \n(B) foi posicionado sobre um suporte de aquecimento (A), enquanto seu pescoço se \nencontrava apoiado em um reservatório aberto (R), que, por sua vez, havia sido colocado \nsobre uma mesa de suporte (S). \n \n \n \nA seguir, uma certa quantidade de mercúrio foi colocada no balão (B) e no reservatório (R), \ne uma campânula (C) foi colocada no reservatório (R), conforme a figura. Um dado volume \nde ar foi confinado dentro da campânula (C) e no balão (B). O experimento se iniciou com \no aquecimento do mercúrio contido no balão (B), sendo mantido em temperatura elevada \npor um longo período. Depois desse período, o aquecimento foi interrompido e, em seguida, \nobservou-se o sistema. \n \nCom base nessas informações, responda se ocorreram as seguintes observações no \nsistema, justificando sucintamente a sua resposta: \n \na) transformações químicas no mercúrio contido no balão (B); \nb) transformações químicas no mercúrio contido sob a campânula (C); \nc) mudança no nível do mercúrio contido no balão (B); \nd) mudança no nível do mercúrio contido na campânula (C). \n \n \n \n \n \n \n \n \n \n \n \n\n \n6 \nQUÍMICA \n________________________________________________________________________",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.2",
+      "1.5"
+    ],
+    "topicos_nomes": [
+      "Gases",
+      "Reações Inorgânicas"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Balão de pescoço de cisne com Hg e ar confinado (experimento histórico análogo): leis dos gases + observação qualitativa — gases + reações inorgânicas."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

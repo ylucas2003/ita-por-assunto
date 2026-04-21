@@ -1,0 +1,47 @@
+{
+  "id": "ita_2024_fase2_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Um observatório analisa a frequência de uma emissão eletromagnética, de frequência\nnatural fe, proveniente de duas estrelas que formam um sistema binário com órbitas circulares. O\ngráfico obtido está representado na figura.\nCom base nesse gráfico, estime:\na) a distância que separa as duas estrelas em metros;\nb) a massa de cada uma das estrelas em quilogramas.\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "14.2"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Relatividade Restrita"
+    ],
+    "blocos": [
+      "Gravitação",
+      "Física Moderna"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema binário de estrelas: gráfico de frequência observada via efeito Doppler de luz + 3ª Lei de Kepler — distância e massa das estrelas."
+  },
+  "fonte": {
+    "pdf": "fisica_2024_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2/ita_2024_fase2_q06.png",
+  "usa_imagem_no_render": true
+}

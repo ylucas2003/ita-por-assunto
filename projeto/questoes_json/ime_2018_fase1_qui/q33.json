@@ -1,0 +1,52 @@
+{
+  "id": "ime_2018_fase1_qui_q33",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 33,
+  "enunciado_md": "Valor: 0,25 \nConsidere as reações abaixo: \n H2(g) + ½ O2(g) → H2O(l) (I) \n H2(g) + ½ O2(g) → H2O(g) (II) \nAssinale a alternativa correta.",
+  "alternativas": {
+    "A": "O decréscimo de entropia é menor na reação (I) do que na reação (II).",
+    "B": "O acréscimo de entropia na reação (I) é maior do que na reação (II).",
+    "C": "O decréscimo de entropia é menor na reação (II) do que na reação (I).",
+    "D": "O acréscimo de entropia na reação (II) é maior do que na reação (I).",
+    "E": "A variação de entropia é igual em ambas as reações."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica Física",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Termoquímica",
+      "Termodinâmica Física"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "H₂+½O₂→H₂O(l) vs H₂O(g): variação de entropia — termodinâmica + termoquímica."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_qui/ime_2018_fase1_qui_q33.png",
+  "usa_imagem_no_render": true
+}

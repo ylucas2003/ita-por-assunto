@@ -1,0 +1,44 @@
+{
+  "id": "ime_2023_fase2_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nDado um plano π e uma reta r nele contida, sejam A e B pertencentes a π dois pontos em um\nmesmo semiplano definido por r. O ponto A′ é o simétrico a A em relação à reta r. Os segmentos\nde reta AA′ e A′B interceptam a reta r nos pontos C e M, respectivamente. Se N é um ponto da\nreta r distinto de M, prove que\nAM + MB < AN + NB",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A,B em um semiplano; A' simétrico de A em r; M=A'B∩r: provar AM+MB < AN+NB para N≠M em r — geometria plana (reflexão/desigualdade triangular)."
+  },
+  "fonte": {
+    "pdf": "mat2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase2_mat/ime_2023_fase2_mat_q07.png",
+  "usa_imagem_no_render": true
+}

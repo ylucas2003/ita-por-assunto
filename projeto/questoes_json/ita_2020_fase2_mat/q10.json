@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_mat_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Considere uma pirâmide reta P cuja base é um hexágono regular de lado l. As faces laterais\ndessa pirâmide formam um ângulo diedro de 75◦com a base da própria pirâmide. Sabendo que P está\ninscrita em uma esfera, determine o raio dessa esfera.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria",
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Pirâmide reta com base hexagonal, faces laterais com diedro 75°, inscrita em esfera: determinar raio — geometria espacial + trigonometria."
+  },
+  "fonte": {
+    "pdf": "matematica_2020_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_mat/ita_2020_fase2_mat_q10.png",
+  "usa_imagem_no_render": true
+}

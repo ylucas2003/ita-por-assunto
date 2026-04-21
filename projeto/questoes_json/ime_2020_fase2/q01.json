@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase2_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\nÉ\n\n| x\n| x\n| x\n| x\n[x\n\nHá diversos meios de se medir a intensidade de um campo magnético. Usando-se uma balança de\ndois braços, com pratos P, e P,, é possível fazer essa medição. A figura mostra um retângulo JXKLM\nsuspenso por um dos pratos de uma balança, o qual é constituído de um número n de espiras\nsuperpostas. Cada uma das espiras é percorrida por uma corrente 2, cujo sentido inicial é mostrado\nna figura. A parte inferior das espiras está inserida numa região de campo magnético B. Seo\nsentido da corrente for invertido, verifica-se a necessidade de colocar uma carga extra, de massa\nm, no prato da balança em que as espiras estão suspensas, para restaurar o equilíbrio do sistema.\nConsiderando g a aceleração da gravidade local, determine a intensidade de z.\n\nDados:\n* q=9,8m/s?;\nn = 100 espiras;\n1=0,014A;\na = 5,00 cm; e\nm = 10,0 q.\n\ncno1p 400\n20 O\nchoz, 409\ncho3s, 200\n10 O\nchog, 200\nchos, 100\n5 O\ncno6, 100\n300 V\nUm circuito é composto por uma fonte de tensão constante que alimenta resistores por intermédio\nde seis chaves. As chaves estão inicialmente abertas e mudam de estado sequencialmente nas\nfaixas de tempo da tabela até concluir um ciclo completo:\nE\n[DO | Chosabreechõsicha\n[DO | chosieha\nObservações:\n* as chaves são ideais;\n* todas as faixas possuem a mesma duração;\n* o ciclo se repete 10 vezes por minuto;\n* a mudança de estado das chaves acontece sempre, instantaneamente, no início de cada faixa\nde tempo; e\n* todas as chaves são abertas instantaneamente no final da faixa de tempo 10.\nDiante do exposto, pede-se:\na) a energia fornecida pela fonte, em joules, em 10 minutos;\nb) a curva de potência (Watt) em função do tempo (segundo), fornecida pela fonte durante um ciclo\ncompleto; e\nc) uma alternativa de configuração do circuito que, com chaves permanentemente fechadas, im-\nplica em um consumo de energia desde t = O até t = 10 min igual ao consumo obtido no item\na).\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Magnetismo",
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Estática e Equilíbrio",
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Balança de dois braços com espiras retangulares percorridas por corrente em campo B: medição de B — magnetismo (força sobre corrente) + estática (equilíbrio)."
+  },
+  "fonte": {
+    "pdf": "fis2020.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2/ime_2020_fase2_q01.png",
+  "usa_imagem_no_render": true
+}

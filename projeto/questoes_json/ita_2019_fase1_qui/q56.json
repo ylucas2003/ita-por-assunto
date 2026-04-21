@@ -1,0 +1,51 @@
+{
+  "id": "ita_2019_fase1_qui_q56",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 56,
+  "enunciado_md": "Considere as configurações eletrônicas do estado fundamental dos átomos X, Y e Z \npertencentes ao segundo período da tabela periódica: \nX: ns2np3 \n \nY: ns2np4 \n \nZ: ns2np5 \nCom base nas estruturas de Lewis, sejam feitas as seguintes afirmações sobre íons e moléculas formados por \nesses átomos: \nI. \nA ordem das energias de ligação das moléculas diatômicas homonucleares é X2 > Y2 > Z2. \nII. \nO cátion XY+ tem maior distância interatômica de equilíbrio do que o ânion XY−. \nIII. \nAs moléculas triatômicas YZ2 e Y3 têm geometria angular. \nIV. \nAs moléculas X2Y2 e Y2Z2 apresentam ligações duplas. \nDas afirmações acima, estão CORRETAS apenas",
+  "alternativas": {
+    "A": "I e III.",
+    "C": "II e III.",
+    "E": "II e IV.",
+    "B": "I e IV.",
+    "D": "II, III e IV."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.3",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Ligações Químicas",
+      "Tabela Periódica e Propriedades dos Elementos"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Configurações ns²np³, ns²np⁴, ns²np⁵ do 2º período (N,O,F): estruturas de Lewis, energias de ligação e distâncias interatômicas — ligações químicas."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q56.png",
+  "usa_imagem_no_render": true
+}

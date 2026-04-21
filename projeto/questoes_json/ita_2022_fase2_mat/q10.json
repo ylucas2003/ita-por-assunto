@@ -1,0 +1,47 @@
+{
+  "id": "ita_2022_fase2_mat_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Considere um octaedro regular de aresta de comprimento l1. Inscreva nesse octaedro um cubo\ncujos vértices estão nos baricentros das faces do octaedro. Dentro desse cubo inscreva um novo octaedro\nregular de aresta de comprimento l2 cujos vértices estão nos centros das faces do cubo. Continue com esse\nprocesso obtendo uma sequência li para i ∈N. Determine então o valor da razão l10/l1.\n11",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Octaedro→cubo (baricentros)→octaedro (centros): razão l₁₀/l₁ — sequência geométrica recursiva em geometria espacial."
+  },
+  "fonte": {
+    "pdf": "matematica_2022_2f.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_mat/ita_2022_fase2_mat_q10.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_qui_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere a reac¸ ão entre acetato de etila e hidróxido de sódio em meio aquoso como sendo irre-\nversível. Uma forma simples de estudar a cinética dessa reac¸ ão é acompanhar, com o uso de um\ncondutivímetro, a condutividade do meio reacional, dada pelo inverso da resistividade e geralmente\ndenotada por Ψ, em S.cm-1. Tal condutividade é relacionada, quantitativamente, à concentrac¸ ão das\nespécies iônicas, Na+, OH- e acetato, em soluc¸ ão, cujas condutividades molares, em S.L.(cm.mol)-1,\nserão denotadas aqui, respectivamente, por λN, λ0 e λA. A condutividade de um meio é dada, por-\ntanto, pela soma dos produtos entre a concentrac¸ ão de cada espécie iônica e sua correspondente\ncondutividade.\nFoi preparada uma mistura contendo, inicialmente, C0 mol.L-1 de hidróxido de sódio e acetato de\netila em ligeiro excesso. Determine uma expressão para a concentrac¸ ão do íon acetato em func¸ ão\nde Ψ, λN, λ0, λA e C0.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "11.5"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Cinética Química",
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Saponificação acetato de etila + NaOH; condutividade molar monitora cinética — cinética + reações orgânicas."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

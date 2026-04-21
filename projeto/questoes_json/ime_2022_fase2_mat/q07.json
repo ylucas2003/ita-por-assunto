@@ -1,0 +1,44 @@
+{
+  "id": "ime_2022_fase2_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja um triângulo acutângulo IME conforme a figura abaixo tal que IH = IO, onde H e O são\nrespectivamente seus ortocentro e circuncentro, interiores ao triângulo e não pertecentes aos lados.\nCalcule o ângulo \\\nHEO, sabendo que os ângulos [\nEIH = 2[\nHIO.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "△IME acutângulo com IH=IO (ortocentro e circuncentro), ∠EIH=2∠HIO: ∠HEO — geometria plana."
+  },
+  "fonte": {
+    "pdf": "mat2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase2_mat/ime_2022_fase2_mat_q07.png",
+  "usa_imagem_no_render": true
+}

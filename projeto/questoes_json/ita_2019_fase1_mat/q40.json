@@ -1,0 +1,49 @@
+{
+  "id": "ita_2019_fase1_mat_q40",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 40,
+  "enunciado_md": "A superfície lateral de um cone circular reto corresponde a um setor circular de 216◦, quando\nplanificada. Se a geratriz do cone mede 10 cm, então a medida de sua altura, em cm, é igual a",
+  "alternativas": {
+    "A": "5.",
+    "B": "6.",
+    "C": "7.",
+    "D": "8.",
+    "E": "9."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cone reto cuja superfície lateral planificada é setor de 216° com geratriz 10 cm: obter altura a partir do raio da base."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q40.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_q26",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 26,
+  "enunciado_md": "Valor: 0,25\nUm objeto de formato cúbico, com aresta de comprimento L e de massa específica µobj, encontra-\nse apoiado no fundo do mar, devendo ser içado por meio de um balão de borracha de massa mb,\nque apresenta volume interno V de ar ajustável. A figura ilustra a situação descrita, com o centro\ndo balão posicionado a 10 m de profundidade. O volume V do balão, em m3, relaciona-se com\na diferença de pressão ∆p, em atm, entre a pressão interna e a externa do balão pela seguinte\nequação:\n∆p = 1,4V 2 −1,2V + 1,8\npara 1≤V ≤3.\nDados:\n• massa do balão: mb = 50 kg;\n• massa do cabo: mc = 100 kg;\n• comprimento da aresta do objeto cúbico: L = 1 m;\n• aceleração da gravidade: g = 10 m/s²;\n• massa específica do objeto: µobj = 2850 kg/m3;\n• massa específica da água: µagua = 1000 kg/m3; e\n• 1 atm = 105 Pa.\nObservações:\n• o ar acima da superfície da água encontra-se a 1 atm de pressão;\n• desconsidere o volume do cabo e a massa do ar internamente ao balão; e\n• para efeito do cálculo da pressão hidrostática sobre o balão, considere que todo o volume V\nesteja posicionado na mesma profundidade de seu centro.\nA pressão interna mínima do balão, em atm, a partir da qual será iniciado o movimento do objeto é:",
+  "alternativas": {
+    "A": "3,0",
+    "B": "4,2",
+    "C": "5,5",
+    "D": "7,0",
+    "E": "8,5 15"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cubo L no fundo do mar içado por balão de borracha, Δp=1,4V, centro a 10 m: volume — hidrostática (empuxo + pressão)."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1/ime_2021_fase1_q26.png",
+  "usa_imagem_no_render": true
+}

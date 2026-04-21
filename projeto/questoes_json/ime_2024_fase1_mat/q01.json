@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "enunciado_md": "Valor: 0,25\nNúmeros palíndromos na base b são números cuja representação nesta base é simétrica, ou seja,\nse os seus algarismos forem lidos de trás para frente obtém-se o mesmo número. A quantidade de\nnúmeros naturais positivos menores ou iguais a (377)8 que são palíndromos na base dois é",
+  "alternativas": {
+    "A": "16",
+    "B": "26",
+    "C": "30",
+    "D": "31",
+    "E": "32 Observação: Considere que todo número não nulo na base 2 começa por 1."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Aritmética"
+    ],
+    "blocos": [
+      "Aritmética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Palíndromos em base 2 ≤ (377)8 — aritmética (bases)."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_mat/ime_2024_fase1_mat_q01.png",
+  "usa_imagem_no_render": true
+}

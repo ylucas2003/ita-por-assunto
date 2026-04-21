@@ -1,0 +1,52 @@
+{
+  "id": "ime_2022_fase1_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "enunciado_md": "Valor: 0,25\nConsidere um ponto P cujas coordenadas (x,y), x,y ∈R, satisfazem o sistema\n(\n4 cossec(α)x −6 cotg(α)y\n= 4 sen(α)\n12 cossec(α)y −8 cotg(α)x\n= 0\nonde α é um ângulo em radianos diferente de kπ\n(k ∈Z). O lugar geométrico descrito pelos\npontos P , conforme se varia o ângulo α, é um segmento de:",
+  "alternativas": {
+    "A": "reta horizontal.",
+    "B": "reta vertical.",
+    "C": "reta inclinada.",
+    "D": "elipse.",
+    "E": "parábola. 4"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Geometria Analítica",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema com cossec(α), cotg(α): LG de P conforme varia α — geometria analítica + trig."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q10.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ime_2022_fase2_qui_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma soluc¸ ão de Na2SO4 com concentrac¸ ão 1,0×10−3 mol/L contém, como trac¸ador, o radioisótopo\n35\n16S, cujo tempo de meia vida é igual a 88 dias.\nUma amostra de 10 mL dessa soluc¸ ão pro-\nduz 4,0×104 contagens por minuto em um detector de radiac¸ ão.\nUm volume igual de soluc¸ ão\nde Pb(NO3)2 com concentrac¸ ão 2,0×10−4 mol/L é adicionado à soluc¸ ão de Na2SO4, ocasionando\nprecipitac¸ ão de PbSO4.\nCalcule o número de contagens por minuto para uma alíquota de 10 mL retirada da soluc¸ ão após a\nprecipitac¸ ão.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

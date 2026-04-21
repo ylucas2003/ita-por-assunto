@@ -1,0 +1,52 @@
+{
+  "id": "ita_2020_fase1_mat_q42",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 42,
+  "enunciado_md": "Sejam a, b e c números reais, a ̸= 0, tais que a2 + b2 = c2. Se a, b e c formam, nessa ordem,\numa progressão geométrica de razão k, então o produto P e a soma S de todos os possíveis valores para k\nsão iguais a",
+  "alternativas": {
+    "A": "P = 1 e S = 0.",
+    "B": "P = −1 e S = 1.",
+    "C": "P = −1 e S = −1.",
+    "D": "P = −(1 + √ 5) 2 e S = 0.",
+    "E": "P = (1 + √ 5)2 4 e S = 0."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1",
+      "3.4"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões",
+      "Sistemas e Outras Equações"
+    ],
+    "blocos": [
+      "Álgebra e Funções",
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "a²+b²=c² com (a,b,c) em PG de razão k: equação em k (1+k²=k⁴) — soma e produto das raízes."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q42.png",
+  "usa_imagem_no_render": true
+}

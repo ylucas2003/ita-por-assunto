@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_mat_q41",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 41,
+  "enunciado_md": "Assinale a opção que identifica o lugar geométrico de todos os pares ordenados (a, b) ∈R2 que\ntornam impossível o sistema linear\nS :\n\n\n\n−x + 5y = 10\n\u0012a2\n5 + 5b2\n\u0013\nx + 10aby = 1 .",
+  "alternativas": {
+    "A": "Uma elipse",
+    "B": "Uma reta",
+    "C": "Uma parábola",
+    "D": "Uma hipérbole",
+    "E": "Um único ponto 15"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.2",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Sistemas Lineares",
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica",
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema linear impossível em x,y com parâmetros (a,b): lugar geométrico de (a,b) — discussão de sistema + classificação da cônica."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q41.png",
+  "usa_imagem_no_render": true
+}

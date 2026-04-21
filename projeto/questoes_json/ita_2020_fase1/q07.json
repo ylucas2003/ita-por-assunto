@@ -1,0 +1,54 @@
+{
+  "id": "ita_2020_fase1_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "enunciado_md": "A figura ilustra um experimento numa plataforma que, no referencial de um observador\nexterno, se move com velocidade v constante de módulo comparável ao da velocidade da luz. No instante to,\na fonte F emite um pulso de luz de comprimento de onda À que incide sobre a placa metálica A, sendo por\nela absorvido e, em consequência, emitindo elétrons, que são desacelerados pela diferença de potencial V4p.\nConsiderando que os elétrons atingem a placa B a partir do instante t, assinale a alternativa que referencia\napenas variações independentes que diminuem o intervalo de tempo At = t — to medido pelo observador.",
+  "alternativas": {
+    "A": "Aumento de À, aumento de V4p, diminuição de v. ; |",
+    "B": "Diminuição de À, diminuição de Vap, diminuição de v. 1 Ly B Da A",
+    "C": "Diminuição de À, aumento de V4p, diminuição de v. / Ay Z D;",
+    "D": "Diminuição de À, diminuição de Vap, aumento de v. “A",
+    "E": "Aumento de À, aumento de V4p, aumento de v. Observador"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "14.2",
+      "14.1",
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Relatividade Restrita",
+      "Física Quântica",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletrodinâmica",
+      "Física Moderna"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Plataforma relativística com efeito fotoelétrico em circuito: Doppler relativístico em λ + cinética do fotoelétron + d.d.p. V_AB."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q07.png",
+  "usa_imagem_no_render": true
+}

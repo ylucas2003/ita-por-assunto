@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Uma prancha retangular de espessura\nuniforme, 5,0 m de comprimento, 1,5 g/cm3 de densi-\ndade e 10 kg de massa homogeneamente distribuída,\né parcialmente submersa na piscina ilustrada na fi-\ngura, em cuja parede (lisa) se apoia, formando um\nângulo de 30◦com o piso horizontal, cujo coeficiente\nde atrito com a prancha é 0,6\n√\n3. Determine para\nquais alturas y do nível de água a prancha perma-\nnece em equilíbrio estático nessa posição.\nbla bla bla bla bla bla bla bla bla bla bla bla bla bla\nbla bla bla bla bla bla bla bla bla bla bla bla bla bla\nbla bla\n30o\ny\nNível da água\ng",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Estática e Equilíbrio",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Prancha parcialmente submersa apoiada em parede lisa com atrito no piso: empuxo + equilíbrio de corpo rígido com atrito."
+  },
+  "fonte": {
+    "pdf": "fisica_2020_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2/ita_2020_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

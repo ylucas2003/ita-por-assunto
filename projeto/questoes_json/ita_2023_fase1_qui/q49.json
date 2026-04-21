@@ -1,0 +1,52 @@
+{
+  "id": "ita_2023_fase1_qui_q49",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 49,
+  "enunciado_md": "Em uma titulação, 100 mL de uma solução de um ácido monoprótico fraco, cuja constante \nde ionização é igual a 10−9, são neutralizados com 25 mL de uma solução 0,5 mol L−1 de hidróxido de \nsódio. \nAssinale a opção que apresenta o pH no ponto de equivalência da titulação.",
+  "alternativas": {
+    "A": "9,0.",
+    "B": "9,5.",
+    "C": "10,0.",
+    "D": "10,5.",
+    "E": "11,0. 19"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.2",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Iônico (Ácido-Base)",
+      "Soluções"
+    ],
+    "blocos": [
+      "Soluções",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Titulação ácido monoprótico fraco (Ka=10⁻⁹, 100 mL) com NaOH 0,5 mol/L (25 mL): pH no ponto de equivalência — hidrólise do sal formado."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_qui/ita_2023_fase1_qui_q49.png",
+  "usa_imagem_no_render": true
+}

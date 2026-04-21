@@ -1,0 +1,53 @@
+{
+  "id": "ita_2023_fase1_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 8,
+  "enunciado_md": "Considere um filtro polarizador linear no plano\nS, cuja polarização é paralela ao eixo x. Uma onda eletro-\nmagnética com polarização linear no eixo z propaga-se na\ndireção do eixo y. Um pêndulo é colocado na frente do fil-\ntro. A ponta do pêndulo contém uma pequena placa circular\nfeita de um filtro de polarização linear. Quando o pêndulo\nestá em repouso, a polarização é paralela ao eixo x.\nO\npêndulo oscila no plano S′, de −90◦a 90◦, conforme mostra\na figura. Uma chapa fotográfica capaz de absorver a onda\neletromagnética é colocada atrás dos filtros de polarização.\nDespreze efeitos de difração e interferência. Considere que\nos planos S e S′ são paralelos ao plano xz.\nAssinale a alternativa que melhor representa o que vai ser\nvisto na chapa fotográfica.\nPolarizador linear\nChapa fotográfica\nPêndulo com polarizador\ny\nx\nz\nS S'",
+  "alternativas": {
+    "A": "",
+    "B": "",
+    "C": "",
+    "D": "",
+    "E": ""
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Física",
+      "Movimento Harmônico Simples"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Onda EM polarizada atravessando filtro fixo e filtro em pêndulo oscilante: lei de Malus + oscilação harmônica do ângulo."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao": "imagens/ita_2023_fase1/ita_2023_fase1_q08.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1/ita_2023_fase1_q08.png"
+}

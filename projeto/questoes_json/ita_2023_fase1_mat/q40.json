@@ -1,0 +1,49 @@
+{
+  "id": "ita_2023_fase1_mat_q40",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 40,
+  "enunciado_md": "A média harmônica de n números reais positivos a1, a2, ..., an é\nH =\nn\n1\na1 + 1\na2 + ... + 1\nan\n.\nSabendo que o polinômio p(x) = 30x3−113x2+108x−30 possui três raízes reais positivas, a média harmônica\ndas raízes de p(x) é",
+  "alternativas": {
+    "A": "2 3.",
+    "B": "5 18.",
+    "C": "5 6.",
+    "D": "1.",
+    "E": "3. 15"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios"
+    ],
+    "blocos": [
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polinômio p(x)=30x³-113x²+108x-30 com 3 raízes reais positivas: média harmônica = 3c/b via Girard."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_mat/ita_2023_fase1_mat_q40.png",
+  "usa_imagem_no_render": true
+}

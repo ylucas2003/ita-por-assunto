@@ -1,0 +1,44 @@
+{
+  "id": "ita_2020_fase2_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Frentes de ondas planas de luz, de\ncomprimento de onda λ, incidem num conjunto de\ntrês fendas, com a do centro situando-se a uma\ndistância d das demais, conforme ilustra a figura. A\numa distância D ≫d, um anteparo registra o padrão\nde interferência gerado pela difração da onda devido\nàs fendas. Calcule:\n(a) A razão entre a intensidade da franja clara cen-\ntral e a das franjas claras vizinhas.\n(b) Os ângulos θn para os quais ocorrem franjas es-\ncuras.\nbla bla bla bla bla bla bla bla bla bla bla bla bla bla\nbla\nd\nd\nP\nq\nFrentes \nde \nondas\nx\nD",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2"
+    ],
+    "topicos_nomes": [
+      "Óptica Física"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Interferência e difração de três fendas não equidistantes: franjas claras/escuras e razão de intensidades."
+  },
+  "fonte": {
+    "pdf": "fisica_2020_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2/ita_2020_fase2_q05.png",
+  "usa_imagem_no_render": true
+}

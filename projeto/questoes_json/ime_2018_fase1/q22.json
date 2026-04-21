@@ -1,0 +1,53 @@
+{
+  "id": "ime_2018_fase1_q22",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 22,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \n \nR1\nR2\nR3\nR4\nE\na\nCh1\nCh2\nCh3\nCh4\n1\n2\n3\n4\nA\nB\n \n \nA figura mostra um circuito montado sob um plano inclinado feito de material condutor ideal, sem atrito de \nângulo α com a horizontal. Um corpo é liberado do ponto A e, à medida que passa pelos sensores \nlocalizados nos pontos 1, 2, 3 e 4, as chaves Ch1, Ch2, Ch3 e Ch4 são fechadas instantaneamente. Diante \ndo exposto, a energia elétrica dissipada durante a descida do corpo até o ponto B, em joules, é: \nDados: \n• \nR1 = 10 Ω; \n• \nR2 = 10 Ω; \n• \nR3 = 5 Ω; \n• \nR4 = 2,5 Ω; \n• \nE = 10 V; \n• \nα = 30º; e \n• \ng = 10 m/s2.",
+  "alternativas": {
+    "A": "6",
+    "B": "16",
+    "C": "32",
+    "D": "62",
+    "E": "120 12"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "12.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica",
+      "Energia"
+    ],
+    "blocos": [
+      "Energia",
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Circuito em plano inclinado com corpo fechando chaves sequencialmente: energia elétrica dissipada — eletrodinâmica + energia."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1/ime_2018_fase1_q22.png",
+  "usa_imagem_no_render": true
+}

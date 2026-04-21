@@ -1,0 +1,52 @@
+{
+  "id": "ime_2020_fase1_mat_q13",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 13,
+  "enunciado_md": "Valor: 0,25\nSeja a equac¸ ão 2sen2(eθ) −4\n√\n3sen(eθ)cos(eθ) −cos(2eθ) = 1, θ ∈R+. O menor valor de θ\nque é raiz da equac¸ ão é:",
+  "alternativas": {
+    "A": "ln( π 6)",
+    "B": "ln( π 3)",
+    "C": "ln( 5π 6 )",
+    "D": "ln( π 12)",
+    "E": "ln( 5π 12)"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Trigonometria",
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Trigonometria",
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "2sen²(eᶿ)-4√3 sen(eᶿ)cos(eᶿ)-cos(2eᶿ)=1, θ∈ℝ₊: menor θ raiz — trigonometria + exp."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_mat/ime_2020_fase1_mat_q13.png",
+  "usa_imagem_no_render": true
+}

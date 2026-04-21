@@ -1,0 +1,49 @@
+{
+  "id": "ita_2024_fase1_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "enunciado_md": "Um microscópio óptico, formado por duas lentes convergentes, é utilizado para observar\numa amostra biológica em laboratório. A lente objetiva tem uma distância focal de 5 mm, enquanto\na ocular tem uma distância focal de 70 mm. A distância entre a objetiva e a ocular é ajustada para\n190 mm.\nSabendo que a amostra encontra-se a 5,2 mm da lente objetiva, assinale a alternativa que contém\no módulo do aumento linear do microscópio descrito.",
+  "alternativas": {
+    "A": "7",
+    "B": "14",
+    "C": "25",
+    "D": "75",
+    "E": "175"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Microscópio composto (objetiva 5 mm + ocular 70 mm, L=190 mm): aumento linear total via equações das lentes delgadas."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1/ita_2024_fase1_q07.png"
+}

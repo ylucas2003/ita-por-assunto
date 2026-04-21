@@ -1,0 +1,52 @@
+{
+  "id": "ita_2025_fase1_q17",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 17,
+  "enunciado_md": "Uma barra homogênea e fina de sec¸ ão reta circular A e comprimento L tem\numa de suas extremidades fixas a uma articulac¸ ão, podendo girar sem atrito. As figuras\nabaixo mostram duas situac¸ ões nas quais a barra se encontra em equilíbrio estático. No\nprimeiro caso, a barra está parcialmente mergulhada em uma cuba preenchida com um\nlíquido, de forma que 25% de seu comprimento ficam submersos, conforme a figura (a).\nNo segundo caso, um objeto pontual, com 50% da massa da barra, está fixado em sua\nextremidade livre, como ilustra a figura (b).\nAssinale a alternativa correspondente ao novo comprimento submerso da barra na situac¸ ão\nexposta na figura (b).",
+  "alternativas": {
+    "A": "L 1 – √ 2 2 !",
+    "B": "L 1 – √ 2 4 !",
+    "C": "1 2L",
+    "D": "3 8L",
+    "E": "3 4L 6"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Estática e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Barra articulada em equilíbrio: (a) 25% submersa em líquido — empuxo e torque; (b) objeto pontual (m/2) fixo em algum ponto — posição para mesmo equilíbrio estático."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1/ita_2025_fase1_q17.png",
+  "usa_imagem_no_render": true
+}

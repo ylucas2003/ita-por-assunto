@@ -1,0 +1,49 @@
+{
+  "id": "ime_2018_fase1_qui_q36",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 36,
+  "enunciado_md": "Valor: 0,25 \nAssinale a alternativa correta:",
+  "alternativas": {
+    "A": "A estrutura primária de uma proteína é definida pela ordem em que os aminoácidos adenina, timina, citosina e guanina se ligam entre si.",
+    "B": "A estrutura secundária de uma proteína é definida por conformações locais de sua cadeia principal que assumem padrões específicos, tais como hélices α e folhas β.",
+    "C": "A estrutura terciária de uma proteína é definida pelo modo conforme duas ou mais cadeias polipeptídicas se agregam entre si.",
+    "D": "As enzimas são proteínas que atuam como catalisadores biológicos e que se caracterizam pela sua capacidade de reagir, simultaneamente, com milhares de substratos de grande diversidade estrutural.",
+    "E": "A glicose, a ribose e a frutose são enzimas que devem ser obrigatoriamente ingeridas na dieta dos seres humanos, uma vez que nossos organismos não conseguem sintetizá-las."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.2"
+    ],
+    "topicos_nomes": [
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Estruturas primária/secundária/terciária de proteínas, enzimas, açúcares — química orgânica (bioquímica)."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_qui/ime_2018_fase1_qui_q36.png",
+  "usa_imagem_no_render": true
+}

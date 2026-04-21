@@ -1,0 +1,52 @@
+{
+  "id": "ita_2025_fase1_mat_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "enunciado_md": "Duas circunferências C1 e C2 de centros O1 e O2, respectivamente, têm raio\nigual a 5 cm e se interceptam nos pontos P e Q, determinando uma corda comum PQ de\ntamanho 6 cm. As interseções de cada circunferência com o segmento O1O2 determinam\nos pontos R em C1 e S em C2. O volume do sólido de revolução obtido pela rotação do\ntriângulo PO1R em torno da reta O1O2 é, em cm3, igual a",
+  "alternativas": {
+    "A": "ı.",
+    "B": "3ı.",
+    "C": "4ı.",
+    "D": "6ı.",
+    "E": "9ı."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Duas circunferências r=5 com corda comum PQ=6; volume do sólido de revolução do triângulo PO₁R em torno de O₁O₂ — Pappus/cônicas de revolução."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_mat/ita_2025_fase1_mat_q09.png",
+  "usa_imagem_no_render": true
+}

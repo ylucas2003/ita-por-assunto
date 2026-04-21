@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_mat_q38",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 38,
+  "enunciado_md": "Seja p(x) = x3 + ax2 + bx um polinômio cujas raízes são não negativas e estão em progressão\naritmética. Sabendo que a soma de seus coeficientes é igual a 10, podemos afirmar que a soma das raízes de\np(x) é igual a",
+  "alternativas": {
+    "A": "9.",
+    "B": "8.",
+    "C": "3.",
+    "D": "9 2.",
+    "E": "10."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Polinômios",
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polinômio x³+ax²+bx com raízes em PA não negativas e p(1)=10: relações de Girard + progressão aritmética."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q38.png",
+  "usa_imagem_no_render": true
+}

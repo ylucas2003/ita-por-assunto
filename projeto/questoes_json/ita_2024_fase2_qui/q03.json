@@ -1,0 +1,47 @@
+{
+  "id": "ita_2024_fase2_qui_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "São descritos dois experimentos (Exp. 1 e Exp. 2) a respeito de uma solução \naquosa de uma substância A, de massa molar igual a 50 g mol1, que não se dissocia e não \nse volatiliza. Os experimentos foram realizados a 25 °C. \nExp. 1 – Em um béquer, foram dissolvidos 100 g da substância A em 360 mL de água pura. \nA seguir, colocou-se o béquer em um recipiente que foi fechado. \nExp. 2 – Em um béquer denominado I, preparou-se a mesma solução descrita no Exp.1, e \nem outro béquer denominado II, adicionou-se 360 mL de água pura. Em seguida, os \nbéqueres I e II foram colocados em um recipiente que foi fechado. \nConsidere que a solução aquosa de A se comporte idealmente, a massa específica da água \nseja 1 g cm3 e a pressão de vapor da água seja 23,8 Torr a 25 °C. \nA partir das informações acima: \na)\ndetermine os valores numéricos das frações molares da substância A e da água na\nsolução do Exp. 1;\nb)\ndetermine o valor numérico da fração molar da água na fase de vapor no Exp.1;\nc)\ndetermine o valor numérico da pressão de vapor da água, em Torr, no Exp. 1;\nd)\ndesconsiderando o efeito causado pelo volume do recipiente no Exp. 2, descreva\nsucintamente e de forma qualitativa o que acontecerá com o volume do líquido no\nbéquer I após o equilíbrio ter sido atingido.\n\n16 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Propriedades Coligativas",
+      "Soluções"
+    ],
+    "blocos": [
+      "Propriedades Coligativas",
+      "Soluções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Substância A (MM 50 g/mol) em 360 mL de H₂O, recipiente fechado (Exp. 1 e 2): pressão de vapor — propriedades coligativas + soluções."
+  },
+  "fonte": {
+    "pdf": "quimica_2024_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_qui/ita_2024_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

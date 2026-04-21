@@ -1,0 +1,47 @@
+{
+  "id": "ita_2021_fase2_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Dois feixes de comprimento de onda λ, paralelos e de intensidade I0, incidem com inclinação\nθ = 60o com a vertical sobre dois espelhos horizontais, conforme ilustra a figura.\nO espelho superior\nencontra-se fixo enquanto o inferior, de massa m, está ligado a uma mola de constante elástica k e realiza\num movimento oscilatório de pequena amplitude. O espelho inferior é liberado para oscilar em t=0 µs,\na partir do repouso e da posição na qual a mola está relaxada. Os feixes são refletidos pelos espelhos e\nanalisados em um detector, que registra a intensidade da onda resultante da superposição dos feixes. Os\nresultados coletados são mostrados no gráfico a seguir. Com base nas informações fornecidas, determine o\nmaior valor possível de λ.\nI0\nk\ng\nm\nI0\nemissor\ndetector\nq\nIntensidade\n4I0\n0\ntempo (ms)\n1\n3\n5\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Física",
+      "Movimento Harmônico Simples"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Feixes refletidos por dois espelhos paralelos (superior fixo, inferior em MHS): interferência com diferença de caminho modulada por oscilação."
+  },
+  "fonte": {
+    "pdf": "fisica_2021_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2/ita_2021_fase2_q07.png",
+  "usa_imagem_no_render": true
+}

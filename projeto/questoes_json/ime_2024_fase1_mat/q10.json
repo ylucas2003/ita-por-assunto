@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "enunciado_md": "Valor: 0,25\nSeja r =\nv\nu\nu\nu\nt3 −\n√\n3 +\nv\nu\nu\nt2 + 2\n√\n2\ns\n3 +\nr√\n2 −\n√\n12 +\nq\n18 −\n√\n128 . Sobre a inequação\nq\n2025 +\n√\nt +\nq\n2025 −\n√\nt ≤\n√\n2025r pode-se afirmar que a mesma",
+  "alternativas": {
+    "A": "não possui solução real",
+    "B": "possui uma única solução real",
+    "C": "possui exatamente duas soluções reais",
+    "D": "possui solução entre 0 e 20252 6",
+    "E": "possui solução entre 20252 3 e 20252 2"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Funções Reais"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "r envolve radicais aninhados; inequação √(2025+√t)+√(2025-√t)≤√2025·r — funções reais."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_mat/ime_2024_fase1_mat_q10.png",
+  "usa_imagem_no_render": true
+}

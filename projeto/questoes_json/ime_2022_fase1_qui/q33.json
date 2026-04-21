@@ -1,0 +1,43 @@
+{
+  "id": "ime_2022_fase1_qui_q33",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 33,
+  "enunciado_md": "Valor: 0,25\nCatalisadores são substâncias de grande interesse industrial para processos químicos e biotec-\nnológicos, pois permitem a obtenção de produtos-alvo com maior rapidez. Analise as afirmativas\nabaixo.\nI.\nNa reação 2 SO2(g)+O2(g)\nV2O5(s)\n−−−−→2 SO3(g) o pentóxido de vanádio tem efeito de superfície,\nexemplificando uma catálise heterogênea.\nII.\nDada a sua característica basicamente proteica e sua menor estabilidade em relação aos\ncatalisadores químicos tradicionais, as enzimas são totalmente inativadas durante processos\nbioquímicos, independentemente das condições operacionais implementadas.\nIII.\nOs catalisadores reduzem a energia de ativação, resultando em aumento da velocidade de\nreação, sendo regenerados ao final da conversão química.\nIV.\nA ação do catalisador cria um novo caminho reacional que requer menor energia de ativação,\nalterando o equilíbrio da reação.\nV.\nTodos os catalisadores conhecidos são compostos inorgânicos, geralmente constituídos por\nmetais de transição.\nAssinale a opção que apresenta APENAS as afirmativas verdadeiras.",
+  "alternativas": {
+    "A": "III e V.",
+    "B": "I, III e IV.",
+    "C": "II, IV e V.",
+    "D": "I e III.",
+    "E": "I , II, IV e V."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_qui/ime_2022_fase1_qui_q33.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ime_2018_fase1_q29",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 29,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \n \nB\nA\n6\n10 N\nD\nC\nq\nQ\n3\n3\n4\ny\nx\n \nA figura mostra uma estrutura composta pelas barras AB, AC, AD e CD e BD articuladas em suas \nextremidades. O apoio no ponto A impede os deslocamentos nas direções x e y, enquanto o apoio no ponto \nC impede o deslocamento apenas na direção x. No ponto D dessa estrutura encontra-se uma partícula \nelétrica de carga positiva 𝑞. Uma partícula elétrica de carga positiva 𝑄 encontra-se posicionada no ponto \nindicado na figura. Uma força de 10 N é aplicada no ponto B, conforme indicada na figura. Para que a força \nde reação no ponto C seja zero, o produto q.Q deve ser igual a: \nObservação: \n• \nas barras e partículas possuem massa desprezível; e \n• \nas distâncias nos desenhos estão representadas em metros. \nDado: \n• \nconstante eletrostática do meio: 𝑘.",
+  "alternativas": {
+    "A": "1250 7𝑘",
+    "B": "125 70𝑘",
+    "C": "7 1250𝑘",
+    "D": "1250 𝑘",
+    "E": "𝑘 1250 16"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio",
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletrostática",
+      "Estática e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Treliça com barras AB, AC, AD, CD, BD + partícula +q em D e +Q externa; força 10 N: equilíbrio + Coulomb — estática + eletrostática."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1/ime_2018_fase1_q29.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ime_2019_fase2_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \nX\nY\n0\nk\nk\nm\n \nUma partícula, inicialmente em repouso sobre o plano horizontal XY, está presa a duas molas idênticas, \ncada uma solidária em sua outra extremidade a um cursor que pode movimentar-se sobre seu respectivo \neixo, como mostrado na figura. As molas são rígidas o suficiente para se deflexionarem apenas nas \ndireções ortogonais de seus respectivos eixos aos quais estão presas. No instante t = 0, a partícula é \npuxada para o ponto de coordenadas (\n11\n10 L , \n12\n10 L) e é lançada com velocidade inicial (√3 \n10  L , 0 ). \nDetermine: \na) as equações das componentes de posição, velocidade e aceleração da partícula nos eixos X e Y, em \nfunção do tempo; \nb) a área no interior da trajetória percorrida pela partícula durante o movimento. \nDados: \n• massa da partícula: m; \n• constante elástica das molas: k; \n• 𝜔= √𝑘\n𝑚; \n• comprimento das molas não flexionadas: L. \n \nObservações: \n• o plano XY é totalmente liso; \n• não há influência da gravidade no movimento da partícula; \n• os cursores deslizam sem atrito pelos eixos; \n• as coordenadas X e Y da partícula são sempre positivas. \n \n \n\n \n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Movimento Harmônico Simples",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Cinemática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partícula presa a 2 molas idênticas em eixos ortogonais com cursores: movimento 2D composto — MHS + cinemática."
+  },
+  "fonte": {
+    "pdf": "fis2019.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ime_2020_fase1_qui_q32",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 32,
+  "enunciado_md": "Valor: 0,25\nSeja a reac¸ ão A(g) ⇌2B(g), a 298 K e 1 atm, com ∆G0\nr = 0, sendo A e B gases ideais.\nConsidere as seguintes afirmativas.\nI. No equilíbrio, o valor da pressão parcial de A é igual ao quadrado do valor da pressão parcial de\nB, para qualquer temperatura.\nII. Um aumento na pressão parcial de A, a partir da situac¸ ão de equilíbrio, causará o deslocamento\nda reac¸ ão para a direita.\nIII. Se a reac¸ ão direta for exotérmica, um aumento da temperatura da reac¸ ão, favorecerá a formac¸ ão\nde produto.\nEstá(ão) correta(s) a(s) afirmativa(s):",
+  "alternativas": {
+    "A": "I, apenas.",
+    "B": "I e II, apenas.",
+    "C": "II, apenas.",
+    "D": "I e III, apenas.",
+    "E": "II e III, apenas. 16"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico Geral",
+      "Termodinâmica Física"
+    ],
+    "blocos": [
+      "Termodinâmica Física",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A(g)⇌2B(g), ΔG°=0; Keq, Le Chatelier, variação com T — equilíbrio + termodinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_qui/ime_2020_fase1_qui_q32.png",
+  "usa_imagem_no_render": true
+}

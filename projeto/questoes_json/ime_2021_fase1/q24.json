@@ -1,0 +1,52 @@
+{
+  "id": "ime_2021_fase1_q24",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 24,
+  "enunciado_md": "Valor: 0,25\nVocê está desenvolvendo um sistema embarcado autônomo para desinfecção de ambientes. O\nsistema é composto por um carrinho elétrico com uma lâmpada e uma bateria. Para que o processo\nde desinfecção funcione apropriadamente, o sistema deverá deslocar-se com velocidade constante\npor um piso rugoso.\nDados:\n• massa do carrinho: 6 kg;\n• massa da bateria: 4 kg;\n• tensão da bateria: 24 V;\n• massa da lâmpada: 2 kg;\n• coeficiente de atrito cinético: 0,2;\n• aceleração da gravidade: 10 m/s2;\n• velocidade do sistema: 0,5 m/s; e\n• potência da lâmpada: 96 W.\nConsiderações:\n• as perdas do motor do carrinho são desprezíveis; e\n• a energia da bateria necessária para fazer o carrinho chegar a velocidade de funcionamento\ndo sistema é desprezível.\nSabendo que a bateria fornece energia para o carrinho e para a lâmpada e que, para a perfeita\ndesinfecção da sala, o sistema deve trabalhar durante 90 minutos, a mínima capacidade da bateria\ndo sistema, em mAh, é:",
+  "alternativas": {
+    "A": "6370",
+    "B": "6375",
+    "C": "6500",
+    "D": "6625",
+    "E": "6750 13"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "12.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Eletrodinâmica",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Carrinho elétrico (6+4+2 kg) com bateria 24 V + atrito 0,2: análise de autonomia — eletrodinâmica + dinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 13,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1/ime_2021_fase1_q24.png",
+  "usa_imagem_no_render": true
+}

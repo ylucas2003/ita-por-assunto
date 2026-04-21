@@ -1,0 +1,47 @@
+{
+  "id": "ime_2021_fase2_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSuponha que a e b são raízes reais e diferentes da equação 4x2 −4tx −1 = 0 (t ∈R). O intervalo\n[a, b] é o domínio da função f(x) = 2x −t\nx2 + 1. Seja g(t) = max f(x) −min f(x). Determine g(0).",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "12.2",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Derivadas",
+      "Polinômios"
+    ],
+    "blocos": [
+      "Cálculo Diferencial e Integral",
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "a,b raízes de 4x²-4tx-1=0; f(x)=(2x-t)/(x²+1) em [a,b]; g(t)=max f - min f: g(0) — derivada + polinômios."
+  },
+  "fonte": {
+    "pdf": "mat2021.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase2_mat/ime_2021_fase2_mat_q02.png",
+  "usa_imagem_no_render": true
+}

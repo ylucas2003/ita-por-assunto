@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Entrar · Banco ITA · IME — Colégio Ari de Sá</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/login.css">
+<script src="assets/login.js" defer></script>
+</head>
+<body>
+
+<div class="shell">
+
+  <!-- HERO -->
+  <aside class="hero">
+    <div class="hero-top">
+      <div class="ari-brand">
+        <img src="https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/logo-ari-branco.png" alt="Colégio Ari de Sá">
+        <div class="divider"></div>
+        <div>
+          <div class="eyebrow">Desde 1976</div>
+          <div class="title">Colégio <span>Ari de Sá</span></div>
+        </div>
+      </div>
+      <div class="hero-badge">v2.0</div>
+    </div>
+
+    <div class="hero-core">
+      <div class="hero-ita">
+        <div class="ring outer"></div>
+        <div class="ring"></div>
+        <div class="logo-slot">
+          <img src="https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/logo-ita-branco.png" alt="ITA">
+          <div class="tag">ITA</div>
+        </div>
+        <div class="logo-slot">
+          <img src="https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/logo-ime-branco.png" alt="IME">
+          <div class="tag">IME</div>
+        </div>
+      </div>
+
+      <div class="hero-copy">
+        <div class="hero-eyebrow">ITA · IME · POR ASSUNTO</div>
+        <h1 class="hero-title">
+          Banco de questões, <em>organizado por tópico.</em>
+        </h1>
+        <p class="hero-subtitle">
+          Provas do ITA e do IME divididas por disciplina e tema —
+          da mecânica clássica à álgebra linear. Estude pelo assunto
+          que você precisa dominar.
+        </p>
+      </div>
+    </div>
+
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="num">3<span class="plus">+</span></div>
+        <div class="lab">Disciplinas</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">40<span class="plus">+</span></div>
+        <div class="lab">Anos de provas</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num">1500<span class="plus">+</span></div>
+        <div class="lab">Questões</div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- LOGIN PANEL -->
+  <section class="panel">
+    <div class="panel-head">
+      <div class="hint">
+        Primeiro acesso? <a href="#">Ative sua conta</a>
+      </div>
+    </div>
+
+    <div class="form-wrap">
+      <div class="form-head">
+        <div class="eyebrow">/ acesso do aluno</div>
+        <h2>Entre na sua conta</h2>
+        <p>Use o e-mail cadastrado e o seu RA — o mesmo token usado nas demais plataformas do Ari.</p>
+      </div>
+
+      <form id="login-form">
+        <div class="field">
+          <div class="field-label">
+            <span class="name">E-mail</span>
+            <span class="note">institucional ou pessoal</span>
+          </div>
+          <label class="field-input" for="email">
+            <span class="icon">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            </span>
+            <input id="email" type="email" name="email" placeholder="voce@exemplo.com" required autocomplete="email">
+          </label>
+        </div>
+
+        <div class="field">
+          <div class="field-label">
+            <span class="name">RA — Registro do Aluno</span>
+            <span class="note">token de acesso</span>
+          </div>
+          <label class="field-input" for="ra">
+            <span class="icon">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+            </span>
+            <input id="ra" type="password" name="ra" class="mono" placeholder="••••••••" required autocomplete="current-password">
+            <button type="button" class="ra-toggle" id="ra-toggle" aria-label="Mostrar RA">
+              <svg id="ra-eye" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+            </button>
+          </label>
+        </div>
+
+        <div class="row">
+          <label class="remember">
+            <input type="checkbox" id="remember">
+            Lembrar deste dispositivo
+          </label>
+          <a class="forgot" href="#">Esqueci meu RA</a>
+        </div>
+
+        <button type="submit" class="submit">
+          <span>Acessar o banco</span>
+          <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </button>
+
+        <div class="divider-or">informação</div>
+
+        <div class="help-box">
+          O <strong>RA</strong> é o mesmo token de acesso que você usa nas plataformas
+          do Ari (Plurall, Ari+, etc.). Em caso de dúvida, procure a secretaria.
+        </div>
+      </form>
+    </div>
+
+    <div class="panel-foot">
+      <div class="brand">ARI · BANCO ITA·IME</div>
+      <div>© 2026 · Colégio Ari de Sá</div>
+    </div>
+  </section>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+{
+  "id": "ita_2020_fase1_mat_q51",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 51,
+  "enunciado_md": "Os pontos B = (1, 1 + 6\n√\n2) e C = (1 + 6\n√\n2, 1) são vértices do triângulo isósceles ABC de\nbase BC, contido no primeiro quadrante. Se o raio da circunferência inscrita no triângulo mede 3, então as\ncoordenadas do vértice A são",
+  "alternativas": {
+    "A": "(7 √ 2, 7 √ 2).",
+    "B": "( √ 2, √ 2).",
+    "C": "(1 + 7 √ 2, 1 + 7 √ 2).",
+    "D": "(1 + √ 2, 1 + √ 2).",
+    "E": "(1 + 6 √ 2, 1 + 6 √ 2). 17"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triângulo isósceles ABC com B,C dados e raio da inscrita 3: coordenadas de A — geometria analítica + inradius."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q51.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Um professor desenvolveu um projeto para\no estudo de ondas estacionárias em cordas. Para tal,\nutilizou um gerador de frequência f, um fio de náilon\nde densidade linear de massa µ, dois pedestais univer-\nsais, uma roldana e um bloco de massa m. A distância\nda roldana até o gerador é l0. Toda a montagem foi\nacoplada sobre uma plataforma de madeira com rodas\npermitindo sua locomoc¸ ão ao longo do eixo x, con-\nforme mostra a figura. A massa total do sistema era\nM. Em repouso, o gerador de frequências foi ajustado\npara que a vibrac¸ ão na corda apresentasse uma única\ncrista.\nx\nUma vez que a frequência de ajuste no gerador seja dobrada com relac¸ ão à frequência inicial, qual\ndeve ser a forc¸a ⃗F aplicada sobre o sistema para que se visualize uma única crista novamente?\nDespreze o atrito.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ondas estacionárias em fio de náilon tensionado por massa m via roldana (gerador de frequência f): harmônicos e velocidade de propagação v=√(T/μ)."
+  },
+  "fonte": {
+    "pdf": "fisica_2024_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2/ita_2024_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

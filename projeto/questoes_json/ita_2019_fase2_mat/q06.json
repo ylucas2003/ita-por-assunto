@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_mat_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Sejam a, b e c três números reais em progressão aritmética crescente, satisfazendo\ncos a + cos b + cos c = 0\ne\nsen a + sen b + sen c = 0.\nEncontre a menor razão possível para essa progressão aritmética.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "PA crescente (a,b,c) com cos a+cos b+cos c=0 e sen a+sen b+sen c=0: somas trigonométricas e PA."
+  },
+  "fonte": {
+    "pdf": "matematica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_mat/ita_2019_fase2_mat_q06.png",
+  "usa_imagem_no_render": true
+}

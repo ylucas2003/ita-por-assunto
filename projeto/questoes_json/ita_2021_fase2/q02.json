@@ -1,0 +1,47 @@
+{
+  "id": "ita_2021_fase2_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Uma pequena esfera de massa m e carga +q\nestá conectada por um fio inextensível preso num ponto O\ne se move num círculo de raio r sobre um plano liso de\ninclinação α com a horizontal. Na região existe um campo\nmagnético ⃗B uniforme e constante, perpendicular ao plano\ninclinado como ilustra a figura.\nSe a esfera possui uma\nvelocidade ⃗v no ponto mais alto da trajetória, determine a\ntração no fio quando a esfera passa pelas posições D e E\nindicadas na figura. Considere o sentido de ⃗v indicado na\nfigura.\nE\ng\nv\na\na\nm,q\nD\nO\nB\nr",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Magnetismo",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Dinâmica",
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Esfera carregada em plano inclinado liso e campo magnético perpendicular: tração no fio no MCU — força de Lorentz somando/subtraindo à centrípeta."
+  },
+  "fonte": {
+    "pdf": "fisica_2021_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2/ita_2021_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

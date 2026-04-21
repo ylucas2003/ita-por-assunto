@@ -1,0 +1,45 @@
+{
+  "id": "ime_2022_fase2_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm cubo, confeccionado com material volumetricamente homogêneo, foi colocado em um pequeno\ntanque com 38,75 litros de água a 15 °C. O cubo encontra-se à mesma temperatura da água e\nflutuando, conforme ilustrado na figura.\nO tanque possui um sistema de aquecimento elétrico,\nrepresentado na figura pelo circuito, que permite elevar a temperatura da água.\nDados:\n• comprimento da aresta do cubo: L = 25 cm;\n• calor específico do material do cubo: 0,8 cal/(g.°C);\n• coeficiente de dilatac¸ ão térmica volumétrica do material do cubo: 1,248 x 10−2/°C;\n• massa específica da água: 1,0 g/cm3;\n• calor específico da água: 1,0 cal/(g.°C);\n• acelerac¸ ão da gravidade: 10 m/s2;\n• 1 cal = 4,2 J.\nObservac¸ ões:\n• durante o aquecimento não haverá diferenc¸a de temperatura entre a água e o cubo;\n• as perdas de energia para o meio ambiente são desprezíveis nos eventos considerados;\n• toda a dissipac¸ ão de energia elétrica no resistor imerso em água é transformada em calor;\n• o cubo mantém sua forma quando dilatado.\nEm determinado instante, a chave S do sistema de aquecimento é fechada por 35 min. Após esse\ntempo, determine:\na) a quantidade de energia fornecida pelo sistema de aquecimento, em cal;\nb) a temperatura da água e do cubo, em °C;\nc) a porcentagem do volume do cubo que estará fora da água.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cubo homogêneo em tanque com 38,75 L de água a 15 °C com aquecimento elétrico: flutuação após aquecimento — hidrostática + calorimetria/dilatação."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

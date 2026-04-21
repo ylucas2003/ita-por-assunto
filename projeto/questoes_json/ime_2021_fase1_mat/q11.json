@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_mat_q11",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 11,
+  "enunciado_md": "Valor: 0,25\nSeja a matriz quadrada A de ordem 2021 cujo o elemento da linha i e coluna j é\nai,j =\n(\n1,\nse i = 1 ou i ̸= j\n0,\nse i = j ̸= 1\ncom i, j ∈{1, 2, · · · , 2021}. O valor do determinante de A é:",
+  "alternativas": {
+    "A": "−2021",
+    "B": "2021",
+    "C": "0",
+    "D": "1",
+    "E": "−1"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matriz 2021x2021 com a_{ij}=1 se i=1 ou i≠j, a_{ii}=0 se i≠1: determinante — matrizes/determinantes."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q11.png",
+  "usa_imagem_no_render": true
+}

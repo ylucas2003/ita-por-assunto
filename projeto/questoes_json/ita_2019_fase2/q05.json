@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Uma empresa planeja instalar um sistema de refrigeração para manter uma sala de dimensões\n4,0 m × 5,0 m × 3,0 m a uma temperatura controlada em torno de 10◦C.\nA temperatura média do\nambiente não controlado é de 20◦C e a sala é revestida com um material de 20 cm de espessura e coeficiente\nde condutibilidade térmica de 0,60 W/m ◦C. Sabendo que a eficiência do sistema de refrigeração escolhido\né igual a 2,0 e que o custo de 1 kWh é de R$ 0,50, estime o custo diário de refrigeração da sala.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sala 4×5×3 m a 10 °C e ambiente a 20 °C, parede de 20 cm e κ=0,60: condução térmica + eficiência 2 do refrigerador → custo diário."
+  },
+  "fonte": {
+    "pdf": "fisica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2/ita_2019_fase2_q05.png",
+  "usa_imagem_no_render": true
+}

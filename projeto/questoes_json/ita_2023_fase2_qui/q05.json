@@ -1,0 +1,47 @@
+{
+  "id": "ita_2023_fase2_qui_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Uma amostra de 5,480 g de uma mistura de óxido e carbonato de um mesmo metal (com um \nestado de oxidação igual a +2 nesses compostos) é completamente dissolvida em excesso de ácido \nclorídrico. Nesse processo, 0,448 L (condições normais) de gás são liberados. \nCom base nessas informações, determine os valores numéricos \na) da composição da mistura, em frações mássicas, se a quantidade em mol de carbonato na mistura é \nduas vezes maior do que a quantidade do óxido; \nb) da concentração molar do sal formado na solução resultante, se o volume final da dissolução é igual a \n200 mL. \n \n \n \n\n18",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "1.5"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Reações Inorgânicas"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mistura MO + MCO₃ (+2) dissolvida em HCl libera 0,448 L de gás nas CNTP: composição e concentração — estequiometria + reações inorgânicas."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q05.png",
+  "usa_imagem_no_render": true
+}

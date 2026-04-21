@@ -1,0 +1,36 @@
+{
+  "id": "ime_2023_fase2_qui_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nProduz-se NH3(g) reagindo H2(g) com N2(g). A reac¸ ão ocorre em uma temperatura T, 113 oC maior\ndo que a temperatura em que a mesma deixa de ser espontânea.\nConsidere os dados termodinâmicos abaixo e que os mesmos não variam com a temperatura e\ncom a pressão.\nN2(g)\nH2(g)\nNH3(g)\nS = 192,0 J/(mol.K)\nS = 131,0 J/(mol.K)\nS = 192,5 J/(mol.K) ; ∆Hf = −46000 J/mol\nA partir dos dados do enunciado, pede-se:\na) calcular o valor de ∆Gr(T);\nb) determinar se a constante de equilíbrio da reac¸ ão de produc¸ ão da amônia é Keq >1, Keq = 0 ou\nKeq <1;\nc) justificar em qual pressão, P = 1 atm ou P = 200 atm, haverá maior produc¸ ão de NH3(g) no\nequilíbrio.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

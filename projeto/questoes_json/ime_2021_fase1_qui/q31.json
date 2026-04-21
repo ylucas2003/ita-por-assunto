@@ -1,0 +1,52 @@
+{
+  "id": "ime_2021_fase1_qui_q31",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 31,
+  "enunciado_md": "Valor: 0,25\nConsidere a seguinte reação em equilíbrio:\n2SO2(g) + O2(g) ⇌2SO3(g)\nDados:\n• R = 8,3 J.(K.mol)−1;\n• ln 1,6 = 0,47; e\n• ln 10 = 2,3.\nSabe-se que a constante de equilíbrio dessa reação é 4,0.1024, a 27 ◦C e 2,5.1010, a 227 ◦C. Qual\na variação de entalpia padrão da reação, em kJ.mol−1, considerando que ela seja constante nessa\nfaixa de temperatura?",
+  "alternativas": {
+    "A": "−8,3",
+    "B": "8,3",
+    "C": "−74,1",
+    "D": "−203,0",
+    "E": "0"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico Geral",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Termoquímica",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "2SO₂+O₂⇌2SO₃; K(27°C)=4e24; K(227°C)=2,5e10: ΔH° pela van't Hoff — equilíbrio + termoquímica."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_qui/ime_2021_fase1_qui_q31.png",
+  "usa_imagem_no_render": true
+}

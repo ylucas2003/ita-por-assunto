@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_qui_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Considere reações de combustão do etanol. \na) Escreva a equação química balanceada para a reação com oxigênio puro. \nb) Escreva a equação química balanceada para a reação com ar atmosférico. \nc) Escreva a equação química balanceada para a reação com 50% da quantidade estequiométrica de ar \natmosférico. \nd) Classifique as reações dos itens a), b) e c) em ordem crescente de variação de entalpia reacional.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Termoquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Combustão do etanol em O₂ puro, ar e ar 50% estequiométrico: equações balanceadas + ordem de ΔH reacional — estequiometria e termoquímica."
+  },
+  "fonte": {
+    "pdf": "quimica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_qui/ita_2019_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
+}

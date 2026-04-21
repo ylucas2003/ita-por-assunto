@@ -1,0 +1,45 @@
+{
+  "id": "ime_2019_fase2_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \npiscina\ngramado\nA\nfeixe\nde luz\nbloco\ntampa\npiso\nroldana\nB1\nB2\nLegenda:\nárvore\n \n \n \nUm profissional de iluminação deseja projetar um sistema de feixe de luz capaz de iluminar o fundo \nreflexível de uma piscina e o gramado posicionado logo após o lado A. Sua ideia é submergir \nparcialmente um bloco maciço em formato de paralelepípedo reto, com uma fonte luminosa presa em \nsua base submersa B1, que emite um feixe de luz que percorre a trajetória mostrada na figura. O bloco é \nfixado por dois cabos horizontais presos a sua base não submersa B2 e ortogonais ao lado A da piscina, \nsendo um deles amarrado, por meio de roldanas, na tampa articulada do compartimento onde é \nguardado o material de limpeza da piscina e o outro, na árvore. Considere que a piscina esteja \ncompletamente cheia com água e que a tração aplicada nos cabos seja metade do seu valor máximo \npara ruptura, especificado pelo fabricante. Calcule: \n \na) a altura L do bloco; \nb) a distância d em que o bloco deve ser posicionado, em relação ao lado A da piscina. \nDados: \n• profundidade da piscina: 3 m; \n• índice de refração do ar: 1; \n• índice de refração da água da piscina: 5/3; \n• massa específica da água: 1 g/cm3; \n• massa específica do material do bloco: 0,5 g/cm3; \n• comprimento t da tampa: 1 m; \n• massa da tampa: 8 kg; \n• tração máxima até a ruptura nos cabos: 30 N; \n• aceleração da gravidade: 10 m/s2. \nObservações: \n• despreze o atrito e as dimensões das quatro roldanas; \n• considere a árvore uma estrutura rígida; \n• as roldanas estão fixas. \n \n \n \n \n\nRASCUNHO\n\nRASCUNHO\n\nRASCUNHO\n\nRASCUNHO\n\nRASCUNHO\n\nRASCUNHO\n\nRASCUNHO",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1",
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica",
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bloco parcialmente submerso com fonte luminosa em B1: feixe ilumina fundo da piscina e gramado — óptica geométrica (refração) + hidrostática (empuxo)."
+  },
+  "fonte": {
+    "pdf": "fis2019.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

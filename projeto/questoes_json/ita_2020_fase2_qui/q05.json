@@ -1,0 +1,44 @@
+{
+  "id": "ita_2020_fase2_qui_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "A partir do isótopo \u0001\n\u0002\u0003 ocorrem três processos sucessivos de decaimento radioativo que \nlevam à formação do isótopo final D. A partir de \u0001\n\u0002\u0003 há emissão de uma partícula beta, produzindo o \nnuclídeo B. Este, por sua vez, libera uma partícula beta formando o nuclídeo C. O nuclídeo D é \nproduzido a partir de C por meio de emissão de uma partícula alfa. Escreva as equações nucleares dessas \ntrês etapas, fornecendo os números de massa e atômico dos nuclídeos B, C e D em função de x e y. \nEsboce um gráfico da quantidade de cada nuclídeo em função do tempo até a produção de D e o \nconsumo de todos os demais nuclídeos. Considere que a constante de velocidade é a mesma em todas as \netapas. \n \n\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Química Nuclear"
+    ],
+    "blocos": [
+      "Química Nuclear"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Isótopo com 3 decaimentos sucessivos (β, β, α): equações nucleares e números de massa/atômico em função de x,y — química nuclear."
+  },
+  "fonte": {
+    "pdf": "quimica_2020_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_qui/ita_2020_fase2_qui_q05.png",
+  "usa_imagem_no_render": true
+}

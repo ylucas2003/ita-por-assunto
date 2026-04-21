@@ -1,0 +1,47 @@
+{
+  "id": "ime_2019_fase2_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \nSeja uma região S no plano complexo que consiste em todos os pontos 𝑍 tais que \n𝑍\n20 e \n20\n𝑍̅ possuem \npartes real e imaginária entre 0 e 1, inclusive. Determine a área da região S. \nObs: 𝑍̅ é o conjugado do número complexo 𝑍.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Números Complexos",
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Região S no plano complexo com Re/Im de Z/20 e 20/z̄ entre 0 e 1: área — complexos + geometria analítica."
+  },
+  "fonte": {
+    "pdf": "mat2019.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_mat/ime_2019_fase2_mat_q02.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ime_2018_fase1_qui_q31",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 31,
+  "enunciado_md": "Valor: 0,25 \nAdmita que uma solução aquosa 0,0400 molar de ácido tricloroacético congele a −0,1395 ºC. Considere, \nainda, que a constante de abaixamento do ponto de congelamento (Kc) da água seja 1,860 ºC.kg.mol−1 e que \n1,00 L de solução contenha 1,00 kg de solvente. O valor da constante de dissociação (Ka) do ácido \ntricloroacético será:",
+  "alternativas": {
+    "A": "4,90.10 –7",
+    "B": "3,28.10 –5",
+    "C": "7,66.10 –3",
+    "D": "1,36.10 –2",
+    "E": "2,45.10 –1"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "9.2"
+    ],
+    "topicos_nomes": [
+      "Propriedades Coligativas",
+      "Equilíbrio Iônico (Ácido-Base)"
+    ],
+    "blocos": [
+      "Propriedades Coligativas",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Crioscopia ácido tricloroacético 0,04M congela a -0,1395°C; Kc=1,86: calcular Ka — propriedades coligativas + equilíbrio iônico."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_qui/ime_2018_fase1_qui_q31.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ime_2023_fase1_q27",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 27,
+  "enunciado_md": "Valor: 0,25\nUm navio de guerra encontra-se parado com um marinheiro de vigia em um posto de observação\n9 m acima do nível do mar. Em um determinado instante, esse marinheiro avista um submarino\naproximando-se na direção do eixo x, à velocidade constante e a 4 m de profundidade, conforme\nilustra a figura. No instante em que o submarino é avistado, uma carga de profundidade é liberada\ndo navio e, depois de um certo tempo, o submarino é destruído ao ser atingido pela carga de\nprofundidade.\nDados:\n• velocidade inicial da carga de profundidade: 0 m/s;\n• aceleração da gravidade: 10 m/s²;\n• volume da carga de profundidade: 0,001 m³;\n• massa específica da água: 1000 kg/m³;\n• massa da carga de profundidade: 1,8 kg;\n• índice de refração do ar: 1;\n• índice de refração da água: 4/3.\nObservação:\n• considere constante o empuxo sobre a carga de profundidade.\nDiante do exposto, a velocidade do submarino, em m/s, era de:",
+  "alternativas": {
+    "A": "5√ 5",
+    "B": "5√ 3",
+    "C": "6√ 5",
+    "D": "6√ 3",
+    "E": "4√ 3 14"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Cinemática",
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Navio com observador a 9 m acima, submarino a 4 m de profundidade: refração ar-água + trajetória da carga — óptica geométrica + cinemática."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 14,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q27.png",
+  "usa_imagem_no_render": true
+}

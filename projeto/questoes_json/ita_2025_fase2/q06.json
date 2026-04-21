@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Uma sonda tripulada foi projetada para resistir ao calor da atmosfera de\nmercúrio, que pode atingir uma temperatura T0 = 430 ◦C. A sonda tem uma estrutura se-\nmelhante à de uma casca esférica composta por duas camadas, como mostra a figura.\nA camada externa, de espessura d1, é composta por um material rígido de condutividade\ntérmica K1. A camada interna, de espessura d2, é composta por um material termorresis-\ntente e isolante térmico de condutividade térmica K2. O raio externo da estrutura é igual a\nR.\nConsiderando a situac¸ ão descrita acima, fac¸a o que se pede nos itens a seguir.\na) Expresse a condutividade térmica efetiva da sonda em func¸ ão de R, K1, K2 e d, em que\nd = d1 = d2 e R ≫d.\nb) Estime a potência, em kW, que um refrigerador deve ter para manter a temperatura\ninterna da sonda em Ti = 23 ◦C, assumindo que R = 20 m, d1 = d2 = 30 cm, K1 = 50\nW/(m ◦C), K2 = 0, 020 W/(m ◦C) e que a máquina refrigeradora tem um coeficiente de\nperformance ideal.\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Casca esférica dupla com K1,K2 expostas a T₀=430 °C: condução térmica radial em série (resistência térmica)."
+  },
+  "fonte": {
+    "pdf": "fisica_2025_2f.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2/ita_2025_fase2_q06.png",
+  "usa_imagem_no_render": true
+}

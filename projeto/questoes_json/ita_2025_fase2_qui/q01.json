@@ -1,0 +1,47 @@
+{
+  "id": "ita_2025_fase2_qui_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Uma substância orgânica X é constituída de 18,06 x 1023 átomos de carbono, \n36,12 x 1023 átomos de hidrogênio e 6,02 x 1023 átomos de oxigênio. Sabendo-se que \n0,174 g dessa substância X contém 18,06 x 1020 moléculas, responda às seguintes \nquestões: \n \na) Escreva a fórmula empírica de X. \nb) Escreva a fórmula molecular de X. \nc) Desenhe as fórmulas estruturais de, no mínimo, 6 isômeros de X. \n \n \n \n \n\n \n4 \nQUÍMICA \n_______________________________________________________________________",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "11.4"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Isomeria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Composto orgânico X com 18,06·10²³ C, 36,12·10²³ H, 6,02·10²³ O e 0,174 g com 18,06·10²⁰ moléculas: fórmula empírica/molecular + isômeros — estequiometria + isomeria."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2021_fase2_qui_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "O polietileno é um polímero largamente utilizado devido às suas características estruturais e \nàs suas propriedades. Dependendo das condições reacionais e do sistema catalítico empregado na \npolimerização, diferentes tipos de polietileno podem ser produzidos. Dois dos principais tipos de \npolietileno são: polietileno de baixa densidade (PEBD) e polietileno de alta densidade (PEAD), ilustrados \nabaixo: \n \n \na) Escreva a fórmula estrutural do monômero do polietileno e também do produto de polimerização com \ntrês unidades repetitivas do monômero. Qual é o nome dessa reação de polimerização? \nb) Como a linearidade da cadeia do polímero afeta sua rigidez? Pelo critério de linearidade, qual dos dois \npolímeros (PEBD ou PEAD) seria mais rígido? \n\n \nc) Como a cristalinidade de um polímero afeta sua transparência/opacidade? Pelo critério da \ncristalinidade, qual dos dois polímeros (PEBD ou PEAD) teria maior transparência?",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.6"
+    ],
+    "topicos_nomes": [
+      "Polímeros"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polietileno PEBD vs PEAD: monômero, produto de polimerização, propriedades estruturais — polímeros."
+  },
+  "fonte": {
+    "pdf": "quimica_2021_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2_qui/ita_2021_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

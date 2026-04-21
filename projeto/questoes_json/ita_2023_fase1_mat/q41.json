@@ -1,0 +1,51 @@
+{
+  "id": "ita_2023_fase1_mat_q41",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 41,
+  "enunciado_md": "Sejam f e g funções reais definidas da seguinte forma:\nf(x) = 32x e g(x) = 3x −2x. Considere as afirmações:\nI. g(x) ≥0, para todo x ∈R.\nII. f(x) ≥g(x), para todo x ∈R.\nIII. f(x) + g(x) ≥0, para todo x ∈R.\nÉ (são) sempre verdadeira(s):",
+  "alternativas": {
+    "A": "apenas I.",
+    "B": "apenas II.",
+    "C": "apenas III.",
+    "D": "todas.",
+    "E": "nenhuma."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes",
+      "Funções Reais"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "f(x)=3^(2x) e g(x)=3ˣ-2ˣ: afirmações sobre positividade e desigualdades — funções exponenciais."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_mat/ita_2023_fase1_mat_q41.png",
+  "usa_imagem_no_render": true
+}

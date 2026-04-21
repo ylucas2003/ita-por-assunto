@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "De uma altura de 52,5 m é solto um frasco indeformável contendo um gás monoatômico formado\nde partículas com massa de 4,20×10−24 g, e de calor específico a volume constante igual a 1,25 cal/g ◦C.\nAo atingir o solo, a energia cinética do sistema é dissipada na forma de calor no próprio gás. Para uma\ntemperatura inicial do gás de 16 ◦C, determine a variação da velocidade quadrática média das partículas do\ngás devida à queda. Se necessário, use a aproximação binomial (1+x)n ≈1+nx, para |x| ≪1. Desconsidere\na massa do frasco.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Energia",
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Energia",
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Frasco com gás monoatômico em queda: energia cinética de queda convertida em calor → variação da velocidade quadrática média (teoria cinética)."
+  },
+  "fonte": {
+    "pdf": "fisica_2020_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2/ita_2020_fase2_q07.png",
+  "usa_imagem_no_render": true
+}

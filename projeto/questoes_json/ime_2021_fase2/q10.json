@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm sistema planetário hipotético é composto por uma estrela (S1) e dois planetas com órbitas\nelípticas de excentricidade tão pequenas que são aproximadas por circunferências no mesmo plano.\nSeus sentidos de translac¸ ão são opostos, tal que o Planeta 1 (P1) orbita no sentido horário, en-\nquanto o Planeta 2 (P2) no sentido anti-horário.\nP2 possui partículas de óxido de ferro em suspensão na sua atmosfera. Essas partículas absor-\nvem a luz de S1 e irradiam uma luz colorida, cujos fótons possuem energia E. O povo de P1 é\nbastante desenvolvido tecnologicamente e decide lanc¸ar uma espac¸onave, tangencialmente à sua\nprópria órbita, para visitar P2. Para isso, de forma que chegue ao ponto futuro de P2, mantém uma\ntrajetória retilínea, conforme mostra a figura.\nDados:\n• Planeta 1: distância orbital R1; velocidade orbital escalar v1 = 60√\n2 km/s;\n• Planeta 2: distância orbital R2 = 2 x R1;\n• energia dos fótons: E = 3,125 × 10\n−19 J;\n• espac¸onave: gera uma acelerac¸ ão, a partir de P1, de ae = 180√\n2 m/s2, durante 6,4 horas.\nDepois disso, mantém velocidade constante até se aproximar de P2;\n• velocidade da luz no vácuo: c = 3 × 10\n5 km/s; e\n• constante de Planck: h = 6,63 × 10\n−34 J.s.\nDiante do exposto, determine:\na) a velocidade orbital escalar de P2 (v2), em km/s;\nb) a cor da luz emitida por P2, observada de P1, quando ambos os planetas estiverem alinhados\ncom S1 (use a tabela e desconsidere a possibilidade de eclipse); e\nc) a cor da luz de P2, observada da espac¸onave, quando estiver próxima de P2.\n10\n\nRASCUNHO\n11\n\nRASCUNHO\n12\n\nRASCUNHO\n13\n\nRASCUNHO\n14\n\nRASCUNHO\n15\n\nRASCUNHO\n16",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "10.2"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Óptica Física"
+    ],
+    "blocos": [
+      "Óptica",
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema planetário S1+P1+P2 com órbitas opostas + partículas de Fe₂O₃ irradiando luz colorida: fótons/Doppler — gravitação + óptica física."
+  },
+  "fonte": {
+    "pdf": "fis2021.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

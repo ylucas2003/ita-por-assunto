@@ -1,0 +1,45 @@
+{
+  "id": "ime_2019_fase2_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \n \nA figura apresenta três esferas de cargas positivas Q fixas nos vértices de um triângulo equilátero ABC \nde centro O e localizado no plano horizontal. Um corpo de massa m, posicionado no ponto D em t = 0, \ntem a ele grudadas milhares de micropartículas de cargas positivas e massas desprezíveis. O corpo \nsofre uma queda vertical até o ponto O. No intervalo 0  t  5/3 s, diversas micropartículas vão se \nsoltando gradativamente do corpo, de modo que sua velocidade permanece constante. O restante das \nmicropartículas desprende-se totalmente em t = 5/3 s, exatamente no ponto E, no qual o ângulo entre os \nsegmentos AO e AE é de 30o. O corpo continua em movimento até atingir o plano ABC no ponto O em \nt = 8/3 s. \nDetermine: \na) a velocidade do corpo no intervalo 0  t  5/3 s; \nb) a altura inicial do corpo (comprimento DO) em t = 0; \nc) a carga do corpo imediatamente antes do instante t = 5/3 s, quando o restante das micropartículas se \ndesprendeu; \nd) a carga inicial do corpo em t = 0. \nObservações: \n• considere a massa do corpo constante; \n• despreze as dimensões do corpo; \n• ao se desprenderem, as cargas das micropartículas não influenciam no movimento do corpo. \nDados: \n• massa do corpo: m = 2,7 kg; \n• cargas fixas nos vértices do triângulo: Q = 10-4 C; \n• aceleração da gravidade: g = 10 m/s2; \n• constante dielétrica do meio: k = 9 x 109 N m2/C2; \n• comprimentos dos lados do triângulo: L = 24 m. \ng \ncorpo \n\n \n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Eletrostática",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "3 esferas +Q em triângulo equilátero + corpo com micropartículas +q caindo: velocidade constante via Coulomb — eletrostática + dinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2019.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ime_2024_fase2_qui_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nDois compostos distintos, A e B, ambos com fórmula molecular C4H8, geram resultado positivo para\no teste com água de bromo. A reac¸ ão de A com HBr na ausência de peróxido gera uma mistura\nracêmica e, na presenc¸a de peróxido, gera majoritariamente o produto X. O composto B, por sua\nvez, ao reagir com HBr na ausência de peróxido gera majoritariamente o produto Y e, na presenc¸a\ndo peróxido, o produto Z.\nApresente as estruturas moleculares dos compostos A, B, X, Y e Z, sabendo que os mesmos são\nopticamente inativos e que possuem estruturas moleculares distintas.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

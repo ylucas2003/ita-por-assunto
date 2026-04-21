@@ -1,0 +1,52 @@
+{
+  "id": "ime_2021_fase1_mat_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 8,
+  "enunciado_md": "Valor: 0,25\nOs valores para s e t são escolhidos no intervalo (0, r), tais que s + t < r. Considere três\nsegmentos de reta com comprimentos s , t e r – s – t. Qual a probabilidade desses segmentos\nformarem um triângulo?",
+  "alternativas": {
+    "A": "2/3",
+    "B": "1/2",
+    "C": "1/3",
+    "D": "1/4",
+    "E": "3/4"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Probabilidade",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística",
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "s,t∈(0,r), s+t<r; segmentos s, t, r-s-t formam triângulo: probabilidade — probabilidade + geometria plana (desigualdade triangular)."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q08.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_q17",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 17,
+  "enunciado_md": "Valor: 0,25\nNa experiência de Thomas Young, também conhecida como experiência da fenda dupla, uma luz é\ndifratada por uma fenda F0 no anteparo A1. Em seguida, o feixe de ondas difratado é novamente\ndifratado por outras duas fendas, F1 e F2 no anteparo A2, formando no anteparo A3 um padrão de\ninterferência constituído por franjas claras (interferência construtiva), alternadas por franjas escuras\n(interferência destrutiva), conforme mostra a figura. A distância y que separa as franjas (claras ou\nescuras) do ponto central O, vistas sobre o anteparo A3, pode ser definida em func¸ ão da distância\nD entre os anteparos A2 e A3, e da distância d entre as fendas F1 e F2. Essa distância é dada pela\nequac¸ ão:\ny = n\n2dDvxfz,\nem que: n é o número de ordem da interferência; e f é a frequência da luz que se propaga com\nvelocidade v nos percursos ópticos a e b. Para que a equac¸ ão seja dimensionalmente correta e para\nque os raios que partem de F1 e F2 atinjam o ponto P, os valores de n, x e z são, respectivamente:",
+  "alternativas": {
+    "A": "1, 1 e -1",
+    "B": "1, 1 e 1",
+    "C": "2, -1 e -1",
+    "D": "3, 1 e 1",
+    "E": "3, 1 e -1 7"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2"
+    ],
+    "topicos_nomes": [
+      "Óptica Física"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Experiência de Young (fenda dupla F1,F2) com difração em F0: franjas de interferência — óptica física."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q17.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_qui_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Um objeto de madeira foi encontrado em um sítio arqueológico. Duas amostras \n(A e B) desse objeto foram submetidas à datação por radiocarbono. As amostras A e B \napresentaram atividade, respectivamente, iguais a 10 e 12 desintegrações por minuto por \ngrama de carbono. No entanto, constatou-se que a amostra B não foi devidamente \nmanuseada, por isso apresentou uma contaminação por madeira “nova”. \n \nConsidere as seguintes informações: \n \nI. \nA atividade do 14C em equilíbrio com a atmosfera é de 15 desintegrações por minuto \npor grama de carbono. \nII. O tempo de meia-vida do 14C é de 5730 anos. \nIII. A atividade é diretamente proporcional à quantidade de átomos que sofrem decaimento. \n \nA partir dessas informações, calcule os seguintes valores numéricos: \n \na) a diferença de idade, em anos, obtida a partir da análise das amostras A e B; \nb) o percentual de contaminação da amostra B, sabendo que a amostra A é “pura” e que \na B está contaminada. \n \n \n \n\n \n8 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Química Nuclear"
+    ],
+    "blocos": [
+      "Química Nuclear"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Datação por ¹⁴C: amostras A=10 e B=12 dpm/g; atividade em equilíbrio=15 dpm/g; B contaminada com madeira nova — química nuclear (meia-vida)."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q05.png",
+  "usa_imagem_no_render": true
+}

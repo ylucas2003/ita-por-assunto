@@ -1,0 +1,44 @@
+{
+  "id": "ime_2019_fase2_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \nEm um jogo, João e Maria possuem cada um três dados não viciados com seis faces numeradas de 1 a \n6. Cada um lançará os seus dados, sendo João o primeiro a lançar. O vencedor será aquele que obtiver \no maior número de dados com resultados iguais. Em caso de empate, vencerá aquele que tiver o maior \nnúmero nos dados de igual resultado. Se ainda houver empate, não haverá vencedor. Suponha que \nJoão obteve apenas dois dados com mesmo resultado. Qual é a probabilidade de Maria vencer o jogo? \n \n\n \n 2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "João e Maria, 3 dados cada; João tirou 2 iguais: probabilidade de Maria vencer — probabilidade."
+  },
+  "fonte": {
+    "pdf": "mat2019.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_mat/ime_2019_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ime_2022_fase1_mat_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "enunciado_md": "Valor: 0,25\nSeja um tetraedro de vértices A, B, C e D. São dados os ângulos em radianos:\nA bDB = π\n3\ne\nC bDB = A bDC = π\n2\ne os comprimentos das arestas em centímetros CD = 3 e AD = BD = 4 .\nA distância em centímetros do ponto D ao plano ABC é",
+  "alternativas": {
+    "A": "6 7 √ 7",
+    "B": "3",
+    "C": "2 √ 3",
+    "D": "4",
+    "E": "5 3"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Geometria Espacial",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tetraedro ABCD com ângulos em D: π/3, π/2, π/2 e CD=3, AD=BD=4: distância de D ao plano ABC — geom. espacial + trig."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q06.png",
+  "usa_imagem_no_render": true
+}

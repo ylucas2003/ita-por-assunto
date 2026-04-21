@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_mat_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Considere T um tronco de pirâmide regular de altura h = 4 + 2\n√\n3 com bases hexagonais\nparalelas. Sabendo que o lado da maior base hexagonal mede 8\n√\n3/3 e que o ângulo diedral entre as faces\nlaterais e a base do tronco mede 75o, determine o volume de T.\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tronco de pirâmide hexagonal regular com altura 4+2√3, diedro 75°, base maior: volume — geometria espacial."
+  },
+  "fonte": {
+    "pdf": "matematica_2022_2f.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_mat/ita_2022_fase2_mat_q07.png",
+  "usa_imagem_no_render": true
+}

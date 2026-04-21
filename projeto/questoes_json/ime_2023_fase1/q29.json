@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_q29",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 29,
+  "enunciado_md": "Valor: 0,25\nO arranjo da figura é composto por uma casca esférica condutora oca de espessura a com uma\npartícula de carga negativa fixada em seu centro. A casca possui um túnel muito estreito em torno\ndo eixo x, por onde uma partícula de carga positiva, inicialmente em repouso, pode atravessá-la.\nDados:\n• massa da partícula de carga positiva: m;\n• carga da partícula positiva: +q;\n• carga da partícula negativa: −Q;\n• constante eletrostática do meio não condutor (vácuo): k;\n• raio interno da casca condutora: a;\n• raio externo da casca condutora: 2a;\n• posição inicial da partícula positiva: x = −3a;\n• posição da partícula negativa: fixa em x = 0.\nObservações:\n• |q| ≪|Q|;\n• a carga da partícula positiva é pequena o suficiente para não afetar o equilíbrio eletrostático\nna casca esférica condutora;\n• despreze qualquer concentração de cargas nas paredes do túnel;\n• o eixo x passa pelo centro da casca;\n• a casca condutora está fixa e com carga total nula.\nAo ser liberada do repouso, a partícula positiva atinge a velocidade v em x = −a. Pode-se afirmar\nque v2 é:",
+  "alternativas": {
+    "A": "kqQ 2am",
+    "B": "kqQ 3am",
+    "C": "4kqQ 3am",
+    "D": "3kqQ 2am",
+    "E": "kqQ am 16"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletrostática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Casca esférica condutora oca + partícula -Q no centro + partícula +q atravessando túnel: velocidade — eletrostática (cavidade e indução)."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q29.png",
+  "usa_imagem_no_render": true
+}

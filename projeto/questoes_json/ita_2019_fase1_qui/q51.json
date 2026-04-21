@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_qui_q51",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 51,
+  "enunciado_md": "Retardantes de chama são substâncias que atenuam e/ou inibem o processo de combustão de \num material. Considere os seguintes fenômenos: \nI. \nCriação de um dissipador de calor usando um composto que se decompõe em um processo altamente \nexotérmico, gerando produtos voláteis não combustíveis. \nII. \nAumento da transferência de calor na superfície em combustão por eliminação do material fundido. \nIII. \nEnvenenamento da chama pela evolução de espécies químicas que capturam os radicais H e OH que \nsão ativos na propagação da termooxidação da chama. \nIV. \nLimitação da transferência de calor e massa pela criação de uma camada de carbonização isolante \nna superfície do material sólido em combustão. \nAssinale a opção que apresenta corretamente o(s) fenômeno(s) que pode(m) ser atribuído(s) a ações de \nretardantes de chama.",
+  "alternativas": {
+    "A": "Apenas I e II",
+    "C": "Apenas II, III e IV",
+    "E": "Todos",
+    "B": "Apenas I e IV",
+    "D": "Apenas III"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Cinética Química",
+      "Termoquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Retardantes de chama: decomposição endotérmica, transferência de calor, captura de radicais H/OH — cinética química + termoquímica de combustão."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q51.png",
+  "usa_imagem_no_render": true
+}

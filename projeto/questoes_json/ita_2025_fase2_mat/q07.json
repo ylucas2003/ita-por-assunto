@@ -1,0 +1,47 @@
+{
+  "id": "ita_2025_fase2_mat_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Considere o polinômio p(x) = x3 + ax2 + b. Determine os valores reais a e b,\nsabendo que:\nI. p(x) tem uma raiz real dupla;\nII. Os pontos (x1; 0), (x2; 0) e (0; b) são vértices de um triângulo retângulo, em que x1 e x2\nsão raizes disitintas de p(x).\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios",
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica",
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "p(x)=x³+ax²+b com raiz real dupla e triângulo retângulo com vértices (x₁,0),(x₂,0),(0,b): Girard + perpendicularidade."
+  },
+  "fonte": {
+    "pdf": "matematica_2025_2f.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_mat/ita_2025_fase2_mat_q07.png",
+  "usa_imagem_no_render": true
+}

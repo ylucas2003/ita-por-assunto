@@ -1,0 +1,36 @@
+{
+  "id": "ime_2022_fase2_qui_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nO but-2-enal (aldeído crotônico ou crotonaldeído) é um líquido lacrimogênio usado como precursor\nde diversos produtos químicos, tais como a vitamina E, o ácido sórbico e alguns compostos piri-\nmidínicos.\nApresente uma rota química para sintetizar o but-2-enal a partir do carbeto de cálcio.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

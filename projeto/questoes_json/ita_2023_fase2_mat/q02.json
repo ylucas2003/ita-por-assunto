@@ -1,0 +1,44 @@
+{
+  "id": "ita_2023_fase2_mat_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Considere as seguintes matrizes:\nA =\n\u0014\n1\n−2\n−2\n1\n\u0015\n,\nB =\n\u0014 0\n6\n6\n0\n\u0015\ne\nC =\n\u0014 3\n3\n3\n3\n\u0015\n.\nDetermine os números α ∈R tais que a matriz M = α2A + αB + C é invertível.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matrizes A,B,C 2×2; M=α²A+αB+C invertível: valores de α com det M ≠ 0 — polinômio em α."
+  },
+  "fonte": {
+    "pdf": "matematica_2023_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_mat/ita_2023_fase2_mat_q02.png",
+  "usa_imagem_no_render": true
+}

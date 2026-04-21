@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_mat_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "O sólido S é formado pela união de dois paralelepípedos retângulos congru-\nentes, com posição e medidas conforme a figura.\nVista frontal\n5\n3\n5\n3\nVista superior\n4\n3\n5\n4\nSeja AB um segmento de reta completamente contido em S que contém um dos vértices\nde S. Encontre o maior valor possível de m(AB).\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sólido formado por 2 paralelepípedos: maior segmento AB contido em S com extremidade em um vértice — geometria espacial."
+  },
+  "fonte": {
+    "pdf": "matematica_2024_2f.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_mat/ita_2024_fase2_mat_q06.png",
+  "usa_imagem_no_render": true
+}

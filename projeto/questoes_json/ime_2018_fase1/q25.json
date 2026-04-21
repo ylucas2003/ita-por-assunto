@@ -1,0 +1,50 @@
+{
+  "id": "ime_2018_fase1_q25",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 25,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \nUm manômetro de reservatório é composto por dois tubos verticais comunicantes pelas respectivas bases \ne abertos em suas extremidades. Esse conjunto é preenchido parcialmente por um fluido e, como o \ndispositivo encontra-se no ar à pressão atmosférica padrão, o nível de fluido nos dois tubos é o mesmo. \nEm um dado momento, no tubo à esquerda, é adicionada uma pressão manométrica equivalente a 12 mm \nde coluna de água. Considerando que não haja vazamento no manômetro, a ascensão de fluido no tubo à \ndireita, em mm, é igual a: \nDados: \n• \ndiâmetro do tubo à esquerda: 20 mm; \n• \ndiâmetro do tubo à direita: 10 mm; e \n• \ndensidade do fluido: 1,2.",
+  "alternativas": {
+    "A": "20",
+    "B": "40",
+    "C": "8",
+    "D": "4",
+    "E": "10"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Manômetro de reservatório com fluido: ascensão devida a pressão manométrica de 12 mm — hidrostática."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 13,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1/ime_2018_fase1_q25.png",
+  "usa_imagem_no_render": true
+}

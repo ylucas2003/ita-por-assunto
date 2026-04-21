@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_mat_q12",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 12,
+  "enunciado_md": "Valor: 0,25\nNo que diz respeito à posic¸ ão relativa das circunferências representadas pelas equac¸ ões\nx2 + y2 −6x −8y = 11\nx2 + y2 −8x + 4y = −16\npode-se afirmar que elas são:",
+  "alternativas": {
+    "A": "exteriores.",
+    "B": "tangentes exteriores.",
+    "C": "tangentes interiores.",
+    "D": "concêntricas.",
+    "E": "secantes. 4"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Duas circunferências x²+y²-6x-8y=11 e x²+y²-8x+4y=-16: posição relativa — geometria analítica."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_mat/ime_2020_fase1_mat_q12.png",
+  "usa_imagem_no_render": true
+}

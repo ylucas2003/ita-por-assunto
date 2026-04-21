@@ -1,0 +1,52 @@
+{
+  "id": "ime_2022_fase1_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "enunciado_md": "Valor: 0,25\nUm polígono regular possui 2n vértices (n ∈N, n > 1). Escolhem-se ao acaso 4 vértices do\npolígono, formando o quadrilátero ABCD. A probabilidade de ABCD ser um retângulo é",
+  "alternativas": {
+    "A": "\u0000n 2 \u0001 \u00002n 4 \u0001",
+    "B": "n −1 \u00002n 4 \u0001",
+    "C": "\u0000n+2 4 \u0001 \u00002n 4 \u0001",
+    "D": "\u00002n 2 \u0001 6 \u00002n 4 \u0001",
+    "E": "n2 + 2n + 4 12 \u00002n 4 \u0001"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Probabilidade",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polígono regular 2n vértices; 4 escolhidos ao acaso formam ABCD: P(ABCD retângulo) — probabilidade + geometria plana."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q09.png",
+  "usa_imagem_no_render": true
+}

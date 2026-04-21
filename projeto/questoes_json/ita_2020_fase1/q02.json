@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "enunciado_md": "Um sistema de defesa aérea testa separadamente dois mísseis contra alvos móveis que se\ndeslocam com velocidade v, constante ao longo de uma reta distante de d do ponto de lançamento dos\nmísseis. Para atingir o alvo, o míssil 1 executa uma trajetória retilínea, enquanto o míssil 2, uma trajetória\ncom velocidade sempre orientada para o alvo. A figura ilustra o instante de disparo de cada míssil, com o\nalvo passando pela origem do sistema de coordenadas xy. Sendo os módulos das velocidades dos mísseis\niguais entre si, maiores que va e mantidos constantes, considere as seguintes afirmações:\nI. Os intervalos de tempo entre o disparo e a colisão podem ser iguais para ambos os mísseis.\nII. Para que o míssil 1 acerte o alvo é necessário que o módulo da componente y de sua velocidade seja\nigual a va.\nIII. Desde o disparo até a colisão, o míssil 2 executa uma trajetória curva de concavidade positiva com\nrelação ao sistema xy.\n1y\nConsiderando V como verdadeira e F como falsa, as afirmações I, Il e HI\nsão, respectivamente, Míssil 2 Míssil 1",
+  "alternativas": {
+    "A": "V,Vev.",
+    "D": "F,Ver. “lo",
+    "B": "F,FerF.",
+    "E": "F,Vev. O - x NY Alvo móvel",
+    "C": "V,Fev. a"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Cinemática"
+    ],
+    "blocos": [
+      "Cinemática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cinemática vetorial: perseguição pura (trajetória orientada para o alvo) vs. trajetória retilínea — comparação de velocidades."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q02.png",
+  "usa_imagem_no_render": true
+}

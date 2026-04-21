@@ -1,0 +1,51 @@
+{
+  "id": "ita_2021_fase1_mat_q48",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 48,
+  "enunciado_md": "Seja A uma matriz real quadrada de ordem 2 tal que\nA\n\u0012 1\n2\n3\n4\n\u0013\n=\n\u0012 1\nx\ny\n0\n\u0013\ne\nA\n\u0012 2\n3\n4\n5\n\u0013\n=\n\u0012\nx\n3\ny + 1\n1\n\u0013\n.\nEntão, o traço da matriz A é igual a:",
+  "alternativas": {
+    "A": "0.",
+    "B": "1.",
+    "C": "2.",
+    "D": "3.",
+    "E": "4."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "4.2"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes",
+      "Sistemas Lineares"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matriz A 2×2 satisfazendo duas equações matriciais A·M=N: determinação do traço via sistema linear nos elementos de A."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_mat/ita_2021_fase1_mat_q48.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ita_2021_fase1_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "enunciado_md": "Uma bola de gude de raio r e uma bola de basquete de raio R são lançadas contra uma parede\ncom velocidade horizontal v e com seus centros a uma altura h. A bola de gude e a bola de basquete estão\nna iminência de contato entre si, assim como ambas contra a parede. Desprezando a duração de todas as\ncolisões e quaisquer perdas de energia, calcule o deslocamento horizontal ∆S da bolinha de gude ao atingir\no solo.",
+  "alternativas": {
+    "A": "3v r 2(h −2r) g",
+    "B": "3v r 2(h −r) g",
+    "C": "v r 2(h −r) g",
+    "D": "v r 2(h −2r) g",
+    "E": "3v r 2(h −R −r) g E ( ) mg + √ 8kmV 2. E ( ) mg + √ 8kmV 2. E ( ) mg + √ 8kmV 2. h g DS R r"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Cinemática",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Cinemática",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bola de gude colidindo elasticamente com bola de basquete e depois com o solo: colisão elástica (quantidade de movimento) + cinemática de projétil."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1/ita_2021_fase1_q03.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA figura acima apresenta um circuito composto por três baterias de 10 V, seis resistores idênticos\nR e três chaves S.\nAo fechar as três chaves simultaneamente, após 20 segundos, o circuito consome 20 kJ de energia.\nConsiderando sempre a topologia do circuito original para cada pedido, determine:\na) o valor da resistência de cada resistor R, em Ω;\nb) a potência dissipada no circuito, em W, se 01 (uma) das baterias tiver seus terminais curto-\ncircuitados; e\nc) a potência dissipada no circuito, em W, se os três resistores da região tracejada do circuito\ntiverem seus terminais abertos.\n9",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Circuito com 3 baterias 10 V + 6 resistores R + 3 chaves: 20 kJ em 20 s; R, potência com curto etc — eletrodinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2021.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

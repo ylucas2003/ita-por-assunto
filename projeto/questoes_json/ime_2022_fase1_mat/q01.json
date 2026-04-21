@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "enunciado_md": "Valor: 0,25\nConsidere as matrizes A =\n \n2 3\n1 5\n!\ne B =\n \n3 6\n2 1\n!\n. Seja XT a transposta da matriz X.\nSabendo que XTA−1 = B então X−1 é",
+  "alternativas": {
+    "A": "− 1 7 −12 5 39 −11 !",
+    "B": "− 1 63 11 −5 −39 12 !",
+    "C": "− 1 63 12 −39 −5 11 !",
+    "D": "− 1 63 −12 5 39 −11 !",
+    "E": "− 1 63 11 39 −5 12 !"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matrizes A,B; X^T A⁻¹ = B: determinar X⁻¹ — matrizes/determinantes."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q01.png",
+  "usa_imagem_no_render": true
+}

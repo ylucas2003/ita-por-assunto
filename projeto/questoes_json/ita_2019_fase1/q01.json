@@ -1,0 +1,55 @@
+{
+  "id": "ita_2019_fase1_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "enunciado_md": "Em férias no litoral, um estudante faz para um colega as seguintes observações:\nI.\nA luz solar consiste de uma onda eletromagnética transversal, não polarizada e policromática.\nII.\nA partir de um certo horário, toda a luz solar que incide sobre o mar sofre reflexão total.\nIII.\nA brisa marítima é decorrente da diferença entre o calor específico da areia e o da água do mar.\nA respeito dessas observações, é correto afirmar que",
+  "alternativas": {
+    "A": "todas são verdadeiras.",
+    "B": "apenas I é falsa.",
+    "C": "apenas II é falsa.",
+    "D": "apenas III é falsa.",
+    "E": "há mais de uma observação falsa."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2",
+      "10.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Física",
+      "Óptica Geométrica",
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica",
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mista: (I) onda EM transversal não polarizada — óptica física; (II) reflexão total — óptica geométrica; (III) brisa marítima/calor específico — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao": "imagens/ita_2019_fase1/ita_2019_fase1_q01.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1/ita_2019_fase1_q01.png"
+}

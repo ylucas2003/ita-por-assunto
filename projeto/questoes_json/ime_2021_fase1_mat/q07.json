@@ -1,0 +1,52 @@
+{
+  "id": "ime_2021_fase1_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "enunciado_md": "Valor: 0,25\nSeja a equação do terceiro grau em x:\nx\n3 + p1x\n2 + p2x + p3 = 0\nonde p1 < p2 < p3 são números primos menores que 100. Para que a razão entre a soma e o\nproduto das raízes da equação seja a maior possível, o valor de p2 + p3 deve ser:",
+  "alternativas": {
+    "A": "144",
+    "B": "152",
+    "C": "162",
+    "D": "172",
+    "E": "196"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios",
+      "Aritmética"
+    ],
+    "blocos": [
+      "Polinômios",
+      "Aritmética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "x³+p₁x²+p₂x+p₃=0; p₁<p₂<p₃ primos <100: razão soma/produto máxima → p₂+p₃ — polinômios + primos."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q07.png",
+  "usa_imagem_no_render": true
+}

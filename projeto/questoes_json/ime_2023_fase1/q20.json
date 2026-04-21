@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_q20",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 20,
+  "enunciado_md": "Valor: 0,25\nDois gases perfeitos, G1 e G2, estão contidos em recipientes rígidos, separados por um êmbolo\nque se move sem atrito por um tubo longo de área de seção transversal S, conforme a figura.\nCada um dos gases possui volume inicial V , a uma temperatura de 27 °C. Considere a seguinte\ntransformação isobárica do conjunto: a temperatura de G1 aumenta 100 °C e a de G2 diminui 100 °C.\nA expressão que representa o deslocamento x do êmbolo até o novo ponto de equilíbrio é:",
+  "alternativas": {
+    "A": "2V/(3S)",
+    "B": "3V/(2S)",
+    "C": "V/(2S)",
+    "D": "V/(3S)",
+    "E": "V/(6S)"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "2 gases perfeitos G1 e G2 separados por êmbolo móvel, V,27°C; ΔT₁=+100°C, ΔT₂=-100°C isobárico: deslocamento x do êmbolo — termodinâmica (gases)."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q20.png",
+  "usa_imagem_no_render": true
+}

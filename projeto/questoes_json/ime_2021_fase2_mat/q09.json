@@ -1,0 +1,44 @@
+{
+  "id": "ime_2021_fase2_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSabendo-se que sen4α\na\n+ cos4 α\nb\n=\n1\na + b com a ̸= 0, b ̸= 0 e a + b ̸= 0, determine sen8α\na3\n+ cos8 α\nb3\nem\nfunção de a e b somente.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "sen⁴α/a + cos⁴α/b = 1/(a+b): determinar sen⁸α/a³ + cos⁸α/b³ — trigonometria (identidade)."
+  },
+  "fonte": {
+    "pdf": "mat2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase2_mat/ime_2021_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

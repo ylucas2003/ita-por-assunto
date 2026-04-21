@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere o circuito da figura composto por três fontes iguais, três resistências de valor R1, três\nchaves e uma malha infinita de resistências de valor R2. Sabe-se que a chave S0 é fechada em\nt = 0, a chave S1 é fechada em t = 20s, a chave S2 é fechada em t = 40s e que nenhuma das\nchaves muda seu estado após o fechamento.\nDados:\n• V = 40 V;\n• R1 = 6 Ω;\n• R2 = (\n√\n5 −1) Ω.\nDado o exposto, calcule o valor da energia total dissipada na malha infinita de resistências entre os\ninstantes t = 0 e t = 60s.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "3 fontes + 3 R₁ + 3 chaves + malha infinita de R₂: energia dissipada — eletrodinâmica (malha auto-similar)."
+  },
+  "fonte": {
+    "pdf": "fis2025.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2/ime_2025_fase2_q04.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ita_2022_fase2_mat_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Seja A a matriz com 5 linhas e 10 colunas cujas entradas an,m são dadas por\nan,m =\n(\n1,\nse m = 1\nn + an,(m−1),\nse m > 1 .\nDetermine a soma de todas as entradas de A.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matriz 5×10 definida por recorrência an,m=n+an,m-1 e an,1=1: soma total das entradas — PA em cada linha."
+  },
+  "fonte": {
+    "pdf": "matematica_2022_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_mat/ita_2022_fase2_mat_q03.png",
+  "usa_imagem_no_render": true
+}

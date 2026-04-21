@@ -1,0 +1,47 @@
+{
+  "id": "ime_2025_fase2_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nFigura 1: Esquemático do dispositivo\nFigura 2: Característica terminal da fonte\nFigura 3: Velocidade da barra\nA Figura 1 mostra o esquemático de um dispositivo contendo uma fonte de tensão cujos terminais\nsão conectados às extremidades de um trilho, sobre o qual se encontra apoiada uma barra, que é\nsubmetida a uma força horizontal variável F(t). A região do trilho está sujeita a uma densidade\nde fluxo magnético B, com direção e sentido também indicados nessa figura. A característica\nterminal da fonte é mostrada na Figura 2 e a velocidade de deslocamento da barra sobre os trilhos\né mostrada na Figura 3.\nDados:\n• massa da barra: 5 kg;\n• comprimento da barra: 1 m;\n• módulo de B = 2,5 T;\n• resistência da barra: 2 Ω.\nObservações:\n• não há atrito no deslocamento da barra sobre os trilhos;\n• as resistências elétricas dos trilhos e das conexões são desprezíveis;\n• a força F(t) é tal que estabeleça as condições apresentadas nos gráficos;\n• todas as grandezas indicadas nos gráficos estão em unidades do sistema internacional.\nDiante do exposto, determine:\na) o menor módulo de corrente no intervalo 0 ≤t ≤6 s;\nb) a energia total dissipada pela resistência interna da fonte no intervalo 2 s ≤t ≤4 s;\nc) o módulo e o sentido de F(t) em t = 5 s.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.2",
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Indução Eletromagnética e Ondas EM",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Barra sobre trilho em B + fonte de tensão + F(t) horizontal variável: característica terminal/v(t) — indução + eletrodinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2025.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2/ime_2025_fase2_q06.png",
+  "usa_imagem_no_render": true
+}

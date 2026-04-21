@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_mat_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Considere arccos : [−1, 1] →[0, π] e arcsen : [−1, 1] →[−π/2, π/2]. Determine todos os valores\nde arccos(x) dado que x satisfaz\narccos(x4) + arcsen (x2 −1/4) = π/2.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Equação arccos(x⁴)+arcsen(x²-1/4)=π/2: identidade arccos(a)+arcsen(a)=π/2 para resolver em x."
+  },
+  "fonte": {
+    "pdf": "matematica_2022_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_mat/ita_2022_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

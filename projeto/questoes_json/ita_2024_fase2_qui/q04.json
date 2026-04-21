@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_qui_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Considere as semicélulas descritas e os respectivos potenciais do elemento \ngalvânico em relação ao eletrodo padrão de hidrogênio. \nSemicélula A: Ag2O(s)|Ag(s) em meio básico; Eo = 0,342 V; \nSemicélula B: NbO2(s)|Nb(s) em meio ácido; Eo = െ0,690 V. \nCom base nas informações fornecidas, apresente: \na)\nAs equações químicas balanceadas que representam as semirreações, especificando\no catodo e o anodo.\nb)\nA equação química que representa a reação global.\nc)\nO valor numérico da força eletromotriz.\n\n17 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Semicélulas Ag₂O|Ag (básico) e NbO₂|Nb (ácido): equações balanceadas, reação global e fem — eletroquímica."
+  },
+  "fonte": {
+    "pdf": "quimica_2024_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_qui/ita_2024_fase2_qui_q04.png",
+  "usa_imagem_no_render": true
+}

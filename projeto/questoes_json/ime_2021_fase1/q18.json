@@ -1,0 +1,52 @@
+{
+  "id": "ime_2021_fase1_q18",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 18,
+  "enunciado_md": "Valor: 0,25\nUma fonte sonora A, que emite um som de frequência constante, e um observador B estão pró-\nximos um do outro e movem-se lentamente de acordo com as equações temporais no Plano XY\nmostradas abaixo:\nXA = cos(t) + log(1 + t)\nYA = 2t + 3\nXB = log(1 + t) −sen(t)\nYB = 2t −1\nConsiderando que a fonte sonora emita um som de frequência constante, a frequência percebida\npelo observador, dentre as opções, é desprovida de efeito Doppler quando o instante t for:",
+  "alternativas": {
+    "A": "0",
+    "B": "π/6",
+    "C": "π/2",
+    "D": "3π/4",
+    "E": "π 8"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Cinemática",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Fonte A e observador B com posições X,Y dependentes de t: instante sem efeito Doppler (v_relativa radial nula) — acústica + cinemática."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1/ime_2021_fase1_q18.png",
+  "usa_imagem_no_render": true
+}

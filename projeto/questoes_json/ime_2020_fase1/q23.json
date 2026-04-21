@@ -1,0 +1,52 @@
+{
+  "id": "ime_2020_fase1_q23",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 23,
+  "enunciado_md": "Valor: 0,25\nUma partícula de massa m e carga q positiva é lanc¸ada obliquamente com velocidade v0 e ângulo\nα com a horizontal, conforme a figura. Em certo instante t1, antes de alcanc¸ar a altura máxima\nde sua trajetória, quando está a uma distância horizontal x1 do ponto de lanc¸amento, a partícula\né submetida a um campo magnético de intensidade B, na direc¸ ão vertical. Considerando g a\nacelerac¸ ão da gravidade local, a menor intensidade B do campo magnético para que a partícula\natinja o solo na posic¸ ão (x1, 0) é:",
+  "alternativas": {
+    "A": "2πm q(2v0sen(α) g −t1)",
+    "B": "πm q(2v0sen(α) g −t1)",
+    "C": "2πm q(v0sen(α) g −t1)",
+    "D": "4πm q(2v0sen(α) g −t1)",
+    "E": "πm q(v0sen(α) 2g −t1)"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Magnetismo",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Cinemática",
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partícula m,+q lançada obliquamente v₀,α; em t₁ entra em B vertical: menor B para atingir o solo — magnetismo + cinemática (lançamento oblíquo)."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q23.png",
+  "usa_imagem_no_render": true
+}

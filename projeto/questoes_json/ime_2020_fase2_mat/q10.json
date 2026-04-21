@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase2_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm paralelepípedo oblíquo ABCD — EFGH possui todas as arestas com comprimento a. O plano\nque contém ABFE forma um ângulo de 60º com o plano que contém ABCD. O ângulo do vértice\nE da face ABFE é 120º. Se 0 for o ângulo do vértice E do paralelogramo contido na base superior\nEFGH do paralelepípedo, determine o volume do paralelepípedo em função da aresta a e do ângulo\n0.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria",
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Paralelepípedo oblíquo com arestas a; plano ABFE forma 60° com ABCD, ângulo em E=120°: volume em função de θ (base superior) — geom. espacial + trig."
+  },
+  "fonte": {
+    "pdf": "mat2020.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2_mat/ime_2020_fase2_mat_q10.png",
+  "usa_imagem_no_render": true
+}

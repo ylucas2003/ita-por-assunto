@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Um espelho côncavo de distância focal 12 cm reflete a imagem de um objeto puntiforme situado\nno seu eixo principal a 30 cm de distância. O objeto, então, inicia um movimento com velocidade ⃗vo de\nmódulo 9,0 m/s. Determine o módulo e o sentido do vetor velocidade inicial da imagem, ⃗vi, nos seguintes\ncasos:\n(a) o objeto desloca-se ao longo do eixo principal do espelho.\n(b) o objeto desloca-se perpendicularmente ao eixo principal do espelho.\nDado: (1 + x)−1 ≈1 −x, para |x| ≪1.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Espelho côncavo f=12 cm, objeto a 30 cm: velocidade da imagem (módulo e sentido) para deslocamentos (a) longitudinal e (b) transversal (equação de Gauss diferenciada)."
+  },
+  "fonte": {
+    "pdf": "fisica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2/ita_2019_fase2_q04.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,113 @@
+{
+  "q01": {
+    "topicos_ids": [
+      "1.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Problema de idades — soma de dígitos de ano de nascimento."
+  },
+  "q02": {
+    "topicos_ids": [
+      "7.1",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "PA de ângulos + soma trigonométrica."
+  },
+  "q03": {
+    "topicos_ids": [
+      "3.1",
+      "2.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Determinante envolvendo logaritmos."
+  },
+  "q04": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Inequação polinomial de 4º grau — conjunto solução em intervalos."
+  },
+  "q05": {
+    "topicos_ids": [
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Relações de Girard — soma de cubos de raízes."
+  },
+  "q06": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Número complexo com z^12 real e Re(z)=1."
+  },
+  "q07": {
+    "topicos_ids": [
+      "1.2",
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Funções recursivas em ℕ com recorrência binária."
+  },
+  "q08": {
+    "topicos_ids": [
+      "6.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade em dados de 20 faces (RPG)."
+  },
+  "q09": {
+    "topicos_ids": [
+      "6.2",
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Probabilidade envolvendo hexágono regular inscrito."
+  },
+  "q10": {
+    "topicos_ids": [
+      "2.4",
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Número de raízes reais de equação transcendente com cosseno."
+  },
+  "q11": {
+    "topicos_ids": [
+      "5.1",
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Triângulo com lados em PA — relação trigonométrica."
+  },
+  "q12": {
+    "topicos_ids": [
+      "4.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Hipérbole equilátera rotacionada — geometria analítica."
+  },
+  "q13": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Quadrado inscrito em setor circular — geometria plana."
+  },
+  "q14": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Afirmações sobre pontos, retas e planos — geometria espacial."
+  },
+  "q15": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tetraedro com arestas ortogonais — área total."
+  }
+}

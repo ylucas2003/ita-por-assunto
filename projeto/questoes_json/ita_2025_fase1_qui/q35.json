@@ -1,0 +1,52 @@
+{
+  "id": "ita_2025_fase1_qui_q35",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 35,
+  "enunciado_md": "Assinale a opção que contém o valor ERRADO do número de oxidação de \nátomos de carbono em diferentes compostos.",
+  "alternativas": {
+    "A": "−4 no metano.",
+    "B": "+4 no dióxido de carbono.",
+    "C": "+3 no carbono do grupo nitrila na propanonitrila.",
+    "D": "+2 no carbono do grupo cetona na propanona.",
+    "E": "+3 no ácido metanoico."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.4",
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Funções Inorgânicas",
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Nox do carbono errado: -4 metano, +4 CO₂, +3 nitrila, +2 cetona, +3 ácido metanoico (erro: deveria ser +2) — funções + redox."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 14,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_qui/ita_2025_fase1_qui_q35.png",
+  "usa_imagem_no_render": true
+}

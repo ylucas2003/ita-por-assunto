@@ -1,0 +1,47 @@
+{
+  "id": "ita_2024_fase2_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Em um acelerador cíclotron uma partícula 1 carregada com carga q, massa m0 e\nenergia cinética K, submetida a um campo magnético ⃗B = –Bˆz, percorre uma trajetória curvilínea de\nraio r1 em um plano xy. No mesmo acelerador, uma partícula 2 carregada com carga 2q, massa 2m0\ne energia cinética 4K, submetida ao mesmo campo magnético, percorre outra trajetória curvilínea\nde raio r2. Considerando efeitos relativísticos, estime a razão r2/r1 em termos das energia cinética\nK, massa m0 e velocidade da luz c.\nDado: No referencial do acelerador, a expressão equivalente à resultante centrípeta no contexto da\nmecânica relativística é p2/(γm0r), onde p é o momento relativístico, γ é o fator de Lorentz e r é o\nraio da trajetória circular.\n11",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "14.2"
+    ],
+    "topicos_nomes": [
+      "Magnetismo",
+      "Relatividade Restrita"
+    ],
+    "blocos": [
+      "Física Moderna",
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cíclotron com duas partículas (q,m₀,K) e (2q,2m₀,4K): razão dos raios r=p/(qB) considerando momento relativístico."
+  },
+  "fonte": {
+    "pdf": "fisica_2024_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2/ita_2024_fase2_q10.png",
+  "usa_imagem_no_render": true
+}

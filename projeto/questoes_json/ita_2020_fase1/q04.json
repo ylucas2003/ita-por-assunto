@@ -1,0 +1,52 @@
+{
+  "id": "ita_2020_fase1_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "enunciado_md": "Por uma mangueira de diâmetro D; flui água a uma velocidade de 360 m/min, conectando-se\nna sua extremidade a 30 outras mangueiras iguais entre si, de diâmetro D, < Dj. Assinale a relação Do/Dy\npara que os jatos de água na saída das mangueiras tenham alcance horizontal máximo de 40 m.",
+  "alternativas": {
+    "A": "1/10.",
+    "B": "3/10.",
+    "C": "4/5.",
+    "D": "1/2.",
+    "E": "v2/3. 2"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Cinemática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mangueira subdividida em 30 saídas: equação da continuidade + alcance horizontal de projétil (45°)."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q04.png",
+  "usa_imagem_no_render": true
+}

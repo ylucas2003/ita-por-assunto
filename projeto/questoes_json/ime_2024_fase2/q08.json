@@ -1,0 +1,42 @@
+{
+  "id": "ime_2024_fase2_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA trelic¸a estável da figura, composta por barras metálicas formando 3 triângulos isósceles, é apoi-\nada nos pontos A e E. No ponto D é aplicada uma forc¸a vertical, de cima para baixo, de 8 kN.\nDiante do exposto, determine.:\na) as reac¸ ões de apoio nos pontos A e E;\nb) as cargas a que são submetidas as barras AB, AC, CE e DE, além da natureza de cada uma\ndelas (trac¸ ão ou compressão);\nc) as cargas a que são submetidas as barras BC e CD, além da natureza de cada uma delas (trac¸ ão\nou compressão).\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Estática e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Treliça de 3 triângulos isósceles apoiada em A e E, F=8 kN em D: reações + cargas nas barras — estática (treliça)."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

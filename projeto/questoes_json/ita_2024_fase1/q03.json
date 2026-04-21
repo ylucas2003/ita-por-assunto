@@ -1,0 +1,52 @@
+{
+  "id": "ita_2024_fase1_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "enunciado_md": "Uma esfera de raio R possui uma cavidade esférica\ninterna de raio R/2 conforme mostra a figura. A cavidade tan-\ngencia internamente a esfera no seu ápice A, que está a uma al-\ntura H = 15R do ponto S, localizado no solo verticalmente abaixo.\nOs dois centros de curvatura e o ponto A se encontram na linha\nvertical que passa por S. A esfera é então abandonada de seu\nrepouso em queda livre, atinge o solo em S e inverte seu movi-\nmento.\nConsiderando que a distribuic¸ ão de massa é homogênea na\nregião sólida do objeto e que o coeficiente de restituic¸ ão da co-\nlisão é 0,80, a altura máxima alcanc¸ada pelo centro de massa da\nesfera após a colisão é aproximadamente igual a:",
+  "alternativas": {
+    "A": "7,7R.",
+    "B": "8,5R.",
+    "C": "9,3R.",
+    "D": "10,1R.",
+    "E": "10,9R."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Dinâmica",
+      "Cinemática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Esfera com cavidade interna em queda livre inverte movimento no solo: centro de massa de corpo com cavidade + cinemática de queda e ressalto."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1/ita_2024_fase1_q03.png"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ime_2022_fase1_qui_q36",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 36,
+  "enunciado_md": "Valor: 0,25\nO mapa de contorno da figura abaixo é uma representação bidimensional de uma superfície de\nenergia potencial para a reação A+BC →AB +C em função das distâncias rAB e rBC entre os\nátomos A e B e entre B e C, respectivamente. Nesse gráfico, cada uma das linhas cheias indica\nvalores constantes dessa energia e a linha tracejada representa a trajetória da reação.\nQual das seguintes opções corresponde à identificação correta da região hachurada para a reação\nindicada?",
+  "alternativas": {
+    "A": "Os reagentes A e BC.",
+    "B": "Os produtos AB e C.",
+    "C": "O complexo ativado ABC.",
+    "D": "Os átomos separados A, B e C.",
+    "E": "Os íons separados A+, B+ e C+. 19"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_qui/ime_2022_fase1_qui_q36.png",
+  "usa_imagem_no_render": true
+}

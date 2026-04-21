@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Um planeta esférico de massa M e raio R gira com velocidade angular constante ao redor de\nseu eixo norte-sul. De um ponto de sua linha equatorial é lançado um satélite artificial de massa m ≪M\nsob ação de seus propulsores, que realizam um trabalho W. Em consequência, o satélite passa a descrever\numa órbita elíptica em torno do planeta, com semieixo maior 2R. Calcule:\n(a) A excentricidade máxima da órbita do satélite para que este complete uma volta ao redor do planeta.\n(b) O período de rotação do planeta, levando em conta as grandezas intervenientes, inclusive a constante\nuniversal da gravitação G.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Energia"
+    ],
+    "blocos": [
+      "Gravitação",
+      "Energia"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Satélite em órbita elíptica (semieixo 2R) após trabalho W dos propulsores: Kepler + conservação de energia gravitacional."
+  },
+  "fonte": {
+    "pdf": "fisica_2020_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2/ita_2020_fase2_q04.png",
+  "usa_imagem_no_render": true
+}

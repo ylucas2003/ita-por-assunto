@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_qui_q70",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 70,
+  "enunciado_md": "Considere os seguintes experimentos e suas respectivas observações: \nI. A uma solução de nitrato de prata é adicionada uma solução de cloreto de sódio, com a formação de \num precipitado. \nII. O precipitado obtido em (I) é filtrado e misturado a hidróxido de sódio sólido, com um pouco de \nágua. A mistura é aquecida, produzindo um sólido marrom escuro. \nIII. O sólido preparado em (II) é aquecido junto a uma solução concentrada de glicose, formando um \nsólido cinzento. \nAssinale a alternativa que apresenta corretamente os sólidos produzidos em I, II e III, respectivamente.",
+  "alternativas": {
+    "A": "AgCl, Ag2O, Ag",
+    "C": "AgCl, AgOH, AgO",
+    "E": "AgCl, AgO, Ag2C2",
+    "B": "Ag, AgOH, Ag",
+    "D": "AgCl, Ag2O, Ag2C2"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.5"
+    ],
+    "topicos_nomes": [
+      "Reações Inorgânicas"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sequência: AgNO₃+NaCl→precipitado; precipitado+NaOH+aquec→sólido marrom; +glicose→sólido cinzento (Ag) — reações inorgânicas (óxido-redução com espelho de prata)."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 23,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q70.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_mat_q46",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 46,
+  "enunciado_md": "Seja f : [−1, 1] →\nh\n−π\n2 , π\n2\ni\na função definida por f(x) = arcsen(x).\nEntão, a soma\n4\nX\nn=0\nf\n\u0012\ncos 2π\n3n\n\u0013\né igual a",
+  "alternativas": {
+    "A": "253 162π.",
+    "B": "245 162π.",
+    "C": "−152 81 π.",
+    "D": "−82 81π.",
+    "E": "−79 162π. 16"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Soma Σ arcsen(cos(2π/3^n)) para n=0..4: função trigonométrica inversa + somatório/sequência indexada em potências de 3."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q46.png",
+  "usa_imagem_no_render": true
+}

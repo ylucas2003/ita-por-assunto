@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_qui_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSuponha um sólido metálico formado por um único elemento que apresenta uma estrutura de em-\npacotamento cúbica de corpo centrado à pressão atmosférica. Ao ser comprimido, esse sólido\nadota uma estrutura cúbica de face centrada. Considerando os átomos como esferas rígidas, cal-\ncule a razão entre as densidades do sólido antes e depois da compressão.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.6"
+    ],
+    "topicos_nomes": [
+      "Química do Estado Sólido"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Transição CCC→CFC: razão entre densidades (esferas rígidas) — química do estado sólido."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

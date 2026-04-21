@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_q22",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 22,
+  "enunciado_md": "Valor: 0,25\nFigura 1\nFigura 2\nConsidere uma parede plana que apresenta temperaturas conhecidas e distintas em suas superfí-\ncies A e B (Figura 1), respectivamente iguais a TA1 e TB1. De modo a minimizar a taxa de transfe-\nrência de calor, decide-se recobrir a superfície B com uma película isolante.\nDados:\n• espessura da parede: 10 cm;\n• espessura da película isolante: 6 mm;\n• razão entre a taxa de transferência de calor da parede recoberta com a película isolante e a\ntaxa de transferência de calor na situação não isolada: 0,4.\nObservações:\n• com o recobrimento da superfície B (Figura 2), suponha as temperaturas externas iguais a TP\n(lado da película) e a TA2;\n• a taxa de transferência de calor é constante ao longo das paredes nas duas situações.\nPara garantir-se TB1 −TA1 = TP −TA2, a razão entre as condutividades térmicas da película\nisolante e do material da parede é:",
+  "alternativas": {
+    "A": "0,04",
+    "B": "0,06",
+    "C": "0,40",
+    "D": "0,60",
+    "E": "0,80"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Parede com T_A1 e T_B1 + película isolante: razão de taxas de transferência de calor — termodinâmica (condução)."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q22.png",
+  "usa_imagem_no_render": true
+}

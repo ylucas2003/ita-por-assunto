@@ -1,0 +1,47 @@
+{
+  "id": "ita_2023_fase2_qui_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "O método de obtenção de magnésio metálico consiste nas seguintes etapas: \nI. \nUma amostra de carbonato de cálcio sólido é aquecida a altas temperaturas, formando um produto \nsólido A e um gasoso B. \nII. \nEm seguida, o sólido A é tratado com água do mar, formando-se um hidróxido pouco solúvel que se \nioniza formando os produtos C e D. \nIII. \nOs ânions D reagem com cátions Mg2+ da água do mar. O resultado é um precipitado E. \nIV. \nO composto E é separado por filtração e dissolvido por meio da adição de uma solução aquosa de \nácido clorídrico. \nV. \nA seguir, o solvente da solução é evaporado, obtendo-se o sal iônico F seco. \nVI. \nFinalmente, o sal F é submetido a uma eletrólise ígnea. \nDetermine o que se pede. \na) Apresente as equações químicas balanceadas que representam as reações, identificando os produtos A, \nB, C, D, E e F formados. \nb) Em relação à eletrólise ígnea, mostre as semi-equações que representam as semi-reações que \nocorreram no anodo e no catodo, assim como a reação global. \n \n \n \n\n21",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.5",
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Reações Inorgânicas",
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Processo industrial de Mg metálico: CaCO₃→CaO+CO₂; CaO+H₂O→Ca(OH)₂; Ca(OH)₂+Mg²⁺→Mg(OH)₂; eletrólise — reações inorgânicas + eletroquímica."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q08.png",
+  "usa_imagem_no_render": true
+}
