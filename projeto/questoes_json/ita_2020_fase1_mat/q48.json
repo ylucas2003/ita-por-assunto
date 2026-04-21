@@ -1,0 +1,52 @@
+{
+  "id": "ita_2020_fase1_mat_q48",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 48,
+  "enunciado_md": "Considere o polinômio p(x) = x3 −mx2 +x+5+n, sendo m, n números reais fixados. Sabe-se\nque toda raiz z = a + bi, com a, b ∈R, da equação p(z) = 0 satisfaz a igualdade a = mb2 + nb −1. Então, a\nsoma dos quadrados das raízes de p(z) = 0 é igual a",
+  "alternativas": {
+    "A": "6.",
+    "B": "7.",
+    "C": "8.",
+    "D": "9.",
+    "E": "10."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios",
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Polinômios",
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Polinômio p(x)=x³-mx²+x+5+n cujas raízes complexas a+bi satisfazem a=mb²+nb-1: Girard + condição algébrica."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q48.png",
+  "usa_imagem_no_render": true
+}

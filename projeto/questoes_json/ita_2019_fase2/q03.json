@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Uma estação espacial, Kepler, estuda um exoplaneta cujo satélite natural tem órbita elíptica\nde semieixo maior a0 e período T0, sendo d = 32a0 a distância entre a estação e o exoplaneta. Um objeto\nque se desprende de Kepler é atraído gravitacionalmente pelo exoplaneta e inicia um movimento de queda\nlivre a partir do repouso em relação a este. Desprezando a rotação do exoplaneta, a interação gravitacional\nentre o satélite e o objeto, bem como as dimensões de todos os corpos envolvidos, calcule em função de T0\no tempo de queda do objeto.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação"
+    ],
+    "blocos": [
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Estação Kepler a 32a₀ do exoplaneta; objeto cai em queda livre a partir do repouso: 3ª Lei de Kepler para obter GM + cinemática gravitacional radial."
+  },
+  "fonte": {
+    "pdf": "fisica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2/ita_2019_fase2_q03.png",
+  "usa_imagem_no_render": true
+}

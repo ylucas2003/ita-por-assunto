@@ -1,0 +1,47 @@
+{
+  "id": "ita_2020_fase2_qui_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Considere a titulação de um ácido por meio da adição de uma base. Calcule o pH inicial e \no pH no ponto de equivalência e construa a curva de titulação, ou seja, o gráfico do pH em função da \nporcentagem de ácido neutralizado. Apresente os cálculos realizados para os três casos. Dados \neventualmente necessários: log2 = 0,3; √2=1,4; log1,4 = 0,14. \na) Ácido forte (HCl, 0,1 mol L−1) com uma base forte (NaOH, 0,1 mol L−1); \nb) Ácido forte (HCl, 0,2 mol L-1) com uma base fraca hipotética (XOH, 0,2 mol L−1; \nKb(XOH) = 1,0 x 10−5); \nc) Ácido fraco hipotético (HZ, 0,2 mol L-1; Ka(HZ) = 1,0 x 10−5) com uma base forte \n(NaOH, 0,2 mol L−1).",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.2",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Iônico (Ácido-Base)",
+      "Soluções"
+    ],
+    "blocos": [
+      "Equilíbrio Químico",
+      "Soluções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Curva de titulação ácido-base (HCl forte × NaOH; HCl × XOH fraca): pH inicial e no ponto de equivalência — equilíbrio iônico + soluções."
+  },
+  "fonte": {
+    "pdf": "quimica_2020_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_qui/ita_2020_fase2_qui_q10.png",
+  "usa_imagem_no_render": true
+}

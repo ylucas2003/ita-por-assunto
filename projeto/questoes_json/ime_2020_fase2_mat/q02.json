@@ -1,0 +1,44 @@
+{
+  "id": "ime_2020_fase2_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\nj = 1 7\nCalcule os valores reais de x que satisfaçam a inequação logs (1) +1 + > loga (a?) +5>0.\n\n3 3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Inequação envolvendo logaritmos: valores reais de x — funções transcendentes (log)."
+  },
+  "fonte": {
+    "pdf": "mat2020.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2_mat/ime_2020_fase2_mat_q02.png",
+  "usa_imagem_no_render": true
+}

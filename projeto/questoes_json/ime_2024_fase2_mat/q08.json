@@ -1,0 +1,47 @@
+{
+  "id": "ime_2024_fase2_mat_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja α uma semicircunferência de diâmetro AB contida no primeiro quadrante, sendo A = (0, 0)\ne B = (xB, 0). A reta t tangencia α no ponto T = (xT, yT) e intercepta o eixo x no ponto C =\n(xC, 0), xc > xB. Com o centro em T, traça-se uma circunferência de raio TH, H = (xT, 0). Essa\ncircunferência corta a reta t nos pontos D = (xD, yD) e E = (xE, yE). Sabe-se que xD < xB < xE,\nBC = 5 e HB = 4.\nDetermine as coordenadas de D.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Semicírculo com tangente; nova circunferência centrada em T raio TH: coordenadas de D — geometria analítica + plana."
+  },
+  "fonte": {
+    "pdf": "mat2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase2_mat/ime_2024_fase2_mat_q08.png",
+  "usa_imagem_no_render": true
+}

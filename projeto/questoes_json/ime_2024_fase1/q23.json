@@ -1,0 +1,46 @@
+{
+  "id": "ime_2024_fase1_q23",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 23,
+  "enunciado_md": "Valor: 0,25\nA figura mostra uma rampa inclinada, de massa desprezível, apoiada por dois suportes fixados nos\npontos A e B. O apoio em A admite forças horizontais e verticais e o apoio em B apenas forças\nverticais. Um objeto de dimensões desprezíveis é liberado do ponto B a partir do repouso e se\ndesloca sem atrito em direção a A.\nDados:\n• aceleração da gravidade: g;\n• massa do objeto: m;\n• ângulo da rampa com a horizontal: α;\n• comprimento horizontal da rampa: L.\nO módulo da reação de apoio em A quando o objeto estiver passando pelo meio da rampa é igual\na:\na) 1\n2 mg(cosα + senα)\nb) 1\n2 mg\nc) 1\n2 mg cosα\nr\ncos2α + 1\n2 sen2α\nd) 1\n2 mg cosα\nr\ncos2α + 1\n4 sen2α\ne) 1\n2 mg cosα\n12",
+  "alternativas": {},
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Estática e Equilíbrio",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Rampa apoiada em A e B (sem massa), objeto liberado de B sem atrito; ângulo α e comprimento L: reação em A — estática + dinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 12,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q23.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_mat_q37",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 37,
+  "enunciado_md": "Considere um retângulo ABCD em que o comprimento do lado AB é o dobro do comprimento\ndo lado BC. Sejam M o ponto médio de BC e N o ponto médio de CM. A tangente do ângulo M ÂN é\nigual a",
+  "alternativas": {
+    "A": "1 35.",
+    "B": "2 35.",
+    "C": "4 35.",
+    "D": "8 35.",
+    "E": "16 35."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Retângulo ABCD com AB=2·BC, M=médio(BC), N=médio(CM): tg(MÂN) via coordenadas/semelhança e identidades trigonométricas."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 14,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q37.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase2_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\n«\n\nAl\n\nrugoso x liso\n\nXo\n\nO sistema óptico mostrado na figura é constituído por duas lentes convergentes, A e B, com\ndistâncias focais, respectivamente, de f e 2f. A lente A é mantida fixa na posição xp. A lente\nB está ligada rigidamente a um bloco que inicialmente se move da direta para a esquerda em velo-\ncidade constante v, sobre um piso liso. Quando o bloco atinge a posição x,, O piso se torna rugoso.\nSabe-se que a aceleração da gravidade no local é q e que o coeficiente de atrito cinético entre o\nbloco e o piso rugoso é |t. Determine o maior valor de vw, para o qual o bloco entra em repouso\nsem que o sistema produza uma imagem virtual de um objeto muito distante situado à esquerda da\nlente A.\n\nObservação: desconsidere as dimensões do bloco.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Óptica",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Lentes A (f) fixa e B (2f) em bloco com velocidade v + piso rugoso: sistema óptico + atrito — óptica geométrica + dinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2020.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2/ime_2020_fase2_q07.png",
+  "usa_imagem_no_render": true
+}

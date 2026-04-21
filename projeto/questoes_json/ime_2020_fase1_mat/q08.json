@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_mat_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 8,
+  "enunciado_md": "Valor: 0,25\nSeja f : D →R uma func¸ ão onde D = {x ∈R | x ̸= 0 e x ̸= 1} e que satisfaz a equac¸ ão\nf(\nx−1\nx ) + f(x) −x = 2. O valor de f(2) é:",
+  "alternativas": {
+    "A": "5/4",
+    "B": "1/4",
+    "C": "1/2",
+    "D": "1",
+    "E": "7/2"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Funções Reais"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "f:D→ℝ, f((x-1)/x)+f(x)-x=2: valor de f(2) — funções reais (equação funcional)."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_mat/ime_2020_fase1_mat_q08.png",
+  "usa_imagem_no_render": true
+}

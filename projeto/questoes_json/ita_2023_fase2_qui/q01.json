@@ -1,0 +1,47 @@
+{
+  "id": "ita_2023_fase2_qui_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Considere dois líquidos voláteis, A e B, que são completamente miscíveis entre si e que \nformam uma solução ideal em toda a amplitude de concentrações. Esses líquidos são adicionados a um \ntanque fechado, inicialmente sob vácuo, e mantido em temperatura constante (T), na proporção molar \n1:1. Considere que a mistura causa um abaixamento na pressão de vapor do líquido A igual a 40 Torr e \nque a pressão de vapor do líquido B puro é igual a 20 Torr. \nDetermine os valores numéricos: \na) da pressão de vapor do líquido A puro na temperatura T; \nb) da pressão de vapor da solução, depois de atingido o equilíbrio do sistema; \nc) da composição molar da fase vapor em equilíbrio com a fase líquida presente no tanque. \n \n \n \n\n14",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Propriedades Coligativas",
+      "Soluções"
+    ],
+    "blocos": [
+      "Propriedades Coligativas",
+      "Soluções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Líquidos A,B miscíveis em solução ideal 1:1: ΔP_A = 40 Torr, P_B°=20 Torr — Lei de Raoult (propriedades coligativas + soluções)."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
+}

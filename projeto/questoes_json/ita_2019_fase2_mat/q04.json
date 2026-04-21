@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_mat_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Sabendo que x pertence ao intervalo fechado [1, 64], determine o maior valor da função\nf(x) = (log2 x)4 + 12(log2 x)2 · log2\n\u00128\nx\n\u0013\n.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Máximo de f(x)=(log₂x)⁴+12(log₂x)²·log₂(8/x) em [1,64]: substituição t=log₂x e otimização de função polinomial em t∈[0,6]."
+  },
+  "fonte": {
+    "pdf": "matematica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_mat/ita_2019_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

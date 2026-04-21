@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_mat_q14",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 14,
+  "enunciado_md": "Valor: 0,25\nSejam α e β dois planos não paralelos que se interceptam na reta r e cujo ângulo diedro é π/6 ra-\ndianos. Tome pontos A,B,C,D de α e, por cada um destes pontos, trace retas ortogonais a α que\ninterceptam β nos pontos A′,B′,C′,D′, respectivamente. Sabendo que o quadrilátero ABCD é\num trapézio cuja diagonal AC é paralela a r, a razão entre as áreas de ABCD e A′B′C′D′ é:",
+  "alternativas": {
+    "A": "1",
+    "B": "3/2",
+    "C": "√ 3/2",
+    "D": "√ 3/3",
+    "E": "1/3"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Planos α,β interceptam-se em r com diedro π/6; ABCD em α, projeções A'B'C'D' em β: razão de áreas — geometria espacial."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_mat/ime_2023_fase1_mat_q14.png",
+  "usa_imagem_no_render": true
+}

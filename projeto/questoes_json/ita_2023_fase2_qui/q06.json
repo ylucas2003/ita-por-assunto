@@ -1,0 +1,44 @@
+{
+  "id": "ita_2023_fase2_qui_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Suponha que, em medições experimentais realizadas no espaço sideral, foi descoberto um \nsistema formado de gás hidrogênio atômico excitado. A energia desse hidrogênio excitado é igual a \n−0,34 meV, fazendo com que o sistema emita um espectro de ondas eletromagnéticas de forma \naparentemente contínua. Considere o modelo do átomo proposto por Bohr para descrever esse sistema. \nConsidere, ainda, que a energia do átomo de hidrogênio no estado fundamental é −13,6 eV e que o raio \ndo átomo de hidrogênio no estado fundamental é igual a 53 pm. \nAcerca desse sistema, determine o que se pede a seguir. \na) Qual é o nível de energia no qual os átomos de hidrogênio excitados se encontram? \nb) Qual é o raio da órbita do elétron ao redor do próton nesses átomos de hidrogênio? \nc) Qual é a razão entre a velocidade do elétron do átomo de hidrogênio no estado fundamental e no \nestado excitado? \n \n \n \n\n19",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "H excitado com E=-0,34 meV no modelo de Bohr; E_fund=-13,6 eV, r₀=0,53 Å — estrutura atômica (Bohr)."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q06.png",
+  "usa_imagem_no_render": true
+}

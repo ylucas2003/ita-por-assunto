@@ -1,0 +1,42 @@
+{
+  "id": "ime_2022_fase2_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA energia geotérmica tem recebido atenc¸ ão nos últimos tempos de modo a mitigar a dependência\nde combustíveis oriundos de fontes não renováveis. Nesta perspectiva, um grupo de pesquisadores\ndecide aproveitar a disponibilidade de uma nascente de água quente natural para ser empregada\nna situac¸ ão descrita a seguir.\nA água quente é resfriada através de certo processo, sendo que a taxa de calor deste resfriamento é\nempregada para acionar um motor térmico A, que opera em um ciclo termodinâmico. Por sua vez,\na potência disponibilizada pelo motor térmico A é utilizada para operar um ciclo de refrigerac¸ ão.\nTorna-se necessário selecionar uma bomba hidráulica que transporte a água da nascente para\no laboratório onde a experiência será conduzida. Um técnico experiente afirma que é possível\naproveitar uma bomba B que se encontra em estoque, dispensando a necessidade de aquisic¸ ão de\noutra bomba hidráulica.\nDados:\n• temperatura da fonte quente associada ao ciclo do motor A: 97 °C;\n• temperatura no interior do laboratório: 27 °C;\n• queda de temperatura da corrente de água empregada no ciclo do motor A: 22,5 °C;\n• temperatura da fonte fria do ciclo de refrigerac¸ ão: –13 °C;\n• calor específico da água: 4 kJ/(kg.K);\n• taxa de transferência de calor da fonte fria para o ciclo de refrigerac¸ ão: 23,4 kJ/min;\n• índice de aproveitamento da potência recebida pelo refrigerador do ciclo do motor A: 20%;\n• rendimento do ciclo do motor A: 111/210 do possível via Ciclo de Carnot;\n• rendimento do ciclo de refrigerac¸ ão: 2/5 do possível via Ciclo de Carnot;\n• faixa de operac¸ ão da bomba B disponível em estoque: 6 kg por minuto ±20%.\nBaseado nos dados listados acima e em uma análise justificada da situac¸ ão descrita:\na) discuta se a afirmativa do técnico está correta;\nb) calcule a taxa de transferência de calor, em W, recebida pelo ambiente do laboratório.\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Energia geotérmica: água quente resfriada aciona motor térmico A operando em ciclo — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

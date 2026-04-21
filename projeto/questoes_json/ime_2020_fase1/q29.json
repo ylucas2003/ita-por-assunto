@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_q29",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 29,
+  "enunciado_md": "Valor: 0,25\nConsidere um planeta hipotético X com massa 4MT, onde MT é a massa da Terra. Considerando\nos planetas esféricos, se a velocidade de escape do planeta X for o dobro da velocidade de escape\nda Terra, a razão entre a densidade do planeta X e a densidade da Terra é, aproximadamente:",
+  "alternativas": {
+    "A": "0,25",
+    "B": "0,64",
+    "C": "1,00",
+    "D": "2,00",
+    "E": "4,00"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação"
+    ],
+    "blocos": [
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Planeta X com massa 4M_T e velocidade de escape dupla da Terra: razão de densidades — gravitação."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 14,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q29.png",
+  "usa_imagem_no_render": true
+}

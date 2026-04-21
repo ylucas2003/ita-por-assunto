@@ -1,0 +1,51 @@
+{
+  "id": "ime_2020_fase1_qui_q38",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 38,
+  "enunciado_md": "Valor: 0,25\nAssinale a alternativa correta.",
+  "alternativas": {
+    "A": "A adic¸ ão de brometo de hidrogênio ao propeno, em presenc¸a de peróxidos, gera o 2- bromo- propano.",
+    "B": "O ciclopropano é um composto pouco reativo em virtude da estabilidade proporcionada por sua estrutura triangular.",
+    "C": "Como possui três duplas ligac¸ ões, o benzeno é altamente suscetível a adic¸ ões eletrofílicas aromáticas.",
+    "D": "A adic¸ ão de cloro em excesso ao metano gera exclusivamente o clorometano.",
+    "E": "Tanto o cis-3-octeno quanto o trans-3-octeno, ao serem oxidados com permanganato de potássio em meio básico e posteriormente acidificados, geram os ácidos propanoico e penta- noico."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.5",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Fundamentos e Hidrocarbonetos"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "HBr em propeno com peróxidos; ciclopropano; benzeno; Cl₂+CH₄; cis/trans-3-octeno oxidação — reações orgânicas + hidrocarbonetos."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_qui/ime_2020_fase1_qui_q38.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ime_2019_fase1_q28",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 28,
+  "enunciado_md": "Valor: 0,25 \n \n \n5 V\n1C\ni(t)\nS\n \n \nUm capacitor previamente carregado com energia de 4,5 J foi inserido no circuito, resultando na configuração \nmostrada na figura acima. No instante t = 0, a chave S é fechada e começa a circular no circuito a corrente \ni(t), com i(0) > 2 A. \nDiante do exposto, ao ser alcançado o regime permanente, ou seja i(t → ∞) = 0, o módulo da variação de \ntensão, em volts, entre os terminais capacitor desde o instante t = 0 é:",
+  "alternativas": {
+    "A": "0",
+    "B": "2",
+    "C": "3",
+    "D": "5",
+    "E": "8 16"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "12.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Eletrodinâmica",
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletrostática",
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Capacitor previamente carregado com U=4,5 J + circuito 5 V + 1 C: variação de tensão em regime permanente — eletrodinâmica + capacitor."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1/ime_2019_fase1_q28.png",
+  "usa_imagem_no_render": true
+}

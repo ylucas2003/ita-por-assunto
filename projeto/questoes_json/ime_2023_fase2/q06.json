@@ -1,0 +1,45 @@
+{
+  "id": "ime_2023_fase2_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nFigura 1\nFigura 2\nDuas esferas condutoras A e B, inicialmente isoladas, com cargas positivas QA e QB e raios RA e\nRB, são ligadas por meio de um fio condutor ideal e longo. Depois do sistema entrar em equilíbrio\neletrostático, outro fio condutor, com pequena resistência elétrica, é conectado à esfera B no ins-\ntante t = t0 e o sistema é aterrado, conforme mostra a figura acima à esquerda. Durante o período\nem que o sistema permanece aterrado, circula pelo fio condutor de aterramento a corrente i(t) va-\nriante com o tempo mostrada no gráfico à direita. Em t = t1, o fio de aterramento é desconectado\ne, depois do sistema entrar novamente em equilíbrio eletrostático, o fio condutor que conecta as\nduas esferas é retirado.\nDados:\n• carga da esfera A: QA = 6 C;\n• carga da esfera B: QB = 4 C;\n• raio da esfera A: RA = 2 m;\n• raio da esfera B: RB = 1 m;\n• corrente i0: 5 A;\n• corrente i1: 3 A;\n• instante de tempo t0: 0 s;\n• instante de tempo t1: 1,5 s.\nDiante do exposto, determine:\na) a densidade superficial de carga de cada esfera depois que são conectadas e antes do aterra-\nmento;\nb) a soma das cargas das esferas A e B após o fio de aterramento ter sido desconectado em t = t1;\nc) a carga da esfera A depois do fio condutor que conecta as duas esferas ter sido retirado.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1",
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletrostática",
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "2 esferas condutoras A,B (Q_A,Q_B,R_A,R_B) ligadas por fio + aterramento: corrente pelo fio de aterramento — eletrostática + eletrodinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

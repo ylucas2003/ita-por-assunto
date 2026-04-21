@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_mat_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "enunciado_md": "Valor: 0,25\nSeja a func¸ ão f(x) = 2x4 −8x3 +4x−7. Considere uma reta qualquer que corta o gráfico dessa\nfunc¸ ão em quatro pontos distintos: (x1, y1), (x2, y2), (x3, y3) e (x4, y4). O valor de x1+x2+x3+x4\n2\né:",
+  "alternativas": {
+    "A": "1",
+    "B": "3/2",
+    "C": "2",
+    "D": "7/2",
+    "E": "4"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios"
+    ],
+    "blocos": [
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "f(x)=2x⁴-8x³+4x-7 cortada por reta em 4 pontos: (x₁+x₂+x₃+x₄)/2 — polinômios (Girard)."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_mat/ime_2020_fase1_mat_q03.png",
+  "usa_imagem_no_render": true
+}

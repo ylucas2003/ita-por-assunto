@@ -1,0 +1,43 @@
+{
+  "id": "ime_2024_fase1_qui_q38",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 38,
+  "enunciado_md": "Valor: 0,25\nÓxido de ferro II pode ser reduzido a ferro, tanto por carbono, como por monóxido de carbono, de\nacordo com o mostrado nas equações 1 e 2:\n1.\nFeO(s) + C(s) −−→Fe(s) + CO(g)\n2.\nFeO(s) + CO(g) −−→Fe(s) + CO2(g)\nOs valores de entalpia de formação e de entropia-padrão das substâncias envolvidas em ambas\nreações são apresentados na tabela:\nFeO(s)\nFe(s)\nC(s)\nCO(g)\nCO2(g)\n∆Ho\nf (kJ.mol−1)\n−271,9\n0\n0\n−110,5\n−393,5\nSo (J.K−1.mol−1)\n60,8\n27,3\n5,7\n197,9\n213,7\nConsidere um meio reacional fechado onde ocorrem as duas reações e que os valores acima per-\nmanecem constantes na faixa de 298 a 650 K.\nA ÚNICA alternativa correta é:",
+  "alternativas": {
+    "A": "A reação 1 é exotérmica e a reação 2 é endotérmica.",
+    "B": "À temperatura aproximada de 627 K, a reação 2 atinge o equilíbrio dinâmico.",
+    "C": "À temperatura de 450 K, a reação 1 é fonte de calor para sustentar a reação 2 na proporção molar aproximada de 15 para 1.",
+    "D": "À temperatura de 450 K, ambas as reações são espontâneas.",
+    "E": "A reação 1 apresenta diminuição de entropia. 21"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_qui/ime_2024_fase1_qui_q38.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ime_2021_fase2_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeja um triângulo acutângulo △ABC onde hB e hC são as alturas dos vértices B e C, respectiva-\nmente, e BC = a. Sabendo-se que hBhC\na2\n=\n√\n6\n4 e cos bA + cos bB cos bC =\np\nq√m, calcule p + q + m.\nDados:\n• p, q e m são números naturais;\n• p e q são primos entre si; e\n• m é o menor possível.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "△ABC acutângulo; h_B h_C/a² = √6/4; cos A + cos B cos C = p/(q√m): p+q+m — geometria plana + trig."
+  },
+  "fonte": {
+    "pdf": "mat2021.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase2_mat/ime_2021_fase2_mat_q10.png",
+  "usa_imagem_no_render": true
+}

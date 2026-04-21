@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_mat_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 8,
+  "enunciado_md": "Considere a função\nf (x) =\ns\n2sen (2x) + 2sen (x) −2 cos(x) −1\n8(cos(2x) + 1)\n:\nSeja I = (a; b) o intervalo de maior comprimento contido em [−ı; 2ı] tal que f (x) está\ndefinida para todo x ∈I. O valor de a + b é",
+  "alternativas": {
+    "A": "0.",
+    "B": "ı 3 .",
+    "C": "2ı 3 .",
+    "D": "5ı 6 .",
+    "E": "13ı 6 . 3"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "f(x)=√(...) envolvendo sen2x, senx, cosx, cos2x: maior intervalo onde o radicando é ≥0 em [-π,2π] — trigonometria + inequações."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_mat/ita_2025_fase1_mat_q08.png",
+  "usa_imagem_no_render": true
+}

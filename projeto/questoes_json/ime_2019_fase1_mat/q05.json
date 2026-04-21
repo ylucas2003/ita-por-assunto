@@ -1,0 +1,49 @@
+{
+  "id": "ime_2019_fase1_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "enunciado_md": "Valor: 0,25 \n \nSeja 𝐴= { 𝑧 ∈𝐶 | 2 ≤|𝑧−3 −4𝑖| ≤3} onde 𝐶 é o conjunto dos números complexos. O valor do produto \nentre o simétrico do complexo de menor módulo do conjunto 𝐴 e o conjugado do complexo de maior módulo \ndo mesmo conjunto 𝐴 é:",
+  "alternativas": {
+    "A": "-16",
+    "B": "-8",
+    "C": "-16/5",
+    "D": "1",
+    "E": "16"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A={z∈ℂ: 2≤|z-3-4i|≤3}: produto entre simétrico do z de menor módulo e conjugado do de maior módulo — complexos."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q05.png",
+  "usa_imagem_no_render": true
+}

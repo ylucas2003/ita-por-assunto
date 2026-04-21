@@ -1,0 +1,52 @@
+{
+  "id": "ime_2020_fase1_qui_q31",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 31,
+  "enunciado_md": "Valor: 0,25\nConsidere\nSubstância\nEnergia Livre de Gibbs padrão de Formac¸ ão (kJ.mol−1), a 25 ◦C\nBenzeno (líquido)\n+124\nBenzeno (gasoso)\n+129\nDados:\n• R=0,08 atm.L/ K.mol = 8,3 J/ K.mol = 62,3 mmHg.L/ K.mol\nA pressão de vapor do benzeno em atm, a temperatura de 298 K, é aproximadamente:",
+  "alternativas": {
+    "A": "e−4,77",
+    "B": "e−2,02",
+    "C": "e−0,21",
+    "D": "e−209,7",
+    "E": "e−12,4"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica Física",
+      "Propriedades Coligativas"
+    ],
+    "blocos": [
+      "Termodinâmica Física",
+      "Propriedades Coligativas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Pressão de vapor do benzeno a partir de ΔG° de formação — termodinâmica + propriedades coligativas."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_qui/ime_2020_fase1_qui_q31.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_q20",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 20,
+  "enunciado_md": "Valor: 0,25\nAnalise as afirmativas abaixo, referentes ao funcionamento de duas máquinas de Carnot, em que\numa é ciclo motor e a outra, ciclo de refrigerac¸ ão.\n1: Levando em conta as temperaturas dos reservatórios térmicos e supondo que 80% da potência\ndisponibilizada do ciclo motor seja empregada para o acionamento do ciclo de refrigerac¸ ão, a quan-\ntidade de calor removida da fonte fria nesse ciclo será 120 kJ/min.\n2: Considerando apenas o ciclo motor, se a temperatura da fonte fria for duplicada e, simultanea-\nmente, a temperatura da fonte quente for quadruplicada, o motor térmico violará a Segunda Lei da\nTermodinâmica.\n3: Se a temperatura da fonte quente do ciclo motor for modificada para 500 K, a quantidade máxima\nde calor removido da fonte fria do ciclo de refrigerac¸ ão terá o mesmo valor numérico do apresentado\nna Afirmativa 1.\nDados:\n• temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo motor: 600 K e 300 K;\n• temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo de refrigerac¸ ão: 300 K\ne 268 K; e\n• calor adicionado à máquina térmica do ciclo motor: 2400\n67\nkJ/min.\nConsiderando que a operac¸ ão do refrigerador térmico é efetuada pela potência disponibilizada pelo\nmotor térmico, está(ão) correta(s) a(s) afirmativa(s)",
+  "alternativas": {
+    "A": "1, apenas.",
+    "B": "2, apenas.",
+    "C": "3, apenas.",
+    "D": "1 e 3, apenas.",
+    "E": "1, 2 e 3. 9"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Duas máquinas de Carnot (motor + refrigeração) acopladas: análise de rendimento/calor removido — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q20.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_mat_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Dada uma matriz A ∈Mn(R) simétrica, dizemos que A é definida positiva se\nXTAX = [y];\ny > 0;\npara toda X ∈Mn;1(R) que tem ao menos uma entrada não-nula. Encontre todos os possí-\nveis valores de b ∈R tais que a matriz\nA =\n \n1\nb\nb\n1\n!\nseja definida positiva.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matriz A=[[1,b],[b,1]] simétrica definida positiva: condição XᵀAX>0 — determinante e autovalores (|b|<1)."
+  },
+  "fonte": {
+    "pdf": "matematica_2024_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_mat/ita_2024_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

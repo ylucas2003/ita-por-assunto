@@ -1,0 +1,51 @@
+{
+  "id": "ime_2018_fase1_qui_q32",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 32,
+  "enunciado_md": "Valor: 0,25 \n \nAs moléculas abaixo são utilizadas como agentes antioxidantes: \nN O\nN\nN N\nCl\nO\nO\nN O\nN\nN N\nO\nN O\nN\nN N\nHO\nO\nO\nO\n(I)\n(II)\n(III)\nO\n \nTais agentes encontram utilização na química medicinal devido a sua habilidade em capturar radicais livres, \nespécies muito nocivas ao corpo, pois oxidam o DNA, causando inúmeras doenças. \nA atividade antioxidante desses compostos está relacionada a sua capacidade de doar elétrons ou radicais \nhidrogênio. Baseado nesse conceito, é de se esperar que a ordem decrescente de atividade antioxidante \ndas moléculas seja:",
+  "alternativas": {
+    "A": "(I) > (II) > (III)",
+    "B": "(I) > (III) > (II)",
+    "C": "(II) > (I) > (III)",
+    "D": "(II) > (III) > (I)",
+    "E": "(III) > (I) > (II) 18"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.2",
+      "11.5"
+    ],
+    "topicos_nomes": [
+      "Funções Orgânicas Oxigenadas e Nitrogenadas",
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "media",
+    "observacao": "Ordem da atividade antioxidante de 3 moléculas nitrogenadas: capacidade de doar e⁻/H — química orgânica."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2018_fase1_qui/ime_2018_fase1_qui_q32.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ita_2020_fase1_qui_q60",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 60,
+  "enunciado_md": "O tiocianato de cobre é um condutor sólido do tipo p com aplicações optoeletrônicas e \nfotovoltaicas, como células solares. O CuSCN reage com o iodato de potássio na presença de ácido \nclorídrico para formar sulfato de cobre, ácido cianídrico, cloreto de potássio e monocloreto de iodo. O \nvalor da soma dos menores coeficientes estequiométricos inteiros da reação líquida é igual a",
+  "alternativas": {
+    "A": "32.",
+    "C": "49.",
+    "E": "54.",
+    "B": "36.",
+    "D": "50."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.5",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Reações Inorgânicas",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria",
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "CuSCN + KIO₃ + HCl → CuSO₄ + HCN + KCl + ICl: soma dos menores coeficientes inteiros — balanceamento de redox + estequiometria."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q60.png",
+  "usa_imagem_no_render": true
+}

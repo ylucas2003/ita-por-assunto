@@ -1,0 +1,44 @@
+{
+  "id": "ime_2025_fase2_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSejam a, b e c números reais positivos. Prove que\n\u0000a + b + c\n\u0001\u00121\na + 1\nb + 1\nc\n\u0013\n≥9.\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Funções Reais"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Prova: (a+b+c)(1/a+1/b+1/c) ≥ 9, a,b,c>0 — desigualdade (MA-MH/AM-GM)."
+  },
+  "fonte": {
+    "pdf": "mat2025.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_mat/ime_2025_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

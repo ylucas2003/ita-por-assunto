@@ -1,0 +1,52 @@
+{
+  "id": "ita_2020_fase1_mat_q52",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 52,
+  "enunciado_md": "Dado a ∈R, defina p = a + a2 e q = a + a3 e considere as seguintes afirmações:\nI. se p ou q é irracional, então a é irracional.\nII. se p e q são racionais, então a é racional.\nIII. se q é irracional, então p é irracional.\nÉ(são) VERDADEIRA(S)",
+  "alternativas": {
+    "A": "apenas I.",
+    "B": "apenas II.",
+    "C": "apenas I e II.",
+    "D": "apenas I e III.",
+    "E": "todas."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1",
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Aritmética",
+      "Conjuntos e Lógica"
+    ],
+    "blocos": [
+      "Aritmética",
+      "Conjuntos e Lógica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Afirmações sobre racionalidade de p=a+a² e q=a+a³: lógica e aritmética de racionais/irracionais."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q52.png",
+  "usa_imagem_no_render": true
+}

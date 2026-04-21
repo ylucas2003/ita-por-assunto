@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_q21",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 21,
+  "enunciado_md": "Valor: 0,25\nUm aluno está em uma nave (referencial S) que viaja a uma velocidade v relativa ao professor\n(referencial S′). Em t = t′ = 0 (tempo em cada um dos referenciais), a nave passa pelo professor\ne o aluno inicia uma prova de física. Em t = τ, um pulso de luz é emitido pelo aluno até o professor\ne é refletido de volta à nave, quando então a prova é encerrada. Sabendo que a velocidade da luz\né c e que γ = 1/\np\n1 −v2/c2 , a duração da prova no referencial do professor é:",
+  "alternativas": {
+    "A": "γτ/(1 −v/c)",
+    "B": "(1 + v/c)γτ",
+    "C": "γτ/(1 + v/c)",
+    "D": "γτ(1 −v/c)/(1 + v/c)",
+    "E": "γτ(1 + v/c)/(1 −v/c) 10"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "14.2"
+    ],
+    "topicos_nomes": [
+      "Relatividade Restrita"
+    ],
+    "blocos": [
+      "Física Moderna"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Aluno em nave S vs professor S' com v: duração da prova no referencial do professor — relatividade restrita (dilatação + Doppler relativístico)."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 10,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1/ime_2021_fase1_q21.png",
+  "usa_imagem_no_render": true
+}

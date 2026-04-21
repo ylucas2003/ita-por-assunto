@@ -1,0 +1,52 @@
+{
+  "id": "ime_2021_fase1_qui_q33",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 33,
+  "enunciado_md": "Valor: 0,25\nNa desidratação a alta temperatura de uma mistura reacional composta pelos ácidos fórmico, acé-\ntico e propiônico, qual a quantidade máxima de diferentes anidridos que poderá ser obtidos?",
+  "alternativas": {
+    "A": "3",
+    "B": "6",
+    "C": "8",
+    "D": "9",
+    "E": "27"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.5",
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Química Orgânica",
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Desidratação de mistura de ác. fórmico/acético/propiônico: número de anidridos distintos — reações orgânicas + combinatória."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_qui/ime_2021_fase1_qui_q33.png",
+  "usa_imagem_no_render": true
+}

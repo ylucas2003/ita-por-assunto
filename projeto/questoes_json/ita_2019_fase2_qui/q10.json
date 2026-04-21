@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_qui_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Considere a reação genérica 2A(g)  B(g). No instante inicial, apenas o reagente A está \npresente. Sabendo que a reação direta é exotérmica, construa os gráficos de concentração de cada \nsubstância em função do tempo de reação para as seguintes condições: \na) desde o instante inicial até o equilíbrio, na presença e na ausência de catalisador. \nb) a partir do equilíbrio inicial, com um rápido aumento da temperatura, até um novo equilíbrio. \nc) a partir do equilíbrio inicial, com um rápido aumento da pressão, até um novo equilíbrio. \nd) a partir do equilíbrio inicial, com a remoção rápida de 50% do produto B, até um novo equilíbrio. \nHC\nO\nC\nO\nR'\nH2C\nO\nC\nO\nR\nH2C\nO\nC\nO\nR''",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico Geral",
+      "Cinética Química"
+    ],
+    "blocos": [
+      "Equilíbrio Químico",
+      "Cinética Química"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Reação 2A(g)⇌B(g) exotérmica: gráficos de [A] e [B] vs t com/sem catalisador, aumento de T, aumento de P — equilíbrio + cinética."
+  },
+  "fonte": {
+    "pdf": "quimica_2019_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_qui/ita_2019_fase2_qui_q10.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2019_fase2_mat_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Seja F o foco da parábola de equação (y −5)2 = 4(x −7), e sejam A e B os focos da elipse de\nequação (x −4)2\n9\n+ (y −2)2\n8\n= 1. Determine o lugar geométrico formado pelos pontos P do plano tais que\na área do triângulo ABP seja numericamente igual ao dobro da distância de P a F.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Parábola (y−5)²=4(x−7) e elipse: lugar geométrico / interseção — cônicas em geometria analítica."
+  },
+  "fonte": {
+    "pdf": "matematica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_mat/ita_2019_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

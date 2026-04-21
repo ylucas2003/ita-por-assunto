@@ -1,0 +1,44 @@
+{
+  "id": "ime_2023_fase2_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nFios infinitos no plano xy são paralelos ao eixo y e conduzem correntes elétricas nos sentidos\ndesenhados na figura de tal forma que o módulo do campo magnético na superfície de uma chapa\nmetálica de carga total nula seja aproximadamente B(x) = C–Kx, onde C e K são constantes\npositivas.\nA chapa movimenta-se com velocidade constante na direc¸ ão y mantendo-se no plano xy e indu-\nzindo assim o deslocamento de elétrons livres na chapa até que campos elétricos estacionários ao\nlongo do eixo x sejam criados para que o equilíbrio eletrostático seja alcanc¸ado.\nDados:\n• largura da chapa: L;\n• C > K.L;\n• velocidade da chapa: v, no sentido positivo de y;\n• correntes nos fios: i1, i2, ... in;\n• distâncias dos fios ao eixo y: d1, d2, ..., dn;\n• posic¸ ões dos fios: à esquerda do eixo;\n• permeabilidade magnética do meio: µ0.\nDiante do exposto e justificando todas as respostas, determine:\na) para que lado da chapa (direito ou esquerdo) haverá maior deslocamento de elétrons;\nb) a expressão do módulo do campo elétrico E(x) induzido na chapa no equilíbrio eletrostático em\nfunc¸ ão da posic¸ ão x;\nc) o módulo da diferenc¸a de potencial elétrico entre as posic¸ ões x = 0 e x = L;\nd) a relac¸ ão entre a constante C (campo magnético em x = 0) e as correntes e distâncias listadas\nnos dados acima.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.2",
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Indução Eletromagnética e Ondas EM",
+      "Magnetismo"
+    ],
+    "blocos": [
+      "Eletromagnetismo"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Fios infinitos paralelos ao eixo y com B(x)=C-Kx + chapa metálica movendo-se: indução + E estacionário — indução eletromagnética + magnetismo."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

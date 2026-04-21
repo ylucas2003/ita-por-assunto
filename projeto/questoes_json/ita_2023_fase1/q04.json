@@ -1,0 +1,53 @@
+{
+  "id": "ita_2023_fase1_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "enunciado_md": "Um corpo de massa m é lançado em um plano\nhorizontal sem atrito, sob ação da gravidade g, e, ao entrar em um\ntubo, executa uma trajetória circular de raio R. A força exercida\nno corpo pelo tubo logo após o início do movimento circular tem\nintensidade F. Após meia volta, o corpo percorre uma trajetória\nretílinea em movimento uniforme até certa distância e depois\nsobe até certa altura h.\nO corpo sai do tubo em movimento\nvertical e imediatamente passa a se mover dentro de um fluido\nviscoso até atingir altura máxima H, conforme mostra a figura.\nConsidere que o corpo se desloca pelo tubo sem atrito; que o\ndiâmetro do tubo é desprezível em relação a R, h e H; e que o\nmódulo do trabalho realizado pela força de atrito viscoso até a\nmassa atingir H é equivalente a um terço da energia cinética da\npartícula, quando esta adentra o fluido.\nAssinale a alternativa que expressa H em função das variáveis\nfornecidas.",
+  "alternativas": {
+    "A": "1 3 \u0010 h −4R + FR mg \u0011 .",
+    "B": "1 6 \u0010 4h −5R + FR mg \u0011 .",
+    "C": "1 3 \u0010 h −5R + FR mg \u0011 .",
+    "D": "1 6 \u0010 2h −3R + FR mg \u0011 .",
+    "E": "1 6 \u0010 h −2R + FR mg \u0011 ."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Energia"
+    ],
+    "blocos": [
+      "Dinâmica",
+      "Energia"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Corpo em trajetória circular em tubo + retilínea + vertical em fluido viscoso: força no tubo + conservação/dissipação de energia."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao": "imagens/ita_2023_fase1/ita_2023_fase1_q04.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1/ita_2023_fase1_q04.png"
+}

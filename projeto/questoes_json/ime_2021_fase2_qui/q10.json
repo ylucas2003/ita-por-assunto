@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_qui_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nEstabelec¸a a relac¸ ão entre as estruturas de cada par abaixo, identificando-as como enantiômeros,\ndiastereoisômeros, isômeros constitucionais ou representac¸ ões diferentes de um mesmo composto.\na)\nb)\nc)\nd)\ne)\n7\n\nRASCUNHO\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.4"
+    ],
+    "topicos_nomes": [
+      "Isomeria"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Relação entre pares de estruturas: enantiômeros/diastereoisômeros/constitucionais/mesmo — isomeria."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

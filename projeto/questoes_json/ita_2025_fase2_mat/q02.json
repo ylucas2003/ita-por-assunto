@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_mat_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Seja E uma elipse com eixo focal no eixo Ox do sistema de coordenadas car-\ntesiano. O centro de E é o ponto (r; 0), com r > 0, sua excentricidade é\n√\n2\n2 , e seu semieixo\nmaior mede\n√\n2. Considerando os pontos (x; y) ∈E, determine o valor de r para que y\nx\ntenha valor máximo igual a 1 .\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Elipse com centro (r,0), e=√2/2, semieixo maior √2: valor de r para que máx(y/x) sobre E seja 1 — geometria analítica (inclinação da tangente pela origem)."
+  },
+  "fonte": {
+    "pdf": "matematica_2025_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_mat/ita_2025_fase2_mat_q02.png",
+  "usa_imagem_no_render": true
+}

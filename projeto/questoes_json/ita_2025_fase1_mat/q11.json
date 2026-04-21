@@ -1,0 +1,52 @@
+{
+  "id": "ita_2025_fase1_mat_q11",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 11,
+  "enunciado_md": "Seja H uma hipérbole no plano cartesiano cujos focos são comuns aos focos\nda elipse E : x2\n4 + y 2 = 1. Seja P um ponto de intersecção de E e H no primeiro quadrante\ne O a origem do sistema cartesiano. Sabendo que OP forma um ângulo „ com o eixo hori-\nzontal Ox, com tan(„) =\n√\n3\n6 , a excentricidade de H é",
+  "alternativas": {
+    "A": "2 √ 3 3 .",
+    "B": "√ 6 2 .",
+    "C": "3 √ 3 4 .",
+    "D": "2 √ 6 3 .",
+    "E": "3 √ 3 2 ."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Geometria Analítica",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Hipérbole H com focos comuns à elipse E:x²/4+y²=1; P no 1º quadrante em E∩H com tan θ=√3/6: excentricidade de H."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_mat/ita_2025_fase1_mat_q11.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ita_2020_fase1_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 6,
+  "enunciado_md": "Uma pequena esfera com peso de módulo P é arremessada verticalmente para cima com\nvelocidade de módulo Vo a partir do solo. Durante todo o percurso, atua sobre a esfera uma força de\nresistência do ar de módulo F constante. A distância total percorrida pela esfera após muitas reflexões\nelásticas com o solo é dada aproximadamente por\nv(P-P 2V2P VvêP\na(o) St c() ÉS. E() 0.\n29F gr gr\nVA(P + F VêP\nB() VP + o) D() L—.\n29F 29F",
+  "alternativas": {},
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Energia",
+      "Cinemática"
+    ],
+    "blocos": [
+      "Energia",
+      "Cinemática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Esfera com resistência do ar constante e reflexões elásticas: soma geométrica de alturas via conservação/dissipação de energia."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q06.png",
+  "usa_imagem_no_render": true
+}

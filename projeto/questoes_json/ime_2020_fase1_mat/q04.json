@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "enunciado_md": "Valor: 0,25\nSejam z1 e z2 dois números complexos tais que |z1| = 4, |z2| = 3 e |z1 + z2| = 6. O valor de\n|z1 −z2| é:",
+  "alternativas": {
+    "A": "√ 7",
+    "B": "√ 3 3",
+    "C": "1",
+    "D": "√ 14",
+    "E": "2 √ 3"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "|z₁|=4, |z₂|=3, |z₁+z₂|=6: |z₁-z₂| — complexos (lei do paralelogramo)."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_mat/ime_2020_fase1_mat_q04.png",
+  "usa_imagem_no_render": true
+}

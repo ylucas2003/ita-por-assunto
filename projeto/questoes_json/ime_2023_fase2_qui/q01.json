@@ -1,0 +1,36 @@
+{
+  "id": "ime_2023_fase2_qui_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere a reac¸ ão abaixo:\naA + bB + cC −−→3CsKS + 6H2O\nIdentifique os reagentes A, B e C e os respectivos coeficientes estequiométricos a, b e c que são\nempregados na reac¸ ão de obtenc¸ ão de 3 mols do sal duplo CsKS.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

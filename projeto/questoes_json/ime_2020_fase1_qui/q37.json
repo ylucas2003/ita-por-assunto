@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_qui_q37",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 37,
+  "enunciado_md": "Valor: 0,25\nA uma soluc¸ ão aquosa de ácido carbônico, adiciona-se bicarbonato de sódio e posteriormente ácido\nclorídrico. Assinale a alternativa correta.",
+  "alternativas": {
+    "A": "O ácido carbônico é um oxiácido moderado.",
+    "B": "A adic¸ ão do bicarbonato não altera o equilíbrio de ionizac¸ ão do ácido carbônico.",
+    "C": "A adic¸ ão do bicarbonato aumenta o grau de ionizac¸ ão do ácido carbônico.",
+    "D": "A adic¸ ão do bicarbonato não altera o valor da constante de equilíbrio.",
+    "E": "A adic¸ ão de ácido clorídrico, em pequenas quantidades, contribuirá para a diminuic¸ ão do pH da soluc¸ ão."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Iônico (Ácido-Base)"
+    ],
+    "blocos": [
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "H₂CO₃ + NaHCO₃ + HCl: efeito do íon comum — equilíbrio iônico."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_qui/ime_2020_fase1_qui_q37.png",
+  "usa_imagem_no_render": true
+}

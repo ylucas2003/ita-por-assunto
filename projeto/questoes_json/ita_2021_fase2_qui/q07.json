@@ -1,0 +1,46 @@
+{
+  "id": "ita_2021_fase2_qui_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Responda às seguintes questões: \na) Sabe-se que a primeira afinidade eletrônica do oxigênio é exotérmica (−141 kJ⋅mol−1) e a segunda é \naltamente endotérmica (+798 kJ⋅mol−1). Justifique a razão pela qual a maioria dos compostos iônicos \ncontendo oxigênio são encontrados na forma do ânion O2−. \nb) A primeira energia de ionização para o oxigênio (1313,9 kJ⋅mol−1) é menor do que a primeira energia \nde ionização para o nitrogênio (1402,3 kJ⋅mol−1), enquanto um comportamento oposto é observado \npara a segunda energia de ionização para oxigênio (3388,3 kJ⋅mol−1) e nitrogênio (2856 kJ⋅mol−1). \nJustifique esse comportamento. \nc) A primeira energia de ionização para o sódio (495,8 kJ⋅mol−1) é consideravelmente maior que a do \npotássio (418,8 kJ⋅mol−1). Um comportamento semelhante pode ser observado para o magnésio \n(737,7 kJ⋅mol−1) e para o cálcio (589,8 kJ⋅mol−1). No entanto, essa tendência não é observada para os \nelementos alumínio (577,5 kJ⋅mol−1) e gálio (578,8 kJ⋅mol−1). Justifique esses comportamentos.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.2",
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Tabela Periódica e Propriedades dos Elementos",
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Afinidade eletrônica do O (1ª exo, 2ª endo) e razão do O²⁻ ser comum; energias de ionização N>O mas N⁺<O⁺: justificativa via configuração — propriedades periódicas."
+  },
+  "fonte": {
+    "pdf": "quimica_2021_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2_qui/ita_2021_fase2_qui_q07.png",
+  "usa_imagem_no_render": true
+}

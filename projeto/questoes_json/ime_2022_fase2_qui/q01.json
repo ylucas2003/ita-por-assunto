@@ -1,0 +1,36 @@
+{
+  "id": "ime_2022_fase2_qui_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nO calcário é uma rocha de origem sedimentar constituída predominantemente por carbonato de\ncálcio. Uma técnica que pode ser utilizada para determinar o teor de carbonato de cálcio em uma\namostra de calcário é a volumetria, a qual consiste na determinac¸ ão da concentrac¸ ão de uma\nsoluc¸ ão A por meio do gasto de uma soluc¸ ão B de concentrac¸ ão conhecida, ocorrendo uma reac¸ ão\nquímica entre A e B.\nUma amostra de 1,0 g de calcário foi dissolvida utilizando-se 25,0 mL de uma soluc¸ ão de ácido\nclorídrico com concentrac¸ ão de 1,0 mol/L. Na sequência, utilizou-se uma soluc¸ ão de hidróxido de\nsódio com concentrac¸ ão de 0,5 mol/L para neutralizar o excesso de ácido, consumindo-se 17,2 mL\nda soluc¸ ão.\nConsiderando que apenas o carbonato de cálcio presente na amostra de calcário reage com o\nácido clorídrico, determine:\na) as equac¸ ões balanceadas das reac¸ ões envolvidas no processo;\nb) a porcentagem mássica de carbonato de cálcio presente na amostra de calcário.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2022.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

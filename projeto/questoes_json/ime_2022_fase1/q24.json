@@ -1,0 +1,52 @@
+{
+  "id": "ime_2022_fase1_q24",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 24,
+  "enunciado_md": "Valor: 0,25\nUma partícula de carga negativa, inicialmente em repouso, está sujeita ao seu peso e ao campo\nelétrico −→\nE vertical constante provocado por um plano infinito eletrizado. Como mostrado na figura,\na partícula está presa por um fio ideal não condutor enrolado a uma roldana em forma de anel.\nEssa roldana pode girar de forma solidária a uma outra roldana com o dobro da massa e o dobro\ndo raio. Ao girar, o fio é desenrolado à mesma velocidade escalar dos pontos do perímetro da\nroldana menor.\nDados:\n• aceleração da gravidade: g;\n• módulo do campo elétrico vertical: E;\n• massa da partícula: m;\n• massa da roldana menor: m;\n• massa da roldana maior: 2m;\n• carga da partícula: −Q;\n• raio da roldana menor: r;\n• raio da roldana maior: 2r.\nObservações:\n• as roldanas estão sustentadas por hastes presas do teto aos respectivos centros;\n• as roldanas giram sempre em torno de seus centros e sem atrito;\n• todos os pontos do anel de cada roldana sempre estão à mesma velocidade escalar;\n• toda a massa de cada roldana está igualmente distribuída em seu respectivo perímetro.\nPelo princípio da conservação da energia, conclui-se que a aceleração da partícula eletrizada, ao\niniciar seu movimento, é:",
+  "alternativas": {
+    "A": "(mg+EQ) 2m",
+    "B": "(mg+EQ) 4m",
+    "C": "3(mg+EQ) 4m",
+    "D": "9(mg+EQ) 4m",
+    "E": "(mg+EQ) 8m 11"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletrostática",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partícula -q presa a fio em roldana (anel) solidária a outra roldana (2m, 2r); peso + E vertical: aceleração — dinâmica (rotação) + eletrostática."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q24.png",
+  "usa_imagem_no_render": true
+}

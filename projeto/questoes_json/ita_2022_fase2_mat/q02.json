@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_mat_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Seja z ∈C e denote por ℑ(z) a parte imaginária de z. Determine todos os possíveis z ∈C com\nℑ(z) ̸= 0 tais que temos simultaneamente ℑ(z3) = 0 e ℑ((1 + z)3) = 0.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "z∈C com ℑ(z)≠0 tais que ℑ(z³)=0 e ℑ((1+z)³)=0: sistema de equações na parte real/imaginária."
+  },
+  "fonte": {
+    "pdf": "matematica_2022_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_mat/ita_2022_fase2_mat_q02.png",
+  "usa_imagem_no_render": true
+}

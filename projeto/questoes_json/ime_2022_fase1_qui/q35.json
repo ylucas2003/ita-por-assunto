@@ -1,0 +1,43 @@
+{
+  "id": "ime_2022_fase1_qui_q35",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 35,
+  "enunciado_md": "Valor: 0,25\nAssinale a opção correta.",
+  "alternativas": {
+    "A": "Os ácidos nucleicos são macromoléculas poliméricas, cujas unidades monoméricas são co- nhecidas como nucleosídeos.",
+    "B": "Os nucleosídeos são constituídos por uma base nitrogenada purínica ou pirimidínica, uma pentose e um íon fosfato.",
+    "C": "A adenina e a guanina são bases nitrogenadas pirimidínicas, enquanto que a citosina, a timina e a uracila são bases nitrogenadas purínicas.",
+    "D": "O DNA possui uma estrutura de dupla hélice, na qual os monômeros se conectam entre si por ligações peptídicas.",
+    "E": "Os três principais tipos de RNA envolvidos na síntese de proteínas em organismos biológicos são o mensageiro, o transportador e o ribossômico."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_qui/ime_2022_fase1_qui_q35.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ime_2021_fase2_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nO interior de um refrigerador hospitalar para armazenagem de medicamentos deve ser continua-\nmente mantido a uma temperatura de 2 oC. Este equipamento possui três portas envidrac¸adas para\nacesso aos fármacos, sendo por isso afetado pelo calor ambiente. Além disso, estima-se que os\noutros ganhos térmicos pelas demais superfícies são equivalentes a 20% daquele associado ao\ntotal das três portas.\nA superintendência do hospital contratou uma empresa para elaborar o projeto de um sistema alter-\nnativo de fornecimento de energia elétrica, em caso de interrupc¸ ão do servic¸o pela concessionária\nlocal. Após estudo, o técnico responsável pelo projeto afirmou que:\n“A potência de acionamento do refrigerador hospitalar é suprida com folga por um motor térmico\noperando em um ciclo termodinâmico que possui as seguintes características: o motor recebe ener-\ngia de uma fonte, cuja temperatura é 327 oC, e rejeita energia para outras duas fontes. Uma dessas\nfontes se encontra à temperatura externa ao refrigerador e recebe 450 W, enquanto a outra deve\nestar a uma temperatura de 127 oC, recebendo 300 W.”\nDados:\n• condutividade térmica do vidro: 0,85 W.(m.oC)−1;\n• espessura do vidro: 25 mm;\n• temperatura do ambiente externo ao refrigerador: 27 oC;\n• coeficiente de desempenho do refrigerador:\n3\n11 do máximo admissível do ciclo de Carnot\nassociado; e\n• dimensões de cada porta de vidro: 2 m (altura) x 50 cm (largura).\nA partir de uma análise termodinâmica da situac¸ ão, explique, de forma justificada, se a afirmac¸ ão\ndo técnico é correta.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Refrigerador hospitalar mantido a 2 °C com 3 portas envidraçadas + ganhos 20%: potência do sistema — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2021.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

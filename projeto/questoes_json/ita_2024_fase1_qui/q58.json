@@ -1,0 +1,52 @@
+{
+  "id": "ita_2024_fase1_qui_q58",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 58,
+  "enunciado_md": "Uma solução foi preparada a partir da dissolução de 1,00 mol de uma \nsubstância A em 1,0 kg de um solvente. Essa substância se dissocia de acordo com a \nreação química: A ⇌ B + C. Assinale a opção que apresenta a diferença de temperatura de \nebulição, em °C, dessa solução após atingir o equilíbrio químico, em relação à temperatura \nde ebulição de um sistema contendo apenas uma substância D, produzido nas mesmas \ncondições (1,00 mol dissolvido em 1,0 kg do mesmo solvente). Considere que a substância \nD não se dissocia. Dados: constante ebuliométrica molal do solvente: Ke = 1,0 °C kg mol1; \nconstante de equilíbrio (K) da dissociação de A: K = 2.",
+  "alternativas": {
+    "A": "0,12.",
+    "C": "1,09.",
+    "E": "2,21.",
+    "B": "0,73.",
+    "D": "1,27. 22"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Propriedades Coligativas",
+      "Equilíbrio Químico Geral"
+    ],
+    "blocos": [
+      "Propriedades Coligativas",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Propriedades coligativas: substância A⇌B+C em 1 mol/kg; comparação com substância não dissociante D — ebulioscopia + equilíbrio."
+  },
+  "fonte": {
+    "pdf": "2024_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase1_qui/ita_2024_fase1_qui_q58.png",
+  "usa_imagem_no_render": true
+}

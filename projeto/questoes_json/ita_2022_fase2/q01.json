@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Um bloco de massa mA encontra-se sobre a superfície de uma cunha de massa mB, que desliza\nsem atrito em uma superfície plana devido à ação de uma força horizontal. O ângulo de inclinação da cunha\né dado por θ. Sabendo que o coeficiente de atrito entre o bloco e a cunha é µ, calcule em função de mA,\nmB, θ, µ e g:\n(a) a aceleração mínima à qual a cunha deve ser submetida para que o bloco inicie um movimento de subida;\n(b) a intensidade da força de contato entre o bloco e a cunha.\ng\nq\nmA\nmB\nF\nm\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bloco sobre cunha deslizante com atrito: aceleração mínima da cunha para iniciar subida do bloco + força de contato — dinâmica em referencial acelerado."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q01.png",
+  "usa_imagem_no_render": true
+}

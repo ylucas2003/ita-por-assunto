@@ -1,0 +1,38 @@
+{
+  "id": "ime_2025_fase2_qui_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma molécula orgânica A, de fórmula molecular C5H11Cℓ, sofre desidro-halogenação formando\nB. Quando B sofre ozonólise, gera formaldeído. Quando B sofre reação de hidratação, produz o\ncomposto C, o qual não reage com KMnO4 em meio ácido.\nDetermine:\na) a função orgânica presente no composto C;\nb) as estruturas moleculares de A, B e C.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2025.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_qui/ime_2025_fase2_qui_q02.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ime_2022_fase1_mat_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 2,
+  "enunciado_md": "Valor: 0,25\nSeja f(x) uma função definida em R tal que f(1) = 1. Para todo x ∈R valem as seguintes\ndesigualdades\nf(x + 7) ⩾f(x) + 7\ne\nf(x + 1) ⩽f(x) + 1 .\nSe g(x) = f(x −1) −x + 2, o valor de g(2023) é",
+  "alternativas": {
+    "A": "0",
+    "B": "1",
+    "C": "2",
+    "D": "2022",
+    "E": "2023 2"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Funções Reais"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "f:ℝ→ℝ, f(1)=1, f(x+7)≥f(x)+7 e f(x+1)≤f(x)+1; g(x)=f(x-1)-x+2: g(2023) — funções reais."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1_mat/ime_2022_fase1_mat_q02.png",
+  "usa_imagem_no_render": true
+}

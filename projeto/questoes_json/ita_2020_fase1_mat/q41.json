@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_mat_q41",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 41,
+  "enunciado_md": "Sejam x1, x2, x3, x4, x5 e x6 números reais tais que 2x1 = 4; 3x2 = 5; 4x3 = 6; 5x4 = 7; 6x5 = 8\ne 7x6 = 9. Então, o produto x1 x2 x3 x4 x5 x6 é igual a",
+  "alternativas": {
+    "A": "6.",
+    "B": "8.",
+    "C": "10.",
+    "D": "12.",
+    "E": "14."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Produto x1·x2·...·x6 onde 2^x1=4, 3^x2=5, ..., 7^x6=9: telescopagem via logaritmos (log₂4·log₃5·...·log₇9)."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 16,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q41.png",
+  "usa_imagem_no_render": true
+}

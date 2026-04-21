@@ -1,0 +1,47 @@
+{
+  "id": "ime_2019_fase2_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \nUm produtor rural constata que suas despesas mensais de eletricidade estão altas e decide contratar um \npesquisador para que ele especifique formas alternativas de acionamento simultâneo de duas bombas \nempregadas para irrigação de suas lavouras. O pesquisador constata que, na fazenda, existe uma \nmáquina refrigeradora que opera em um ciclo termodinâmico, bem como outro dispositivo que atua como \num ciclo motor e propõe a solução descrita a seguir: \n“A potência disponibilizada pelo ciclo motor deverá ser integralmente utilizada para o \nacionamento da máquina refrigeradora e a energia rejeitada para o ambiente de ambos os \ndispositivos – de acordo com os seus cálculos – é mais do que suficiente para o acionamento \nsimultâneo das duas bombas.” \nDe acordo com os dados abaixo, determine se a solução encaminhada pelo pesquisador é viável, com \nbase em uma análise termodinâmica da proposição. \nDados: \n• temperatura do ambiente: 27 °C; \n• temperatura no interior da máquina refrigeradora: −\n19\n3 °C; \n• temperatura da fonte térmica referente ao ciclo motor: 927 °C; \n• potência de cada bomba empregada na irrigação: 5 HP; \n• estimativa da taxa de energia recebida pelo motor térmico: 80 kJ/min; \n• 1 HP = ¾ kW. \n \n\n \n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Eletrodinâmica",
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Máquina refrigeradora + ciclo motor acionando bombas: análise energética — termodinâmica + eletrodinâmica (potência)."
+  },
+  "fonte": {
+    "pdf": "fis2019.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2/ime_2019_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

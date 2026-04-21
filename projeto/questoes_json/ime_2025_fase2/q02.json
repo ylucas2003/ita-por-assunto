@@ -1,0 +1,47 @@
+{
+  "id": "ime_2025_fase2_q02",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm sistema planetário muito distante é composto por dois planetas A e B que executam ambos\nórbitas circulares em torno da estrela S. Um cometa C estava em rota de colisão frontal com A.\nDepois da colisão, foi possível observar que o choque foi perfeitamente inelástico e quando os\ncorpos se moviam em sentido contrário, gerando assim o novo planeta, chamado CA, agora com\nórbita elíptica em torno de S.\nDados:\n• tempo de órbita completa de A em torno de S (antes da colisão): 160 dias de A;\n• 1 dia de A (antes da colisão): 4 dias terrestres;\n• tempo de órbita completa de B em torno de S: 90 dias de B;\n• 1 dia de B: 3 dias terrestres;\n• para um corpo fixo na superfície de CA, imediatamente após o choque, a força de gravidade\nprovocada por S é 0,081% da força de gravidade provocada por CA;\n• para um corpo fixo na superfície de B, a força de gravidade provocada por S é 2,048% da força\nde gravidade provocada por B;\n• dimensões de CA (depois da colisão) = dimensões de A (antes da colisão) = dimensões de B;\n• a energia mecânica (cinética mais potencial gravitacional) de CA (após a colisão) é 7 vezes a\nenergia mecânica de B, sendo ambas negativas.\nObservações:\n• despreze o efeito gravitacional da aproximação do cometa C nas trajetórias dos planetas A e B;\n• despreze a interação gravitacional entre os planetas A e B;\n• o potencial gravitacional no infinito é nulo;\n• os raios de A e B são muito menores que os raios de suas órbitas.\nConsiderando o cenário descrito, determine:\na) a razão entre os raios das órbitas de A e B;\nb) a razão entre as velocidades das órbitas de A e B;\nc) a razão entre as massas de B e CA;\nd) a razão entre a velocidade de órbita de B e a velocidade de CA imediatamente após o choque;\ne) se, imediatamente após o choque, CA estará em apoastro (ponto da órbita mais afastado de S)\nou em periastro (ponto da órbita mais próximo de S), justificando a sua resposta.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Gravitação",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema planetário A,B,S + cometa C em rota de colisão frontal com A: choque inelástico + nova órbita elíptica CA — gravitação + colisão."
+  },
+  "fonte": {
+    "pdf": "fis2025.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2/ime_2025_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

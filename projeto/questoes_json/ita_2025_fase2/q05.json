@@ -1,0 +1,50 @@
+{
+  "id": "ita_2025_fase2_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Considere um veículo lanc¸ador de nanossatélites (VLNS) de massa Mv a uma\naltitude h e com velocidade v0, perpendicular ao raio da Terra em relac¸ ão a um referencial\ninercial centrado na Terra.\nUm nanossatélite (NS) de massa m encontra-se imerso em\num fluido incompressível armazenado em um tubo localizado na extremidade do VLNS,\nconforme a figura. O tubo possui dois diâmetros distintos: um de valor d1 e outro de valor\nd2 < d1. Durante a ejec¸ ão, o NS acompanha a velocidade do fluido, que vale v1 em d1, em\nrelac¸ ão ao VLNS. Considere a massa e o raio da Terra como sendo, respectivamente, MT\ne RT , a constante da gravitac¸ ão universal como G e a massa do fluido como desprezível.\nDetermine\na) a velocidade de ejec¸ ão do NS, com relac¸ ão ao VLNS, em termos de v0, v1, d1 e d2;\nb) qual diâmetro d2 permite que o NS entre em órbita circular.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "6.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica",
+      "Gravitação",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica",
+      "Dinâmica",
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "VLNS em órbita ejeta NS via tubo com 2 diâmetros e fluido incompressível: continuidade (d1→d2) + órbita gravitacional + impulso/quantidade de movimento na ejeção."
+  },
+  "fonte": {
+    "pdf": "fisica_2025_2f.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2/ita_2025_fase2_q05.png",
+  "usa_imagem_no_render": true
+}

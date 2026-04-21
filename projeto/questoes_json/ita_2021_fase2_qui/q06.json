@@ -1,0 +1,47 @@
+{
+  "id": "ita_2021_fase2_qui_q06",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Considere a combustão de um determinado alceno com uma quantidade definida de ar em \nexcesso. Considere, ainda, que o ar é composto apenas por nitrogênio e oxigênio numa proporção molar \nde 3,76 e que o nitrogênio não sofre oxidação durante a combustão. Para esta reação, determine a \nporcentagem do(s) gás(es) em cada uma das situações descritas abaixo. \na) Na combustão incompleta do alceno com ar em excesso, além dos produtos esperados numa \ncombustão completa, há a formação de monóxido de carbono na proporção molar de 1 para 8 em \nrelação ao dióxido de carbono. Além disso, a quantidade em mol de O2 que sobrou após a reação é \n\n15 \n \nigual à de carbono no início da reação. Com base nessas informações, determine a composição \npercentual aproximada dos gases resultantes da reação, considerando a remoção prévia da água. \nb) Determine o percentual de ar em excesso na reação de combustão completa do alceno.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Fundamentos e Hidrocarbonetos"
+    ],
+    "blocos": [
+      "Química Orgânica",
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Combustão de alceno com ar em excesso (N₂/O₂ = 3,76): porcentagens de gases com/sem CO — estequiometria + hidrocarbonetos."
+  },
+  "fonte": {
+    "pdf": "quimica_2021_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase2_qui/ita_2021_fase2_qui_q06.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2022_fase2_mat_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Sejam P1 = (0, 6), P2 = (1, 5) e P3 = (2, 6) e sejam C1, C2 e C3 circunferências centradas em\nP1, P2 e P3, respectivamente. Sabendo que existe uma reta horizontal que é tangente a C1, C2 e C3 determine\nC1 ∩C2 ∩C3 quando este não for vazio.\n10",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Três circunferências com centros (0,6),(1,5),(2,6) e reta horizontal tangente a todas: determinar interseção C1∩C2∩C3."
+  },
+  "fonte": {
+    "pdf": "matematica_2022_2f.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_mat/ita_2022_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

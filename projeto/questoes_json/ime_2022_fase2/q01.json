@@ -1,0 +1,48 @@
+{
+  "id": "ime_2022_fase2_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm sistema de medic¸ ão da energia de um projétil funciona conforme a figura acima. No aparato\nmostrado, um provete, que pode ser equiparado a uma máquina térmica, recebe 250 J de uma\nfonte quente (pólvora) e possui rendimento de 40%. Tal equipamento dispara um projétil à veloci-\ndade v contra um alvo móvel de alumínio solidário a uma mola inicialmente relaxada de constante\nelástica k. O projétil aloja-se completamente no interior do alvo. Acoplado ao sistema alvo-mola,\num mostrador permite a leitura direta da energia E absorvida pela mola após o impacto, conforme\na deflexão x máxima experimentada.\nDados:\n• constante elástica da mola: k = 5000 N/m;\n• massa do projétil: 5 g;\n• massa do alvo móvel de alumínio: 495 g.\nObservac¸ ão:\n• despreze o atrito entre o alvo móvel e o solo.\nDiante do exposto, determine:\na) a velocidade inicial v do projétil;\nb) a deflexão x máxima experimentada pela mola, após o impacto do projétil;\nc) o valor de energia E indicada pelo mostrador acoplado ao sistema.\n1",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "4.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica",
+      "Dinâmica",
+      "Energia"
+    ],
+    "blocos": [
+      "Energia",
+      "Termodinâmica",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Provete (máq. térmica) 250 J e 40% de rendimento dispara projétil em alvo+mola; projétil aloja-se: energia final — termodinâmica + colisão + energia elástica."
+  },
+  "fonte": {
+    "pdf": "fis2022.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

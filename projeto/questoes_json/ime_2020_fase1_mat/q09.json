@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "enunciado_md": "Valor: 0,25\nHá um torneio de xadrez com 6 participantes. Cada participante joga com cada um dos outros\numa única partida. Não ocorrem empates. Cada participante tem 50% de chance de vencer cada\npartida.\nOs resultados são independentes.\nO vencedor em cada partida ganha um ponto e o\nperdedor zero. Deste modo, o total é acumulado para montar o ranking. No primeiro jogo do torneio\nJosé vence Maria. Se a probabilidade de José chegar à frente de Maria ao final do torneio é p\nq, com\np e q primos entre si, o valor de p + q é:",
+  "alternativas": {
+    "A": "5",
+    "B": "19",
+    "C": "257",
+    "D": "419",
+    "E": "4097 3"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2"
+    ],
+    "topicos_nomes": [
+      "Probabilidade"
+    ],
+    "blocos": [
+      "Combinatória, Probabilidade e Estatística"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Torneio de xadrez com 6 jogadores, sem empate, José venceu Maria no 1º jogo: P(José à frente) = p/q — probabilidade."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_mat/ime_2020_fase1_mat_q09.png",
+  "usa_imagem_no_render": true
+}

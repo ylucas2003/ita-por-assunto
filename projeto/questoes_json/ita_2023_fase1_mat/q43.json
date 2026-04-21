@@ -1,0 +1,52 @@
+{
+  "id": "ita_2023_fase1_mat_q43",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 43,
+  "enunciado_md": "Dado z = 5 −5i ∈C, definimos f(n) = |z(2n+1) + ¯z(2n+1)| para cada n ∈N. A soma de f(n)\npara n de 1 até 20 é",
+  "alternativas": {
+    "A": "250(5021 −1)/49.",
+    "B": "500 √ 2(5020 −1)/49.",
+    "C": "1000(5021 −1)/49.",
+    "D": "500(5020 −1)/49.",
+    "E": "nenhuma das alternativas anteriores."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "z=5-5i; f(n)=|z^(2n+1)+z̄^(2n+1)|: soma telescópica/PG — complexos + sequências."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_mat/ita_2023_fase1_mat_q43.png",
+  "usa_imagem_no_render": true
+}

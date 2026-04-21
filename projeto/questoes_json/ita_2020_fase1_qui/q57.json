@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_qui_q57",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 57,
+  "enunciado_md": "Considere uma bateria de fluxo de hidrogênio gasoso (H2) e bromo líquido (Br2) operando \nnas condições padrão. Durante a descarga, a bateria converte H2 e Br2 em ácido bromídrico (HBr). As \nreações de meia célula e os respectivos potenciais-padrão de eletrodo, a 298 K, são: \nAnodo, H2 → 2H+ + 2e− (Eº = 0 V) \n \nCatodo, Br2 + 2e− → 2Br− (Eº = 1,087 V) \nA dissociação da água pode ser observada pelo efeito da seguinte semirreação: \nO2 + 4e−+ 4H+→ 2H2O Eº = 1,229 V \nA formação de complexos iônicos de polibrometo ocorre segundo as reações e suas respectivas constantes \nde equilíbrio: \nBr2 + Br− ⇌ Br3\n− K3 = 16,7 \n2Br2 + Br− ⇌ Br5\n− K5 = 37,7 \nSejam feitas as seguintes afirmações a respeito dessa bateria: \nI. \nO potencial da célula pode ser aproximado pela equação: Ecatodo − Eanodo = 1,087 + 0,06 pH. \nII. O solvente (água) é termodinamicamente estável somente a pH < 2,4. \nIII. Recarregar a bateria com um potencial catódico inferior a 1,229 V garante a estabilidade do \nsolvente. \nIV. Durante a descarga da bateria, a concentração do HBr aumenta e podem formar complexos iônicos \nde Br3\n− e Br5\n−. \nDas afirmações acima, estão CORRETAS",
+  "alternativas": {
+    "A": "apenas I, II e IV.",
+    "C": "apenas II e IV.",
+    "E": "todas.",
+    "B": "apenas I e III.",
+    "D": "apenas III e IV."
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bateria de fluxo H₂/Br₂: potenciais padrão de semirreação, dissociação da água — eletroquímica."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q57.png",
+  "usa_imagem_no_render": true
+}

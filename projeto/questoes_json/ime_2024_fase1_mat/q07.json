@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_mat_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 7,
+  "enunciado_md": "Valor: 0,25\nSeja y = ab x−10, a e b reais , onde os valores de x e log(y) são relacionados pelo gráfico abaixo.\nEntão o valor da a + b é",
+  "alternativas": {
+    "A": "20",
+    "B": "30",
+    "C": "40",
+    "D": "50",
+    "E": "60"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "y=a·b^(x-10); log y × x é linear: a+b — funções exponenciais/logarítmicas."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_mat/ime_2024_fase1_mat_q07.png",
+  "usa_imagem_no_render": true
+}

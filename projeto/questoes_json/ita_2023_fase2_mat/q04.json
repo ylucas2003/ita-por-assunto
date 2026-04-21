@@ -1,0 +1,47 @@
+{
+  "id": "ita_2023_fase2_mat_q04",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Considere o polinômio p(x) = x4 −x3 + x2 −x + 1. Determine o quociente e o resto da divisão\ndo polinômio q(x) = x10 −1 por p(x) e encontre todas as raízes complexas de p(x).\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios",
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos",
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "p(x)=x⁴-x³+x²-x+1 (10º ciclotômico): x¹⁰-1 dividido por p(x), raízes complexas 10as da unidade."
+  },
+  "fonte": {
+    "pdf": "matematica_2023_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_mat/ita_2023_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ime_2024_fase2_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nDado P(x) = cossec2(α) · x2−cotg(α) · x+ cos(α).\nPara que valores de α, no intervalo (0, π), as raízes de P(x) são reais?",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios",
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria",
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "P(x)=cossec²(α)x²-cotg(α)x+cos(α): α∈(0,π) para raízes reais — polinômios + trigonometria (discriminante)."
+  },
+  "fonte": {
+    "pdf": "mat2024.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase2_mat/ime_2024_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

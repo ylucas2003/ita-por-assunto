@@ -1,0 +1,46 @@
+{
+  "id": "ita_2022_fase2_qui_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Em um reator químico vazio, mantido a altas temperaturas, injeta-se uma mistura \ngasosa, com massa molar aparente igual a 29 g∙mol−1, constituída de amônia e oxigênio puros. Os \ngases reagem entre si formando óxido nítrico e água no estado gasoso. Ao final do processo, toda \na amônia é consumida e são formados 20 mol de óxido nítrico. A respeito deste processo, pede-se: \na) \nA equação química balanceada. \nb) \nOs valores numéricos das frações molares de amônia e de oxigênio no início da reação. \nc) \nO valor numérico da porcentagem de reagente em excesso. \nd) \nOs valores numéricos das quantidades (em mols) das espécies químicas no final da \nreação. \n \n \n\n21",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Gases"
+    ],
+    "blocos": [
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mistura NH₃+O₂ (MM aparente 29 g/mol) reagindo para NO+H₂O: equação balanceada + frações molares iniciais — estequiometria + gases."
+  },
+  "fonte": {
+    "pdf": "quimica_2022_2f.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_qui/ita_2022_fase2_qui_q08.png",
+  "usa_imagem_no_render": true
+}

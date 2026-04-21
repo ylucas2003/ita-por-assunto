@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Considere dois objetos idênticos inicialmente em equilíbrio térmico à temperatura T1.\nUm refrigerador realiza trabalho W e faz um dos objetos atingir a temperatura T2. Considere que\nos objetos não trocam calor com o meio externo e tudo acontece a pressão constante. Sendo Cp a\ncapacidade térmica de cada objeto a pressão constante, qual o valor mínimo de W?\nDado: A variac¸ ão de entropia ∆S a pressão constante entre temperaturas Ti e Tf é ∆S = Cp ln Tf\nTi .\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Refrigerador operando entre dois objetos a T₁ e T₂: trabalho mínimo pela 2ª Lei (processo reversível, ΔS_total ≥ 0)."
+  },
+  "fonte": {
+    "pdf": "fisica_2024_2f.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2/ita_2024_fase2_q05.png",
+  "usa_imagem_no_render": true
+}

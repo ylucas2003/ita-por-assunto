@@ -1,0 +1,113 @@
+{
+  "q16": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Ondas sonoras em tubos — ondas mecânicas longitudinais."
+  },
+  "q17": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Lente divergente — projeção cônica em anteparo."
+  },
+  "q18": {
+    "topicos_ids": [
+      "5.1",
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Corpo flutuante em líquido com carga em campo elétrico — empuxo e eletrostática."
+  },
+  "q19": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Movimento circular — aceleração centrípeta/tangencial."
+  },
+  "q20": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Refração em três meios com índices distintos."
+  },
+  "q21": {
+    "topicos_ids": [
+      "2.3",
+      "8.3"
+    ],
+    "confianca": "alta",
+    "observacao": "Colisão inelástica + partícula carregada em campo magnético."
+  },
+  "q22": {
+    "topicos_ids": [
+      "8.2",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Circuito em plano inclinado — energia dissipada em resistores."
+  },
+  "q23": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Análise dimensional — grandeza adimensional."
+  },
+  "q24": {
+    "topicos_ids": [
+      "2.2",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Haste articulada + mola — energia potencial elástica e gravitacional."
+  },
+  "q25": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Manômetro de reservatório — pressão em tubos comunicantes."
+  },
+  "q26": {
+    "topicos_ids": [
+      "2.3",
+      "2.4"
+    ],
+    "confianca": "alta",
+    "observacao": "Cilindro rolando — rotação + translação + energia."
+  },
+  "q27": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Medida do raio da Terra via pôr do Sol — geometria gravitacional."
+  },
+  "q28": {
+    "topicos_ids": [
+      "8.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Fonte de tensão + fusível — resistência interna e curva de abertura."
+  },
+  "q29": {
+    "topicos_ids": [
+      "2.2",
+      "8.1"
+    ],
+    "confianca": "alta",
+    "observacao": "Estática de barras articuladas com partículas carregadas."
+  },
+  "q30": {
+    "topicos_ids": [
+      "4.2"
+    ],
+    "confianca": "alta",
+    "observacao": "Tubo sonoro com parede móvel — harmônicos e ressonância."
+  }
+}

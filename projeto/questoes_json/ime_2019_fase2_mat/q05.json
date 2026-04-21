@@ -1,0 +1,44 @@
+{
+  "id": "ime_2019_fase2_mat_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \nUma matriz A é semelhante a uma matriz B se e somente se existe uma matriz invertível P tal que \nA = P B P-1. \na) Se A e B forem semelhantes, mostre que det(A) = det(B). \nb) Dadas C = (4\n2\n3\n5) e D = (8\n−2\n3\n1 ) , verifique se essas matrizes são semelhantes.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Matrizes e Determinantes"
+    ],
+    "blocos": [
+      "Álgebra Linear e Matrizes"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Matrizes semelhantes A=PBP⁻¹: mostrar det(A)=det(B) + verificar C,D específicas — matrizes/determinantes."
+  },
+  "fonte": {
+    "pdf": "mat2019.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_mat/ime_2019_fase2_mat_q05.png",
+  "usa_imagem_no_render": true
+}

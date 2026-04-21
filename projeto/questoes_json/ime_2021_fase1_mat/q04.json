@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "enunciado_md": "Valor: 0,25\nQuantos pares ordenados (x, y) de números inteiros satisfazem a equação 1/x + 1/y = 1/23 ?",
+  "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Aritmética"
+    ],
+    "blocos": [
+      "Aritmética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Pares (x,y) inteiros: 1/x+1/y=1/23 — aritmética (divisibilidade/diofantina)."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_mat/ime_2021_fase1_mat_q04.png",
+  "usa_imagem_no_render": true
+}

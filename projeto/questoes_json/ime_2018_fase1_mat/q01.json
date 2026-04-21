@@ -1,0 +1,48 @@
+{
+  "id": "ime_2018_fase1_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \nAristeu e seu irmão nasceram nos séculos XX e XXI, respectivamente. Neste ano, 2018, os dois já fizeram \naniversário e a idade de cada um deles é a soma dos três últimos dígitos do ano de seu respectivo \nnascimento. Qual é a soma das idades dos dois irmãos?",
+  "alternativas": {
+    "A": "23",
+    "B": "26",
+    "C": "29",
+    "D": "32",
+    "E": "39"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Aritmética"
+    ],
+    "blocos": [
+      "Aritmética"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Idades de dois irmãos nascidos nos séculos XX e XXI, iguais à soma dos três últimos dígitos do ano: soma — aritmética."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

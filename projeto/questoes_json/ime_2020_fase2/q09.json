@@ -1,0 +1,47 @@
+{
+  "id": "ime_2020_fase2_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\n\nplaneta\n\n— — —\n\nNuvem de poeira cósmica\n\n“Espaço: a fronteira final” Certa vez, esta conhecida nave interplanetária teve seu disco defletor\ndestruído e entrou, logo em seguida, em movimento. Sabe-se que o disco defletor tem a funciona-\nlidade de desviar qualquer partícula espacial que, mesmo pequena, em altas velocidades, poderia\ndestruir a nave.\n\nConsidere uma outra nave espacial, de menor porte, que tenha sofrido o mesmo dano em seu\ndisco defletor e seja obrigada a usar o escudo de força para se proteger. Seu escudo, ao invés\nde repelir, absorve a massa das partículas espaciais, como em choques perfeitamente inelásticos.\nO excesso de energia cinética, após cada choque, é dissipado pelo escudo, mas qualquer carga\nelétrica encontrada permanece no escudo, deixando-o carregado. A nave resolve se dirigir para o\nplaneta ocupado mais próximo, para sofrer reparos. Por conta dos danos, só foi possível gerar uma\nvelocidade inicial v, de 8% da velocidade da luz e seus motores foram desligados até o momento de\nentrar em órbita. Durante o percurso, a nave encontra uma nuvem de partículas eletricamente car-\nregadas, realizando um trajeto retilíneo de comprimento L. Em média, uma partícula por quilômetro\né encontrada pela nave. Essa nuvem localiza-se em uma região distante de qualquer influência gra-\nvitacional. Sabe-se que a nave permanecerá em uma orbita equatorial ao redor do planeta, cujo\ncampo magnético apresenta intensidade uniforme, no sentido do polo Norte (N) para o polo Sul (S).\n\nDados:\n\n* nave: massa inicial mM, = 300 toneladas e carga inicial q, nula;\npartículas: massa média m = 100 mg e carga elétrica média q = 715 uC;\nplaneta: massa M = 6,3 x 10” kg, raio R = 7.000 km e intensidade do campo magnético\nB=5x10ºT;\nconstante de gravitação universal: G = 6,67 x 107 N.m2kg?;\nvelocidade da luz: c= 3 x 10º m/s; e\ncomprimento da nuvem: L = 7,5 x 10º km.\n\nObservação: despreze a intensidade da força de repulsão entre as cargas de mesmo sinal.\n\nDiante do exposto, pede-se a:\n\na) velocidade final da nave logo após o último choque;\n\nb) energia máxima dissipada pelo escudo em um único choque; e\n\nc) velocidade mínima da nave para manter uma órbita de altura H = 35 x 10º km acima da superfície\n\ndo planeta.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Ondas e Acústica"
+    ],
+    "blocos": [
+      "Dinâmica",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Nave espacial atingindo nuvem de poeira cósmica: análise de impulso/quantidade de movimento — dinâmica (colisão/impulso)."
+  },
+  "fonte": {
+    "pdf": "fis2020.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2/ime_2020_fase2_q09.png",
+  "usa_imagem_no_render": true
+}

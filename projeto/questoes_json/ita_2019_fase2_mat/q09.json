@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_mat_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Sejam A, B, C os vértices de um triângulo. Determine sen ˆB, sabendo que\nsen ( Â + ˆB) = 4\n5 = sen ( Â −ˆC).",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Triângulo com sen(Â+B̂)=4/5=sen(Â−Ĉ): determinação de sen B̂ — identidades trigonométricas num triângulo."
+  },
+  "fonte": {
+    "pdf": "matematica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_mat/ita_2019_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

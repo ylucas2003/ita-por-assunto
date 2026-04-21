@@ -1,0 +1,38 @@
+{
+  "id": "ime_2025_fase2_qui_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nPara a neutralização de 0,18 g de um ácido carboxílico, são gastos 30 mL de uma solução 0,1 M de\nNaOH. A densidade do vapor deste ácido é trinta vezes a do hidrogênio, nas mesmas condições.\nConsiderando a dissociação completa desse ácido, forneça seu nome e sua estrutura molecular.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2025.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2025_fase2_qui/ime_2025_fase2_qui_q06.png",
+  "usa_imagem_no_render": true
+}

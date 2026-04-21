@@ -1,0 +1,44 @@
+{
+  "id": "ime_2021_fase2_mat_q01",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSeis irmãos conversavam quando um deles, Matias, enunciou: a soma das idades de todos nós é\ncinco vezes a minha idade atual e sou seis anos mais novo que Sófocles. Quando Sófocles tiver\ntrês vezes a minha idade atual, constataremos que:\n- a soma da minha idade com a de Dâmocles será igual à soma da idade atual dos irmãos de\nCésar;\n- a idade de Erastóstenes será três vezes a idade dele atual; e\n- a idade do Lutero será duas vezes a idade atual do Sófocles, mais um ano.\nDiante do exposto, qual é a soma das idades atuais de Sófocles e Matias?",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.4"
+    ],
+    "topicos_nomes": [
+      "Sistemas e Outras Equações"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Seis irmãos com relações de idades: sistema de equações — sistemas lineares."
+  },
+  "fonte": {
+    "pdf": "mat2021.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase2_mat/ime_2021_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

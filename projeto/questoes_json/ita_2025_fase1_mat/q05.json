@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_mat_q05",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 5,
+  "enunciado_md": "Sejam (an)n∈N e (bn)n∈N duas sequências numéricas tais que\nSn =\nn\nX\nk=1\nak = bn+1 −b1 para todo n ∈N.\nConsidere as afirmações abaixo:\nI.\nSe (bn)n∈N é uma PG, então (an)n∈N também é PG.\nII. Se (an)n∈N é uma PG, então (bn)n∈N também é PG.\nIII. Se (an)n∈N é uma PA, então (Sn)n∈N também é PA.\nEstá(ão) correta(s):",
+  "alternativas": {
+    "A": "I e II.",
+    "B": "II e III.",
+    "C": "I e III.",
+    "D": "apenas I.",
+    "E": "nenhuma."
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sn=bn+1-b1 (telescópica): relações entre (an), (bn) e (Sn) sendo PA/PG — sequências."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_mat/ita_2025_fase1_mat_q05.png",
+  "usa_imagem_no_render": true
+}

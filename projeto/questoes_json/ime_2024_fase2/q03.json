@@ -1,0 +1,45 @@
+{
+  "id": "ime_2024_fase2_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma lente convergente está posicionada num plano horizontal e possui, presa a seu centro, um\npêndulo composto por um fio ideal e uma partícula de massa m. O movimento da partícula provoca\numa oscilac¸ ão na posic¸ ão de sua imagem gerada pela lente.\nDados:\n• distância focal da lente: 30 cm;\n• amplitude horizontal do movimento pendular da partícula.: 4 cm;\n• amplitude do movimento da imagem da partícula: 12 cm;\n• massa da partícula: 1 kg;\n• acelerac¸ ão da gravidade: g = 10 m/s2;\n• π ≈3.\nObservac¸ ão:\n• a amplitude do movimento pendular da partícula é pequena a ponto de podermos aproximar sua\ntrajetória a um segmento de reta.\nA partir dos dados acima, determine os valores aproximados para:\na) o comprimento do fio;\nb) o período de oscilac¸ ão do pêndulo;\nc) a máxima energia cinética atingida pela partícula.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica",
+      "Movimento Harmônico Simples"
+    ],
+    "blocos": [
+      "Óptica",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Lente convergente horizontal (f=30 cm) + pêndulo com m=1 kg: amplitude 4 cm da partícula vs 12 cm da imagem — óptica geométrica + MHS/pêndulo."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

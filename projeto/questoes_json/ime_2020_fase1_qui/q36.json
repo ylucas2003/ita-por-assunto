@@ -1,0 +1,52 @@
+{
+  "id": "ime_2020_fase1_qui_q36",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 36,
+  "enunciado_md": "Valor: 0,25\nSabe-se que dois compostos A e B reagem em soluc¸ ão de acordo com a estequiometria A +\nB →C + D, que segue uma cinética de primeira ordem tanto em relac¸ ão a A quanto a B, com\nvelocidade específica de reac¸ ão k = 10−3 L mol−1 s−1. Em um recipiente, são adicionados 2 mols\nde cada um dos reagentes e um solvente adequado até completar 1 L de soluc¸ ão. Considerando\nque A é totalmente solúvel e B tem uma solubilidade igual a 0,1 mol L−1, obtenha a taxa de reac¸ ão\n(v em mol L−1 s−1) em func¸ ão da conversão de A, dada por X = (2–nA)/2 (onde nA é o número\nde mols de A em um dado instante).",
+  "alternativas": {
+    "A": "     v = 0,002 (1 –X), 0 ≤X ≤0,95; e v = 0,004 (1 –X)², 0,95 ≤X ≤1.",
+    "B": "     v = 0,0002 (1 –X), 0 ≤X ≤0,05; e v = 0,002 (1 –X)², 0,05 ≤X ≤1.",
+    "C": "v = 0,004 (1 – X)² durante todo o processo, pois a reac¸ ão se dá em soluc¸ ão.",
+    "D": "     v = 0,0004 (1 –X)², 0 ≤X ≤0,05; e v = 0,004 (1 –X)², 0,05 ≤X ≤1.",
+    "E": "     v = 0,0002 (1 –X), 0 ≤X ≤0,95; e v = 0,004 (1 –X)², 0,95 ≤X ≤1. 18"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "9.3"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Equilíbrio de Solubilidade"
+    ],
+    "blocos": [
+      "Cinética Química",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A+B→C+D 1ª ordem; B tem solub. 0,1M: v(X) em dois regimes — cinética + equilíbrio solubilidade."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_qui/ime_2020_fase1_qui_q36.png",
+  "usa_imagem_no_render": true
+}

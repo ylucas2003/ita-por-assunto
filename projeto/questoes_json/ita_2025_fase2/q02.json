@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Considere uma barra homogênea de comprimento L e massa M, suspensa\nhorizontalmente por uma corda vertical que tem um nó fixo no teto e outro numa das extre-\nmidade da barra (x = 0). Uma massa m está pendurada na outra extremidade (x = L), e\numa distribuic¸ ão de forc¸as é aplicada ao longo da barra, de forma que o sistema se encon-\ntra em equilíbrio estático. Essa distribuic¸ ão pode ser descrita por N forc¸as, que obedecem\nà relac¸ ão de recorrência ⃗Fn =\n⃗Fn–1\n2\n(n = 0, 1, ..., N – 1), aplicadas nos pontos xn = 2–nL.\nCalcule, em termos de M, m, g, L e N,\na) a forc¸a F0;\nb) a forc¸a de trac¸ ão da corda.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Estática e Equilíbrio"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Barra homogênea suspensa por corda + m na extremidade + série de forças F_n=F_{n-1}/2 distribuídas: equilíbrio estático (torques) com força distribuída em PG."
+  },
+  "fonte": {
+    "pdf": "fisica_2025_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2/ita_2025_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

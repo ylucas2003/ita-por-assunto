@@ -1,0 +1,49 @@
+{
+  "id": "ita_2019_fase1_qui_q60",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 60,
+  "enunciado_md": "Uma amostra de gás contém 80% de metano, 10% de etano, 5% de propano e 5% de\nnitrogênio, em volume. Considerando que todos os átomos de carbono na amostra de gás são convertidos\nem butadieno com 100% de rendimento, assinale a opção que apresenta a massa de butadieno obtido a\npartir de 100 g do gás.",
+  "alternativas": {
+    "A": "50g",
+    "C": "7TOg",
+    "E": "9g",
+    "B": "60g",
+    "D": "80g 21"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Mistura gasosa (CH₄, C₂H₆, C₃H₈, N₂) convertida 100% em butadieno: massa obtida de 100 g — estequiometria em base volumétrica/molar."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q60.png",
+  "usa_imagem_no_render": true
+}

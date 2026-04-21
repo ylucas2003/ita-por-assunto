@@ -1,0 +1,47 @@
+{
+  "id": "ime_2024_fase2_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSejam 3 pontos colineares A, B e C tais que AB ̸= BC. Cada par de circunferências de mesmo\nraio, uma passando por A e B e outra por B e C, se interceptam em B e M.\nDetermine o lugar geométrico do ponto M.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana",
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A,B,C colineares; pares de circunferências de mesmo raio passando por AB e BC: LG de M — geometria plana + analítica."
+  },
+  "fonte": {
+    "pdf": "mat2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase2_mat/ime_2024_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

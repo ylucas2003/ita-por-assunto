@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_q27",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 27,
+  "enunciado_md": "Valor: 0,25\nUm físico precisa fundir 50 kg de um determinado material. Pensando em não desperdic¸ar energia,\nele pega um bloco extra de 1 kg desse material como amostra, inicialmente na temperatura de\n20°C, e realiza duas etapas sucessivas de aquecimento, fornecendo 16 kcal em cada uma delas.\nSuas anotac¸ ões são mostradas na tabela a seguir:\nEtapas de Aquecimento (16 kcal)\nApós o sistema entrar em equilíbrio térmico\nMassa final do bloco\nTemperatura final do sistema\n1ª Etapa\n1 kg\n60°C\n2ª Etapa\n0,92 kg\n90°C\nConsiderando a temperatura inicial do material em 20 °C e que sua temperatura de fusão é cons-\ntante, a quantidade mínima de energia, em kcal, necessária para fundir os 50 kg de material, é:",
+  "alternativas": {
+    "A": "800",
+    "B": "1400",
+    "C": "1600",
+    "D": "2500",
+    "E": "3900 13"
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bloco de material aquecido em 2 etapas sucessivas de 16 kcal; massa/temperatura final: calor específico/latente — calorimetria (termodinâmica)."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 13,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1/ime_2020_fase1_q27.png",
+  "usa_imagem_no_render": true
+}

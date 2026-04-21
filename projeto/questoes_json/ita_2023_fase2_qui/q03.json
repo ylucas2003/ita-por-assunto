@@ -1,0 +1,47 @@
+{
+  "id": "ita_2023_fase2_qui_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Um determinado sistema consiste em dois sólidos, A e B, cada qual com uma quantidade igual \na 1 mol. Considere que os sólidos estão fisicamente separados, mas em contato térmico por meio de uma \nparede condutora de calor, a qual garante que estejam em equilíbrio térmico em todos os instantes. A \ntemperatura inicial desse sistema é igual a −10 °C. O sistema é aquecido até atingir a temperatura de \n20 °C. A temperatura de fusão de A é igual a 0 °C e a de B é igual a 10 °C. Considere ainda os dados a \nseguir. \nI. \nVariação de entalpia de fusão, de A, ∆Hfusão(A) = 1 kJ mol−1, e de B, ∆Hfusão(B) = 2 kJ mol−1; \nII. \nCapacidade calorífica molar sob pressão constante, de A sólido, Cp,sólido(A) = 30 J mol−1 K−1, e de B \nsólido, Cp,sólido(B) = 20 J mol−1 K−1; \nIII. \nCapacidade calorífica molar sob pressão constante, de A líquido, Cp,líquido(A) = 50 J mol−1 K−1, e de \nB líquido, Cp,líquido(B) = 100 J mol−1 K−1. \nDesenhe um gráfico da temperatura do sistema, em °C, em função da quantidade de calor fornecida, em \nkJ, indicando o fenômeno físico e o valor numérico da quantidade de calor fornecida em cada etapa do \nprocesso de aquecimento, até a temperatura final ser atingida. \n \n \n \n\n16",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Termoquímica",
+      "Termodinâmica Física"
+    ],
+    "blocos": [
+      "Termodinâmica Física",
+      "Termoquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dois sólidos A,B em equilíbrio térmico aquecidos de -10°C a 20°C com T_fus(A)=0°C e T_fus(B)=10°C: calor trocado — termoquímica + termodinâmica."
+  },
+  "fonte": {
+    "pdf": "quimica_2023_2f.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase2_qui/ita_2023_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

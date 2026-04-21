@@ -1,0 +1,47 @@
+{
+  "id": "ita_2025_fase2_qui_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Uma tira de gelatina incolor foi imersa em uma solução aquosa, contendo \nK4Fe(CN)6, NaOH e fenolftaleína. Após certo tempo, a tira foi retirada da solução e deixada \nsecar ao ar. Então, uma gota de uma solução aquosa de FeCl3 foi depositada na \nextremidade esquerda da tira de gelatina. Sabe-se que Fe3+ reage com o íon [Fe(CN)6]4-, \nformando um composto azul solúvel em água. \n \nForam observados os seguintes resultados: \n \na) antes de se adicionar FeCl3(aq), a gelatina apresentava-se inteiramente vermelha; \nb) uma hora após se adicionar FeCl3(aq), a extremidade direita da tira permanecia \nvermelha, a região central estava incolor e a extremidade esquerda estava azul; \nc) duas horas após se adicionar FeCl3(aq), a metade esquerda da tira estava azul, e a \nmetade direita, incolor; \nd) três horas após a adição de uma gota de FeCl3(aq), toda a tira apresentava-se azul. \nCom base nas informações fornecidas, explique a cor da tira de gelatina em cada uma das \netapas descritas acima, utilizando, sempre que possível, equações químicas para justificar \nsua resposta. \n \n \n \n\n12 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1",
+      "1.5"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica",
+      "Reações Inorgânicas"
+    ],
+    "blocos": [
+      "Eletroquímica",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Gelatina com K₄[Fe(CN)₆], NaOH e fenolftaleína exposta a FeCl₃: migração iônica por eletrólise/difusão e formação de azul-da-Prússia — reações inorgânicas + eletroquímica."
+  },
+  "fonte": {
+    "pdf": "quimica_2025_2f.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_qui/ita_2025_fase2_qui_q09.png",
+  "usa_imagem_no_render": true
+}

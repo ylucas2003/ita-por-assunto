@@ -1,0 +1,52 @@
+{
+  "id": "ime_2019_fase1_qui_q33",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 33,
+  "enunciado_md": "Valor: 0,25 \nUma liga de cobre e prata, isenta de impurezas, é colocada em um recipiente contendo uma solução de \nácido sulfúrico e água bromada, de modo que o gás que se desprende durante a reação é integralmente \nabsorvido pela água bromada. Após a dissolução completa da liga, adiciona-se uma solução aquosa de \nBaCl2. Findo o procedimento, observa-se um precipitado que deve ser composto predominantemente por:",
+  "alternativas": {
+    "A": "CuSO4 e Ag2SO4",
+    "B": "Ag2SO4 e BaSO4",
+    "C": "CuCl2 e BaSO4",
+    "D": "AgCl e Ag2SO4",
+    "E": "AgCl e CuSO4 18"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.5",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Reações Inorgânicas",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cu+Ag em H₂SO₄+Br₂(aq); depois BaCl₂: precipitado (AgCl e BaSO₄) — reações inorgânicas + estequiometria."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 18,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_qui/ime_2019_fase1_qui_q33.png",
+  "usa_imagem_no_render": true
+}

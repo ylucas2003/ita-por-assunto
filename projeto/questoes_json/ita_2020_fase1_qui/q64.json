@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_qui_q64",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 64,
+  "enunciado_md": "Quando dissolvidos em água para formar soluções com concentração 0,1 mol L−1, os sais \nNa2S, NaCH3CO2, NaHSO4 e Na2HPO4 deixam o meio respectivamente",
+  "alternativas": {
+    "A": "ácido, básico, neutro, básico.",
+    "D": "básico, básico, ácido, básico.",
+    "B": "básico, neutro, ácido, neutro.",
+    "E": "neutro, neutro, básico, neutro.",
+    "C": "ácido, básico, ácido, ácido."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.2"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Iônico (Ácido-Base)"
+    ],
+    "blocos": [
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sais Na₂S, NaCH₃CO₂, NaHSO₄, Na₂HPO₄ em água 0,1 mol/L: caráter ácido/básico/neutro — hidrólise salina (equilíbrio iônico)."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 22,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q64.png",
+  "usa_imagem_no_render": true
+}

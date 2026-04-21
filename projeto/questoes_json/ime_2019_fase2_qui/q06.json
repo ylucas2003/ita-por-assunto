@@ -1,0 +1,47 @@
+{
+  "id": "ime_2019_fase2_qui_q06",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 6,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0 \n \nO cloro comercial é comumente usado na maioria das piscinas com o objetivo de eliminar \nmicrorganismos. Uma das formas de aplicá-lo na água da piscina é a partir da adição de compostos \ncontendo o íon hipoclorito ou de ácido tricloroisocianúrico, vulgarmente denominado tricloro, que reage \ncom a água, formando ácido hipocloroso e ácido cianúrico. As estruturas do tricloro e do ácido \ncianúrico são apresentadas abaixo. \n \n \n tricloro ácido cianúrico \nA soma das concentrações do ácido hipocloroso e do íon hipoclorito é chamada de “cloro livre”, e \nambas estabelecem um equilíbrio dependente do pH, de acordo com o gráfico abaixo. \n \nO ácido hipocloroso é oito vezes mais eficiente como agente biocida do que o íon hipoclorito. Quando \no pH está baixo, o excesso de ácido hipocloroso favorece a formação de cloraminas, que são irritantes \naos olhos dos banhistas. Quando o pH está alto, o poder de eliminação de microorganismos é \nreduzido. Costuma-se considerar que o pH ótimo para aplicação em piscinas é de 7,5. \nUma das vantagens do uso do tricloro é que o ácido cianúrico retarda o processo de fotólise do “cloro \nlivre” quando a água está exposta à ação dos raios ultravioleta. Sem o ácido cianúrico, a meia-vida do \n“cloro livre” é de 17 min. A adição do tricloro faz com que a perda de “cloro livre” ocorra a uma taxa de \n15 % por dia. No entanto, o teor máximo recomendado de ácido cianúrico para piscinas é de 100 ppm. \nJá os teores do ácido hipocloroso e do íon hipoclorito devem ser mantidos, individualmente, entre \n0,25 e 2,5 ppm. \nEm uma piscina residencial de 5000 L, foram medidos um pH de 8,5 e um teor de “cloro livre” de \n0,5 ppm. Adicionaram-se então 23,25 g de tricloro, ajustando-se o pH para o valor ótimo. \nCom base nas informações acima: \na) determine se, após essa adição, a piscina estará em condições de uso. \nb) calcule em quantos dias o limite mínimo de cloro livre será atingido, caso a piscina não seja mais \nusada. \nDados: log (73) = 1,863; log(17) = 1,230; log(5) = 0,699. \nN\nN\nN\nCl\nCl\nCl\nO\nO\nO\nN\nN\nN\nOH\nOH\nO\nH\n100\npH\n[íon hipoclorito] (%molar)\n[ácido hipocloroso] (%molar)\nEfeito do pH nas concentrações do ácido \nhipocloroso e do íon hipoclorito\n0\n20\n40\n60\n80\n7\n9\n11\n5\n100\n80\n60\n40\n20\n0\n90\n70\n50\n30\n10\n3\n\n \n 5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.2",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Iônico (Ácido-Base)",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Tricloro hidrolisa formando HClO e ác. cianúrico: soma das concentrações — equilíbrio iônico + estequiometria."
+  },
+  "fonte": {
+    "pdf": "quim2019.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase2_qui/ime_2019_fase2_qui_q06.png",
+  "usa_imagem_no_render": true
+}

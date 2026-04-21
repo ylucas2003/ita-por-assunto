@@ -1,0 +1,44 @@
+{
+  "id": "ita_2025_fase2_mat_q10",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Calcule a área da projeção ortogonal de um cubo de aresta 2 sobre um plano\nperpendicular a uma das diagonais do cubo.\n11\n\nRASCUNHO\n12",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Espacial"
+    ],
+    "blocos": [
+      "Geometria Espacial"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Cubo de aresta 2: área da projeção ortogonal sobre plano perpendicular à diagonal do cubo (hexágono regular) — geometria espacial."
+  },
+  "fonte": {
+    "pdf": "matematica_2025_2f.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase2_mat/ita_2025_fase2_mat_q10.png",
+  "usa_imagem_no_render": true
+}

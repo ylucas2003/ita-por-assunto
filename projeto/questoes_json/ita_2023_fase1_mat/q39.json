@@ -1,0 +1,52 @@
+{
+  "id": "ita_2023_fase1_mat_q39",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 39,
+  "enunciado_md": "Considere as afirmações:\nI. Se P é um polígono convexo de n lados iguais, então P é um polígono regular.\nII. Seja P um polígono convexo de 6 lados. Se seus ângulos internos, listados em ordem crescente, formam\numa progressão aritmética, então a soma do menor e do maior ângulo interno de P é 240◦.\nIII. Existe um polígono convexo de 100 lados cujos ângulos internos, listados em ordem crescente, formam\numa progressão aritmética de razão r = 1◦.\nÉ (são) sempre verdadeira(s):",
+  "alternativas": {
+    "A": "apenas I.",
+    "B": "apenas II.",
+    "C": "apenas III.",
+    "D": "apenas II e III.",
+    "E": "nenhuma."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Sequências e Progressões",
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Afirmações sobre polígonos convexos (lados iguais, ângulos em PA em hexágono, 100-ágono com r=1°): geo plana + PA."
+  },
+  "fonte": {
+    "pdf": "2023_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2023_fase1_mat/ita_2023_fase1_mat_q39.png",
+  "usa_imagem_no_render": true
+}

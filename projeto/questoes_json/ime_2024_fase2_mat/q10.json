@@ -1,0 +1,47 @@
+{
+  "id": "ime_2024_fase2_mat_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere o seguinte subconjunto A do conjunto dos números complexos C.:\nA =\n(\nz ∈C |\n∞\nX\nn=1\n\f\f\f\f\nz −1\nz + 1\n\f\f\f\f\nn\n≤k −1\n)\n,\nonde k > 1 é um número real dado.\nDetermine o valor máximo de |z| para z ∈A.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Sequências e Progressões"
+    ],
+    "blocos": [
+      "Números Complexos",
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A={z:Σ((z-1)/(z+1))ⁿ ≤ k-1}: |z| máximo — complexos + séries."
+  },
+  "fonte": {
+    "pdf": "mat2024.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase2_mat/ime_2024_fase2_mat_q10.png",
+  "usa_imagem_no_render": true
+}

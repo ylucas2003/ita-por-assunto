@@ -1,0 +1,42 @@
+{
+  "id": "ime_2024_fase2_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nAo analisar um ciclo de refrigerac¸ ão em funcionamento, um inventor propõe o aproveitamento do\ncalor rejeitado para a fonte quente através do seguinte esquema: um motor térmico operando em\nciclo termodinâmico é acoplado em série ao ciclo original, conforme esboc¸o da figura, produzindo\ntrabalho e rejeitando calor para um reservatório térmico adicional.\nO inventor argumenta que, sob condic¸ ões de máximo desempenho do ciclo motor: (1) a potência\ngerada é de 2 HP; (2) a taxa de transferência de calor para o reservatório térmico adicional é capaz\nde prover energia equivalente para acender 200 lâmpadas de 50 W de potência cada.\nDados:\n• taxa de transferência de calor da fonte fria para o ciclo de refrigerac¸ ão: 720 kJ/min;\n• temperatura da fonte quente comum ao ciclo de refrigerac¸ ão e ao ciclo motor.: 27◦C;\n• potência de acionamento do ciclo de refrigerac¸ ão: 4 HP;\n• temperatura da fonte fria do ciclo motor: 12◦C;\n• coeficiente de desempenho (COP) do ciclo de refrigerac¸ ão: 12/22 do equivalente ao ciclo de\nCarnot;\n• razão de aproveitamento da taxa de transferência de calor oriunda do ciclo de refrigerac¸ ão para\no ciclo motor: 2/3;\n• 1 HP ≈3/4 kW.\nBaseado em uma análise termodinâmica e nos dados listados:\na) argumente, justificando, sobre a acurácia das duas proposic¸ ões do inventor;\nb) avalie a temperatura da fonte fria do ciclo de refrigerac¸ ão, em ◦C.\n4",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ciclo de refrigeração + motor térmico acoplado em série (2 HP, rejeição para reservatório adicional) — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

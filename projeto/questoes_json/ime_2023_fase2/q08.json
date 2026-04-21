@@ -1,0 +1,42 @@
+{
+  "id": "ime_2023_fase2_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nFigura 1\nFigura 2\nUma fibra ótica tem uma sec¸ ão transversal de espessura a e possui o formato mostrado nas figuras,\nonde a curva externa β é um arco de 1/4 de circunferência de raio R e a curva interna α é um arco\nde 1/4 de circunferência de raio R–a. Considere duas situac¸ ões: na situac¸ ão da Figura 1, um raio\nde luz entra na fibra tangenciando a curva α; na situac¸ ão da Figura 2, um raio de luz entra na fibra\ntangenciando a curva β por dentro.\nDados:\n• índice de refrac¸ ão no interior da fibra: n;\n• índice de refrac¸ ão do meio externo à fibra: 1;\n• velocidade da luz no vácuo: c.\nObservac¸ ão:\n• em ambas as situac¸ ões o raio de luz incide perpendicularmente à superfície da fibra.\nConsiderando as duas situac¸ ões, determine:\na) o menor valor de R, em func¸ ão de a e n, de forma que o raio de luz mostrado na situac¸ ão da\nFigura 1 fique confinado e não escape da fibra na primeira incidência na curva β;\nb) o tempo de viagem do raio de luz confinado à fibra na situac¸ ão da Figura 2.\n8",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Óptica Geométrica"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Fibra óptica curva com espessura a (arcos R e R-a): raio tangencia α ou β por dentro — óptica geométrica (reflexão interna total)."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 7,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ime_2023_fase2_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nPara n natural positivo, o número On é definido como a soma dos n primeiros termos da progressão\naritmética de razão 6 iniciada em 1. Dos 2024 primeiros números On, quantos apresentam resto 1\nna divisão por 8 ?",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1",
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Sequências e Progressões",
+      "Aritmética"
+    ],
+    "blocos": [
+      "Aritmética",
+      "Sequências e Progressões"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Oₙ=soma dos n primeiros da PA razão 6 iniciada em 1; dos 2024 primeiros Oₙ, quantos têm resto 1 mod 8 — PA + aritmética modular."
+  },
+  "fonte": {
+    "pdf": "mat2023.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase2_mat/ime_2023_fase2_mat_q04.png",
+  "usa_imagem_no_render": true
+}

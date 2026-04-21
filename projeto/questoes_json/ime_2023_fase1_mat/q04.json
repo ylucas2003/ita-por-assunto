@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "enunciado_md": "Valor: 0,25\nSeja o polinômio g(x) = x5 + x4 −2x3 + bx2 + bx −2b. O valor do maior inteiro k para o qual\ng(x) é divisível por (x + 2)k para algum b inteiro é:",
+  "alternativas": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "E": "5 2"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Polinômios"
+    ],
+    "blocos": [
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "g(x)=x⁵+x⁴-2x³+bx²+bx-2b: maior k tal que (x+2)^k divide g para algum b inteiro — polinômios (divisibilidade)."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_mat/ime_2023_fase1_mat_q04.png",
+  "usa_imagem_no_render": true
+}

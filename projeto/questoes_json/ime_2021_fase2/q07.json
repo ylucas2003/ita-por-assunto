@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm objeto O1, preso por um fio ideal, é solto do ponto B. Ao atingir o ponto C, ele se choca de forma\ntotalmente inelástica, colando no objeto O2, conforme ilustrado na figura.\nApós o choque, o fio encontra o ponto D, que passa a ser o novo centro do movimento pendular do\nconjunto O1 + O2.\nDados:\n• acelerac¸ ão da gravidade: g;\n• massa de O1 = m1; e\n• massa de O2 = m2.\nObservac¸ ões:\n• considere que os objetos são partículas; e\n• desprezar os atritos e a resistência do ar.\nDiante do exposto, determine:\na) a distância yo mínima indicada na figura, em func¸ ão de d, m1, m2 e g, de modo que o conjunto\nconsiga atingir o ponto E;\nb) a velocidade do conjunto O1 + O2 no ponto E, nas condic¸ ões do item a; e\nc) a trac¸ ão do fio no ponto C, imediatamente após o choque, nas condic¸ ões do item a.\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica",
+      "Energia"
+    ],
+    "blocos": [
+      "Energia",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "O1 solto do ponto B + choque totalmente inelástico com O2 + novo centro D para pêndulo: análise — dinâmica + energia."
+  },
+  "fonte": {
+    "pdf": "fis2021.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

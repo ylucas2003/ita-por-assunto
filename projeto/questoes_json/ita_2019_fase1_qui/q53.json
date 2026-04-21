@@ -1,0 +1,49 @@
+{
+  "id": "ita_2019_fase1_qui_q53",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 53,
+  "enunciado_md": "Considere uma pequena chapa de aço revestido com zinco (aço galvanizado) mergulhada em \numa solução azul de sulfato de cobre nas condições padrão e a 25 °C. Após determinado intervalo de \ntempo, observa-se que a solução fica verde. Com base nessas observações e desconsiderando a presença de \nespécies interferentes, é ERRADO afirmar que",
+  "alternativas": {
+    "A": "o aço foi corroído.",
+    "B": "o íon cobre atuou como agente oxidante preferencialmente ao oxigênio atmosférico.",
+    "C": "o zinco foi parcialmente oxidado.",
+    "D": "o zinco foi oxidado preferencialmente ao ferro.",
+    "E": "a função do zinco no aço galvanizado é oferecer proteção catódica."
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.1"
+    ],
+    "topicos_nomes": [
+      "Eletroquímica"
+    ],
+    "blocos": [
+      "Eletroquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Aço galvanizado (Zn/Fe) em CuSO₄: corrosão, proteção catódica, oxidação preferencial — eletroquímica."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q53.png",
+  "usa_imagem_no_render": true
+}

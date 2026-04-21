@@ -1,0 +1,52 @@
+{
+  "id": "ime_2022_fase1_q29",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 29,
+  "enunciado_md": "Valor: 0,25\nTrês partículas carregadas, inicialmente em repouso no plano da página, estão posicionadas sobre\numa região do espaço submetida a uma densidade de fluxo magnético uniforme −→\nB , que aponta\npara dentro do plano da página. No instante t = 0, a partícula localizada no ponto 1 é submetida\na um impulso −→I e descreve a trajetória indicada pela linha tracejada na figura, até ocorrer um\nchoque perfeitamente inelástico com a partícula localizada no ponto 2. Pouco depois, outro choque\nperfeitamente inelástico ocorrerá com a partícula localizada na posição 3.\nDados:\n• massa de cada partícula: m;\n• carga da partícula inicialmente na posição 1: Q;\n• carga da partícula inicialmente na posição 2: 2Q;\n• carga da partícula inicialmente na posição 3: 3Q;\n• módulo da densidade de fluxo magnético: B;\n• intensidade do impulso: I.\nObservações:\n• não há efeito gravitacional;\n• o sinal de Q está em conformidade com a geometria da figura;\n• todas as forças de repulsão entre as partículas são desprezíveis;\n• a trajetória tracejada na figura é composta pela união de três arcos de 1/4 de circunferência.\nA distância total percorrida pela partícula impulsionada desde a posição 1 até o ponto identificado\ncomo final é:",
+  "alternativas": {
+    "A": "1 2( Iπ QB)",
+    "B": "1 4( Iπ QB)",
+    "C": "7 8( Iπ QB)",
+    "D": "3 4( Iπ QB)",
+    "E": "7 12( Iπ QB) 15"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Magnetismo",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "3 partículas carregadas em B saindo do plano + impulso I em partícula 1: choques inelásticos sucessivos — magnetismo + dinâmica (colisão)."
+  },
+  "fonte": {
+    "pdf": "prova2022.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase1/ime_2022_fase1_q29.png",
+  "usa_imagem_no_render": true
+}

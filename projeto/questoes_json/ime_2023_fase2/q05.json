@@ -1,0 +1,45 @@
+{
+  "id": "ime_2023_fase2_q05",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 5,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUm laboratório deve ser mantido refrigerado a certa temperatura e recebe fluxo de calor incidente\nno teto, sendo que o piso se encontra idealmente isolado. O fluxo de calor em cada parede lateral\né tomado como metade daquele recebido pelo teto. O funcionamento do maquinário no interior\ndo laboratório juntamente com a carga térmica relativa aos técnicos está estimado em 25% do\nfluxo de calor relativo ao teto mais paredes. Um técnico estima que o custo por jornada de 8\nhoras referente ao acionamento elétrico do aparelho de condicionamento do ar desta instalac¸ ão é\naproximadamente R$ 40,00.\nDados:\n• temperatura de projeto no interior do laboratório: 23◦C;\n• temperatura do ambiente externo: 355/9 ◦C;\n• dimensões do laboratório: 4 m ×10 m ×4 m;\n• fluxo de calor incidente no teto do laboratório nas condic¸ ões de projeto: 300 W/m2;\n• razão entre o coeficiente de desempenho do aparelho de ar condicionado e o do refrigerador de\num ciclo de Carnot: 1/6;\n• custo de energia durante o acionamento do compressor do ar condicionado: R$ 0,70 por kWh.\nBaseado nos dados listados e em uma análise termodinâmica do problema, avalie o custo e conclua\nse a estimativa do técnico está adequada, subestimada ou superestimada.\n5",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "12.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica",
+      "Eletrodinâmica"
+    ],
+    "blocos": [
+      "Termodinâmica",
+      "Eletrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Laboratório refrigerado com fluxo de calor teto/paredes + maquinário 25%; custo por 8 h: dimensionamento — termodinâmica + eletrodinâmica (consumo)."
+  },
+  "fonte": {
+    "pdf": "fis2023.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

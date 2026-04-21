@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_mat_q42",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 42,
+  "enunciado_md": "Sabe-se que −2 + 2i é uma das raízes quartas de um número complexo z. Então, no plano de\nArgand-Gauss, a área do triângulo, cujos vértices são as raízes cúbicas de z, é igual a",
+  "alternativas": {
+    "A": "4( √ 3 + 1).",
+    "B": "6 √ 3.",
+    "C": "8( √ 3 −1).",
+    "D": "10 √ 3.",
+    "E": "12 √ 3."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana",
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "−2+2i é raiz quarta de z → determinação de z; raízes cúbicas de z formam triângulo equilátero no Argand-Gauss: cálculo da área."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_mat/ita_2019_fase1_mat_q42.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "enunciado_md": "O sistema de unidades atômicas de Hartree é bastante útil para a descrição de sistemas\nquânticos microscópicos. Nele, faz-se com que a carga fundamental e, a massa do elétron m0, a constante\neletrostática do vácuo K0 e a constante de Planck reduzida ℏsejam todas numericamente iguais à unidade.\nAssinale a alternativa que contém a ordem de grandeza do valor numérico da velocidade da luz no vácuo c,\nnesse sistema de unidades.",
+  "alternativas": {
+    "A": "100",
+    "B": "102",
+    "C": "104",
+    "D": "106",
+    "E": "108"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Fundamentos"
+    ],
+    "blocos": [
+      "Fundamentos e Ferramentas Matemáticas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema de unidades atômicas de Hartree: ordem de grandeza de c nesse sistema — análise dimensional/unidades."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1/ita_2021_fase1_q01.png",
+  "usa_imagem_no_render": true
+}

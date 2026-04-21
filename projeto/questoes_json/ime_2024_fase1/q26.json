@@ -1,0 +1,43 @@
+{
+  "id": "ime_2024_fase1_q26",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 26,
+  "enunciado_md": "Valor: 0,25\nPara simular a órbita (x(t),y(t)) do satélite de um planeta, no referencial do planeta, utilizou-se um\nmodelo unidimensional com as seguintes equações:\nx(t) = A cos(ωt)\ny(t) = B sen(ωt)\nonde A, B e ω são constantes e t é o instante de tempo.\nDados:\n• massa do planeta: M;\n• massa do satélite: m, onde m << M;\n• constante universal de gravitação: G;\n• C =\n√\nA2 −B2;\n• localização do centro do planeta: (C,0).\nA diferença entre a maior e a menor energia potencial gravitacional do satélite é:\na) 2 AGmM/B2\nb) CGmM/B2\nc) 2 CGmM/A2\nd) 2 CGmM/B2\ne) AGmM/C2",
+  "alternativas": {},
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Gravitação"
+    ],
+    "blocos": [
+      "Gravitação"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Órbita simulada x=A cos(ωt), y=B sen(ωt), planeta em (C,0), C=√(A²-B²): diferença entre U_max e U_min — gravitação (elipse)."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 15,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": false,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q26.png",
+  "usa_imagem_no_render": true
+}

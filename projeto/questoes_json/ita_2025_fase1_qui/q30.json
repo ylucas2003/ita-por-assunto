@@ -1,0 +1,52 @@
+{
+  "id": "ita_2025_fase1_qui_q30",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 30,
+  "enunciado_md": "Considere a seguinte reação química não balanceada de obtenção do ferro: \n \nFe2O3(s) + C(s) → Fe(s) + CO2(g). \n \nSão fornecidos os seguintes dados termodinâmicos: \nfH⦵(CO2) = −393,5 kJmol-1 \n \nfH⦵(Fe2O3) = −824,2 kJmol-1 \nSm⦵(CO2) = 213,7 JK−1 mol−1 \n \nSm⦵(Fe2O3) = 87,4 JK−1mol−1 \nSm⦵(C) = 5,7 JK−1mol−1 \n \nSm⦵(Fe) = 27,3 JK−1mol−1 \n \nAssinale a opção que apresenta a temperatura mínima, em oC, para que essa reação seja \nespontânea.",
+  "alternativas": {
+    "A": "541,8.",
+    "C": "560,8.",
+    "E": "585,8.",
+    "B": "554,8.",
+    "D": "564,8. 13"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Termoquímica",
+      "Termodinâmica Física"
+    ],
+    "blocos": [
+      "Termoquímica",
+      "Termodinâmica Física"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Fe₂O₃+C→Fe+CO₂ com ΔH_f e S°_m dados: temperatura mínima para ΔG°<0 — termoquímica + termodinâmica (espontaneidade)."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 12,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_qui/ita_2025_fase1_qui_q30.png",
+  "usa_imagem_no_render": true
+}

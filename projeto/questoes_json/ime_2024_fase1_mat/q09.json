@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "enunciado_md": "Valor: 0,25\nConsidere a inequacão\n(x2 −100)(x2 −150)(x2 −200) < 0\nA quantidade de números inteiros que a satisfazem é",
+  "alternativas": {
+    "A": "23",
+    "B": "24",
+    "C": "25",
+    "D": "26",
+    "E": "27"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Funções Reais"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "(x²-100)(x²-150)(x²-200)<0: inteiros que satisfazem — funções reais (inequação)."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 4,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1_mat/ime_2024_fase1_mat_q09.png",
+  "usa_imagem_no_render": true
+}

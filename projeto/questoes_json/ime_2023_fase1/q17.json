@@ -1,0 +1,49 @@
+{
+  "id": "ime_2023_fase1_q17",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 17,
+  "enunciado_md": "Valor: 0,25\nUm recipiente vazio de formato cônico está parcialmente imerso na água e em equilíbrio, como\ngeometria apresentada na figura.\nInsere-se no interior do recipiente uma partícula de massa\nm = Kρπh3, onde K é uma constante, ρ é a massa específica da água e h está indicado na\nfigura. Após essa inserção, o recipiente sofre um pequeno deslocamento, afundando uma altura\n∆h.\nDado:\n• aceleração da gravidade: g.\nObservações:\n• a espessura do recipiente é muito pequena;\n• ∆h ≪h;\n• para |α| ≪1, (1 + α)n ≈1 + nα.\nA altura ∆h que o recipiente irá afundar até o novo ponto de equilíbrio é:",
+  "alternativas": {
+    "A": "Kh/3",
+    "B": "Kh/6",
+    "C": "Kh",
+    "D": "3Kh",
+    "E": "2Kh 6"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1"
+    ],
+    "topicos_nomes": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "blocos": [
+      "Hidrostática e Hidrodinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Recipiente cônico parcialmente imerso em água + partícula m=Kρπh³: afundamento Δh — hidrostática (flutuação)."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q17.png",
+  "usa_imagem_no_render": true
+}

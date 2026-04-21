@@ -1,0 +1,49 @@
+{
+  "id": "ime_2024_fase1_q30",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 30,
+  "enunciado_md": "Valor: 0,25\nEm uma determinada região esférica do espaço, a distribuição volumétrica de cargas é tal que o\ncampo elétrico em seu interior é o vetor E(r) ˆur, onde ˆur é o vetor unitário na direção radial e\nE(r), em V/m, é igual a:\nE(r) =\n\n\n\n\n\n\n\nA cos\n\u00123rπ\n2R\n\u0013\n+ (2 −r)2\nR\n−1,\n0 ≤r ≤R;\n0,\nr > R.\nem que A é uma constante, r é a distância até o centro da esfera e R é o raio da esfera, em metros.\nObservação:\n• R < 3 m.\nCom as condições impostas acima, a constante A, em V/m, necessariamente é:\na) −2\nb)\n2\nc) −3\nd)\n3\ne)\n0\n17\n\nCONCURSO DE ADMISSÃO 2024/2025\nAO\nCONCURSO DE FORMAÇÃO E GRADUAÇÃO\nQUESTÕES DE 31 A 40\nQUÍMICA\n31ª QUESTÃO\nValor: 0,25\nA figura a seguir mostra esquematicamente um dispositivo eletroquímico composto pelas meias-\ncélulas X e Y.\nDados: Potenciais-padrão de redução das espécies químicas envolvidas.\nEo\nX = −1,85 V\nEo\nY = −2,93 V\nCom base no esquema eletroquímico apresentado na figura e nos dados fornecidos, analise as\nproposições a seguir na condição do circuito fechado.\nI.\nA semirreação representada pela equação estequiométrica X0 −−→X+2 + 2 e – é espontânea\npor ser de oxidação.\nII.\nO fluxo de elétrons ocorre no sentido horário, indo do anodo para catodo.\nIII.\nA corrente iônica circula pelos eletrodos e fios metálicos.\nIV.\nO eletrodo da meia-célula X é o catodo onde ocorre reação de redução.\nV.\nAs reações eletroquímicas podem ser representadas pelas seguintes equações estequiomé-\ntricas:\nX+2 + 2 e – −−→X0\n2 Y0 −−→2 Y+ + 2 e –\nA opção que apresenta APENAS afirmativas verdadeiras é:",
+  "alternativas": {
+    "A": "I e III.",
+    "B": "II, III e IV.",
+    "C": "I e V.",
+    "D": "IV e V.",
+    "E": "II e V. 18 32ª QUESTÃO Valor: 0,25 Uma mistura de um monoácido orgânico e um monoálcool primário, em uma proporção molar 1: 2, foi tratada com uma quantidade catalítica de ácido sulfúrico concentrado sob condições de volume e temperatura constantes. Após um período de reação suficientemente longo, em um sistema fe- chado, foi observado que a reação apresentou uma conversão de 87,5% do monoácido. Se o mesmo tratamento for aplicado a uma mistura equimolar desses mesmos compostos, a con- versão esperada do monoácido e o grupo funcional do produto principal serão: (A) 67,2%; éster. (B) 67,2%; éter. (C) 70,0%; éster. (D) 70,0%; éter. (E) 87,5%; éster. 33ª QUESTÃO Valor: 0,25 Para uma solução aquosa contendo sacarose em m kg de água, a diferença entre as temperaturas de ebulição e de congelamento, à pressão de 1 atm, é de ∆T em K. A massa molar da sacarose é M g.mol−1 e as constantes ebulioscópica e crioscópica da água são, respectivamente, Ke e Kc, expressas em K.kg.mol−1. A expressão que indica o valor da massa de sacarose em gramas, na solução, é: (A) Mm(∆T −100)/(Ke + Kc) (B) 2Mm∆T/(Ke + Kc) (C) Mm∆T/(Ke −Kc) (D) 2Mm(∆T −100)/(Ke −Kc) (E) Mm(∆T −50)/(Ke + Kc) 34ª QUESTÃO Valor: 0,25 Uma solução foi preparada com 1800 g de ácido sulfúrico puro e 2000 L de água deionizada, sendo, em seguida, eletrolisada. Uma amostra de 100 mL da solução resultante foi titulada com solução- padrão 0,1 M de hidróxido de sódio, tendo sido necessários 20,4 mL dessa solução para neutralizar a amostra. Considere que a massa específica do ácido sulfúrico vale 1800 g.L−1 e que misturas desse ácido em água se comportam idealmente no que se refere ao volume de mistura. A alternativa que contém o volume aproximado de gás gerado na eletrólise, em m3, medido nas CNTP, é: (A) 187,5 (B) 250 (C) 375 (D) 500 (E) Não é gerado gás algum e a solução apenas aquece pela passagem da corrente elétrica. 19 35ª QUESTÃO Valor: 0,25 Em todos os seres vivos, as proteínas são um importante grupo de substâncias. Sobre a estrutura das proteínas, analise as afirmativas abaixo. I. A estrutura primária de uma proteína é a sequência de alfa-aminoácidos, tais como glicina, alanina e citosina, ligados por ligações peptídicas. II. A estrutura secundária é mantida por ligações de hidrogênio entre os grupos −NH e C−−O, próximos entre si, na disposição espacial da proteína. III. A estrutura terciária é estabilizada por interações hidrofóbicas, hidrofílicas, iônicas e ligações dissulfeto. IV. A estrutura quaternária refere-se ao arranjo de múltiplas subunidades polipeptídicas que po- dem, por ação de agentes químicos ou físicos, ser alteradas ou destruídas através do fenô- meno conhecido como desnaturação proteica, perdendo sua atividade biológica. V. As proteínas apresentam estruturas geométricas de vários tipos e podem ser caracterizadas pela produção de colorações, como por exemplo, a reação da proteína da pele com ácido nítrico, formando uma coloração azulada. A opção que apresenta APENAS afirmativas verdadeiras é: (A) I e IV. (B) II e V. (C) I, II e III. (D) II, III e IV. (E) III e V. 36ª QUESTÃO Valor: 0,25 Analise as afirmativas abaixo. I. A imersão de limalha de ferro em um béquer aberto contendo uma solução de ácido clorídrico provoca a liberação de bolhas de gás. Nesse processo, não há realização nem recebimento de trabalho. II. Uma solução de ácido iodídrico de concentração igual a 1,0 × 10−8 mol.L−1 tem pH igual a 8. III. Se dois béqueres, um contendo água pura e o outro contendo uma solução insaturada de sa- carose, forem submetidos ao aquecimento, a solução de sacarose ebulirá a uma temperatura constante e superior à temperatura de ebulição da água pura. IV. Para a reação de combustão completa do gás metano, gerando apenas produtos gasosos, as variações de entalpia e de energia interna têm o mesmo valor. A única alternativa CORRETA é: (A) Apenas a afirmativa I é verdadeira. (B) Apenas a afirmativa II é verdadeira. (C) Apenas a afirmativa III é verdadeira. (D) Apenas a afirmativa IV é verdadeira. (E) Todas as afirmativas são falsas. 20 37ª QUESTÃO Valor: 0,25 Uma mistura dos sais hidratados Na2SO4 · 10 H2O e Na2CO3 · 10 H2O, com massa de 602 kg, é aquecida até a temperatura suficiente para a remoção total da água de hidratação. A massa final da mistura de sais anidros é 242 kg. Dados: MH2O = 18,0 kg.kmol−1 MNa2SO4 = 142 kg.kmol−1 MNa2CO3 = 106 kg.kmol−1 A razão molar Na2SO4/Na2CO3 entre os sais anidros é: (A) 1,34 (B) 0,85 (C) 1,13 (D) 1,41 (E) 0,71 38ª QUESTÃO Valor: 0,25 Óxido de ferro II pode ser reduzido a ferro, tanto por carbono, como por monóxido de carbono, de acordo com o mostrado nas equações 1 e 2: 1. FeO(s) + C(s) −−→Fe(s) + CO(g) 2. FeO(s) + CO(g) −−→Fe(s) + CO2(g) Os valores de entalpia de formação e de entropia-padrão das substâncias envolvidas em ambas reações são apresentados na tabela: FeO(s) Fe(s) C(s) CO(g) CO2(g) ∆Ho f (kJ.mol−1) −271,9 0 0 −110,5 −393,5 So (J.K−1.mol−1) 60,8 27,3 5,7 197,9 213,7 Considere um meio reacional fechado onde ocorrem as duas reações e que os valores acima per- manecem constantes na faixa de 298 a 650 K. A ÚNICA alternativa correta é: (A) A reação 1 é exotérmica e a reação 2 é endotérmica. (B) À temperatura aproximada de 627 K, a reação 2 atinge o equilíbrio dinâmico. (C) À temperatura de 450 K, a reação 1 é fonte de calor para sustentar a reação 2 na proporção molar aproximada de 15 para 1. (D) À temperatura de 450 K, ambas as reações são espontâneas. (E) A reação 1 apresenta diminuição de entropia. 21 39ª QUESTÃO Valor: 0,25 Considere as três propostas de reação a seguir. Reação 1: Reação 2: Reação 3: A ÚNICA alternativa correta é: (A) Na reação 1, a partir de um reagente opticamente ativo, observa-se nos produtos α e β a formação de um novo centro quiral, implicando produtos opticamente inativos por conterem um par quiral dextrogiro, levogiro. (B) A reação 2 não ocorre. (C) A reação 2 é uma reação de condensação intramolecular que produz anidrido. (D) Na reação 3, os produtos γ e δ são representações de um mesmo composto. (E) Na reação 3 o ácido maleico, isômero geométrico do ácido fumárico, reage com bromo pro- duzindo isômeros meso. 40ª QUESTÃO Valor: 0,25 Com relação à série de decaimento radioativo do 92U238 até o 82Pb206, a única alternativa INCORRETA é: (A) Na emissão de uma partícula α, o 92U238 decai para um elemento 90X234. (B) Por não ser físsil, o 92U238 não é empregado isoladamente para a geração de energia em reatores nucleares. (C) Uma partícula α é emitida espontaneamente por certos núcleos de elementos radioativos, com número atômico maior que 82, como urânio, tório, polônio e rádio. (D) Na emissão de uma partícula α e de duas partículas β, o 92U238 decai para o seu isótopo 92U234. (E) A distribuição eletrônica do 82Pb206 (1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2) garante sua estabilidade nuclear. 22 RASCUNHO 23 RASCUNHO 24"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Eletrostática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Distribuição volumétrica de cargas em esfera R com E(r) dado: constante A — eletrostática (lei de Gauss)."
+  },
+  "fonte": {
+    "pdf": "prova2024.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase1/ime_2024_fase1_q30.png",
+  "usa_imagem_no_render": true
+}

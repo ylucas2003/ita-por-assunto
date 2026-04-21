@@ -1,0 +1,49 @@
+{
+  "id": "ime_2020_fase1_mat_q14",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 14,
+  "enunciado_md": "Valor: 0,25\nConsidere um trapézio de bases AB e CD, com o ponto I sendo a intersec¸ ão de suas diagonais. Se\nas áreas dos triângulos AIB e CID formados pelas diagonais são 9 cm2 e 16 cm2, respectivamente,\na área do trapézio, em cm2, é:",
+  "alternativas": {
+    "A": "Não é possível determinar por terem sido fornecidos dados insuficientes.",
+    "B": "63",
+    "C": "50",
+    "D": "49",
+    "E": "45"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Trapézio ABCD; áreas dos triângulos AIB=9 e CID=16 (I interseção das diagonais): área total — geometria plana."
+  },
+  "fonte": {
+    "pdf": "prova2020.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase1_mat/ime_2020_fase1_mat_q14.png",
+  "usa_imagem_no_render": true
+}

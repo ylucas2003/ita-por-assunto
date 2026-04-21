@@ -1,0 +1,46 @@
+{
+  "id": "ita_2020_fase2_qui_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "A obtenção de biodiesel a partir de óleos vegetais (triacilgliceróis) é uma alternativa para a \nprodução de combustíveis menos poluentes, sendo possível catalisar a reação com um ácido ou uma base. \nEscreva a equação química balanceada que representa a reação \na) de obtenção de triacilglicerol a partir de glicerol e ácido graxo com cadeia alquílica representada \npor R1. \nb) de obtenção de biodiesel a partir do triacilglicerol obtido em (a) e etanol. \nc) paralela e indesejada que poderia ocorrer se, na reação descrita em (b), fosse utilizado hidróxido \nde sódio como catalisador, tendo também a presença de água na reação.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.5",
+      "11.2"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Funções Orgânicas Oxigenadas e Nitrogenadas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Biodiesel: esterificação glicerol+RCOOH→triacilglicerol; transesterificação com etanol; reação paralela indesejada — reações orgânicas."
+  },
+  "fonte": {
+    "pdf": "quimica_2020_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2_qui/ita_2020_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
+}

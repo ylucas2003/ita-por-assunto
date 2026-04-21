@@ -1,0 +1,43 @@
+{
+  "id": "ime_2023_fase1_qui_q37",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 37,
+  "enunciado_md": "Valor: 0,25\nUma alíquota de 100 mL de uma solução que contém íons de Cr\n2+ e Cr\n3+ foi titulada com 200 mL\nde KMnO4 com concentração 0,01 mol/L (em ácido sulfúrico diluído), tendo sido todos os íons de\nCr\n2+ oxidados a íons Cr\n3+. Em seguida, uma outra alíquota de 100 mL da solução original foi tratada\ncom Fe metálico para converter todos os íons de Cr\n3+ em íons de Cr\n2+. A solução obtida consumiu\n300 mL da mesma solução de KMnO4 para a oxidação de todos os íons a Cr\n3+.\nA equação iônica simplificada é: KMnO4 + 5Cr\n2+ −−→Mn\n2+ + 5Cr\n3+ + 4H2O + K\n+\nAs concentrações molares de Cr\n2+ e de Cr\n3+ na solução original são:",
+  "alternativas": {
+    "A": "[Cr 2+] = 0,05 mol/L e [Cr 3+] = 0,1 mol/L.",
+    "B": "[Cr 2+] = 0,1 mol/L e [Cr 3+] = 0,05 mol/L.",
+    "C": "[Cr 2+] = 0,004 mol/L e [Cr 3+] = 0,002 mol/L.",
+    "D": "[Cr 2+] = 0,1 mol/L e [Cr 3+] = 0,15 mol/L.",
+    "E": "Não é possível calcular as concentrações sem conhecer a razão entre elas na solução original. 20"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_qui/ime_2023_fase1_qui_q37.png",
+  "usa_imagem_no_render": true
+}

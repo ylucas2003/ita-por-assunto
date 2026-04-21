@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_mat_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "enunciado_md": "Seja z = a + 2i um número complexo, em que a ∈R é positivo. O valor de\na para que as representações de 1; z e z2 no plano de Argand-Gauss formem um triângulo\nde área 200 é",
+  "alternativas": {
+    "A": "14.",
+    "B": "15.",
+    "C": "16.",
+    "D": "17.",
+    "E": "18."
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos"
+    ],
+    "blocos": [
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "z=a+2i; área do triângulo {1, z, z²} no plano de Argand = 200: determinação de a (fórmula de área via determinante)."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1_mat/ita_2025_fase1_mat_q01.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ime_2024_fase2_q10",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 10,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nA figura mostra uma partícula de massa m eletricamente carregada com carga +q que realiza um\nmovimento circular uniforme. Na reta normal ao plano da trajetória da partícula, passando pelo seu\ncentro, está fixada outra partícula a uma altura h, de carga –Q. Ambas as partículas são unidas\npor uma haste.\nDados:\n• massa da partícula: m = 1,25 kg;\n• carga da partícula em movimento: q = 200 µC;\n• carga da partícula fixa.: −Q = –500 µC;\n• altura da partícula fixa: h = 3 m;\n• constante elétrica do meio: 9 × 109 C−2m2N;\n• acelerac¸ ão da gravidade: 10 m/s2.\nObservac¸ ão:\n• durante o movimento, a haste que une as duas partículas está com tensão/compressão nula.\nA partir dos dados listados, determine:\na) o ângulo resultante entre a haste e a normal ao plano da trajetória;\nb) a velocidade angular da partícula em movimento.\n10\n\nRASCUNHO\n11\n\nRASCUNHO\n12\n\nRASCUNHO\n13\n\nRASCUNHO\n14\n\nRASCUNHO\n15\n\nRASCUNHO\n16",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Eletrostática",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Eletrostática",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Partícula +q (1,25 kg) em MCU + -Q fixa a altura h=3 m na reta normal; haste une ambas: trajetória circular — eletrostática + dinâmica (MCU)."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 9,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

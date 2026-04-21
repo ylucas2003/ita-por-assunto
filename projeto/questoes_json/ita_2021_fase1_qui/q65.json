@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_qui_q65",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 65,
+  "enunciado_md": "Considere as proposições abaixo: \n(1) A intensidade da luz depende da frequência ou do comprimento de onda da radiação empregada. \n(2) Dentre as cores do espectro visível, a azul é a que possui maior intensidade devido ao seu menor \ncomprimento de onda. \n(3) Dentro do espectro visível, a luz vermelha é a radiação que possui o menor comprimento de onda. \n(4) O estado do elétron em um átomo é completamente definido pelos números quânticos n, l, ml. \n(5) A configuração eletrônica dos átomos é determinada pelo princípio da construção, pelo princípio da \nexclusão de Pauli e pela regra de Hund. \n(6) Na tabela periódica, os pares de elementos com relação diagonal geralmente exibem propriedades \nquímicas semelhantes. \nA soma dos números associados às sentenças ERRADAS é igual a",
+  "alternativas": {
+    "A": "3.",
+    "C": "9.",
+    "E": "12.",
+    "B": "6.",
+    "D": "10."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.1"
+    ],
+    "topicos_nomes": [
+      "Estrutura Atômica"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Proposições sobre luz, espectro visível, números quânticos e configuração eletrônica — estrutura atômica."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_qui/ita_2021_fase1_qui_q65.png",
+  "usa_imagem_no_render": true
+}

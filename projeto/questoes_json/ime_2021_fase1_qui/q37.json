@@ -1,0 +1,51 @@
+{
+  "id": "ime_2021_fase1_qui_q37",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 37,
+  "enunciado_md": "Valor: 0,25\nBicarbonato de sódio reage estequiometricamente, em processo isotérmico a 300 K, com 50 mL\nde uma solução aquosa de um ácido monoprótico forte, em um recipiente rígido e fechado que,\nquando vazio, apresenta um volume útil de 74,9 mL, conforme o esboço abaixo:\nO cristal piezoelétrico tem espessura (t) de 2 mm e suscetibilidade voltaica (Φ) de 0,050 V.(m.Pa)−1\ne, quando a reação atinge o equilíbrio, fornece um potencial elétrico (U) de 1,0 V. Considere a solu-\nbilidade molar de gases na água desprezível e a constante universal dos gases R = 8,3 J.(mol.K)−1.\nSe o volume reacional é constante e igual ao volume da solução ácida inicial, a concentração molar\ninicial da solução do ácido monoprótico, em mol.L−1, é:",
+  "alternativas": {
+    "A": "6",
+    "B": "2",
+    "C": "0,6",
+    "D": "0,002",
+    "E": "0,006"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "3.2"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Gases"
+    ],
+    "blocos": [
+      "Estequiometria e Gases"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "NaHCO₃ + ác. monoprótico forte em recipiente rígido; piezoelétrico mede pressão: concentração — estequiometria + gases."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 23,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_qui/ime_2021_fase1_qui_q37.png",
+  "usa_imagem_no_render": true
+}

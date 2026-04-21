@@ -1,0 +1,43 @@
+{
+  "id": "ime_2023_fase1_qui_q39",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 39,
+  "enunciado_md": "Valor: 0,25\nO gás hélio, raro na Terra, origina-se notadamente do decaimento radioativo dos tipos α e β dos\nelementos Urânio-238 e Tório-234, sendo encontrado em depósitos de gás natural.\nSabe-se que o esquema de decaimentos até a ocorrência do isótopo Tório-230 é:\n238U −−→\n234Th −−→\n234Pa −−→\n234U −−→\n230Th\nPortanto, a partir de 1 mol de Urânio-238 e de 1 mol de Tório-234, até a ocorrência de Tório-230,\nobtém-se, no máximo:",
+  "alternativas": {
+    "A": "1 mol de He.",
+    "B": "2 mols de He.",
+    "C": "3 mols de He.",
+    "D": "4 mols de He.",
+    "E": "nenhum mol de He. 21"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 21,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1_qui/ime_2023_fase1_qui_q39.png",
+  "usa_imagem_no_render": true
+}

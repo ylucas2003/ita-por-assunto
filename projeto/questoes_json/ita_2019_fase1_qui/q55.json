@@ -1,0 +1,52 @@
+{
+  "id": "ita_2019_fase1_qui_q55",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 55,
+  "enunciado_md": "Computadores químicos são sistemas desenvolvidos para resolver diversos problemas de \nciência e engenharia, por meio de reações químicas. Considere dois exemplos de aplicação desses \ncomputadores: \nI. \nDesenvolvimento de circuitos de controle molecular e procedimentos terapêuticos inteligentes \nutilizando um conjunto de velocidades de reações químicas como linguagem de programação para \ncontrolar a síntese de DNA. \nII. \nDefinição das melhores rotas de deslocamento entre dois pontos de um mapa, de forma mais rápida \ndo que qualquer sistema de navegação convencional. O computador utiliza um mapa preenchido \ncom um líquido alcalino. O ponto de partida contém partículas de corante e o ponto de destino \ncontém um gel misturado com ácido. \nAssinale a opção que apresenta os conceitos/processos que melhor descrevem o princípio de funcionamento \ndos computadores químicos exemplificados em I e II, respectivamente.",
+  "alternativas": {
+    "A": "Primeira lei da termodinâmica e solubilidade",
+    "B": "Mecanismos reacionais e variação da tensão superficial",
+    "C": "Entalpia de formação dos produtos e entalpia de neutralização",
+    "D": "Princípio de Le Chatelier e Lei de Hess",
+    "E": "Energia de ativação e reação de Cannizzaro"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "8.1",
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Cinética Química",
+      "Equilíbrio Químico Geral"
+    ],
+    "blocos": [
+      "Cinética Química",
+      "Equilíbrio Químico"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Computadores químicos: velocidades de reação e rotas ótimas — cinética química + princípios (Le Chatelier/Hess) de equilíbrio/termodinâmica."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 19,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1_qui/ita_2019_fase1_qui_q55.png",
+  "usa_imagem_no_render": true
+}

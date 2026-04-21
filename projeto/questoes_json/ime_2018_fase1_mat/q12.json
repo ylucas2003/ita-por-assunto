@@ -1,0 +1,48 @@
+{
+  "id": "ime_2018_fase1_mat_q12",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2018,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 12,
+  "dissertativa": false,
+  "enunciado_md": "Valor: 0,25 \nUma hipérbole equilátera de eixo igual a 4, com centro na origem, eixos paralelos aos eixos coordenados \ne focos no eixo das abscissas sofre uma rotação de 450 no sentido anti-horário em torno da origem. A \nequação dessa hipérbole após a rotação é:",
+  "alternativas": {
+    "A": "𝑥𝑦= 2",
+    "B": "𝑥2 + 𝑥𝑦−𝑦2 = 4",
+    "C": "𝑥2 −𝑦2 = 2",
+    "D": "𝑥𝑦= −2",
+    "E": "𝑥2 −𝑦2 = −2"
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Hipérbole equilátera com eixo 4, centrada na origem, rotação de 45° anti-horária: equação após rotação — geometria analítica (cônicas)."
+  },
+  "fonte": {
+    "pdf": "prova2018.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  }
+}

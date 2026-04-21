@@ -1,0 +1,50 @@
+{
+  "id": "ita_2019_fase1_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "enunciado_md": "Considere duas partículas de massa m, cada qual presa numa das pontas de uma corda, de\ncomprimento l e massa desprezível, que atravessa um orifício de uma mesa horizontal lisa. Conforme mostra\na figura, a partícula sobre a mesa descreve um movimento circular uniforme de raio r e velocidade angular\n!1. A partícula suspensa também descreve esse mesmo tipo de movimento, mas com velocidade angular !2,\nestando presa a uma mola de constante elástica k e comprimento natural desprezível, mantida na horizontal.\nSendo g o módulo da aceleração da gravidade e ✓o ângulo do trecho suspenso da corda com a vertical, a\nrazão (!2/!1)2 é dada por",
+  "alternativas": {
+    "A": "r[mg + k(l −r) cos ✓] mg(l −r) .",
+    "B": "(l −r)(mg + kr cos ✓) mgr sen ✓ .",
+    "C": "(l −r)(mg + kr tg ✓) kr2 .",
+    "D": "k(l −r) cos ✓ mg + kr .",
+    "E": "(l −r)k cos ✓ mg + k(l −r) cos ✓. k m m r ω1 ω2 θ"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dinâmica do movimento circular uniforme: duas partículas ligadas por corda que passa por orifício, uma ligada a mola."
+  },
+  "fonte": {
+    "pdf": "2019_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao": "imagens/ita_2019_fase1/ita_2019_fase1_q02.png",
+  "usa_imagem_no_render": true,
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase1/ita_2019_fase1_q02.png"
+}

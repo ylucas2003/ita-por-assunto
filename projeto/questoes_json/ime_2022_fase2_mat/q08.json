@@ -1,0 +1,44 @@
+{
+  "id": "ime_2022_fase2_mat_q08",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 8,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSejam a, b, c números reais maiores que 1. Considere a expressão:\nS = xy + yz + xz + 2(x + y + z) + 3\n(x + 1)(y + 1)(z + 1)\nonde x = logc ab, y = logb ac, z = loga bc.\nProve que o valor de S é um número inteiro e calcule este valor.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "x=log_c(ab), y=log_b(ac), z=log_a(bc); mostrar S inteiro — log (funções transcendentes)."
+  },
+  "fonte": {
+    "pdf": "mat2022.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase2_mat/ime_2022_fase2_mat_q08.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ita_2022_fase2_mat_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Seja x ∈R. Considere um retângulo R de lados medindo a = 9x2−5x4 e b = 8x−8x3. Sabendo\nque o perímetro de R é 8 determine a e b.\n2",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.4",
+      "5.1"
+    ],
+    "topicos_nomes": [
+      "Sistemas e Outras Equações",
+      "Polinômios"
+    ],
+    "blocos": [
+      "Álgebra e Funções",
+      "Polinômios"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Retângulo com lados a=9x²-5x⁴ e b=8x-8x³, perímetro 8: equação polinomial em x — determinação de a,b."
+  },
+  "fonte": {
+    "pdf": "matematica_2022_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2_mat/ita_2022_fase2_mat_q01.png",
+  "usa_imagem_no_render": true
+}

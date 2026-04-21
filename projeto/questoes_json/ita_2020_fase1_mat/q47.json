@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_mat_q47",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 47,
+  "enunciado_md": "Seja a um número real satisfazendo 0 < a < π\n2 . Então, a soma de todos os valores de x ∈[0, 2π]\nque satisfazem a equação\ncos x sen(a + x) = sen a\né igual a",
+  "alternativas": {
+    "A": "5π + 2a.",
+    "B": "5π + a.",
+    "C": "5π.",
+    "D": "5π −a.",
+    "E": "5π −2a."
+  },
+  "gabarito": "E",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1"
+    ],
+    "topicos_nomes": [
+      "Trigonometria"
+    ],
+    "blocos": [
+      "Trigonometria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Equação trigonométrica cos x·sen(a+x)=sen a em [0,2π]: soma das soluções — identidades trigonométricas."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 17,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_mat/ita_2020_fase1_mat_q47.png",
+  "usa_imagem_no_render": true
+}

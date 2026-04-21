@@ -1,0 +1,44 @@
+{
+  "id": "ita_2024_fase2_qui_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Para cada par de substâncias abaixo, indique qual apresenta maior ponto de \nfusão e justifique sua indicação. \na) Benzeno ou Naftaleno\nb) Ácido etanoico ou Propanona\nc) H2O ou D2O\nd) CSe2 ou CS2\ne) \nou \n\n14 \nQUÍMICA",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "1.3"
+    ],
+    "topicos_nomes": [
+      "Ligações Químicas"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Ponto de fusão maior em pares: benzeno/naftaleno, ácido etanoico/propanona, H₂O/D₂O, CSe₂/CS₂: interações intermoleculares + massa molar — ligações químicas."
+  },
+  "fonte": {
+    "pdf": "quimica_2024_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2024_fase2_qui/ita_2024_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ita_2020_fase2_q01",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 1,
+  "dissertativa": true,
+  "enunciado_md": "Na figura, o anel de raio R gira com\nvelocidade angular ω constante e dispõe de um alvo\npontual A que cruza o eixo x no mesmo instante em\nque, do centro do anel, é disparado em sua direção\num projétil puntiforme com velocidade ⃗v0. Desconsi-\nderando a resistência do ar, bla bla blabla bla blabla\nbla blabla bla blabla bla blabla bla blabla bla blabla\nbla blabla bla blabla bla blabla bla blabla bla blabla\nbla blabla bla blabla bla blabla bla blabla bla blabla\nbla blabla bla blabla bla blabla bla bla\nR\nw\ng\nA\nv0\nx\ny\nq\n(a) determine o ângulo θ, em relação ao eixo x, em que o projétil acerta o alvo;\n(b) determine o intervalo de tempo ∆t dispendido pelo projétil para acertar o alvo;\n(c) a velocidade angular ω é determinada apenas por θ e ∆t? Justifique.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "2.1"
+    ],
+    "topicos_nomes": [
+      "Cinemática"
+    ],
+    "blocos": [
+      "Cinemática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Anel girando com ω (MCU do alvo) e projétil disparado em trajetória retilínea: cinemática vetorial/encontro."
+  },
+  "fonte": {
+    "pdf": "fisica_2020_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase2/ita_2020_fase2_q01.png",
+  "usa_imagem_no_render": true
+}

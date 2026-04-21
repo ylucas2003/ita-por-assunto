@@ -1,0 +1,36 @@
+{
+  "id": "ime_2023_fase2_qui_q03",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nDurante um experimento em laboratório, o pesquisador verificou a necessidade de uma fonte de\nenergia com capacidade de fornecer uma f.e.m. em corrente contínua com valor entre 2,0 e 2,5\nvolts. Para atender a essa demanda, decidiu montar uma pilha eletroquímica, tendo disponíveis\nácido sulfúrico, estanho, magnésio e níquel, e utilizou um circuito sempre fechado em que não se\naplica o Princípio de Le Chatelier.\nPotenciais-padrão de reduc¸ ão com base no eletrodo padrão de hidrogênio:\nÍons\nSO2 –\n4\nSn4+\nMg2+\nNi2+\nE0 (V)\n+0,20\n+0,13\n−2,37\n−0,25\nCom base nas informac¸ ões acima, pede-se:\na) identificar os elementos que o pesquisador deve selecionar para compor a pilha;\nb) mostrar que a f.e.m. da pilha selecionada atende à necessidade do experimento;\nc) escrever as semirreac¸ ões e a reac¸ ão global para a pilha selecionada.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

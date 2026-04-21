@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_q08",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 8,
+  "enunciado_md": "Um violão é um instrumento sonoro de seis cordas de diferentes propriedades, fixas em ambas\nas extremidades, acompanhadas de uma caixa de ressonância. Diferentes notas musicais são produzidas\ntangendo uma das cordas, podendo-se ou não alterar o seu comprimento efetivo, pressionando-a com os\ndedos em diferentes pontos do braço do violão. A respeito da geração de sons por esse instrumento são\nfeitas quatro afirmações:\nI. Cordas mais finas, mantidas as demais propriedades constantes, são capazes de produzir notas mais\nagudas.\nII. O aumento de 1,00% na tensão aplicada sobre uma corda acarreta um aumento de 1,00% na frequência\nfundamental gerada.\nIII. Uma corda de nylon e uma de aço, afinadas na mesma frequência fundamental, geram sons de timbres\ndistintos.\nIV. Ao pressionar uma corda do violão, o musicista gera um som de frequência maior e comprimento de\nonda menor em comparação ao som produzido pela corda tocada livremente.\nConsiderando V como verdadeira e F como falsa, as afirmações I, II, III e IV são, respectivamente,",
+  "alternativas": {
+    "A": "V V V V.",
+    "B": "F V V V.",
+    "C": "V F V V.",
+    "D": "V V F V.",
+    "E": "V V V F. 3"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Violão: cordas fixas nas extremidades — espessura, comprimento e tensão vs. frequência do harmônico fundamental."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1/ita_2021_fase1_q08.png",
+  "usa_imagem_no_render": true
+}

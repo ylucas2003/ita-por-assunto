@@ -1,0 +1,49 @@
+{
+  "id": "ita_2025_fase1_q16",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2025,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 16,
+  "enunciado_md": "Considere três osciladores massa-mola independentes (1, 2 e 3) de massa\nm e constantes elásticas k1, k2 e k3, respectivamente. O tempo que o sistema massa-\nmola 1 leva para completar uma oscilac¸ ão é igual ao tempo que o sistema massa-mola 2\nleva para completar duas oscilac¸ ões e ao tempo que o sistema massa-mola 3 leva para\ncompletar três oscilac¸ ões. Agora considere um sistema composto por essas mesmas três\nmolas acopladas em série e colocadas para oscilar junto a um objeto de massa 4m.\nAssinale a alternativa que contém o valor numérico mais próximo da razão entre a frequência\ndo sistema massa-mola 1 e a frequência do sistema massa-mola em série.",
+  "alternativas": {
+    "A": "7,5",
+    "B": "3,8",
+    "C": "2,7",
+    "D": "2,3",
+    "E": "1,0"
+  },
+  "gabarito": "D",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Movimento Harmônico Simples"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Três molas (k1:k2:k3 com T1=2T2=3T3) agora associadas em série com massa 4m: razão de períodos do MHS resultante."
+  },
+  "fonte": {
+    "pdf": "2025_fase1.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2025_fase1/ita_2025_fase1_q16.png",
+  "usa_imagem_no_render": true
+}

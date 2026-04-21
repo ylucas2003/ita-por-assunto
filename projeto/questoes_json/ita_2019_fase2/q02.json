@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_q02",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 2,
+  "dissertativa": true,
+  "enunciado_md": "Na figura, um braço articulado de massa\ndesprezível e de comprimento l tem sua extremi-\ndade fixada a uma corda homogênea de massa m,\nque o mantém sempre na horizontal. Nessa mesma\nextremidade é fixado um fio inextensível, também\nde massa desprezível, que sustenta um objeto de\nmassa M.\nEsse dispositivo permite a medida de\nfrequências sonoras pela observação da ressonância\nentre o som e a corda oscilando em seu modo funda-\nmental.\nθ\nl\nm\nM\n(a) Determine a frequência medida pelo dispositivo em função das massas m e M, do comprimento l, da\naceleração da gravidade g e do ângulo θ entre a corda e o braço.\n(b) Considere esse dispositivo instalado na única boca de um túnel inacabado em cujo interior são geradas\nondas sonoras. Determine o comprimento L do túnel, sabendo-se que dois modos consecutivos de vibração\ndo ar são medidos, respectivamente, pela substituição de M pelas massas M1 e M2, com M2 > M1. A\nresposta deve ser explicitada em função de m, l, θ, g, M1, M2 e da velocidade do som no ar vs.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.2",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Ondas e Acústica",
+      "Estática e Equilíbrio"
+    ],
+    "blocos": [
+      "Estática e Equilíbrio",
+      "Oscilações e Ondas Mecânicas"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Braço articulado com corda homogênea mantida horizontal por fio que sustenta M: tensão via estática + modo fundamental da corda vibrante (ressonância)."
+  },
+  "fonte": {
+    "pdf": "fisica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2/ita_2019_fase2_q02.png",
+  "usa_imagem_no_render": true
+}

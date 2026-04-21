@@ -1,0 +1,49 @@
+{
+  "id": "ime_2021_fase1_qui_q32",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 32,
+  "enunciado_md": "Valor: 0,25\nUma reação entre dois líquidos A e B produz dois compostos gasosos C e D, de acordo com a\nestequiometria A + B →C + D. Se conduzida a pressão e temperatura constantes, pode-se\nafirmar que:",
+  "alternativas": {
+    "A": "a reação será sempre espontânea, se for endotérmica.",
+    "B": "a reação será sempre espontânea, se for exotérmica.",
+    "C": "a reação será sempre espontânea, independentemente de ser exotérmica ou endotérmica.",
+    "D": "a reação nunca será espontânea, independentemente de ser exotérmica ou endotérmica.",
+    "E": "não há como prever a espontaneidade da reação, mesmo que informações adicionais sobre o calor de reação estejam disponíveis. 20"
+  },
+  "gabarito": "B",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica Física"
+    ],
+    "blocos": [
+      "Termodinâmica Física"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A(l)+B(l)→C(g)+D(g) a T,P constantes: espontaneidade vs ΔH (ΔS>0 sempre) — termodinâmica."
+  },
+  "fonte": {
+    "pdf": "prova2021.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2021_fase1_qui/ime_2021_fase1_qui_q32.png",
+  "usa_imagem_no_render": true
+}

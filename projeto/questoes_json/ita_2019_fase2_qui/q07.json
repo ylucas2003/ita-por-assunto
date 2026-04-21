@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_qui_q07",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Uma solução comercial de HCl é vendida com 37% (em massa) de HCl em água. A densidade \ndessa solução de HCl é de 1,15 g cm−3. \na) Considerando que o HCl se dissocia completamente, determine o pH dessa solução comercial. \nb) O valor do pH determinado no item a) possui significado físico? Justifique.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "4.1",
+      "9.2"
+    ],
+    "topicos_nomes": [
+      "Soluções",
+      "Equilíbrio Iônico (Ácido-Base)"
+    ],
+    "blocos": [
+      "Equilíbrio Químico",
+      "Soluções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Solução HCl 37% m/m, d=1,15 g/cm³: pH calculado + discussão de significado físico (concentração elevada) — soluções + equilíbrio iônico."
+  },
+  "fonte": {
+    "pdf": "quimica_2019_2f.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_qui/ita_2019_fase2_qui_q07.png",
+  "usa_imagem_no_render": true
+}

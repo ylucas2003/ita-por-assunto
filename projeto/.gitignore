@@ -34,3 +34,13 @@ Thumbs.db
 # Logs / temporários
 *.log
 *.tmp
+logs/
+
+# Artefatos regeneráveis pela pipeline
+# (imagens e páginas estão no S3; PDFs originais não vão para o git)
+pdfs_originais/
+paginas_renderizadas/
+imagens/
+
+# Saída intermediária da pipeline — o que é publicado vive em site/
+output/

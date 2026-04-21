@@ -1,0 +1,47 @@
+{
+  "id": "ita_2019_fase2_mat_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2019,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 3,
+  "dissertativa": true,
+  "enunciado_md": "Determine o número complexo z de menor argumento que satisfaz |z −25i| ≤15.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.1",
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Números Complexos",
+      "Geometria Analítica"
+    ],
+    "blocos": [
+      "Geometria Analítica",
+      "Números Complexos"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Complexo z de menor argumento satisfazendo |z−25i|≤15: interpretação geométrica no plano de Argand — tangente de círculo a partir da origem."
+  },
+  "fonte": {
+    "pdf": "matematica_2019_2f.pdf",
+    "pagina": 1,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2019_fase2_mat/ita_2019_fase2_mat_q03.png",
+  "usa_imagem_no_render": true
+}

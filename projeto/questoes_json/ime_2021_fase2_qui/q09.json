@@ -1,0 +1,45 @@
+{
+  "id": "ime_2021_fase2_qui_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2021,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nNa figura abaixo, apresenta-se um conjunto cilindro-pistão, onde o peso do pistão é desprezível,\nem que ocorre a seguinte reac¸ ão do óxido de níquel (II) à temperatura constante:\nNiO(s) + CO(s) ⇀\n↽Ni(s)+ CO2(g)\nPara a manutenc¸ ão da temperatura constante até a situac¸ ão de equilíbrio, devem ser retirados do\nmeio reacional 16,10 kJ de energia por mol de óxido de níquel reagido, na forma de calor. Sabe-\nse que a constante de equilíbrio para a reac¸ ão é Kp = 500 e que, na temperatura de reac¸ ão, as\nentropias padrão são:\n• S0(NiO) = 38,10 J.(mol.K)-1;\n• S0(Ni) = 30,56 J.(mol.K)-1;\n• S0(CO) = 251,0 J.(mol.K)-1; e\n• S0(CO2) = 296,0 J.(mol.K)-1.\nCom base nas informac¸ ões fornecidas e considerando que os gases se comportam idealmente,\ndetermine a temperatura na qual a reac¸ ão foi conduzida.\n6",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "9.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Equilíbrio Químico Geral",
+      "Termoquímica"
+    ],
+    "blocos": [
+      "Equilíbrio Químico",
+      "Termoquímica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "NiO+CO⇌Ni+CO₂ em cilindro-pistão; Kp=500; -16,10 kJ/mol de NiO — equilíbrio + termoquímica."
+  },
+  "fonte": {
+    "pdf": "quim2021.pdf",
+    "pagina": 5,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

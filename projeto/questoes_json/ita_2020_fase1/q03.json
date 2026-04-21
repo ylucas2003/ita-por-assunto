@@ -1,0 +1,55 @@
+{
+  "id": "ita_2020_fase1_q03",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 3,
+  "enunciado_md": "Um bloco de massa m sustentado por um par de molas idênticas, paralelas e de constante\nelástica k, desce verticalmente com velocidade constante e de módulo v controlada por um motor, conforme\nilustra a figura. Se o motor travar repentinamente, ocorrerá uma força de tração máxima no cabo com\nmódulo igual a ,",
+  "alternativas": {
+    "A": "mg+v(mg)2+2kmv.",
+    "D": "mg+v4kmv?. 5,",
+    "B": "mgy+v(mg) + kmv2.",
+    "E": "mg+vkmv. CY kk",
+    "C": "mg+v2kmv?. E m ú,"
+  },
+  "gabarito": "C",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "5.1",
+      "7.1",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Energia",
+      "Movimento Harmônico Simples",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Oscilações e Ondas Mecânicas",
+      "Energia",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Bloco em duas molas paralelas movido por motor; ao travar, oscila — conservação de energia + Hooke (dinâmica) + MHS."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1/ita_2020_fase1_q03.png",
+  "usa_imagem_no_render": true
+}

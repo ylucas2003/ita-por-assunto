@@ -1,0 +1,36 @@
+{
+  "id": "ime_2022_fase2_qui_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Química"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nConsidere a energia potencial de ligac¸ ão. Pode-se imaginar um modelo em que a energia de ligac¸ ão\nentre as espécies seja considerada a própria energia potencial eletrostática.\na) Esboce, em um único gráfico de energia potencial de ligac¸ ão versus distância internuclear, as\ncurvas para uma ligac¸ ão química interatômica (covalente ou iônica) e para uma interac¸ ão intermo-\nlecular.\nb) Indique o fator crucial que determina a diferenc¸a entre as curvas.\n3",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [],
+    "topicos_nomes": [],
+    "blocos": [],
+    "classificado_por": "",
+    "confianca": "",
+    "observacao": ""
+  },
+  "fonte": {
+    "pdf": "quim2022.pdf",
+    "pagina": 3,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": false,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

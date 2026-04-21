@@ -1,0 +1,42 @@
+{
+  "id": "ime_2024_fase2_q07",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2024,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 7,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nUma onda de luz plana e monocromática propaga-se no vácuo e incide quase perpendicularmente\nsobre uma película depositada sobre uma placa de vidro. As ondas refletidas pela película e pelo\nvidro sofrem interferência completamente destrutiva ao retornarem ao vácuo para três valores de\ncomprimento de onda da luz incidente, sendo dois deles conhecidos.\nDados:\n• 1º comprimento de onda no vácuo conhecido para a ocorrência de interferência destrutiva: λ1;\n• 2º comprimento de onda no vácuo conhecido para a ocorrência de interferência destrutiva: λ2;\n• λ1 > λ2;\n• índice de refrac¸ ão da película.: n;\n• índice de refrac¸ ão do vidro: n′;\n• n′ > n.\nObservac¸ ões:\n• o ângulo de incidência pode não corresponder ao da figura meramente ilustrativa;\n• o valor do 3º comprimento de onda no vácuo para a ocorrência de interferência destrutiva está\nentre λ1 e λ2.\nDetermine:\na) a espessura h da película, indicada na figura, em func¸ ão dos dados acima listados;\nb) o valor do terceiro comprimento de onda para interferência destrutiva;\nc) os valores de comprimento de onda no vácuo para o caso de haver interferência construtiva.\n7",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "10.2"
+    ],
+    "topicos_nomes": [
+      "Óptica Física"
+    ],
+    "blocos": [
+      "Óptica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Luz monocromática em película sobre placa de vidro; interferência destrutiva em 3 valores de λ (2 conhecidos): espessura — óptica física (película fina)."
+  },
+  "fonte": {
+    "pdf": "fis2024.pdf",
+    "pagina": 6,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": false,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  }
+}

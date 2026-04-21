@@ -1,0 +1,49 @@
+{
+  "id": "ita_2020_fase1_qui_q67",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2020,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 67,
+  "enunciado_md": "Considere as seguintes transformações: \nI. Conversão de propanol em propanal; \nII. Conversão de bromometano em metanol; \nIII. Conversão de etino em eteno; \nIV. Reação de propanal em presença de íons prata; \nV. Conversão de metano em bromometano. \nAs reações envolvidas em cada uma das transformações de I a V podem ser classificadas como de \noxidação, redução, ou outra. Assinale a opção que contém corretamente o tipo de reação envolvida, do \nponto de vista da molécula orgânica, em cada uma das transformações de I a V, respectivamente.",
+  "alternativas": {
+    "A": "Oxidação, redução, oxidação, oxidação, outra.",
+    "B": "Redução, outra, redução, outra, outra.",
+    "C": "Oxidação, outra, redução, oxidação, oxidação.",
+    "D": "Redução, oxidação, outra, outra, oxidação.",
+    "E": "Oxidação, oxidação, redução, oxidação, outra."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "11.5"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Transformações orgânicas (propanol→propanal, CH₃Br→metanol, etino→eteno, propanal+Ag⁺, CH₄→CH₃Br): classificação como oxidação/redução/outra."
+  },
+  "fonte": {
+    "pdf": "2020_fase1.pdf",
+    "pagina": 22,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2020_fase1_qui/ita_2020_fase1_qui_q67.png",
+  "usa_imagem_no_render": true
+}

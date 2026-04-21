@@ -1,0 +1,47 @@
+{
+  "id": "ita_2022_fase2_q09",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2022,
+    "fase": 2,
+    "materia": "Física"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Considere uma haste condutora móvel de massa m e resistência R sobre trilhos fixos condutores\nem forma de U, conforme a figura abaixo. Esse sistema está em uma região com campo magnético ⃗B uniforme\ne perpendicular ao plano do trilho. Em um determinado instante, a haste é solta do repouso e cai sob a\ninfluência da gravidade ⃗g e de uma força de resistência do ar, proporcional à sua velocidade, ⃗Fr = −α⃗v.\nConsiderando que a resistência da haste é muito maior que a resistência do trilho, faça o que se pede.\n(a) Forneça o diagrama de forças que atuam na haste e indique suas intensidades.\n(b) Determine a velocidade terminal da haste.\n(c) Esboce o gráfico da velocidade v(t).\nm\na\ng\nB\n10",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "13.2",
+      "4.1"
+    ],
+    "topicos_nomes": [
+      "Indução Eletromagnética e Ondas EM",
+      "Dinâmica"
+    ],
+    "blocos": [
+      "Eletromagnetismo",
+      "Dinâmica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Haste condutora caindo em trilhos em U dentro de B uniforme, com arrasto ∝ v: fem induzida cria corrente e força magnética contrária — velocidade terminal."
+  },
+  "fonte": {
+    "pdf": "fisica_2022_2f.pdf",
+    "pagina": 8,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2022_fase2/ita_2022_fase2_q09.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ime_2023_fase1_q23",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 1,
+    "materia": "Física"
+  },
+  "numero": 23,
+  "enunciado_md": "Valor: 0,25\nA figura apresenta uma estrutura formada pelas barras AB, BC e CA. Essa estrutura está apoiada\nna parede vertical nos pontos A e B. O apoio A permite reações apenas na direção do eixo x,\nenquanto o apoio B permite reações nas direções dos eixos x e y. Na extremidade C da estrutura\nestá posicionada uma partícula de carga Q e massa M. A estrutura está em uma região do espaço\nsubmetida a um campo elétrico vertical de módulo E e sentido de cima para baixo.\nDados:\n• comprimento da barra BC: 4 m;\n• comprimento da barra AB: 3 m;\n• massa da barra BC: 2,5 kg;\n• massa da partícula: M = 0,3 kg;\n• carga da partícula: Q = −5 C;\n• intensidade do campo elétrico: 4,6 N/C;\n• aceleração da gravidade: g = 10 m/s².\nObservações:\n• os apoios não admitem torque;\n• as massas das barras AB e AC são desprezíveis;\n• a distribuição de massa da barra BC é uniforme.\nO módulo da reação no apoio A, em N, é aproximadamente:",
+  "alternativas": {
+    "A": "10",
+    "B": "17",
+    "C": "19",
+    "D": "21",
+    "E": "23 11"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.1",
+      "11.1"
+    ],
+    "topicos_nomes": [
+      "Estática e Equilíbrio",
+      "Eletrostática"
+    ],
+    "blocos": [
+      "Estática e Equilíbrio",
+      "Eletrostática"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Estrutura AB,BC,CA apoiada em parede + partícula Q,M em C + E vertical: reações — estática + eletrostática."
+  },
+  "fonte": {
+    "pdf": "prova2023.pdf",
+    "pagina": 11,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase1/ime_2023_fase1_q23.png",
+  "usa_imagem_no_render": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ime_2020_fase2_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2020,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nSejam os pontos D,bE e F pertencentes, respectivamente, aos lados 4B, BC e AC do triângulo\nABC, tais que BD = 34D, AF = 3CF e CE = 3BE. Sendo P = AENCD,Q = AEN BF e\n[PQRI]\nR=BFNCD, calcule ———.\n[ABC]\nObservação: [XY Z] é a área do triângulo XY Z.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "△ABC com D,E,F dividindo lados em razões 3:1; P,Q,R interseções de cevianas: [PQR]/[ABC] — geometria plana (razão de áreas)."
+  },
+  "fonte": {
+    "pdf": "mat2020.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2020_fase2_mat/ime_2020_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

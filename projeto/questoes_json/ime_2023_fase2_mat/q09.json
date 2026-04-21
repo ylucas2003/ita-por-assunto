@@ -1,0 +1,47 @@
+{
+  "id": "ime_2023_fase2_mat_q09",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2023,
+    "fase": 2,
+    "materia": "Matemática"
+  },
+  "numero": 9,
+  "dissertativa": true,
+  "enunciado_md": "Valor: 1,0\nOs pontos A(1, 3), B(2, 6), C(7, 5) e D(7, 3) situam-se sobre lados distintos de um quadrado EFGH.\nDetermine as coordenadas dos vértices desse quadrado.",
+  "alternativas": {},
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1",
+      "6.1"
+    ],
+    "topicos_nomes": [
+      "Geometria Analítica",
+      "Geometria Plana"
+    ],
+    "blocos": [
+      "Geometria Analítica",
+      "Geometria Plana"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "A(1,3), B(2,6), C(7,5), D(7,3) em lados distintos de um quadrado EFGH: coordenadas dos vértices — geometria analítica."
+  },
+  "fonte": {
+    "pdf": "mat2023.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase2_mat/ime_2023_fase2_mat_q09.png",
+  "usa_imagem_no_render": true
+}

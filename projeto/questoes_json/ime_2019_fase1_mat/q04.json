@@ -1,0 +1,51 @@
+{
+  "id": "ime_2019_fase1_mat_q04",
+  "prova": {
+    "vestibular": "IME",
+    "ano": 2019,
+    "fase": 1,
+    "materia": "Matemática"
+  },
+  "numero": 4,
+  "enunciado_md": "Valor: 0,25 \n \nSabe-se que S = x + y + z, onde x, y e z são soluções inteiras do sistema abaixo. \n{\n \n \n \n \n𝑥= √2𝑦2\n3\n2\n𝑦= 𝑒2 ln(𝑥)\nlog2 𝑦+ log𝑥𝑧= (𝑥+ 3)\n \nO valor de S é:",
+  "alternativas": {
+    "A": "84",
+    "B": "168",
+    "C": "234",
+    "D": "512",
+    "E": "600"
+  },
+  "gabarito": "A",
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "3.3",
+      "3.4"
+    ],
+    "topicos_nomes": [
+      "Funções Transcendentes",
+      "Sistemas e Outras Equações"
+    ],
+    "blocos": [
+      "Álgebra e Funções"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Sistema com x=∛(2y²), y=e^(2 ln x), log₂ y + log_x z = x+3: S=x+y+z — equações (log/exp) + sistemas."
+  },
+  "fonte": {
+    "pdf": "prova2019.pdf",
+    "pagina": 2,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": true
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2019_fase1_mat/ime_2019_fase1_mat_q04.png",
+  "usa_imagem_no_render": true
+}

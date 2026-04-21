@@ -1,0 +1,49 @@
+{
+  "id": "ita_2021_fase1_qui_q63",
+  "prova": {
+    "vestibular": "ITA",
+    "ano": 2021,
+    "fase": 1,
+    "materia": "Química"
+  },
+  "numero": 63,
+  "enunciado_md": "Considere as seguintes proposições sobre processos termodinâmicos: \nI. \nA entropia permanece constante em um sistema fechado que sofre a ação de um processo \nreversível. \nII. \nA variação de entropia é nula dentro do sistema quando ele opera em um ciclo de Carnot. \nIII. \nO valor absoluto da variação da energia interna de um gás ideal numa expansão reversível \nadiabática é maior que numa expansão reversível isotérmica. \nIV. \nEnergia interna é uma propriedade cuja variação pode ser medida pelo trabalho adiabático \nrealizado entre dois estados. \nDas afirmações acima, está(ão) ERRADA(S) apenas",
+  "alternativas": {
+    "A": "I.",
+    "C": "II e III.",
+    "E": "IV.",
+    "B": "I, II e IV.",
+    "D": "III."
+  },
+  "gabarito": null,
+  "imagens": [],
+  "classificacao": {
+    "topicos_ids": [
+      "7.1"
+    ],
+    "topicos_nomes": [
+      "Termodinâmica Física"
+    ],
+    "blocos": [
+      "Termodinâmica Física"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Processos termodinâmicos: entropia, ciclo de Carnot, adiabática vs isotérmica, energia interna — termodinâmica física."
+  },
+  "fonte": {
+    "pdf": "2021_fase1.pdf",
+    "pagina": 20,
+    "bbox_questao": null
+  },
+  "status": {
+    "texto_extraido": true,
+    "alternativas_extraidas": true,
+    "figuras_recortadas": true,
+    "classificado": true,
+    "revisado": false,
+    "possivelmente_tem_figura": false
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ita_2021_fase1_qui/ita_2021_fase1_qui_q63.png",
+  "usa_imagem_no_render": true
+}
