@@ -485,6 +485,14 @@ a { color: inherit; text-decoration: none; }
 .submit .arrow { transition: transform 0.18s; }
 .submit:hover .arrow { transform: translateX(3px); }
 
+.login-error {
+  margin-top: 18px;
+  color: var(--error);
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
 .divider-or {
   display: flex;
   align-items: center;

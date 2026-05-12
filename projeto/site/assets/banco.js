@@ -1,4 +1,17 @@
+const LOGIN_STORAGE_KEY = 'banco-user-ra';
 const DATA = JSON.parse(document.getElementById('banco-data').textContent);
+
+function getLoggedRA() {
+  return sessionStorage.getItem(LOGIN_STORAGE_KEY) || '';
+}
+
+function ensureLoggedIn() {
+  if (!getLoggedRA()) {
+    window.location.href = 'index.html';
+    return false;
+  }
+  return true;
+}
 
 const state = {
   materia: DATA[0].nome,
@@ -800,13 +813,15 @@ function setStatsFilter(materiaNome, key, value) {
 
 // ── INIT ──────────────────────────────────────────────────────────────
 
-const total = DATA.reduce((s, m) => s + m.total, 0);
-document.getElementById('sb-total').textContent = total;
+if (ensureLoggedIn()) {
+  const total = DATA.reduce((s, m) => s + m.total, 0);
+  document.getElementById('sb-total').textContent = total;
 
-renderMateriaList();
-renderYearFilter();
-renderFaseFilter();
-renderContent();
+  renderMateriaList();
+  renderYearFilter();
+  renderFaseFilter();
+  renderContent();
+}
 
 // ── AUTO-HIDE TOP NAV ─────────────────────────────────────────────────
 (function setupAutoHideNav() {
