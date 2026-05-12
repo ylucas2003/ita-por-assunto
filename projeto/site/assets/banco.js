@@ -430,6 +430,21 @@ function setFilter(f, materiaNome) {
   document.getElementById('content').scrollTop = 0;
 }
 
+// ── SIDEBAR TOGGLE ────────────────────────────────────────────────────
+
+function toggleSidebar() {
+  const collapsed = document.body.classList.toggle('sidebar-collapsed');
+  try { localStorage.setItem('banco:sidebarCollapsed', collapsed ? '1' : '0'); } catch {}
+}
+
+(function initSidebarToggle() {
+  try {
+    if (localStorage.getItem('banco:sidebarCollapsed') === '1') {
+      document.body.classList.add('sidebar-collapsed');
+    }
+  } catch {}
+})();
+
 // ── TOP TABS ──────────────────────────────────────────────────────────
 
 function setTopTab(tab) {

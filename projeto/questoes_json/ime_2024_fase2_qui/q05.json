@@ -13,12 +13,21 @@
   "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [],
-    "topicos_nomes": [],
-    "blocos": [],
-    "classificado_por": "",
-    "confianca": "",
-    "observacao": ""
+    "topicos_ids": [
+      "3.1",
+      "1.2"
+    ],
+    "topicos_nomes": [
+      "Estequiometria",
+      "Tabela Periódica e Propriedades dos Elementos"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Compostos de elemento X — proporções mássicas e peso atômico."
   },
   "fonte": {
     "pdf": "quim2024.pdf",
@@ -28,9 +37,11 @@
   "status": {
     "texto_extraido": true,
     "alternativas_extraidas": true,
-    "figuras_recortadas": false,
-    "classificado": false,
+    "figuras_recortadas": true,
+    "classificado": true,
     "revisado": false,
     "possivelmente_tem_figura": true
-  }
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase2_qui/ime_2024_fase2_qui_q05.png",
+  "usa_imagem_no_render": true
 }

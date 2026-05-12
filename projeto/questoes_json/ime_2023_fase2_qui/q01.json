@@ -13,12 +13,20 @@
   "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [],
-    "topicos_nomes": [],
-    "blocos": [],
-    "classificado_por": "",
-    "confianca": "",
-    "observacao": ""
+    "topicos_ids": [
+      "1.4",
+      "1.5"
+    ],
+    "topicos_nomes": [
+      "Funções Inorgânicas",
+      "Reações Inorgânicas"
+    ],
+    "blocos": [
+      "Química Geral e Estrutura da Matéria"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Identificação de reagentes para formar sal duplo CsKS."
   },
   "fonte": {
     "pdf": "quim2023.pdf",
@@ -28,9 +36,11 @@
   "status": {
     "texto_extraido": true,
     "alternativas_extraidas": true,
-    "figuras_recortadas": false,
-    "classificado": false,
+    "figuras_recortadas": true,
+    "classificado": true,
     "revisado": false,
     "possivelmente_tem_figura": true
-  }
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2023_fase2_qui/ime_2023_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
 }

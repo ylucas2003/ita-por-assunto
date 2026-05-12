@@ -13,12 +13,20 @@
   "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [],
-    "topicos_nomes": [],
-    "blocos": [],
-    "classificado_por": "",
-    "confianca": "",
-    "observacao": ""
+    "topicos_ids": [
+      "11.5",
+      "11.4"
+    ],
+    "topicos_nomes": [
+      "Reações Orgânicas",
+      "Isomeria"
+    ],
+    "blocos": [
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Dois C4H8 reagindo com HBr com e sem peróxido — adições."
   },
   "fonte": {
     "pdf": "quim2024.pdf",
@@ -29,8 +37,10 @@
     "texto_extraido": true,
     "alternativas_extraidas": true,
     "figuras_recortadas": true,
-    "classificado": false,
+    "classificado": true,
     "revisado": false,
     "possivelmente_tem_figura": false
-  }
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2024_fase2_qui/ime_2024_fase2_qui_q03.png",
+  "usa_imagem_no_render": true
 }

@@ -16,7 +16,7 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
-body { padding-top: 56px; }
+body { padding-top: 0; }
 
 .mono { font-family: var(--font-mono); }
 button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
@@ -33,12 +33,13 @@ a { color: inherit; text-decoration: none; }
   border-bottom: 1px solid var(--gray-200);
   position: fixed;
   top: 0;
-  left: 0;
+  left: 260px;
   right: 0;
   z-index: 90;
-  transition: transform 220ms ease;
+  transition: transform 220ms ease, left 180ms ease;
   will-change: transform;
 }
+body.sidebar-collapsed .top-tabs { left: 0; }
 .top-tabs.nav-hidden { transform: translateY(-100%); }
 .top-tab {
   position: relative;
@@ -99,7 +100,7 @@ a { color: inherit; text-decoration: none; }
 .app {
   display: grid;
   grid-template-columns: 260px 1fr;
-  min-height: calc(100vh - 56px);
+  min-height: 100vh;
   background: var(--white);
 }
 
@@ -109,8 +110,8 @@ a { color: inherit; text-decoration: none; }
   border-right: 1px solid var(--gray-200);
   padding: 24px 20px;
   position: sticky;
-  top: 56px;
-  height: calc(100vh - 56px);
+  top: 0;
+  height: 100vh;
   overflow-y: auto;
 }
 .sidebar::-webkit-scrollbar { width: 6px; }
@@ -197,7 +198,7 @@ a { color: inherit; text-decoration: none; }
   background: var(--gray-100);
   border-radius: var(--radius-sm);
   padding: 4px;
-  margin-bottom: 24px;
+  margin-bottom: 4px;
 }
 .sb-toggle button {
   flex: 1;
@@ -363,7 +364,7 @@ a { color: inherit; text-decoration: none; }
 
 /* ── MAIN ────────────────────────────────────────────────────── */
 .main {
-  padding: 40px 48px 64px;
+  padding: 96px 48px 64px;
   min-width: 0;
 }
 
@@ -385,6 +386,35 @@ a { color: inherit; text-decoration: none; }
 .breadcrumb a:hover { color: var(--navy-800); }
 .breadcrumb .sep { color: var(--gray-400); }
 #bc-materia { color: var(--navy-800); font-weight: 500; }
+
+/* Toggle barra lateral */
+.sidebar-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  margin-right: 4px;
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-sm);
+  color: var(--gray-600);
+  cursor: pointer;
+  transition: background 120ms ease, color 120ms ease, border-color 120ms ease;
+}
+.sidebar-toggle-btn:hover {
+  background: var(--navy-50);
+  color: var(--navy-800);
+  border-color: var(--navy-200);
+}
+.sidebar-toggle-btn svg { width: 16px; height: 16px; display: block; }
+.sidebar-toggle-btn .ico-expand { display: none; }
+body.sidebar-collapsed .sidebar-toggle-btn .ico-collapse { display: none; }
+body.sidebar-collapsed .sidebar-toggle-btn .ico-expand { display: block; }
+
+body.sidebar-collapsed .app { grid-template-columns: 1fr; }
+body.sidebar-collapsed .app .sidebar { display: none; }
 .page-title-row h1 {
   font-family: var(--font-serif);
   font-size: 48px;
@@ -904,7 +934,7 @@ a { color: inherit; text-decoration: none; }
 
 /* ── STATS ──────────────────────────────────────────────────── */
 .stats-wrap {
-  padding: 40px 48px 64px;
+  padding: 96px 48px 64px;
   max-width: 1100px;
   margin: 0 auto;
 }
@@ -984,7 +1014,7 @@ a { color: inherit; text-decoration: none; }
 
 /* ── CRIAR LISTA ────────────────────────────────────────────── */
 .lista-wrap {
-  padding: 40px 48px 64px;
+  padding: 96px 48px 64px;
   max-width: 1400px;
   margin: 0 auto;
 }
@@ -1376,12 +1406,12 @@ a { color: inherit; text-decoration: none; }
 
 /* ── MENSAGEM ESPECIAL ──────────────────────────────────────── */
 .msg-wrap {
-  min-height: calc(100vh - 56px);
+  min-height: 100vh;
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 32px 48px;
-  padding: 48px;
+  padding: 104px 48px 48px;
   background: var(--white);
   align-items: center;
   justify-items: center;
@@ -1536,7 +1566,8 @@ select:focus-visible,
   .qp-info-val { text-align: right; }
 }
 @media (max-width: 768px) {
-  .top-tabs { padding: 0 16px; }
+  body { padding-top: 56px; }
+  .top-tabs { padding: 0 16px; left: 0; }
   .top-tab { padding: 0 12px; font-size: 13px; }
   .ita-logo-corner { right: 10px; padding: 0 10px; gap: 8px; }
   .ita-logo-corner img { height: 24px; }
