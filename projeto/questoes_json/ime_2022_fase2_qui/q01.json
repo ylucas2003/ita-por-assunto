@@ -13,12 +13,21 @@
   "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [],
-    "topicos_nomes": [],
-    "blocos": [],
-    "classificado_por": "",
-    "confianca": "",
-    "observacao": ""
+    "topicos_ids": [
+      "12.1",
+      "3.1"
+    ],
+    "topicos_nomes": [
+      "Análise Qualitativa e Quantitativa",
+      "Estequiometria"
+    ],
+    "blocos": [
+      "Estequiometria e Gases",
+      "Química Analítica e Ambiental"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Volumetria para teor de CaCO₃ em calcário."
   },
   "fonte": {
     "pdf": "quim2022.pdf",
@@ -28,9 +37,11 @@
   "status": {
     "texto_extraido": true,
     "alternativas_extraidas": true,
-    "figuras_recortadas": false,
-    "classificado": false,
+    "figuras_recortadas": true,
+    "classificado": true,
     "revisado": false,
     "possivelmente_tem_figura": true
-  }
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase2_qui/ime_2022_fase2_qui_q01.png",
+  "usa_imagem_no_render": true
 }

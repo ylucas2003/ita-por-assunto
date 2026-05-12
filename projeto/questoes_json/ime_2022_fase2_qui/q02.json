@@ -13,12 +13,21 @@
   "gabarito": null,
   "imagens": [],
   "classificacao": {
-    "topicos_ids": [],
-    "topicos_nomes": [],
-    "blocos": [],
-    "classificado_por": "",
-    "confianca": "",
-    "observacao": ""
+    "topicos_ids": [
+      "5.1",
+      "11.6"
+    ],
+    "topicos_nomes": [
+      "Propriedades Coligativas",
+      "Polímeros"
+    ],
+    "blocos": [
+      "Propriedades Coligativas",
+      "Química Orgânica"
+    ],
+    "classificado_por": "claude",
+    "confianca": "alta",
+    "observacao": "Pressão osmótica em poliestireno — massa molar do polímero."
   },
   "fonte": {
     "pdf": "quim2022.pdf",
@@ -28,9 +37,11 @@
   "status": {
     "texto_extraido": true,
     "alternativas_extraidas": true,
-    "figuras_recortadas": false,
-    "classificado": false,
+    "figuras_recortadas": true,
+    "classificado": true,
     "revisado": false,
     "possivelmente_tem_figura": true
-  }
+  },
+  "imagem_questao_url": "https://ita-por-assunto.s3.us-east-1.amazonaws.com/imagens/ime_2022_fase2_qui/ime_2022_fase2_qui_q02.png",
+  "usa_imagem_no_render": true
 }
